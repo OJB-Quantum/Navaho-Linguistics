@@ -6,6 +6,9 @@ The Navaho language is highly descriptive and has a heavy presence of verb usage
 
 As one might expect, the Navaho language was only spoken through oral expression for thousands of years in what is now North America. Not until relatively recent history did Navaho linguists and language experts decide to pick a written form that could adopt Navaho phonetics. So far, the Latin script (commonly used to write English alphabets) has been the default for writing. There are other scripts such as Cryillic (commonly used to write Slavic alphabets, including Russian) that can express Navaho phonetics as well, however it is not actively taught or practiced in the tribe. Either way, the spelling of words are expected to be pronounced phonetically. 
 
+Navaho in Latin Script: https://www.gomyson.com/vowels.html
+
+Navaho in Cyrillic Script: https://omniglot.com/conscripts/cyrillicnavajo.htm
 
 
 
