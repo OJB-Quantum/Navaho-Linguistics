@@ -10,6 +10,9 @@ Navaho in Latin Script: https://www.gomyson.com/vowels.html
 
 Navaho in Cyrillic Script: https://omniglot.com/conscripts/cyrillicnavajo.htm
 
+Navaho translation of Wikipedia: https://nv.wikipedia.org/wiki/%C3%8Diyis%C3%AD%C3%AD_Naaltsoos?fbclid=IwAR3w-JlUmK4HDzTGyHSDHGgbjs4rf0UUfVQioguvvF-l3_MbSTwE4Txq_h0
+
+Navaho linguistics archive at MIT: https://fernald.domains.swarthmore.edu/nla/halearch/halearch.htm
 
 
 ![IMG_20230518_192210_00_018_PureShot](https://github.com/OJB-Quantum/Navaho-Linguistics/assets/88035770/f976afb5-128a-47a8-bb3e-996de87b51a6)
