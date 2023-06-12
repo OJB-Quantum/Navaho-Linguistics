@@ -37,7 +37,7 @@ Electron spin - https://app.glosbe.com/nv/en/atsinilt%C5%82%E2%80%99ish%20biyi'%
 
 Intervals - https://app.glosbe.com/nv/en/t'%C3%A1%C3%A1%20k%C3%B3n%C3%ADgh%C3%A1n%C3%ADgo
 
-His/her brain - https://app.glosbe.com/nv/en/bitsiigh%C4%85%C4%85'
+His/her brain - https://app.glosbe.com/nv/en/bitsiigh%C4%85%C4%85'/
 
 Oak - https://app.glosbe.com/nv/en/Ts%C3%A9%20ch%CA%BCil%20or%20Ts%C3%A9ch%CA%BCil
 
