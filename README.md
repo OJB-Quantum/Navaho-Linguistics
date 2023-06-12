@@ -8,7 +8,7 @@ As one might expect, the Navaho language was only spoken through oral expression
 
 For example, it is generally known that Diné has two English spellings: Navaho and Navajo (both pronounced the same). The letter (j), used in the word Navajo, is exclusive to the spelling of the word. If one observes (j) in any other Diné word, then it should be pronunced the same as the English letter (j) or its linearized form (dzh). Keep this in mind. 
 
-
+Navaho vs. Navajo: http://npshistory.com/nature_notes/meve/vol4-2h.htm
 
 Navaho in Latin Script: https://www.gomyson.com/vowels.html
 
