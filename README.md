@@ -18,7 +18,7 @@ Navaho grammar material: https://fernald.domains.swarthmore.edu/nla/grammar/gram
 
 ________________________________________________________________________________________________________________________________________________
 
-A few examples of my contributions to English-Navaho dictionary on Glosbe:
+A few examples of my own contributions to English-Navaho dictionary on Glosbe:
 
 Electron spin - https://app.glosbe.com/nv/en/atsinilt%C5%82%E2%80%99ish%20biyi'%20'asdiz%C3%AD
 
@@ -32,3 +32,5 @@ Oak - https://app.glosbe.com/nv/en/Ts%C3%A9%20ch%CA%BCil%20or%20Ts%C3%A9ch%CA%BC
 
 
 ![IMG_20230518_192210_00_018_PureShot](https://github.com/OJB-Quantum/Navaho-Linguistics/assets/88035770/f976afb5-128a-47a8-bb3e-996de87b51a6)
+
+Note: sources available in this repository are generally open access, while others are copyrighted unless used for educational purposes. This repository intends to produce educational material in the same light. See http://rightsstatements.org/vocab/InC-EDU/1.0 for more details on the permissions allowed by the respective authors.
