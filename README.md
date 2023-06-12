@@ -14,5 +14,7 @@ Navaho translation of Wikipedia: https://nv.wikipedia.org/wiki/%C3%8Diyis%C3%AD%
 
 Navaho linguistics archive at MIT: https://fernald.domains.swarthmore.edu/nla/halearch/halearch.htm
 
+Navaho grammar material: https://fernald.domains.swarthmore.edu/nla/grammar/grammar_contents_14.htm
+
 
 ![IMG_20230518_192210_00_018_PureShot](https://github.com/OJB-Quantum/Navaho-Linguistics/assets/88035770/f976afb5-128a-47a8-bb3e-996de87b51a6)
