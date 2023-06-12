@@ -16,6 +16,8 @@ Navaho linguistics archive at MIT: https://fernald.domains.swarthmore.edu/nla/ha
 
 Navaho grammar material: https://fernald.domains.swarthmore.edu/nla/grammar/grammar_contents_14.htm
 
+________________________________________________________________________________________________________________________________________________
+
 A few examples of my contribution to English-Navaho dictionary on Glosbe:
 
 Electron spin - https://app.glosbe.com/nv/en/atsinilt%C5%82%E2%80%99ish%20biyi'%20'asdiz%C3%AD
