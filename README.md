@@ -16,5 +16,17 @@ Navaho linguistics archive at MIT: https://fernald.domains.swarthmore.edu/nla/ha
 
 Navaho grammar material: https://fernald.domains.swarthmore.edu/nla/grammar/grammar_contents_14.htm
 
+A few examples of my contribution to English-Navaho dictionary on Glosbe:
+
+https://app.glosbe.com/nv/en/atsinilt%C5%82%E2%80%99ish%20biyi'%20'asdiz%C3%AD
+
+https://app.glosbe.com/nv/en/t'%C3%A1%C3%A1%20k%C3%B3n%C3%ADgh%C3%A1n%C3%ADgo
+
+https://app.glosbe.com/nv/en/bitsiigh%C4%85%C4%85'
+
+https://app.glosbe.com/nv/en/Ts%C3%A9%20ch%CA%BCil%20or%20Ts%C3%A9ch%CA%BCil
+
+
+
 
 ![IMG_20230518_192210_00_018_PureShot](https://github.com/OJB-Quantum/Navaho-Linguistics/assets/88035770/f976afb5-128a-47a8-bb3e-996de87b51a6)
