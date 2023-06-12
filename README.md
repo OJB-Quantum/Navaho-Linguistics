@@ -18,7 +18,7 @@ Navaho grammar material: https://fernald.domains.swarthmore.edu/nla/grammar/gram
 
 ________________________________________________________________________________________________________________________________________________
 
-A few examples of my contribution to English-Navaho dictionary on Glosbe:
+A few examples of my contributions to English-Navaho dictionary on Glosbe:
 
 Electron spin - https://app.glosbe.com/nv/en/atsinilt%C5%82%E2%80%99ish%20biyi'%20'asdiz%C3%AD
 
