@@ -37,4 +37,4 @@ Oak - https://app.glosbe.com/nv/en/Ts%C3%A9%20ch%CA%BCil%20or%20Ts%C3%A9ch%CA%BC
 
 ![IMG_20230518_192210_00_018_PureShot](https://github.com/OJB-Quantum/Navaho-Linguistics/assets/88035770/f976afb5-128a-47a8-bb3e-996de87b51a6)
 
-Note: I made sources available in this repository to be generally open access, while others are "copyrighted unless used for educational purposes". This repository intends to produce educational material in the same light. See http://rightsstatements.org/vocab/InC-EDU/1.0 for more details on the permissions allowed by those respective authors.
+Note: I made sources available in this repository to be generally open access, while others are "copyrighted unless used for educational purposes". This repository intends to produce educational material in the same light. See http://rightsstatements.org/page/InC-EDU/1.0/ for more details on the permissions allowed by those respective authors.
