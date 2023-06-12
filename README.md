@@ -6,7 +6,8 @@ The Navaho language is highly descriptive and has a heavy presence of verb usage
 
 As one might expect, the Navaho language was only spoken through oral expression for thousands of years in what is now North America. Not until relatively recent history did Navaho linguists and language experts decide to pick a written form that could adopt Navaho phonetics. So far, the Latin script (commonly used to write English alphabets) has been the default for writing. There are other scripts such as Cryillic (commonly used to write Slavic alphabets, including Russian) that can express Navaho phonetics as well, however it is not actively taught or practiced in the tribe. Either way, the spelling of words are expected to be pronounced phonetically. 
 
-For example, it is generally known that Diné has two English spellings: Navaho and Navajo. The letter (j) used in the word Navajo is exclusive to the spelling of the word. If one observes (j) in any other Navaho word, then it should be pronunced the same as the English letter (j) or its linearized form (dzh). 
+For example, it is generally known that Diné has two English spellings: Navaho and Navajo (both pronounced the same). The letter (j), used in the word Navajo, is exclusive to the spelling of the word. If one observes (j) in any other Diné word, then it should be pronunced the same as the English letter (j) or its linearized form (dzh). Keep this in mind. 
+
 
 
 Navaho in Latin Script: https://www.gomyson.com/vowels.html
