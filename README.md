@@ -11,7 +11,7 @@ For example, it is generally known that Diné has two English spellings: Navaho 
 Virtually all English words can be translated into Navaho based on the depth of understanding and functionality of the word. Thus, when a new English term is coined or invented, a Navaho description can be given and verified by sharing it with another Navaho speaker who should understand what one is saying with context. 
 
 In the era of rapidly advancing science, technology, and art, one can express new Navaho terms by simply spending some time to consider the semantics, followed by documenting or producing a shareable form of the new term. Such is the case for topics like quantum mechanics and quantum engineering, provided as examples in this repository. Over time, this GitHub page is expected to retain a fair amount of content for driving explanations of advanced and technical topics of today (especially quantum), in Navaho.
-
+________________________________________________________________________________________________________________________________________________
 
 Navaho vs. Navajo: http://npshistory.com/nature_notes/meve/vol4-2h.htm
 
