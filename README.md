@@ -43,6 +43,7 @@ Oak - https://app.glosbe.com/nv/en/Ts%C3%A9%20ch%CA%BCil%20or%20Ts%C3%A9ch%CA%BC
 
 (There is a longer list of the translations I made, which will soon be uploaded in the folders above).
 
+________________________________________________________________________________________________________________________________________________
 
 ![IMG_20230518_192210_00_018_PureShot](https://github.com/OJB-Quantum/Navaho-Linguistics/assets/88035770/f976afb5-128a-47a8-bb3e-996de87b51a6)
 
