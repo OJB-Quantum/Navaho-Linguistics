@@ -32,6 +32,16 @@ Navaho grammar material: https://fernald.domains.swarthmore.edu/nla/grammar/gram
 
 Navaho audio dictionary: https://talkingdictionary.swarthmore.edu/navajo_postposition/?lang=nav
 
+Lakota Pronunciation dictionary: https://www.wolakotaproject.org/lakota-pronunciation-glossary/
+
+Lakota Grammar: https://wikis.swarthmore.edu/ling073/Lakota/Grammar
+
+Lakota Unofficial Language Guide: https://www.wolakotaproject.org/wp-content/uploads/2013/08/Unofficial-Lakota-Language-Guide.pdf
+
+
+
+
+
 ________________________________________________________________________________________________________________________________________________
 
 A few examples of my own contributions to English-Navaho dictionary on Glosbe:
