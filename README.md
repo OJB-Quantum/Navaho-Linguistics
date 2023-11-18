@@ -1,4 +1,7 @@
 # Navaho + Lakota -Linguistics
+All rights go to Onri Jay Benally. I have merely added Lakotan phrases + words that can describe certain scientific phenomena. 
+
+
 A repository for Indigenous American language material from the Navaho/Navajo tribe. Collected and written by Onri Jay Benally, an Indigenous American born and raised on the Navaho tribe (Diné Bikeyah).
 ________________________________________________________________________________________________________________________________________________
 
