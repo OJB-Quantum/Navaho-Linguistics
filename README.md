@@ -1,5 +1,5 @@
-# Navaho + Lakota -Linguistics
-All rights go to Onri Jay Benally. I have merely added Lakotan phrases + words that can describe certain scientific phenomena. 
+# Navaho-Linguistics
+All rights go to Onri Jay Benally. I have merely added additional phrases + words that can describe certain scientific phenomena. 
 
 
 A repository for Indigenous American language material from the Navaho/Navajo tribe. Collected and written by Onri Jay Benally, an Indigenous American born and raised on the Navaho tribe (Diné Bikeyah).
@@ -31,14 +31,6 @@ Navaho linguistics archive at MIT: https://fernald.domains.swarthmore.edu/nla/ha
 Navaho grammar material: https://fernald.domains.swarthmore.edu/nla/grammar/grammar_contents_14.htm
 
 Navaho audio dictionary: https://talkingdictionary.swarthmore.edu/navajo_postposition/?lang=nav
-
-Lakota Pronunciation dictionary: https://www.wolakotaproject.org/lakota-pronunciation-glossary/
-
-Lakota Grammar: https://wikis.swarthmore.edu/ling073/Lakota/Grammar
-
-Lakota Unofficial Language Guide: https://www.wolakotaproject.org/wp-content/uploads/2013/08/Unofficial-Lakota-Language-Guide.pdf
-
-
 
 
 
