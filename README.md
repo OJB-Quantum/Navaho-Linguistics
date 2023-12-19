@@ -5,17 +5,6 @@ ________________________________________________________________________________
 ![Navaho for Quantum Hardware Education_3pages-2](https://github.com/OJB-Quantum/Navaho-Linguistics/assets/88035770/710356d0-b912-4cd6-bacc-a0d233e85b5c)
 ![Navaho for Quantum Hardware Education_3pages-3](https://github.com/OJB-Quantum/Navaho-Linguistics/assets/88035770/56972131-942e-474f-8a28-701c771db051)
 ________________________________________________________________________________________________________________________________________________
-The Navaho language is highly descriptive, has a heavy presence of verb usage, and is rich in consonant clusters and tonality. It is important to note that the many biomes and topographical differences found on the tribal lands are contributing factors to the various Navaho dialects. This is especially true for the mountainous regions, where pronunciation and modern spelling can vary in a slight manner. 
-
-As you may or may not know, the Navaho language was only practiced through oral expression for thousands of years in what is now called North America. Not until relatively recent history did Navaho linguists and language experts decide to pick a written form that could adopt Navaho phonetics. So far, the Latin script (commonly used to write English alphabets) has been the default for writing since then. There are other scripts or writing systems such as Cyrillic (commonly used to write Slavic alphabets, including Russian) that can express Navaho phonetics as well, however it is not actively taught or practiced in the tribe. Either way, the spelling of words are expected to be pronounced phonetically. 
-
-For example, it is generally known that Diné has two English spellings: Navaho and Navajo (both pronounced the same). The letter (j), used in the word Navajo, is exclusive to the spelling of the word. If one observes (j) in any other Diné word, then it should be pronounced the same as the English letter (j) or its linearized form (dzh). Keep this in mind. 
-
-Virtually all English words can be translated into Navaho based on the depth of understanding and functionality of the word. Thus, when a new English term is coined or invented, a Navaho description can be given and verified by sharing it with another Navaho speaker who should understand what one is saying with context. 
-
-In the era of rapidly advancing science, technology, and art, one can express new Navaho terms by simply spending some time to consider the semantics, followed by documenting or producing a shareable form of the new term. Such is the case for topics like quantum mechanics and quantum engineering, provided as examples in this repository. Over time, this GitHub page is expected to retain a fair amount of content for driving explanations of advanced and technical topics of today (especially quantum), in Navaho.
-________________________________________________________________________________________________________________________________________________
-
 Navaho vs. Navajo: http://npshistory.com/nature_notes/meve/vol4-2h.htm
 
 Navaho in Latin Script: https://www.gomyson.com/vowels.html
