@@ -1,7 +1,10 @@
 # Navaho-Linguistics
 A repository for Indigenous American language material from the Navaho/Navajo tribe. Collected and written by Onri Jay Benally, an Indigenous American born and raised on the Navaho tribe (Diné Bikeyah).
 ________________________________________________________________________________________________________________________________________________
-
+![Navaho for Quantum Hardware Education_3pages-1](https://github.com/OJB-Quantum/Navaho-Linguistics/assets/88035770/0261ba55-9ef6-47f4-b353-2ed7ab81cd19)
+![Navaho for Quantum Hardware Education_3pages-2](https://github.com/OJB-Quantum/Navaho-Linguistics/assets/88035770/710356d0-b912-4cd6-bacc-a0d233e85b5c)
+![Navaho for Quantum Hardware Education_3pages-3](https://github.com/OJB-Quantum/Navaho-Linguistics/assets/88035770/56972131-942e-474f-8a28-701c771db051)
+________________________________________________________________________________________________________________________________________________
 The Navaho language is highly descriptive, has a heavy presence of verb usage, and is rich in consonant clusters and tonality. It is important to note that the many biomes and topographical differences found on the tribal lands are contributing factors to the various Navaho dialects. This is especially true for the mountainous regions, where pronunciation and modern spelling can vary in a slight manner. 
 
 As you may or may not know, the Navaho language was only practiced through oral expression for thousands of years in what is now called North America. Not until relatively recent history did Navaho linguists and language experts decide to pick a written form that could adopt Navaho phonetics. So far, the Latin script (commonly used to write English alphabets) has been the default for writing since then. There are other scripts or writing systems such as Cyrillic (commonly used to write Slavic alphabets, including Russian) that can express Navaho phonetics as well, however it is not actively taught or practiced in the tribe. Either way, the spelling of words are expected to be pronounced phonetically. 
