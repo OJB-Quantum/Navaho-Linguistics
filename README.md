@@ -2,12 +2,11 @@
 A repository for Indigenous American language material from the Navaho/Navajo tribe. Collected and written by Onri Jay Benally, an Indigenous American born and raised on the Navaho tribe (Diné Bikeyah).
 ________________________________________________________________________________________________________________________________________________
 Plans for this repository:
+• The quick brown fox jumped over the lazy dog, example in Navaho.
+• Cyrillic example for "blue" in Navaho.
+• Chart formation blueprint.
+• Generate a table of Navaho characters in unicode.
 
-1.
-
-2. 
-
-3.
 ________________________________________________________________________________________________________________________________________________
 ![Navaho for Quantum Hardware Education_v2-1](https://github.com/OJB-Quantum/Navaho-Linguistics/assets/88035770/f44c9acc-1963-4074-9680-c6c05b06d342)
 ![Navaho for Quantum Hardware Education_v2-2](https://github.com/OJB-Quantum/Navaho-Linguistics/assets/88035770/806aaed8-80ec-49ea-aef9-5d4e9abdc4a4)
