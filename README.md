@@ -7,9 +7,9 @@ Plans for this repository:
 3. 
 
 ________________________________________________________________________________________________________________________________________________
-![Navaho for Quantum Hardware Education_3pages-1](https://github.com/OJB-Quantum/Navaho-Linguistics/assets/88035770/0261ba55-9ef6-47f4-b353-2ed7ab81cd19)
-![Navaho for Quantum Hardware Education_3pages-2](https://github.com/OJB-Quantum/Navaho-Linguistics/assets/88035770/710356d0-b912-4cd6-bacc-a0d233e85b5c)
-![Navaho for Quantum Hardware Education_3pages-3](https://github.com/OJB-Quantum/Navaho-Linguistics/assets/88035770/56972131-942e-474f-8a28-701c771db051)
+![Navaho for Quantum Hardware Education_v2-1](https://github.com/OJB-Quantum/Navaho-Linguistics/assets/88035770/f44c9acc-1963-4074-9680-c6c05b06d342)
+![Navaho for Quantum Hardware Education_v2-2](https://github.com/OJB-Quantum/Navaho-Linguistics/assets/88035770/806aaed8-80ec-49ea-aef9-5d4e9abdc4a4)
+![Navaho for Quantum Hardware Education_v2-3](https://github.com/OJB-Quantum/Navaho-Linguistics/assets/88035770/8bd6a307-0d96-411e-8cad-bf8b5639563c)
 ________________________________________________________________________________________________________________________________________________
 Navaho vs. Navajo: http://npshistory.com/nature_notes/meve/vol4-2h.htm
 
