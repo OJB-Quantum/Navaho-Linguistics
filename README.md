@@ -17,7 +17,7 @@ ________________________________________________________________________________
 
 • Label tunnel junctions & physical qubit components in Navaho, may original micrographs & renderings in Blender.
 
-• Potential contributions to Qiskit/ Qiskit Metal documentation in Navaho (from paper to pull requests).
+• Potential contributions to Qiskit/ Qiskit Metal documentation in Navaho (from paper to GitHub pull requests).
 
 ________________________________________________________________________________________________________________________________________________
 ![Navaho for Quantum Hardware Education_v2-1](https://github.com/OJB-Quantum/Navaho-Linguistics/assets/88035770/f44c9acc-1963-4074-9680-c6c05b06d342)
