@@ -11,6 +11,14 @@ ________________________________________________________________________________
 
 • Generate a table of Navaho characters in unicode.
 
+• Explore a draw-to-text for Navaho characters referencing unicode.
+
+• Label dilution refrigerator in Navaho.
+
+• Label tunnel junctions & physical qubit components in Navaho, may original micrographs & renderings in Blender.
+
+• Potential contributions to Qiskit/ Qiskit Metal documentation in Navaho (from paper to pull requests).
+
 ________________________________________________________________________________________________________________________________________________
 ![Navaho for Quantum Hardware Education_v2-1](https://github.com/OJB-Quantum/Navaho-Linguistics/assets/88035770/f44c9acc-1963-4074-9680-c6c05b06d342)
 ![Navaho for Quantum Hardware Education_v2-2](https://github.com/OJB-Quantum/Navaho-Linguistics/assets/88035770/806aaed8-80ec-49ea-aef9-5d4e9abdc4a4)
