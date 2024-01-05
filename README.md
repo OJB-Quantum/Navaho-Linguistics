@@ -4,8 +4,11 @@ ________________________________________________________________________________
 ## Plans for this repository:
 
 • The quick brown fox jumped over the lazy dog, example in Navaho.
+
 • Cyrillic example for "blue" in Navaho.
+
 • Chart formation blueprint.
+
 • Generate a table of Navaho characters in unicode.
 
 ________________________________________________________________________________________________________________________________________________
