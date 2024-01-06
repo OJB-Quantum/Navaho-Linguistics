@@ -15,7 +15,7 @@ ________________________________________________________________________________
 
 • Label dilution refrigerator in Navaho.
 
-• Label tunnel junctions & physical qubit components in Navaho, may original micrographs & renderings in Blender.
+• Label tunnel junctions & physical qubit components in Navaho, may include original micrographs & renderings in Blender.
 
 • Potential contributions to Qiskit/ Qiskit Metal documentation in Navaho (from paper to GitHub pull requests).
 
