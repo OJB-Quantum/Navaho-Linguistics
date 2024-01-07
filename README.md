@@ -1,5 +1,7 @@
 # Navaho-Linguistics
 A repository for Indigenous American language material from the Navaho/Navajo tribe. Collected and written by Onri Jay Benally, an Indigenous American born and raised on the Navaho tribe (Diné Bikeyah).
+
+[![License](https://img.shields.io/badge/Creative_Commons-License-green)](https://choosealicense.com/licenses/cc-by-4.0)
 ________________________________________________________________________________________________________________________________________________
 ## Plans for this repository:
 
