@@ -33,6 +33,8 @@ Navaho in Latin Script: https://www.gomyson.com/vowels.html
 
 Navaho in Cyrillic Script: https://omniglot.com/conscripts/cyrillicnavajo.htm
 
+Navaho sound profiles: https://www.unm.edu/~johncho/html/main.html
+
 Navaho translation of Wikipedia: https://nv.wikipedia.org/wiki/%C3%8Diyis%C3%AD%C3%AD_Naaltsoos?fbclid=IwAR3w-JlUmK4HDzTGyHSDHGgbjs4rf0UUfVQioguvvF-l3_MbSTwE4Txq_h0
 
 Navaho linguistics material and history on the Internet Archive: https://archive.org/search?and=&query=navajo+language
