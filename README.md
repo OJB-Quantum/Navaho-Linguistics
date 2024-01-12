@@ -50,6 +50,8 @@ Navaho in Latin Script: https://www.gomyson.com/vowels.html
 
 Navaho in Cyrillic Script: https://omniglot.com/conscripts/cyrillicnavajo.htm
 
+Navaho language sample by Onri: https://www.omniglot.com/conscripts/cyrillicnavajo.htm#:~:text=Hear%20a%20recording%20of%20this%20text%20by%20Onri%20Jay%20Benally
+
 Navaho sound profiles: https://www.unm.edu/~johncho/html/main.html
 
 Navaho translation of Wikipedia: https://nv.wikipedia.org/wiki/%C3%8Diyis%C3%AD%C3%AD_Naaltsoos?fbclid=IwAR3w-JlUmK4HDzTGyHSDHGgbjs4rf0UUfVQioguvvF-l3_MbSTwE4Txq_h0
