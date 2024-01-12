@@ -41,6 +41,8 @@ ________________________________________________________________________________
 | ǫ́ǫ | U+01EB U+0301 U+01EB | \u01EB\u0301\u01EB |
 
 [Click here to download Onri's Navaho/ Navajo Character to UTF-8 Encoding Excel file.](https://github.com/OJB-Quantum/Navaho-Linguistics/raw/main/Associated%20Diagrams/Navaho%20to%20UTF8%20Encoding_Onri%20Jay%20Benally.xlsx)
+
+[Click here to view the Python script version](https://github.com/OJB-Quantum/Navaho-Linguistics/blob/main/Python%20Scripts%20for%20Navaho%20Linguistics/Navaho_Characters_UTF8_Conversion_U_Plus_Notation.ipynb)
 ________________________________________________________________________________________________________________________________________________
 Navaho vs. Navajo: http://npshistory.com/nature_notes/meve/vol4-2h.htm
 
