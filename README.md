@@ -29,7 +29,7 @@ ________________________________________________________________________________
 ![Navaho for Quantum Hardware Education_v2-3](https://github.com/OJB-Quantum/Navaho-Linguistics/assets/88035770/8bd6a307-0d96-411e-8cad-bf8b5639563c)
 ![Navaho Long Vowel Network](https://github.com/OJB-Quantum/Navaho-Linguistics/assets/88035770/81f88834-244c-4c8e-8926-c62330055334)
 ________________________________________________________________________________________________________________________________________________
-## Sample of [Navaho/ Navajo Character to UTF-8 Encoding by Onri Jay Benally](https://github.com/OJB-Quantum/Navaho-Linguistics/blob/main/Associated%20Diagrams/Navaho%20to%20UTF8%20Encoding_Onri%20Jay%20Benally.pdf)
+## Sample of Navaho/ Navajo Character to UTF-8 Encoding by Onri Jay Benally. [Full table available here](https://github.com/OJB-Quantum/Navaho-Linguistics/blob/main/Associated%20Diagrams/Navaho%20to%20UTF8%20Encoding_Onri%20Jay%20Benally.pdf)
 | Navaho Character | [UTF-8] "U+" Notation | [UTF-8] "\u" Notation |
 |------------------|-----------------------|-----------------------|
 | A | U+0041 | \u0041 |
@@ -40,7 +40,7 @@ ________________________________________________________________________________
 | ǫ́ǫ́ | U+01EB U+0301 U+01EB U+0301 | \u01EB\u0301\u01EB\u0301 |
 | ǫ́ǫ | U+01EB U+0301 U+01EB | \u01EB\u0301\u01EB |
 
-[Click here to download Onri's Navaho/ Navajo Character to UTF-8 Encoding Excel file.](https://github.com/OJB-Quantum/Navaho-Linguistics/raw/main/Associated%20Diagrams/Navaho%20to%20UTF8%20Encoding_Onri%20Jay%20Benally.xlsx)
+[Click here to download the Onri's Navaho/ Navajo Character to UTF-8 Encoding Excel file.](https://github.com/OJB-Quantum/Navaho-Linguistics/raw/main/Associated%20Diagrams/Navaho%20to%20UTF8%20Encoding_Onri%20Jay%20Benally.xlsx)
 
 [Click here to view or download the Python script version](https://github.com/OJB-Quantum/Navaho-Linguistics/blob/main/Python%20Scripts%20for%20Navaho%20Linguistics/Navaho_Characters_UTF8_Conversion_U_Plus_Notation.ipynb)
 ________________________________________________________________________________________________________________________________________________
