@@ -9,19 +9,19 @@ ________________________________________________________________________________
 
 - [ ] Generate a table of words and phrases by Onri that need to be converted into digital text.
 
-- [ ] The quick brown fox jumped over the lazy dog, example in Navaho.
+- [ ] "The quick brown fox jumped over the lazy dog" example in Navaho.
 
 - [ ] Cyrillic example for "blue" in Navaho.
 
 - [ ] Chart formation blueprint.
-
-- [ ] Explore a draw-to-text for Navaho characters referencing unicode.
 
 - [ ] Label dilution refrigerator in Navaho.
 
 - [ ] Label tunnel junctions & physical qubit components in Navaho, may include original micrographs & renderings in Blender.
 
 - [ ] Potential contributions to Qiskit/ Qiskit Metal documentation in Navaho (from paper to GitHub pull requests).
+
+- [ ] Explore a draw-to-text for Navaho characters referencing unicode.
 
 ________________________________________________________________________________________________________________________________________________
 ![Navaho for Quantum Hardware Education_v2-1](https://github.com/OJB-Quantum/Navaho-Linguistics/assets/88035770/f44c9acc-1963-4074-9680-c6c05b06d342)
