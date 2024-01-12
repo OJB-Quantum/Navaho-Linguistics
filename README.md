@@ -5,7 +5,9 @@ A repository for Indigenous American language material for quantum engineering t
 ________________________________________________________________________________________________________________________________________________
 ## Plans for this repository:
 
-- [x] Generate a table of Navaho characters in unicode
+- [x] Generate a table of Navaho characters in unicode.
+
+- [ ] Generate a table of words and phrases by Onri that need to be converted into digital text.
 
 - [ ] The quick brown fox jumped over the lazy dog, example in Navaho.
 
