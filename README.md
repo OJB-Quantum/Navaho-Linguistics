@@ -29,6 +29,17 @@ ________________________________________________________________________________
 ![Navaho for Quantum Hardware Education_v2-3](https://github.com/OJB-Quantum/Navaho-Linguistics/assets/88035770/8bd6a307-0d96-411e-8cad-bf8b5639563c)
 ![Navaho Long Vowel Network](https://github.com/OJB-Quantum/Navaho-Linguistics/assets/88035770/81f88834-244c-4c8e-8926-c62330055334)
 ________________________________________________________________________________________________________________________________________________
+## Sample of [Navaho/ Navajo Character to UTF-8 Encoding](https://github.com/OJB-Quantum/Navaho-Linguistics/blob/main/Associated%20Diagrams/Navaho%20to%20UTF8%20Encoding_Onri%20Jay%20Benally.pdf)
+| Navaho Character | [UTF-8] "U+" Notation | [UTF-8] "\u" Notation |
+|------------------|-----------------------|-----------------------|
+| A | U+0041 | \u0041 |
+| B | U+0042 | \u0042 |
+| Ch' | U+0043 U+0068 U+0027 | \u0043\u0068\u0027 |
+| Tł'| U+0054 U+0142 U+0027 | \u0054\u0142\u0027 |
+| óó | U+00F3 U+00F3 | \u00F3\u00F3 |
+| ǫ́ǫ́ | U+01EB U+0301 U+01EB U+0301 | \u01EB\u0301\u01EB\u0301 |
+| ǫ́ǫ | U+01EB U+0301 U+01EB | \u01EB\u0301\u01EB |
+________________________________________________________________________________________________________________________________________________
 Navaho vs. Navajo: http://npshistory.com/nature_notes/meve/vol4-2h.htm
 
 Navaho in Latin Script: https://www.gomyson.com/vowels.html
