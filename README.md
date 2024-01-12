@@ -29,7 +29,7 @@ ________________________________________________________________________________
 ![Navaho for Quantum Hardware Education_v2-3](https://github.com/OJB-Quantum/Navaho-Linguistics/assets/88035770/8bd6a307-0d96-411e-8cad-bf8b5639563c)
 ![Navaho Long Vowel Network](https://github.com/OJB-Quantum/Navaho-Linguistics/assets/88035770/81f88834-244c-4c8e-8926-c62330055334)
 ________________________________________________________________________________________________________________________________________________
-## Sample of [Navaho/ Navajo Character to UTF-8 Encoding](https://github.com/OJB-Quantum/Navaho-Linguistics/blob/main/Associated%20Diagrams/Navaho%20to%20UTF8%20Encoding_Onri%20Jay%20Benally.pdf)
+## Sample of [Navaho/ Navajo Character to UTF-8 Encoding by Onri Jay Benally](https://github.com/OJB-Quantum/Navaho-Linguistics/blob/main/Associated%20Diagrams/Navaho%20to%20UTF8%20Encoding_Onri%20Jay%20Benally.pdf)
 | Navaho Character | [UTF-8] "U+" Notation | [UTF-8] "\u" Notation |
 |------------------|-----------------------|-----------------------|
 | A | U+0041 | \u0041 |
