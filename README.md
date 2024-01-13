@@ -5,7 +5,7 @@ A repository for Indigenous American language material for quantum engineering t
 ________________________________________________________________________________________________________________________________________________
 ## Plans for this repository:
 
-- [x] Generate a table of Navaho characters in unicode.
+- [x] Generate a table of Navaho characters in Unicode.
 
 - [ ] Generate a table of words and phrases by Onri that need to be converted into digital text.
 
@@ -21,7 +21,7 @@ ________________________________________________________________________________
 
 - [ ] Potential contributions to Qiskit/ Qiskit Metal documentation in Navaho (from paper to GitHub pull requests).
 
-- [ ] Explore a draw-to-text for Navaho characters referencing unicode.
+- [ ] Explore a draw-to-text for Navaho characters referencing Unicode.
 
 ________________________________________________________________________________________________________________________________________________
 ![Navaho for Quantum Hardware Education_v2-1](https://github.com/OJB-Quantum/Navaho-Linguistics/assets/88035770/f44c9acc-1963-4074-9680-c6c05b06d342)
