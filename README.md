@@ -4,6 +4,8 @@
 A repository for Indigenous American language material for quantum engineering topics from the Navaho/Navajo tribe. Collected and written by Onri Jay Benally, an Indigenous American born and raised on the Navaho tribe (Diné Bikeyah). This is a life-long project.
 ________________________________________________________________________________________________________________________________________________
 ## Plans for this repository:
+- [x]
+- [ :white_check_mark: ]
 
 :white_check_mark: Generate a table of Navaho characters in Unicode.
 
@@ -23,8 +25,7 @@ ________________________________________________________________________________
 
 :white_square_button: Explore a draw-to-text for Navaho characters referencing Unicode.
 
--[:white_check_mark:]
-- [x]
+
 
 
 ### Note: Unicode is mentioned here due to its convenience of character generation when one desires to correctly spell Navaho words. This form of character generation may provide a robust sequence of protocols for practical language usage in digital form, further strengthening any future initiatives to automate Navaho translation.
