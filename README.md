@@ -7,9 +7,9 @@ ________________________________________________________________________________
 
 :white_check_mark: Generate a table of Navaho characters in Unicode.
 
-:ballot_box_with_check: "The quick brown fox jumped over the lazy dog" example in Navaho.
+:white_check_mark: "The quick brown fox jumped over the lazy dog" example in Navaho.
 
-- [ ] Generate a table of words and phrases by Onri that need to be converted into digital text.
+:white_square_button: Generate a table of words and phrases by Onri that need to be converted into digital text.
 
 - [ ] Cyrillic example for "blue" in Navaho.
 
