@@ -7,7 +7,7 @@ ________________________________________________________________________________
 
 - [x] Generate a table of Navaho characters in Unicode.
 
-- [ ] "The quick brown fox jumped over the lazy dog" example in Navaho.
+- [x] "The quick brown fox jumped over the lazy dog" example in Navaho.
 
 - [ ] Generate a table of words and phrases by Onri that need to be converted into digital text.
 
