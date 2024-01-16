@@ -9,11 +9,11 @@ ________________________________________________________________________________
 
 :white_check_mark: "The quick brown fox jumped over the lazy dog" example in Navaho.
 
+:white_check_mark: Chart formation blueprint.
+
 :white_square_button: Generate a table of words and phrases by Onri that need to be converted into digital text.
 
 :white_square_button: Cyrillic example for "blue" in Navaho.
-
-:white_square_button: Chart formation blueprint.
 
 :white_square_button: Label dilution refrigerator in Navaho.
 
