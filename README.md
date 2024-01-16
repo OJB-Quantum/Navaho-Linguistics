@@ -23,6 +23,8 @@ ________________________________________________________________________________
 
 - [ ] Explore a draw-to-text for Navaho characters referencing Unicode.
 
+### Note: Unicode is mentioned here due to its convenience of character generation when one desires to correctly spell Navaho words. This form of character generation may provide a robust sequence of protocols for practical language usage in digital form, further strengthening any future initiatives to automate Navaho translation.
+
 ________________________________________________________________________________________________________________________________________________
 ## To access the full PDF booklet, [click here.](https://github.com/OJB-Quantum/Navaho-Linguistics/blob/main/Navaho%20for%20Quantum%20Hardware%20Education_v2.pdf)
 ![Navaho for Quantum Hardware Education_v2-1](https://github.com/OJB-Quantum/Navaho-Linguistics/assets/88035770/85ae0fb9-0ed6-4731-88e9-ce3a6e1c3df9)
