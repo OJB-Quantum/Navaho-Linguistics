@@ -23,6 +23,11 @@ ________________________________________________________________________________
 
 :white_square_button: Explore a draw-to-text for Navaho characters referencing Unicode.
 
+-[ :white_square_button: ]
+- []
+- 
+
+
 ### Note: Unicode is mentioned here due to its convenience of character generation when one desires to correctly spell Navaho words. This form of character generation may provide a robust sequence of protocols for practical language usage in digital form, further strengthening any future initiatives to automate Navaho translation.
 
 ________________________________________________________________________________________________________________________________________________
