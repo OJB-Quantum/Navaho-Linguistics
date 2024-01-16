@@ -11,17 +11,17 @@ ________________________________________________________________________________
 
 :white_square_button: Generate a table of words and phrases by Onri that need to be converted into digital text.
 
-- [ ] Cyrillic example for "blue" in Navaho.
+:white_square_button: Cyrillic example for "blue" in Navaho.
 
-- [ ] Chart formation blueprint.
+:white_square_button: Chart formation blueprint.
 
-- [ ] Label dilution refrigerator in Navaho.
+:white_square_button: Label dilution refrigerator in Navaho.
 
-- [ ] Label tunnel junctions & physical qubit components in Navaho, may include original micrographs & renderings in Blender.
+:white_square_button: Label tunnel junctions & physical qubit components in Navaho, may include original micrographs & renderings in Blender.
 
-- [ ] Potential contributions to Qiskit/ Qiskit Metal documentation in Navaho (from paper to GitHub pull requests).
+:white_square_button: Potential contributions to Qiskit/ Qiskit Metal documentation in Navaho (from paper to GitHub pull requests).
 
-- [ ] Explore a draw-to-text for Navaho characters referencing Unicode.
+:white_square_button: Explore a draw-to-text for Navaho characters referencing Unicode.
 
 ### Note: Unicode is mentioned here due to its convenience of character generation when one desires to correctly spell Navaho words. This form of character generation may provide a robust sequence of protocols for practical language usage in digital form, further strengthening any future initiatives to automate Navaho translation.
 
