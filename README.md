@@ -4,11 +4,6 @@
 A repository for Indigenous American language material for quantum engineering topics from the Navaho/Navajo tribe. Collected and written by Onri Jay Benally, an Indigenous American born and raised on the Navaho tribe (Diné Bikeyah). This is a life-long project.
 ________________________________________________________________________________________________________________________________________________
 ## Plans for this repository:
-- [x]
-- [ ]
-
-- [ ] 
-
 
 :white_check_mark: Generate a table of Navaho characters in Unicode.
 
