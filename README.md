@@ -24,9 +24,11 @@ ________________________________________________________________________________
 - [ ] Explore a draw-to-text for Navaho characters referencing Unicode.
 
 ________________________________________________________________________________________________________________________________________________
-![Navaho for Quantum Hardware Education_v2-1](https://github.com/OJB-Quantum/Navaho-Linguistics/assets/88035770/f44c9acc-1963-4074-9680-c6c05b06d342)
-![Navaho for Quantum Hardware Education_v2-2](https://github.com/OJB-Quantum/Navaho-Linguistics/assets/88035770/806aaed8-80ec-49ea-aef9-5d4e9abdc4a4)
-![Navaho for Quantum Hardware Education_v2-3](https://github.com/OJB-Quantum/Navaho-Linguistics/assets/88035770/8bd6a307-0d96-411e-8cad-bf8b5639563c)
+## To access the full PDF booklet, [click here.](https://github.com/OJB-Quantum/Navaho-Linguistics/blob/main/Navaho%20for%20Quantum%20Hardware%20Education_v2.pdf)
+![Navaho for Quantum Hardware Education_v2-1](https://github.com/OJB-Quantum/Navaho-Linguistics/assets/88035770/85ae0fb9-0ed6-4731-88e9-ce3a6e1c3df9)
+![Navaho for Quantum Hardware Education_v2-2](https://github.com/OJB-Quantum/Navaho-Linguistics/assets/88035770/f86b8a3a-755b-42ab-8f5c-5329ff96ef92)
+![Navaho for Quantum Hardware Education_v2-3](https://github.com/OJB-Quantum/Navaho-Linguistics/assets/88035770/62ece4d3-92a1-4206-955a-2de8af4a1ffd)
+
 ![Navaho Long Vowel Network](https://github.com/OJB-Quantum/Navaho-Linguistics/assets/88035770/81f88834-244c-4c8e-8926-c62330055334)
 ________________________________________________________________________________________________________________________________________________
 ## Sample of Navaho/ Navajo Character to UTF-8 Encoding by Onri Jay Benally. [Full table available here as a PDF.](https://github.com/OJB-Quantum/Navaho-Linguistics/blob/main/Associated%20Diagrams/Navaho%20to%20UTF8%20Encoding_Onri%20Jay%20Benally.pdf)
