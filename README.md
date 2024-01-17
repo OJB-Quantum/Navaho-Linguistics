@@ -45,7 +45,7 @@ ________________________________________________________________________________
 | ǫ́ǫ́ | U+01EB U+0301 U+01EB U+0301 | \u01EB\u0301\u01EB\u0301 |
 | ǫ́ǫ | U+01EB U+0301 U+01EB | \u01EB\u0301\u01EB |
 
-[Click here to view Onri's full markdown table of the Navaho/ Navajo Character to UTF-8 Encoding.](https://github.com/OJB-Quantum/Navaho-Linguistics/blob/main/Table%20of%20Navaho%20Alphabets%20in%20Unicode.md)
+[Click here to view Onri's full markdown version of the Navaho/ Navajo Character to UTF-8 Encoding table.](https://github.com/OJB-Quantum/Navaho-Linguistics/blob/main/Table%20of%20Navaho%20Alphabets%20in%20Unicode.md)
 
 [Click here to download Onri's Navaho/ Navajo Character to UTF-8 Encoding Excel file.](https://github.com/OJB-Quantum/Navaho-Linguistics/raw/main/Associated%20Diagrams/Navaho%20to%20UTF8%20Encoding_Onri%20Jay%20Benally.xlsx)
 
