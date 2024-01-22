@@ -74,7 +74,7 @@ Clickable links to supplementary material:
 
 [Navaho audio dictionary](https://talkingdictionary.swarthmore.edu/navajo_postposition/?lang=nav)
 
-[Navaho biological sciences terminology "Project ENABLE"](https://enablenavajo.org/dine)
+[Navaho biological sciences terminology - "Project ENABLE"](https://enablenavajo.org/dine)
 ________________________________________________________________________________________________________________________________________________
 
 A few examples of my own contributions to English-Navaho dictionary on Glosbe:
