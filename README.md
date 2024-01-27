@@ -18,7 +18,7 @@ ________________________________________________________________________________
 
 :white_square_button: Label dilution refrigerator in Navaho.
 
-:white_square_button: Label tunnel junctions & physical qubit components in Navaho, may include original micrographs & renderings in Blender.
+:white_square_button: Label tunnel junctions & physical qubit components in Navaho, may include original electron micrographs & renderings in Blender.
 
 :white_square_button: Potential contributions to Qiskit/ Qiskit Metal documentation in Navaho (from paper to GitHub pull requests).
 
