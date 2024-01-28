@@ -1,0 +1,36 @@
+% Include these packages in the LaTeX preamble (main.tex) for the scripts below to work.
+% \usepackage{graphicx} % Required for inserting images.
+% \usepackage{amsmath} % Required for inserting equations.
+% \usepackage{svg} % Required for inserting vector graphics.
+% \usepackage{geometry} % Required for setting PDF margins.
+% Onri's tutorial located here: https://youtu.be/AyrCzf5vh30
+
+\begin{center}
+\Large\textbf{SVG Handwritten vs. PNG LaTeX vs. SVG LaTeX}
+\end{center}
+
+\begin{figure}[htbp]
+    \centering
+    
+\includesvg[width=0.7\textwidth]{
+<Name of your SVG file>.svg}
+
+\begin{center}
+\space
+\end{center}
+
+\includegraphics[width=0.7\textwidth]{
+<Name of your PNG image>}
+\end{figure}
+
+\begin{center}
+Thermal Stability
+\end{center}
+
+% Below is the script you import from Mathpix.
+$$
+\begin{aligned}
+& \Delta=\frac{\mu_0 M_s H_k V}{2 k_B T}=\frac{E_b}{k_B T} \\
+& E_b=K_{\text {eff }} V=\frac{1}{2} \mu_0 M_s H_k V
+\end{aligned}
+$$
