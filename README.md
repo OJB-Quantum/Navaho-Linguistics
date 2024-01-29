@@ -63,7 +63,7 @@ Clickable links to supplementary material:
 
 [Navaho in Cyrillic Script](https://omniglot.com/conscripts/cyrillicnavajo.htm)
 
-[Navaho language sample by Onri](https://www.omniglot.com/conscripts/cyrillicnavajo.htm#:~:text=Hear%20a%20recording%20of%20this%20text%20by%20Onri%20Jay%20Benally)
+[Navaho language audio sample by Onri](https://www.omniglot.com/conscripts/cyrillicnavajo.htm#:~:text=Hear%20a%20recording%20of%20this%20text%20by%20Onri%20Jay%20Benally)
 
 [Navaho sound profiles](https://www.unm.edu/~johncho/html/main.html)
 
