@@ -12,9 +12,9 @@ ________________________________________________________________________________
 
 :white_check_mark: Chart formation blueprint.
 
-:white_square_button: Generate a table of words and phrases by Onri that need to be converted into digital text.
-
 :white_check_mark: Cyrillic example for "blue" and "bee" in Navaho.
+
+:white_square_button: Generate a table of words and phrases by Onri that need to be converted into digital text.
 
 :white_square_button: Label dilution refrigerator in Navaho.
 
