@@ -69,7 +69,7 @@ ________________________________________________________________________________
 | [Navaho linguistics archive at MIT](https://fernald.domains.swarthmore.edu/nla/halearch/halearch.htm) |
 ________________________________________________________________________________________________________________________________________________
 
-| A few examples of my own contributions to English-Navaho dictionary on Glosbe: |
+| A few examples of my contributions to English-Navaho dictionary on Glosbe: |
 |--------------------------------------------------------------------------------|
 | [Electron spin](https://app.glosbe.com/nv/en/atsinilt%C5%82%E2%80%99ish%20biyi'%20'asdiz%C3%AD) |
 | [Intervals](https://app.glosbe.com/nv/en/t'%C3%A1%C3%A1%20k%C3%B3n%C3%ADgh%C3%A1n%C3%ADgo) |
