@@ -50,37 +50,23 @@ ________________________________________________________________________________
 
 [Click here to view or download the Python script version.](https://github.com/OJB-Quantum/Navaho-Linguistics/blob/main/Python%20Scripts%20for%20Navaho%20Linguistics/Navaho_Characters_UTF8_Conversion_U_Plus_Notation.ipynb)
 ________________________________________________________________________________________________________________________________________________
-Clickable links to supplementary material:
-
-[Navaho vs. Navajo](http://npshistory.com/nature_notes/meve/vol4-2h.htm)
-
-[Navaho in Latin Script](https://www.gomyson.com/vowels.html)
-
-[Navaho in Cyrillic Script](https://omniglot.com/conscripts/cyrillicnavajo.htm)
-
-[Navaho language audio sample by Onri](https://www.omniglot.com/conscripts/cyrillicnavajo.htm#:~:text=Hear%20a%20recording%20of%20this%20text%20by%20Onri%20Jay%20Benally)
-
-[Navaho sound profiles](https://www.unm.edu/~johncho/html/main.html)
-
-[Navaho prefixes](https://en.wiktionary.org/wiki/Category:Navajo_prefixes)
-
-[Navaho suffixes](https://en.wiktionary.org/wiki/Category:Navajo_suffixes)
-
-[Navaho particles](https://en.wiktionary.org/wiki/Category:Navajo_particles)
-
-[Navaho postpositions](https://en.wiktionary.org/wiki/Category:Navajo_postpositions)
-
-[Navaho grammar material](https://fernald.domains.swarthmore.edu/nla/grammar/grammar_contents_14.htm)
-
-[Navaho audio dictionary](https://talkingdictionary.swarthmore.edu/navajo_postposition/?lang=nav)
-
-[Navaho biological sciences terminology - "Project ENABLE"](https://enablenavajo.org/dine)
-
-[Navaho translation of Wikipedia](https://nv.wikipedia.org/wiki/%C3%8Diyis%C3%AD%C3%AD_Naaltsoos?fbclid=IwAR3w-JlUmK4HDzTGyHSDHGgbjs4rf0UUfVQioguvvF-l3_MbSTwE4Txq_h0)
-
-[Navaho linguistics material and history on the Internet Archive](https://archive.org/search?and=&query=navajo+language)
-
-[Navaho linguistics archive at MIT](https://fernald.domains.swarthmore.edu/nla/halearch/halearch.htm)
+| Clickable links to supplementary material: |
+|---------------------------------------=----|
+| [Navaho vs. Navajo](http://npshistory.com/nature_notes/meve/vol4-2h.htm) |
+| [Navaho in Latin Script](https://www.gomyson.com/vowels.html) |
+| [Navaho in Cyrillic Script](https://omniglot.com/conscripts/cyrillicnavajo.htm) |
+| [Navaho language audio sample by Onri](https://www.omniglot.com/conscripts/cyrillicnavajo.htm#:~:text=Hear%20a%20recording%20of%20this%20text%20by%20Onri%20Jay%20Benally) |
+| [Navaho sound profiles](https://www.unm.edu/~johncho/html/main.html) |
+| [Navaho prefixes](https://en.wiktionary.org/wiki/Category:Navajo_prefixes) |
+| [Navaho suffixes](https://en.wiktionary.org/wiki/Category:Navajo_suffixes) |
+| [Navaho particles](https://en.wiktionary.org/wiki/Category:Navajo_particles) |
+| [Navaho postpositions](https://en.wiktionary.org/wiki/Category:Navajo_postpositions) |
+| [Navaho grammar material](https://fernald.domains.swarthmore.edu/nla/grammar/grammar_contents_14.htm) |
+| [Navaho audio dictionary](https://talkingdictionary.swarthmore.edu/navajo_postposition/?lang=nav) |
+| [Navaho biological sciences terminology - "Project ENABLE"](https://enablenavajo.org/dine) |
+| [Navaho translation of Wikipedia](https://nv.wikipedia.org/wiki/%C3%8Diyis%C3%AD%C3%AD_Naaltsoos?fbclid=IwAR3w-JlUmK4HDzTGyHSDHGgbjs4rf0UUfVQioguvvF-l3_MbSTwE4Txq_h0) |
+| [Navaho linguistics material and history on the Internet Archive](https://archive.org/search?and=&query=navajo+language) |
+| [Navaho linguistics archive at MIT](https://fernald.domains.swarthmore.edu/nla/halearch/halearch.htm) |
 ________________________________________________________________________________________________________________________________________________
 
 A few examples of my own contributions to English-Navaho dictionary on Glosbe:
