@@ -5,7 +5,7 @@ A repository for Indigenous American language material for quantum engineering t
 ________________________________________________________________________________________________________________________________________________
 
 | Plans for this repository: |
-|----------------------------|
+| --------------------------- |
 | :white_check_mark: Generate a table of Navaho characters in Unicode. |
 | :white_check_mark: "The quick brown fox jumped over the lazy dog" example in Navaho. |
 | :white_check_mark: Chart formation blueprint. |
