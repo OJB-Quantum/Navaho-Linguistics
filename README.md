@@ -4,31 +4,20 @@
 A repository for Indigenous American language material for quantum engineering topics from the Diné/Navaho/Navajo tribe. Collected and written by Onri Jay Benally, an Indigenous American born and raised on the Navaho tribe (Diné Bikeyah). This is a life-long project.
 ________________________________________________________________________________________________________________________________________________
 
-## Plans for this repository:
-
-:white_check_mark: Generate a table of Navaho characters in Unicode.
-
-:white_check_mark: "The quick brown fox jumped over the lazy dog" example in Navaho.
-
-:white_check_mark: Chart formation blueprint.
-
-:white_check_mark: Cyrillic example for "blue" and "bee" in Navaho.
-
-:white_check_mark: Generate a table of words and phrases by Onri that need to be converted into digital text.
-
-:white_square_button: Label dilution refrigerator in Navaho.
-
-:white_square_button: Label tunnel junctions & physical qubit components in Navaho, may include original electron micrographs & renderings in Blender. Generate device 3D models intended for comparison with micrographs.
-
-:white_square_button: Qubit spectroscopy and benchmarking terms in Navaho.
-
-:white_square_button: Incorporation of hybrid qubit terms, able to support quantum hardware publication.
-
-:white_square_button: Potential descriptions of fractal geometry.
-
-:white_square_button: Potential contributions to Qiskit/ Qiskit Metal documentation in Navaho (from paper to GitHub pull requests).
-
-:white_square_button: Explore a draw-to-text for Navaho characters referencing Unicode.
+| Plans for this repository: |
+|----------------------------|
+| :white_check_mark: Generate a table of Navaho characters in Unicode. |
+| :white_check_mark: "The quick brown fox jumped over the lazy dog" example in Navaho. |
+| :white_check_mark: Chart formation blueprint. |
+| :white_check_mark: Cyrillic example for "blue" and "bee" in Navaho. |
+| :white_check_mark: Generate a table of words and phrases by Onri that need to be converted into digital text. |
+| :white_square_button: Label dilution refrigerator in Navaho. |
+| :white_square_button: Label tunnel junctions & physical qubit components in Navaho, may include original electron micrographs & renderings in Blender. Generate device 3D models intended for comparison with micrographs. |
+| :white_square_button: Qubit spectroscopy and benchmarking terms in Navaho. |
+| :white_square_button: Incorporation of hybrid qubit terms, able to support quantum hardware publication. |
+| :white_square_button: Potential descriptions of fractal geometry. |
+| :white_square_button: Potential contributions to Qiskit/ Qiskit Metal documentation in Navaho (from paper to GitHub pull requests). |
+| :white_square_button: Explore a draw-to-text for Navaho characters referencing Unicode. |
 
 ### Note: Unicode is mentioned here due to its convenience of character generation when one desires to correctly spell Navaho words. This form of character generation may provide a robust sequence of protocols for practical language usage in digital form, further strengthening any future initiatives to automate Navaho translation. Another interesting thing is that there are Navaho medical documentation on instrumentation that may be helpful in translating hardware-related topics. This includes microscopes and other advanced spectroscopy techniques in Navaho that we can borrow ideas from for this project.
 ________________________________________________________________________________________________________________________________________________
