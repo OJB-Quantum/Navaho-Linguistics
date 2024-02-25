@@ -51,7 +51,7 @@ ________________________________________________________________________________
 [Click here to view or download the Python script version.](https://github.com/OJB-Quantum/Navaho-Linguistics/blob/main/Python%20Scripts%20for%20Navaho%20Linguistics/Navaho_Characters_UTF8_Conversion_U_Plus_Notation.ipynb)
 ________________________________________________________________________________________________________________________________________________
 | Clickable links to supplementary material: |
-|---------------------------------------=----|
+|--------------------------------------------|
 | [Navaho vs. Navajo](http://npshistory.com/nature_notes/meve/vol4-2h.htm) |
 | [Navaho in Latin Script](https://www.gomyson.com/vowels.html) |
 | [Navaho in Cyrillic Script](https://omniglot.com/conscripts/cyrillicnavajo.htm) |
