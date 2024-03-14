@@ -30,7 +30,10 @@ ________________________________________________________________________________
 ![Navaho for Quantum Hardware Education_v2-3](https://github.com/OJB-Quantum/Navaho-Linguistics/assets/88035770/62ece4d3-92a1-4206-955a-2de8af4a1ffd)
 
 ![Navaho Long Vowel Network](https://github.com/OJB-Quantum/Navaho-Linguistics/assets/88035770/81f88834-244c-4c8e-8926-c62330055334)
-![Onri's Translation Model-Flowchart](https://github.com/OJB-Quantum/Navaho-Linguistics/assets/88035770/3d9537f6-77cf-4452-b234-6f278394c9b8)
+![Qubit Fabrication Plus Linguistics-24](https://github.com/OJB-Quantum/Navaho-Linguistics/assets/88035770/a719d234-ddde-4140-82c3-6009ab2df25d)
+![Qubit Fabrication Plus Linguistics-25](https://github.com/OJB-Quantum/Navaho-Linguistics/assets/88035770/f9337656-7a86-43a0-b36d-bd80fe7797bb)
+
+
 ________________________________________________________________________________________________________________________________________________
 ## Sample of Navaho/ Navajo Character to UTF-8 Encoding by Onri Jay Benally. [Full table available here as a PDF.](https://github.com/OJB-Quantum/Navaho-Linguistics/blob/main/Associated%20Diagrams/Navaho%20to%20UTF8%20Encoding_Onri%20Jay%20Benally.pdf)
 | Navaho Character | [UTF-8] "U+" Notation | [UTF-8] "\u" Notation |
