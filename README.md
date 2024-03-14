@@ -30,8 +30,10 @@ ________________________________________________________________________________
 ![Navaho for Quantum Hardware Education_v2-3](https://github.com/OJB-Quantum/Navaho-Linguistics/assets/88035770/62ece4d3-92a1-4206-955a-2de8af4a1ffd)
 
 ![Navaho Long Vowel Network](https://github.com/OJB-Quantum/Navaho-Linguistics/assets/88035770/81f88834-244c-4c8e-8926-c62330055334)
-![Qubit Fabrication Plus Linguistics-24](https://github.com/OJB-Quantum/Navaho-Linguistics/assets/88035770/a719d234-ddde-4140-82c3-6009ab2df25d)
-![Qubit Fabrication Plus Linguistics-25](https://github.com/OJB-Quantum/Navaho-Linguistics/assets/88035770/f9337656-7a86-43a0-b36d-bd80fe7797bb)
+![Onri_Two Part Navaho Translation Model-1](https://github.com/OJB-Quantum/Navaho-Linguistics/assets/88035770/c3bbb6cd-a1bb-480f-9fb0-40e771973f84)
+![Onri_Two Part Navaho Translation Model-2](https://github.com/OJB-Quantum/Navaho-Linguistics/assets/88035770/391e17b4-cc45-4662-958b-534af8f6aaba)
+![Magnetic Tunnel Junctions Labeled in Navaho-1](https://github.com/OJB-Quantum/Navaho-Linguistics/assets/88035770/5cfa8427-06e3-4b69-8cc4-8d8335ce2d46)
+![Magnetic Tunnel Junctions Labeled in Navaho-2](https://github.com/OJB-Quantum/Navaho-Linguistics/assets/88035770/5ca2e26d-fac3-42fd-be0b-e5a638c8ec6d)
 
 
 ________________________________________________________________________________________________________________________________________________
