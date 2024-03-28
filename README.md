@@ -12,7 +12,7 @@ ________________________________________________________________________________
 | ✅ Cyrillic example for "blue" and "bee" in Navaho. |
 | ✅ Generate a table of words and phrases by Onri that need to be converted into digital text. |
 | 🔳 Label dilution refrigerator in Navaho. |
-| 🔳 Label tunnel junctions & physical qubit components in Navaho, may include original electron micrographs & renderings in Blender. Generate device 3D models intended for comparison with micrographs. |
+| ✅ Label tunnel junctions & physical qubit components in Navaho, may include original electron micrographs & renderings in Blender. Generate device 3D models intended for comparison with micrographs. |
 | 🔳 Qubit spectroscopy and benchmarking terms in Navaho. |
 | 🔳 Incorporation of hybrid qubit terms, able to support quantum hardware publication. |
 | 🔳 Potential descriptions of fractal geometry. |
