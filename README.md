@@ -19,6 +19,10 @@ ________________________________________________________________________________
 | 🔳 Potential contributions to Qiskit/ Qiskit Metal documentation in Navaho (from paper to GitHub pull requests). |
 | 🔳 Explore a draw-to-text for Navaho characters referencing Unicode. |
 
+| Private Link to Translation Table Elements |
+| - |
+| [Navaho Translation Table - Onri's Quantum Hardware Team @UMN](https://docs.google.com/spreadsheets/d/1-tQlvdACq8fqpjb4uU1IEt-_E-pK_2sf_hXywJTj3uE/edit?usp=sharing)|
+
 ### Note: Unicode is mentioned here due to its convenience of character generation when one desires to correctly spell Navaho words. This form of character generation may provide a robust sequence of protocols for practical language usage in digital form, further strengthening any future initiatives to automate Navaho translation. Another interesting thing is that there are Navaho medical documentation on instrumentation that may be helpful in translating hardware-related topics. This includes microscopes and other advanced spectroscopy techniques in Navaho that we can borrow ideas from for this project.
 ________________________________________________________________________________________________________________________________________________
 ![image](https://github.com/OJB-Quantum/Navaho-Linguistics/assets/88035770/9c7c2ba3-e314-4166-9e70-57a794d9bbde)
