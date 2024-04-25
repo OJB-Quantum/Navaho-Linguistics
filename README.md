@@ -25,7 +25,7 @@ ________________________________________________________________________________
 
 ### Note: Unicode is mentioned here due to its convenience of character generation when one desires to correctly spell Navaho words. This form of character generation may provide a robust sequence of protocols for practical language usage in digital form, further strengthening any future initiatives to automate Navaho translation. Another interesting thing is that there are Navaho medical documentation on instrumentation that may be helpful in translating hardware-related topics. This includes microscopes and other advanced spectroscopy techniques in Navaho that we can borrow ideas from for this project.
 ________________________________________________________________________________________________________________________________________________
-![image](https://github.com/OJB-Quantum/Navaho-Linguistics/assets/88035770/9c7c2ba3-e314-4166-9e70-57a794d9bbde)
+![300189739-9c7c2ba3-e314-4166-9e70-57a794d9bbde](https://github.com/OJB-Quantum/Navaho-Linguistics/assets/88035770/a50ade0b-2fa5-42f4-a4d0-cf822678aa4b)
 
 ________________________________________________________________________________________________________________________________________________
 ## To access the full PDF booklet, [click here.](https://github.com/OJB-Quantum/Navaho-Linguistics/blob/main/Navaho_Linguistics_for_Quantum_Hardware_Education_v2.pdf)
