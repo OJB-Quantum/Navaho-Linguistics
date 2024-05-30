@@ -1,7 +1,7 @@
 # Navaho-Linguistics
 [![License](https://img.shields.io/badge/Creative_Commons-License-green)](https://choosealicense.com/licenses/cc-by-4.0) [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/OJB-Quantum/Navaho-Linguistics/main)
 
-A repository for Indigenous American language material for quantum engineering topics from the Diné/Navaho/Navajo tribe. Collected and written by Onri Jay Benally, an Indigenous American born and raised on the Navaho tribe (Diné Bikeyah). This is a life-long project.
+A repository for Indigenous American language material for quantum engineering topics from the Diné/Navaho/Navajo tribe. Collected and written by Onri Jay Benally, an Indigenous American quantum hardware engineer born and raised on the Navaho tribe (Diné Bikeyah). This is a life-long project.
 ________________________________________________________________________________________________________________________________________________
 
 | Plans for this repository (in no particular order): |
@@ -26,6 +26,12 @@ ________________________________________________________________________________
 ### Note: Unicode is mentioned here due to its convenience of character generation when one desires to correctly spell Navaho words. This form of character generation may provide a robust sequence of protocols for practical language usage in digital form, further strengthening any future initiatives to automate Navaho translation. Another interesting thing is that there are Navaho medical documentation on instrumentation that may be helpful in translating hardware-related topics. This includes microscopes and other advanced spectroscopy techniques in Navaho that we can borrow ideas from for this project. 
 
 ### As of summer 2024, the thought of exploring Navajo/ Navaho Braille together with Nemeth (Braille mathematics) came to mind. Although advanced mathematics topics are covered using Nemeth, it would be interesting to see it combined with Navaho/ Navajo Braille to express terms using in quantum mechanics and quantum computing.
+________________________________________________________________________________________________________________________________________________
+| Full Immersion by Sight, Auditory, and Tactile Means |
+|-|
+| Sight = Animation |
+| Auditory = Harmonics |
+| Tactility = Braille-mathematics-inspired learning |
 ________________________________________________________________________________________________________________________________________________
 ||
 |-|
