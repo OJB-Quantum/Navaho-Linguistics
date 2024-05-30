@@ -37,9 +37,13 @@ ________________________________________________________________________________
 |-|
 | [Navajo Braille Table on Wiki](https://en.wikipedia.org/wiki/Navajo_Braille) |
 | [Navajo Braille Code](https://www.pathstoliteracy.org/resource/navajo-braille-code) |
+| [List of Miscellaneous Symbols in Braille](https://uebmath.aphtech.org/lesson5.0) |
+| [List of Matrix Terms in Braille](https://uebmath.aphtech.org/lesson7.3) |
+| [List of Greek Symbols in Braille](https://uebmath.aphtech.org/lesson8.0) |
 | [List of Vector Terms in Braille](https://uebmath.aphtech.org/lesson9.2) |
 | [List of Integral Terms in Braille](https://uebmath.aphtech.org/lesson10.2) |
 | [List of Partial Derivative Terms in Braille](https://uebmath.aphtech.org/lesson10.4) |
+| [List of Logic Operator Terms in Braille](https://nemeth.aphtech.org/lesson11.12) |
 | [Unified English Braille (UEB) Table of Contents](https://uebmath.aphtech.org) |
 
 ________________________________________________________________________________________________________________________________________________
