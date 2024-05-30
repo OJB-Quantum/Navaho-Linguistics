@@ -29,8 +29,8 @@ ________________________________________________________________________________
 ________________________________________________________________________________________________________________________________________________
 ||
 |-|
-| [](https://en.wikipedia.org/wiki/Navajo_Braille) |
-| [](https://www.pathstoliteracy.org/resource/navajo-braille-code) |
+| [Navajo Braille Table on Wiki](https://en.wikipedia.org/wiki/Navajo_Braille) |
+| [Navajo Braille Code](https://www.pathstoliteracy.org/resource/navajo-braille-code) |
 | [List of Vector Terms in Braille](https://uebmath.aphtech.org/lesson9.2) |
 | [List of Integral Terms in Braille](https://uebmath.aphtech.org/lesson10.2) |
 | [List of Partial Derivative Terms in Braille](https://uebmath.aphtech.org/lesson10.4) |
