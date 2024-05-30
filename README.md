@@ -4,7 +4,7 @@
 A repository for Indigenous American language material for quantum engineering topics from the Diné/Navaho/Navajo tribe. Collected and written by Onri Jay Benally, an Indigenous American born and raised on the Navaho tribe (Diné Bikeyah). This is a life-long project.
 ________________________________________________________________________________________________________________________________________________
 
-| Plans for this repository: |
+| Plans for this repository (in no particular order): |
 |-|
 | ✅ Generate a table of Navaho characters in Unicode. |
 | ✅ "The quick brown fox jumped over the lazy dog" example in Navaho. |
@@ -17,14 +17,19 @@ ________________________________________________________________________________
 | 🔳 Incorporation of hybrid qubit terms, able to support quantum hardware publication. |
 | 🔳 Potential descriptions of fractal geometry. |
 | 🔳 Potential contributions to Qiskit/ Qiskit Metal documentation in Navaho (from paper to GitHub pull requests). |
-| 🔳 Explore a draw-to-text for Navaho characters referencing Unicode. |
+| ✅ Explore draw-to-text features for Navaho characters referencing Unicode. |
 
-| Private Link to Translation Table Elements |
+| Private Link for Onri's Quantum Team to Translation Table Elements |
 | - |
 | [Navaho Translation Table - Onri's Quantum Hardware Team @UMN](https://docs.google.com/spreadsheets/d/1-tQlvdACq8fqpjb4uU1IEt-_E-pK_2sf_hXywJTj3uE/edit?usp=sharing)|
 
-### Note: Unicode is mentioned here due to its convenience of character generation when one desires to correctly spell Navaho words. This form of character generation may provide a robust sequence of protocols for practical language usage in digital form, further strengthening any future initiatives to automate Navaho translation. Another interesting thing is that there are Navaho medical documentation on instrumentation that may be helpful in translating hardware-related topics. This includes microscopes and other advanced spectroscopy techniques in Navaho that we can borrow ideas from for this project.
+### Note: Unicode is mentioned here due to its convenience of character generation when one desires to correctly spell Navaho words. This form of character generation may provide a robust sequence of protocols for practical language usage in digital form, further strengthening any future initiatives to automate Navaho translation. Another interesting thing is that there are Navaho medical documentation on instrumentation that may be helpful in translating hardware-related topics. This includes microscopes and other advanced spectroscopy techniques in Navaho that we can borrow ideas from for this project. As of summer 2024, the thought of exploring Navajo/ Navaho Braille together with Nemeth (Braille mathematics) came to mind. Although advanced mathematics topics are covered using Nemeth, it would be interesting to see it combined with Navaho/ Navajo Braille to express terms using in quantum mechanics and quantum computing.
 ________________________________________________________________________________________________________________________________________________
+https://en.wikipedia.org/wiki/Navajo_Braille
+https://www.pathstoliteracy.org/resource/navajo-braille-code
+
+________________________________________________________________________________________________________________________________________________
+
 ![300189739-9c7c2ba3-e314-4166-9e70-57a794d9bbde](https://github.com/OJB-Quantum/Navaho-Linguistics/assets/88035770/a50ade0b-2fa5-42f4-a4d0-cf822678aa4b)
 
 ________________________________________________________________________________________________________________________________________________
