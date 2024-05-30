@@ -27,8 +27,14 @@ ________________________________________________________________________________
 
 ### As of summer 2024, the thought of exploring Navajo/ Navaho Braille together with Nemeth (Braille mathematics) came to mind. Although advanced mathematics topics are covered using Nemeth, it would be interesting to see it combined with Navaho/ Navajo Braille to express terms using in quantum mechanics and quantum computing.
 ________________________________________________________________________________________________________________________________________________
-https://en.wikipedia.org/wiki/Navajo_Braille
-https://www.pathstoliteracy.org/resource/navajo-braille-code
+||
+|-|
+| [](https://en.wikipedia.org/wiki/Navajo_Braille) |
+| [](https://www.pathstoliteracy.org/resource/navajo-braille-code) |
+| [List of Vector Terms in Braille](https://uebmath.aphtech.org/lesson9.2) |
+| [List of Integral Terms in Braille](https://uebmath.aphtech.org/lesson10.2) |
+| [List of Partial Derivative Terms in Braille](https://uebmath.aphtech.org/lesson10.4) |
+| [Unified English Braille (UEB) Table of Contents](https://uebmath.aphtech.org) |
 
 ________________________________________________________________________________________________________________________________________________
 
