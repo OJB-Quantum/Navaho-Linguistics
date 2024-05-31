@@ -25,7 +25,7 @@ ________________________________________________________________________________
 
 ### Note: Unicode is mentioned here due to its convenience of character generation when one desires to correctly spell Navaho words. This form of character generation may provide a robust sequence of protocols for practical language usage in digital form, further strengthening any future initiatives to automate Navaho translation. Another interesting thing is that there are Navaho medical documentation on instrumentation that may be helpful in translating hardware-related topics. This includes microscopes and other advanced spectroscopy techniques in Navaho that we can borrow ideas from for this project. 
 
-### As of summer 2024, the thought of exploring Navajo/ Navaho Braille together with Nemeth (Braille mathematics) came to mind. Although advanced mathematics topics are covered using Nemeth, it would be interesting to see it combined with Navaho/ Navajo Braille to express terms using in quantum mechanics and quantum computing.
+### As of summer 2024, the thought of exploring Navajo/ Navaho Braille together with Nemeth (Braille mathematics) came to mind. Although advanced mathematics topics are covered using Nemeth, it would be interesting to see it combined with Navaho/ Navajo Braille to express terms used in quantum mechanics and quantum computing.
 ________________________________________________________________________________________________________________________________________________
 | Full Immersion by Sight, Auditory, and Tactile Means |
 |-|
