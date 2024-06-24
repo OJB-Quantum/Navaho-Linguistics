@@ -84,7 +84,7 @@ ________________________________________________________________________________
 ________________________________________________________________________________________________________________________________________________
 | Clickable links to supplementary material: |
 |--------------------------------------------|
-| [Navaho vs. Navajo](http://npshistory.com/nature_notes/meve/vol4-2h.htm) |
+| [Navaho vs. Navajo](http://npshistory.com/nature_notes/meve/vol4-2h.htm) [](https://thecontentauthority.com/blog/navaho-vs-navajo) |
 | [Navaho in Latin Script](https://www.gomyson.com/vowels.html) |
 | [Navaho in Cyrillic Script](https://omniglot.com/conscripts/cyrillicnavajo.htm) |
 | [Navaho language audio sample by Onri](https://www.omniglot.com/conscripts/cyrillicnavajo.htm#:~:text=Hear%20a%20recording%20of%20this%20text%20by%20Onri%20Jay%20Benally) |
