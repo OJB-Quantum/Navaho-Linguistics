@@ -61,6 +61,7 @@ ________________________________________________________________________________
 ![Onri_Two Part Navaho Translation Model-2](https://github.com/OJB-Quantum/Navaho-Linguistics/assets/88035770/391e17b4-cc45-4662-958b-534af8f6aaba)
 ![Magnetic Tunnel Junctions Labeled in Navaho-1](https://github.com/OJB-Quantum/Navaho-Linguistics/assets/88035770/5cfa8427-06e3-4b69-8cc4-8d8335ce2d46)
 ![Magnetic Tunnel Junctions Labeled in Navaho-2](https://github.com/OJB-Quantum/Navaho-Linguistics/assets/88035770/5ca2e26d-fac3-42fd-be0b-e5a638c8ec6d)
+![image](https://github.com/user-attachments/assets/4bb53477-5aff-4bbe-89be-d02e0109466f)
 
 
 ________________________________________________________________________________________________________________________________________________
