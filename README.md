@@ -2,8 +2,11 @@
 [![License](https://img.shields.io/badge/Creative_Commons-License-green)](https://choosealicense.com/licenses/cc-by-4.0) [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/OJB-Quantum/Navaho-Linguistics/main)
 
 A repository for Indigenous American language material for quantum engineering topics from the Diné/Navaho/Navajo tribe. Collected and written by Onri Jay Benally, an Indigenous American quantum hardware engineer born and raised on the Navaho tribe (Diné Bikeyah). This is a life-long project. In January of 2024, this open-access repository became part of an approved proposal funded by the [Arizona State University (ASU) Quantum Collaborative](https://quantumcollaborative.org) network.
-________________________________________________________________________________________________________________________________________________
+_______________________________________________________________________________________________________________________________________________________________________
+![image](https://github.com/OJB-Quantum/Navaho-Linguistics/assets/88035770/b0321613-df61-4984-8f24-1825418995ee)
 
+![image](https://github.com/OJB-Quantum/Navaho-Linguistics/assets/88035770/34362858-22f1-4a75-ac64-6f06de38d98a)
+_______________________________________________________________________________________________________________________________________________________________________
 | Plans for this repository (in no particular order): |
 |-|
 | ✅ Generate a table of Navaho characters in Unicode. |
@@ -115,10 +118,6 @@ ________________________________________________________________________________
 ________________________________________________________________________________________________________________________________________________
 
 ![IMG_20230518_192210_00_018_PureShot](https://github.com/OJB-Quantum/Navaho-Linguistics/assets/88035770/f976afb5-128a-47a8-bb3e-996de87b51a6)
-
-![image](https://github.com/OJB-Quantum/Navaho-Linguistics/assets/88035770/b0321613-df61-4984-8f24-1825418995ee)
-
-![image](https://github.com/OJB-Quantum/Navaho-Linguistics/assets/88035770/34362858-22f1-4a75-ac64-6f06de38d98a)
 
 
 Note: I made sources available in this repository to be generally open access, while others are "copyrighted unless used for educational purposes". This repository intends to produce educational material in the same light. See http://rightsstatements.org/page/InC-EDU/1.0/ for more details on the permissions allowed by those respective authors.
