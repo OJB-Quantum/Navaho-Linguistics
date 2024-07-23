@@ -5,7 +5,8 @@ A repository for Indigenous American language material for quantum engineering t
 _______________________________________________________________________________________________________________________________________________________________________
 ![image](https://github.com/OJB-Quantum/Navaho-Linguistics/assets/88035770/b0321613-df61-4984-8f24-1825418995ee)
 
-![image](https://github.com/OJB-Quantum/Navaho-Linguistics/assets/88035770/34362858-22f1-4a75-ac64-6f06de38d98a)
+![image](https://github.com/user-attachments/assets/2b1d6aa0-9b3e-4a6b-b356-0206c8f5ef86)
+
 _______________________________________________________________________________________________________________________________________________________________________
 | Plans for this repository (in no particular order): |
 |-|
