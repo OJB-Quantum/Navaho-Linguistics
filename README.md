@@ -91,11 +91,12 @@ ________________________________________________________________________________
 | Clickable links to supplementary material: |
 |--------------------------------------------|
 | [Navaho vs. Navajo](http://npshistory.com/nature_notes/meve/vol4-2h.htm)  [Navaho vs. Navajo](https://thecontentauthority.com/blog/navaho-vs-navajo) |
+| [Navaho Wiktionary by Wikimedia Foundation](https://en.wiktionary.org/wiki/Category:nv:All_topics) |
+| [Navaho Wikipedia](https://nv.wikipedia.org/wiki/%C3%8Diyis%C3%AD%C3%AD_Naaltsoos?fbclid=IwAR3w-JlUmK4HDzTGyHSDHGgbjs4rf0UUfVQioguvvF-l3_MbSTwE4Txq_h0) |
 | [Navaho in Latin Script](https://www.gomyson.com/vowels.html) |
 | [Navaho in Cyrillic Script](https://omniglot.com/conscripts/cyrillicnavajo.htm) |
 | [Navaho language audio sample by Onri](https://www.omniglot.com/conscripts/cyrillicnavajo.htm#:~:text=Hear%20a%20recording%20of%20this%20text%20by%20Onri%20Jay%20Benally) |
 | [Navaho sound profiles](https://www.unm.edu/~johncho/html/main.html) |
-| [Navaho Wiktionary by Wikimedia Foundation](https://en.wiktionary.org/wiki/Category:nv:All_topics) |
 | [Navaho prefixes](https://en.wiktionary.org/wiki/Category:Navajo_prefixes) |
 | [Navaho suffixes](https://en.wiktionary.org/wiki/Category:Navajo_suffixes) |
 | [Navaho particles](https://en.wiktionary.org/wiki/Category:Navajo_particles) |
@@ -103,7 +104,6 @@ ________________________________________________________________________________
 | [Navaho grammar material](https://fernald.domains.swarthmore.edu/nla/grammar/grammar_contents_14.htm) |
 | [Navaho audio dictionary](https://talkingdictionary.swarthmore.edu/navajo_postposition/?lang=nav) |
 | [Navaho biological sciences terminology - "Project ENABLE"](https://enablenavajo.org/dine) |
-| [Navaho translation of Wikipedia](https://nv.wikipedia.org/wiki/%C3%8Diyis%C3%AD%C3%AD_Naaltsoos?fbclid=IwAR3w-JlUmK4HDzTGyHSDHGgbjs4rf0UUfVQioguvvF-l3_MbSTwE4Txq_h0) |
 | [Navaho linguistics material and history on the Internet Archive](https://archive.org/search?and=&query=navajo+language) |
 | [Navaho linguistics archive at MIT](https://fernald.domains.swarthmore.edu/nla/halearch/halearch.htm) |
 ________________________________________________________________________________________________________________________________________________
