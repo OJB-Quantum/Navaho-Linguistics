@@ -95,6 +95,7 @@ ________________________________________________________________________________
 | [Navaho in Cyrillic Script](https://omniglot.com/conscripts/cyrillicnavajo.htm) |
 | [Navaho language audio sample by Onri](https://www.omniglot.com/conscripts/cyrillicnavajo.htm#:~:text=Hear%20a%20recording%20of%20this%20text%20by%20Onri%20Jay%20Benally) |
 | [Navaho sound profiles](https://www.unm.edu/~johncho/html/main.html) |
+| [Navaho Wiktionary by Wikimedia Foundation](https://en.wiktionary.org/wiki/Category:nv:All_topics) |
 | [Navaho prefixes](https://en.wiktionary.org/wiki/Category:Navajo_prefixes) |
 | [Navaho suffixes](https://en.wiktionary.org/wiki/Category:Navajo_suffixes) |
 | [Navaho particles](https://en.wiktionary.org/wiki/Category:Navajo_particles) |
