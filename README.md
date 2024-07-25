@@ -11,6 +11,8 @@ ________________________________________________________________________________
 
 ![312886795-5ca2e26d-fac3-42fd-be0b-e5a638c8ec6d](https://github.com/user-attachments/assets/b2a58b44-3c93-4bb7-bc3f-e6d8db9323ee)
 
+![image](https://github.com/user-attachments/assets/4bb53477-5aff-4bbe-89be-d02e0109466f)
+
 _______________________________________________________________________________________________________________________________________________________________________
 | Plans for this repository (in no particular order): |
 |-|
@@ -66,10 +68,6 @@ ________________________________________________________________________________
 
 ![Navaho Long Vowel Network](https://github.com/OJB-Quantum/Navaho-Linguistics/assets/88035770/81f88834-244c-4c8e-8926-c62330055334)
 ![image](https://github.com/user-attachments/assets/1f5a1210-27ea-49f7-a97f-583da08179fe)
-![Magnetic Tunnel Junctions Labeled in Navaho-1](https://github.com/OJB-Quantum/Navaho-Linguistics/assets/88035770/5cfa8427-06e3-4b69-8cc4-8d8335ce2d46)
-![Magnetic Tunnel Junctions Labeled in Navaho-2](https://github.com/OJB-Quantum/Navaho-Linguistics/assets/88035770/5ca2e26d-fac3-42fd-be0b-e5a638c8ec6d)
-![image](https://github.com/user-attachments/assets/4bb53477-5aff-4bbe-89be-d02e0109466f)
-
 
 ________________________________________________________________________________________________________________________________________________
 ## Sample of Navaho/ Navajo Character to UTF-8 Encoding by Onri Jay Benally. [Full table available here as a PDF.](https://github.com/OJB-Quantum/Navaho-Linguistics/blob/main/Associated%20Diagrams/Navaho%20to%20UTF8%20Encoding_Onri%20Jay%20Benally.pdf)
