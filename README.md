@@ -3,12 +3,14 @@
 
 A repository for Indigenous American language material for quantum engineering topics from the Diné/Navaho/Navajo tribe. Collected and written by Onri Jay Benally, an Indigenous American quantum hardware engineer born and raised on the Navaho tribe (Diné Bikeyah). This is a life-long project. In January of 2024, this open-access repository became part of an approved proposal funded by the [Arizona State University (ASU) Quantum Collaborative](https://quantumcollaborative.org) network.
 _______________________________________________________________________________________________________________________________________________________________________
-![Onri_Two Part Navaho Translation Model-1](https://github.com/OJB-Quantum/Navaho-Linguistics/assets/88035770/c3bbb6cd-a1bb-480f-9fb0-40e771973f84)
-![Onri_Two Part Navaho Translation Model-2](https://github.com/OJB-Quantum/Navaho-Linguistics/assets/88035770/391e17b4-cc45-4662-958b-534af8f6aaba)
+![312886653-c3bbb6cd-a1bb-480f-9fb0-40e771973f84](https://github.com/user-attachments/assets/180f416d-1140-4e62-98e5-00995d276a7a)
 
-![image](https://github.com/OJB-Quantum/Navaho-Linguistics/assets/88035770/b0321613-df61-4984-8f24-1825418995ee)
+![312886676-391e17b4-cc45-4662-958b-534af8f6aaba](https://github.com/user-attachments/assets/cfb75dba-4daf-4463-a720-2e2d54fed90d)
 
-![image](https://github.com/user-attachments/assets/2b1d6aa0-9b3e-4a6b-b356-0206c8f5ef86)
+![312886767-5cfa8427-06e3-4b69-8cc4-8d8335ce2d46](https://github.com/user-attachments/assets/50488b8c-9b3c-4a21-b334-47dc2f3d3e61)
+
+![312886795-5ca2e26d-fac3-42fd-be0b-e5a638c8ec6d](https://github.com/user-attachments/assets/b2a58b44-3c93-4bb7-bc3f-e6d8db9323ee)
+
 _______________________________________________________________________________________________________________________________________________________________________
 | Plans for this repository (in no particular order): |
 |-|
