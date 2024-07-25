@@ -7,6 +7,8 @@ ________________________________________________________________________________
 
 ![image](https://github.com/user-attachments/assets/2b1d6aa0-9b3e-4a6b-b356-0206c8f5ef86)
 
+![Onri_Two Part Navaho Translation Model-1](https://github.com/OJB-Quantum/Navaho-Linguistics/assets/88035770/c3bbb6cd-a1bb-480f-9fb0-40e771973f84)
+![Onri_Two Part Navaho Translation Model-2](https://github.com/OJB-Quantum/Navaho-Linguistics/assets/88035770/391e17b4-cc45-4662-958b-534af8f6aaba)
 _______________________________________________________________________________________________________________________________________________________________________
 | Plans for this repository (in no particular order): |
 |-|
@@ -62,8 +64,6 @@ ________________________________________________________________________________
 
 ![Navaho Long Vowel Network](https://github.com/OJB-Quantum/Navaho-Linguistics/assets/88035770/81f88834-244c-4c8e-8926-c62330055334)
 ![image](https://github.com/user-attachments/assets/1f5a1210-27ea-49f7-a97f-583da08179fe)
-![Onri_Two Part Navaho Translation Model-1](https://github.com/OJB-Quantum/Navaho-Linguistics/assets/88035770/c3bbb6cd-a1bb-480f-9fb0-40e771973f84)
-![Onri_Two Part Navaho Translation Model-2](https://github.com/OJB-Quantum/Navaho-Linguistics/assets/88035770/391e17b4-cc45-4662-958b-534af8f6aaba)
 ![Magnetic Tunnel Junctions Labeled in Navaho-1](https://github.com/OJB-Quantum/Navaho-Linguistics/assets/88035770/5cfa8427-06e3-4b69-8cc4-8d8335ce2d46)
 ![Magnetic Tunnel Junctions Labeled in Navaho-2](https://github.com/OJB-Quantum/Navaho-Linguistics/assets/88035770/5ca2e26d-fac3-42fd-be0b-e5a638c8ec6d)
 ![image](https://github.com/user-attachments/assets/4bb53477-5aff-4bbe-89be-d02e0109466f)
