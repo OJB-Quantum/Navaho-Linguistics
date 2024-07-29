@@ -107,6 +107,7 @@ ________________________________________________________________________________
 | [Navaho prefixes](https://en.wiktionary.org/wiki/Category:Navajo_prefixes) |
 | [Navaho suffixes](https://en.wiktionary.org/wiki/Category:Navajo_suffixes) |
 | [Navaho particles](https://en.wiktionary.org/wiki/Category:Navajo_particles) |
+| [Navaho pronouns](https://en.wiktionary.org/wiki/Category:Navajo_pronouns)|
 | [Navaho postpositions](https://en.wiktionary.org/wiki/Category:Navajo_postpositions) |
 | [Navaho grammar material](https://fernald.domains.swarthmore.edu/nla/grammar/grammar_contents_14.htm) |
 | [Navaho audio dictionary](https://talkingdictionary.swarthmore.edu/navajo_postposition/?lang=nav) |
