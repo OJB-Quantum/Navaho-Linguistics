@@ -19,7 +19,7 @@ ________________________________________________________________________________
 
 ![image](https://github.com/user-attachments/assets/938b0916-8568-47fe-97e3-2c53cc8aeca8)
 
-- Quantum computer: Béésh' tʼáá 'aníí 'á'ádaatʼéhígíí nitsékeesí. 
+- Quantum computer (in Navaho): Béésh tʼáá 'aníí 'á'ádaatʼéhígíí nitsékeesí. 
 Literal meaning in English: "Metal or piece of metal that thinks at a truly fundamental level"
 _______________________________________________________________________________________________________________________________________________________________________
 | Plans for this repository (in no particular order): |
