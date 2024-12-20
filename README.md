@@ -48,6 +48,9 @@ ________________________________________________________________________________
 ### Note: Unicode is mentioned here due to its convenience of character generation when one desires to correctly spell Navaho words. This form of character generation may provide a robust sequence of protocols for practical language usage in digital form, further strengthening any future initiatives to automate Navaho translation. Another interesting thing is that there are Navaho medical documentation on instrumentation that may be helpful in translating hardware-related topics. This includes microscopes and other advanced spectroscopy techniques in Navaho that we can borrow ideas from for this project. 
 
 ### As of summer 2024, the thought of exploring Navajo/ Navaho Braille together with Nemeth (Braille mathematics) came to mind. Although advanced mathematics topics are covered using Nemeth, it would be interesting to see it combined with Navaho/ Navajo Braille to express terms used in quantum mechanics and quantum computing.
+
+• If a language relies less on phonetics or pronunciation based on the spelling, then it is apparent that it requires more memorization. The memorization is of association of pronunciation with a particularly spelled word. 
+• Based on some deductive reasoning, this would mean that languages that are heavily phonetic require less memorization of the association mentioned above. However, for languages that are heavily weighted on speaking rather than writing, would require relatively even more memorization.
 ________________________________________________________________________________________________________________________________________________
 | Full Immersion by Sight, Auditory, and Tactile Means |
 |-|
