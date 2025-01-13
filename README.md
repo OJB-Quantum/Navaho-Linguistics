@@ -45,6 +45,7 @@ ________________________________________________________________________________
 | 🔳 Potential contributions to Qiskit/ Qiskit Metal documentation in Navaho (from paper to GitHub pull requests). |
 | ✅ Explore draw-to-text features for Navaho characters referencing Unicode. |
 
+
 | Private Link for Onri's Quantum Team to Translation Table Elements |
 | - |
 | [Navaho Translation Table - Onri's Quantum Hardware Team @UMN](https://docs.google.com/spreadsheets/d/1-tQlvdACq8fqpjb4uU1IEt-_E-pK_2sf_hXywJTj3uE/edit?usp=sharing)|
