@@ -2,7 +2,9 @@
 [![License](https://img.shields.io/badge/Creative_Commons-License-green)](https://choosealicense.com/licenses/cc-by-4.0) [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/OJB-Quantum/Navaho-Linguistics/main)
 
 A repository for Indigenous American language material for quantum engineering topics from the Diné/Navaho/Navajo tribe. Collected and written by Onri Jay Benally, an Indigenous American quantum hardware engineer born and raised on the Navaho tribe (Diné Bikeyah). This is a life-long project. In January of 2024, this open-access repository became part of an approved proposal funded by the [Arizona State University (ASU) Quantum Collaborative](https://quantumcollaborative.org) network.
+
 _______________________________________________________________________________________________________________________________________________________________________
+
 ![IMG_20230518_192210_00_018_PureShot](https://github.com/OJB-Quantum/Navaho-Linguistics/assets/88035770/f976afb5-128a-47a8-bb3e-996de87b51a6)
 
 ![312886653-c3bbb6cd-a1bb-480f-9fb0-40e771973f84](https://github.com/user-attachments/assets/180f416d-1140-4e62-98e5-00995d276a7a)
@@ -25,7 +27,9 @@ ________________________________________________________________________________
 
 - Onri's translation for "quantum computer" (in Navaho/ Navajo): Béésh tʼáá 'aníí 'á'ádaatʼéhígíí nitsékeesí. 
 Literal meaning in English: "Metal or piece of metal that thinks at a truly fundamental level"
+
 _______________________________________________________________________________________________________________________________________________________________________
+
 | Plans for this repository (in no particular order): |
 |-|
 | ✅ Generate a table of Navaho characters in Unicode. |
@@ -41,6 +45,7 @@ ________________________________________________________________________________
 | 🔳 Potential contributions to Qiskit/ Qiskit Metal documentation in Navaho (from paper to GitHub pull requests). |
 | ✅ Explore draw-to-text features for Navaho characters referencing Unicode. |
 
+
 | Private Link for Onri's Quantum Team to Translation Table Elements |
 | - |
 | [Navaho Translation Table - Onri's Quantum Hardware Team @UMN](https://docs.google.com/spreadsheets/d/1-tQlvdACq8fqpjb4uU1IEt-_E-pK_2sf_hXywJTj3uE/edit?usp=sharing)|
@@ -48,13 +53,20 @@ ________________________________________________________________________________
 ### Note: Unicode is mentioned here due to its convenience of character generation when one desires to correctly spell Navaho words. This form of character generation may provide a robust sequence of protocols for practical language usage in digital form, further strengthening any future initiatives to automate Navaho translation. Another interesting thing is that there are Navaho medical documentation on instrumentation that may be helpful in translating hardware-related topics. This includes microscopes and other advanced spectroscopy techniques in Navaho that we can borrow ideas from for this project. 
 
 ### As of summer 2024, the thought of exploring Navajo/ Navaho Braille together with Nemeth (Braille mathematics) came to mind. Although advanced mathematics topics are covered using Nemeth, it would be interesting to see it combined with Navaho/ Navajo Braille to express terms used in quantum mechanics and quantum computing.
+
+• If a language relies less on phonetics or pronunciation based on the spelling, then it is apparent that it requires more memorization. The memorization is of association of pronunciation with a particularly spelled word. 
+• Based on some deductive reasoning, this would mean that languages that are heavily phonetic require less memorization of the association mentioned above. However, for languages that are heavily weighted on speaking rather than writing, would require relatively even more memorization.
+
 ________________________________________________________________________________________________________________________________________________
+
 | Full Immersion by Sight, Auditory, and Tactile Means |
 |-|
 | Sight = Animation & 3D models |
 | Auditory = Harmonics |
 | Tactility = Braille-mathematics-inspired learning |
+
 ________________________________________________________________________________________________________________________________________________
+
 ||
 |-|
 | [Navajo Braille Table on Wiki](https://en.wikipedia.org/wiki/Navajo_Braille) |
@@ -73,13 +85,16 @@ ________________________________________________________________________________
 ![300189739-9c7c2ba3-e314-4166-9e70-57a794d9bbde](https://github.com/OJB-Quantum/Navaho-Linguistics/assets/88035770/a50ade0b-2fa5-42f4-a4d0-cf822678aa4b)
 
 ________________________________________________________________________________________________________________________________________________
+
 ## To access the full PDF booklet, [click here.](https://github.com/OJB-Quantum/Navaho-Linguistics/blob/main/Navaho_Linguistics_for_Quantum_Hardware_Education_v2.pdf)
 ![Navaho for Quantum Hardware Education_v2-1](https://github.com/OJB-Quantum/Navaho-Linguistics/assets/88035770/85ae0fb9-0ed6-4731-88e9-ce3a6e1c3df9)
 ![Navaho for Quantum Hardware Education_v2-2](https://github.com/OJB-Quantum/Navaho-Linguistics/assets/88035770/f86b8a3a-755b-42ab-8f5c-5329ff96ef92)
 ![Navaho for Quantum Hardware Education_v2-3](https://github.com/OJB-Quantum/Navaho-Linguistics/assets/88035770/62ece4d3-92a1-4206-955a-2de8af4a1ffd)
 
 ![Navaho Long Vowel Network](https://github.com/OJB-Quantum/Navaho-Linguistics/assets/88035770/81f88834-244c-4c8e-8926-c62330055334)
+![Basic 3D-Printable Cryostat for Educational Purposes](https://www.tinkercad.com/things/dgJLBpuNQtv-onris-printable-cryostat)
 ________________________________________________________________________________________________________________________________________________
+
 ## Sample of Navaho/ Navajo Character to UTF-8 Encoding by Onri Jay Benally. [Full table available here as a PDF.](https://github.com/OJB-Quantum/Navaho-Linguistics/blob/main/Associated%20Diagrams/Navaho%20to%20UTF8%20Encoding_Onri%20Jay%20Benally.pdf)
 | Navaho Character | [UTF-8] "U+" Notation | [UTF-8] "\u" Notation |
 |------------------|-----------------------|-----------------------|
@@ -97,7 +112,9 @@ ________________________________________________________________________________
 [Click here to download Onri's Navaho/ Navajo Character to UTF-8 Encoding Excel file.](https://github.com/OJB-Quantum/Navaho-Linguistics/raw/main/Associated%20Diagrams/Navaho%20to%20UTF8%20Encoding_Onri%20Jay%20Benally.xlsx)
 
 [Click here to view or download the Python script version.](https://github.com/OJB-Quantum/Navaho-Linguistics/blob/main/Python%20Scripts%20for%20Navaho%20Linguistics/Navaho_Characters_UTF8_Conversion_U_Plus_Notation.ipynb)
+
 ________________________________________________________________________________________________________________________________________________
+
 | Clickable links to supplementary material: |
 |--------------------------------------------|
 | [Navaho vs. Navajo](http://npshistory.com/nature_notes/meve/vol4-2h.htm)  [Navaho vs. Navajo](https://thecontentauthority.com/blog/navaho-vs-navajo) |
@@ -117,6 +134,7 @@ ________________________________________________________________________________
 | [Navaho biological sciences terminology - "Project ENABLE"](https://enablenavajo.org/dine) |
 | [Navaho linguistics material and history on the Internet Archive](https://archive.org/search?and=&query=navajo+language) |
 | [Navaho linguistics archive at MIT](https://fernald.domains.swarthmore.edu/nla/halearch/halearch.htm) |
+
 ________________________________________________________________________________________________________________________________________________
 
 | A few examples of my contributions to English-Navaho dictionary on Glosbe: |
