@@ -30,7 +30,7 @@ ________________________________________________________________________________
 
 | English Term       | Navaho/ Navajo Term                            | Literal Meaning in English                              |
 |---------------------|-----------------------------------------------|-------------------------------------------------------|
-| Quantum Computer   | Béésh tʼáá 'aníí 'á'ádaatʼéhígíí nitsékeesí   | Metal or piece of metal that thinks at a truly fundamental level |
+| quantum computer   | Béésh tʼáá 'aníí 'á'ádaatʼéhígíí nitsékeesí   | Metal or piece of metal that thinks at a truly fundamental level |
 
 _______________________________________________________________________________________________________________________________________________________________________
 
