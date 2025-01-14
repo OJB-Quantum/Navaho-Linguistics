@@ -65,6 +65,28 @@ ________________________________________________________________________________
 | Auditory = Harmonics |
 | Tactility = Braille-mathematics-inspired learning |
 
+
+________________________________________________________________________________________________________________________________________________
+
+## Below is a sample of Navaho/ Navajo Character to UTF-8 Encoding by Onri Jay Benally. [Full table available here as a PDF.](https://github.com/OJB-Quantum/Navaho-Linguistics/blob/main/Associated%20Diagrams/Navaho%20to%20UTF8%20Encoding_Onri%20Jay%20Benally.pdf)
+
+| Navaho Character | [UTF-8] "U+" Notation | [UTF-8] "\u" Notation |
+|------------------|-----------------------|-----------------------|
+| A | U+0041 | \u0041 |
+| B | U+0042 | \u0042 |
+| Ch | U+0043 U+0068 | \u0043\u0068 |
+| Ch' | U+0043 U+0068 U+0027 | \u0043\u0068\u0027 |
+| Tł'| U+0054 U+0142 U+0027 | \u0054\u0142\u0027 |
+| óó | U+00F3 U+00F3 | \u00F3\u00F3 |
+| ǫ́ǫ́ | U+01EB U+0301 U+01EB U+0301 | \u01EB\u0301\u01EB\u0301 |
+| ǫ́ǫ | U+01EB U+0301 U+01EB | \u01EB\u0301\u01EB |
+
+[Click here to view Onri's full markdown version of the Navaho/ Navajo Character to UTF-8 Encoding table.](https://github.com/OJB-Quantum/Navaho-Linguistics/blob/main/Table%20of%20Navaho%20Alphabets%20in%20Unicode.md)
+
+[Click here to download Onri's Navaho/ Navajo Character to UTF-8 Encoding Excel file.](https://github.com/OJB-Quantum/Navaho-Linguistics/raw/main/Associated%20Diagrams/Navaho%20to%20UTF8%20Encoding_Onri%20Jay%20Benally.xlsx)
+
+[Click here to view or download the Python script version.](https://github.com/OJB-Quantum/Navaho-Linguistics/blob/main/Python%20Scripts%20for%20Navaho%20Linguistics/Navaho_Characters_UTF8_Conversion_U_Plus_Notation.ipynb)
+
 ________________________________________________________________________________________________________________________________________________
 
 ||
@@ -93,27 +115,6 @@ ________________________________________________________________________________
 
 ![Navaho Long Vowel Network](https://github.com/OJB-Quantum/Navaho-Linguistics/assets/88035770/81f88834-244c-4c8e-8926-c62330055334)
 ![Basic 3D-Printable Cryostat for Educational Purposes](https://www.tinkercad.com/things/dgJLBpuNQtv-onris-printable-cryostat)
-
-________________________________________________________________________________________________________________________________________________
-
-## Sample of Navaho/ Navajo Character to UTF-8 Encoding by Onri Jay Benally. [Full table available here as a PDF.](https://github.com/OJB-Quantum/Navaho-Linguistics/blob/main/Associated%20Diagrams/Navaho%20to%20UTF8%20Encoding_Onri%20Jay%20Benally.pdf)
-
-| Navaho Character | [UTF-8] "U+" Notation | [UTF-8] "\u" Notation |
-|------------------|-----------------------|-----------------------|
-| A | U+0041 | \u0041 |
-| B | U+0042 | \u0042 |
-| Ch | U+0043 U+0068 | \u0043\u0068 |
-| Ch' | U+0043 U+0068 U+0027 | \u0043\u0068\u0027 |
-| Tł'| U+0054 U+0142 U+0027 | \u0054\u0142\u0027 |
-| óó | U+00F3 U+00F3 | \u00F3\u00F3 |
-| ǫ́ǫ́ | U+01EB U+0301 U+01EB U+0301 | \u01EB\u0301\u01EB\u0301 |
-| ǫ́ǫ | U+01EB U+0301 U+01EB | \u01EB\u0301\u01EB |
-
-[Click here to view Onri's full markdown version of the Navaho/ Navajo Character to UTF-8 Encoding table.](https://github.com/OJB-Quantum/Navaho-Linguistics/blob/main/Table%20of%20Navaho%20Alphabets%20in%20Unicode.md)
-
-[Click here to download Onri's Navaho/ Navajo Character to UTF-8 Encoding Excel file.](https://github.com/OJB-Quantum/Navaho-Linguistics/raw/main/Associated%20Diagrams/Navaho%20to%20UTF8%20Encoding_Onri%20Jay%20Benally.xlsx)
-
-[Click here to view or download the Python script version.](https://github.com/OJB-Quantum/Navaho-Linguistics/blob/main/Python%20Scripts%20for%20Navaho%20Linguistics/Navaho_Characters_UTF8_Conversion_U_Plus_Notation.ipynb)
 
 ________________________________________________________________________________________________________________________________________________
 
