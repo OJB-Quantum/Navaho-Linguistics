@@ -25,8 +25,12 @@ ________________________________________________________________________________
 
 ![image](https://github.com/user-attachments/assets/938b0916-8568-47fe-97e3-2c53cc8aeca8)
 
-- Onri's translation for "quantum computer" (in Navaho/ Navajo): Béésh tʼáá 'aníí 'á'ádaatʼéhígíí nitsékeesí. 
-Literal meaning in English: "Metal or piece of metal that thinks at a truly fundamental level"
+
+### A translation of "quantum computer" into Navaho/ Navajo, by Onri Jay Benally:
+
+| English Term       | Navaho/ Navajo Term                            | Literal Meaning in English                              |
+|---------------------|-----------------------------------------------|-------------------------------------------------------|
+| Quantum Computer   | Béésh tʼáá 'aníí 'á'ádaatʼéhígíí nitsékeesí   | Metal or piece of metal that thinks at a truly fundamental level |
 
 _______________________________________________________________________________________________________________________________________________________________________
 
