@@ -277,7 +277,7 @@ ________________________________________________________________________________
 | [Navaho biological sciences terminology - "Project ENABLE"](https://enablenavajo.org/dine) |
 | [Navaho linguistics material and history on the Internet Archive](https://archive.org/search?and=&query=navajo+language) |
 | [Navaho linguistics archive at MIT](https://fernald.domains.swarthmore.edu/nla/halearch/halearch.htm) |
-| [Basic 3D-Printable Cryostat for Educational Purposes](https://www.tinkercad.com/things/dgJLBpuNQtv-onris-printable-cryostat) |
+| [Basic 3D-printable cryostat for educational purposes](https://www.tinkercad.com/things/dgJLBpuNQtv-onris-printable-cryostat) |
 
 ________________________________________________________________________________________________________________________________________________
 
