@@ -124,7 +124,7 @@ ________________________________________________________________________________
 [Click here to view or download the Python script as a Jupyter Notebook of the Navaho/ Navajo Character-to-UTF-8 Encoding.](https://github.com/OJB-Quantum/Navaho-Linguistics/blob/main/Python%20Scripts%20for%20Navaho%20Linguistics/Navaho_Characters_UTF8_Conversion_U_Plus_Notation.ipynb)
 
 
-| Navaho Character | [UTF-8] "U+" Notation       | [UTF-8] "\u" Notation        |
+| Navaho Character (Phonetic) | [UTF-8] "U+" Notation       | [UTF-8] "\u" Notation        |
 |------------------|-----------------------------|------------------------------|
 | A                | U+0041                     | \u0041                       |
 | B                | U+0042                     | \u0042                       |
