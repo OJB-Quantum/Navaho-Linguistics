@@ -13,9 +13,18 @@ ________________________________________________________________________________
 
 | English Term       | Navaho/ Navajo Term                            | Literal Meaning in English                              |
 |--------------------|------------------------------------------------|---------------------------------------------------------|
-| quantum computer   | Béésh tʼáá 'aníí 'á'ádaatʼéhígíí nitsékeesí   | Metal or piece of metal that thinks at a truly fundamental level |
+| quantum computer   | béésh tʼáá 'aníí 'á'ádaatʼéhígíí nitsékeesí   | Metal or piece of metal that thinks at a truly fundamental level |
+
+________________________________________________________________________________________________________________________________________________
+
+| Full Immersion by Sight, Auditory, and Tactile Means |
+|-|
+| Sight = Animation & 3D models |
+| Auditory = Harmonics |
+| Tactility = Braille-mathematics-inspired learning |
 
 _______________________________________________________________________________________________________________________________________________________________________
+
 
 ### Leveraging the universal nature of geometry with linguistics
 
@@ -28,14 +37,6 @@ ________________________________________________________________________________
 | **Technology and Tools**        | - Geometry software and platforms support multilingual learning.<br>- Open Educational Resources (OERs) ensure inclusivity and access to content in various languages.                                                        |
 | **Challenges in Advanced Topics** | - Advanced geometry topics may require more specialized terminology.<br>- Language development and contextual examples can address this challenge.                                                                             |
 | **Conclusion**                  | - Basic geometry is universally teachable due to its visual and universal nature.<br>- Advanced topics can be effectively taught with creative methods and linguistic adaptability.                                             |
-
-________________________________________________________________________________________________________________________________________________
-
-| Full Immersion by Sight, Auditory, and Tactile Means |
-|-|
-| Sight = Animation & 3D models |
-| Auditory = Harmonics |
-| Tactility = Braille-mathematics-inspired learning |
 
 ________________________________________________________________________________________________________________________________________________
 
@@ -103,17 +104,22 @@ ________________________________________________________________________________
 
 ________________________________________________________________________________________________________________________________________________
 
-## To access the full PDF booklet, [click here.](https://github.com/OJB-Quantum/Navaho-Linguistics/blob/main/Navaho_Linguistics_for_Quantum_Hardware_Education_v2.pdf)
+### To access the full PDF booklet, [click here.](https://github.com/OJB-Quantum/Navaho-Linguistics/blob/main/Navaho_Linguistics_for_Quantum_Hardware_Education_v2.pdf)
+
 ![Navaho for Quantum Hardware Education_v2-1](https://github.com/OJB-Quantum/Navaho-Linguistics/assets/88035770/85ae0fb9-0ed6-4731-88e9-ce3a6e1c3df9)
 ![Navaho for Quantum Hardware Education_v2-2](https://github.com/OJB-Quantum/Navaho-Linguistics/assets/88035770/f86b8a3a-755b-42ab-8f5c-5329ff96ef92)
 ![Navaho for Quantum Hardware Education_v2-3](https://github.com/OJB-Quantum/Navaho-Linguistics/assets/88035770/62ece4d3-92a1-4206-955a-2de8af4a1ffd)
-
 ![Navaho Long Vowel Network](https://github.com/OJB-Quantum/Navaho-Linguistics/assets/88035770/81f88834-244c-4c8e-8926-c62330055334)
-![Basic 3D-Printable Cryostat for Educational Purposes](https://www.tinkercad.com/things/dgJLBpuNQtv-onris-printable-cryostat)
 
 ________________________________________________________________________________________________________________________________________________
 
-## Navaho/ Navajo Character to UTF-8 Encoding by Onri Jay Benally. [Full table available here as a PDF.](https://github.com/OJB-Quantum/Navaho-Linguistics/blob/main/Associated%20Diagrams/Navaho%20to%20UTF8%20Encoding_Onri%20Jay%20Benally.pdf)
+### Navaho/ Navajo Character to UTF-8 Encoding by Onri Jay Benally. [Click here for PDF.](https://github.com/OJB-Quantum/Navaho-Linguistics/blob/main/Associated%20Diagrams/Navaho%20to%20UTF8%20Encoding_Onri%20Jay%20Benally.pdf)
+
+[Click here to view Onri's full markdown script of the Navaho/ Navajo-Character-to-UTF-8 Encoding table.](https://github.com/OJB-Quantum/Navaho-Linguistics/blob/main/Table%20of%20Navaho%20Alphabets%20in%20Unicode.md)
+
+[Click here to download Onri's Navaho/ Navajo Character-to-UTF-8 Encoding Excel file.](https://github.com/OJB-Quantum/Navaho-Linguistics/raw/main/Associated%20Diagrams/Navaho%20to%20UTF8%20Encoding_Onri%20Jay%20Benally.xlsx)
+
+[Click here to view or download the Python script as a Jupyter Notebook of the Navaho/ Navajo Character-to-UTF-8 Encoding.](https://github.com/OJB-Quantum/Navaho-Linguistics/blob/main/Python%20Scripts%20for%20Navaho%20Linguistics/Navaho_Characters_UTF8_Conversion_U_Plus_Notation.ipynb)
 
 | Navaho Character | [UTF-8] "U+" Notation | [UTF-8] "\u" Notation |
 |------------------|-----------------------|-----------------------|
@@ -250,13 +256,6 @@ ________________________________________________________________________________
 ...
 | ń         | U+0144                           | \u0144                    |
 
-
-[Click here to view Onri's full markdown script of the Navaho/ Navajo-Character-to-UTF-8 Encoding table.](https://github.com/OJB-Quantum/Navaho-Linguistics/blob/main/Table%20of%20Navaho%20Alphabets%20in%20Unicode.md)
-
-[Click here to download Onri's Navaho/ Navajo Character-to-UTF-8 Encoding Excel file.](https://github.com/OJB-Quantum/Navaho-Linguistics/raw/main/Associated%20Diagrams/Navaho%20to%20UTF8%20Encoding_Onri%20Jay%20Benally.xlsx)
-
-[Click here to view or download the Python script as a Jupyter Notebook of the Navaho/ Navajo Character-to-UTF-8 Encoding.](https://github.com/OJB-Quantum/Navaho-Linguistics/blob/main/Python%20Scripts%20for%20Navaho%20Linguistics/Navaho_Characters_UTF8_Conversion_U_Plus_Notation.ipynb)
-
 ________________________________________________________________________________________________________________________________________________
 
 | Clickable links to supplementary material: |
@@ -278,6 +277,7 @@ ________________________________________________________________________________
 | [Navaho biological sciences terminology - "Project ENABLE"](https://enablenavajo.org/dine) |
 | [Navaho linguistics material and history on the Internet Archive](https://archive.org/search?and=&query=navajo+language) |
 | [Navaho linguistics archive at MIT](https://fernald.domains.swarthmore.edu/nla/halearch/halearch.htm) |
+| [Basic 3D-printable cryostat for educational purposes](https://www.tinkercad.com/things/dgJLBpuNQtv-onris-printable-cryostat) |
 
 ________________________________________________________________________________________________________________________________________________
 
@@ -295,6 +295,6 @@ ________________________________________________________________________________
 
 Note: I made sources available in this repository to be generally open access, while others are "copyrighted unless used for educational purposes". This repository intends to produce educational material in the same light. See http://rightsstatements.org/page/InC-EDU/1.0/ for more details on the permissions allowed by those respective authors.
 
-Bio in Navaho: 'Aoo', yá'át'ééh. T'aa iyisi baa 'axhééhnisin. Hastiin Biłééhóziní Binalí 'akót'áó shi zhi', kótʼéego. 'Ako shik'a'i dii shi zhi' łaʼ sheiníʼą́ dikwii naahai yęę dą́ą́. T'aadoo shi ei Táchii'nii nishłį, Naakaii Dine'é báshishchíín, Bit'ahnii dashicheii, Kinłichíi'nii dashináli, Ta'neeszahnii dashicheii 'alááhgo, dóó 'Áshįįhí dashinaakidi nácheii. 'Áádóó, Tsé Chʼil Yaa Tó go ei naashá. 'Akót'áó Diné nishłį. 'Axhéhee'.
+Onri's bio in Navaho: 'Aoo', yá'át'ééh. T'aa iyisi baa 'axhééhnisin. Hastiin Biłééhóziní Binalí 'akót'áó shi zhi', kótʼéego. 'Ako shik'a'i dii shi zhi' łaʼ sheiníʼą́ dikwii naahai yęę dą́ą́. T'aadoo shi ei Táchii'nii nishłį, Naakaii Dine'é báshishchíín, Bit'ahnii dashicheii, Kinłichíi'nii dashináli, Ta'neeszahnii dashicheii 'alááhgo, dóó 'Áshįįhí dashinaakidi nácheii. 'Áádóó, Tsé Chʼil Yaa Tó go ei naashá. 'Akót'áó Diné nishłį. 'Axhéhee'.
 
 (Bik'idadi'diitį́į́ł = We will understand it) -Onri
