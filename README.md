@@ -15,7 +15,16 @@ ________________________________________________________________________________
 |--------------------|------------------------------------------------|---------------------------------------------------------|
 | quantum computer   | Béésh tʼáá 'aníí 'á'ádaatʼéhígíí nitsékeesí   | Metal or piece of metal that thinks at a truly fundamental level |
 
+________________________________________________________________________________________________________________________________________________
+
+| Full Immersion by Sight, Auditory, and Tactile Means |
+|-|
+| Sight = Animation & 3D models |
+| Auditory = Harmonics |
+| Tactility = Braille-mathematics-inspired learning |
+
 _______________________________________________________________________________________________________________________________________________________________________
+
 
 ### Leveraging the universal nature of geometry with linguistics
 
@@ -28,14 +37,6 @@ ________________________________________________________________________________
 | **Technology and Tools**        | - Geometry software and platforms support multilingual learning.<br>- Open Educational Resources (OERs) ensure inclusivity and access to content in various languages.                                                        |
 | **Challenges in Advanced Topics** | - Advanced geometry topics may require more specialized terminology.<br>- Language development and contextual examples can address this challenge.                                                                             |
 | **Conclusion**                  | - Basic geometry is universally teachable due to its visual and universal nature.<br>- Advanced topics can be effectively taught with creative methods and linguistic adaptability.                                             |
-
-________________________________________________________________________________________________________________________________________________
-
-| Full Immersion by Sight, Auditory, and Tactile Means |
-|-|
-| Sight = Animation & 3D models |
-| Auditory = Harmonics |
-| Tactility = Braille-mathematics-inspired learning |
 
 ________________________________________________________________________________________________________________________________________________
 
@@ -104,6 +105,7 @@ ________________________________________________________________________________
 ________________________________________________________________________________________________________________________________________________
 
 ## To access the full PDF booklet, [click here.](https://github.com/OJB-Quantum/Navaho-Linguistics/blob/main/Navaho_Linguistics_for_Quantum_Hardware_Education_v2.pdf)
+
 ![Navaho for Quantum Hardware Education_v2-1](https://github.com/OJB-Quantum/Navaho-Linguistics/assets/88035770/85ae0fb9-0ed6-4731-88e9-ce3a6e1c3df9)
 ![Navaho for Quantum Hardware Education_v2-2](https://github.com/OJB-Quantum/Navaho-Linguistics/assets/88035770/f86b8a3a-755b-42ab-8f5c-5329ff96ef92)
 ![Navaho for Quantum Hardware Education_v2-3](https://github.com/OJB-Quantum/Navaho-Linguistics/assets/88035770/62ece4d3-92a1-4206-955a-2de8af4a1ffd)
