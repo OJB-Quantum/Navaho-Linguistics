@@ -181,6 +181,9 @@ Borrowed from: Gao et al., *Practical Guide for Building Superconducting Quantum
 <https://doi.org/10.1103/PRXQuantum.2.040202>  
 [https://creativecommons.org/licenses/by-nc-nd/4.0/](https://creativecommons.org/licenses/by-nc-nd/4.0/)
 
+> **Note:**
+> Navaho translation for cryogenic dilution fridge is coming soon...
+
 ________________________________________________________________________________________________________________________________________________
 
 ### To access the full PDF booklet, [click here.](https://github.com/OJB-Quantum/Navaho-Linguistics/blob/main/Navaho_Linguistics_for_Quantum_Hardware_Education_v2.pdf)
