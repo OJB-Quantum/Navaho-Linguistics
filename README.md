@@ -11,11 +11,73 @@ ________________________________________________________________________________
 
 _______________________________________________________________________________________________________________________________________________________________________
 
-### A translation of "quantum computer" into Navaho/ Navajo, by Onri Jay Benally (an example):
+### Translation of "Quantum Computer" into Navajo by Onri Jay Benally (O.J.B.) [Example]:
 
 | English Term       | Navaho/ Navajo Term                            | Literal Meaning in English                              |
 |--------------------|------------------------------------------------|---------------------------------------------------------|
 | quantum computer   | béésh tʼáá 'aníí 'á'ádaatʼéhígíí nitsékeesí   | Metal or piece of metal that thinks at a truly fundamental level |
+
+________________________________________________________
+
+### Living on the Countryside Explained by O.J.B., First in Navaho, Followed by English
+
+| **Navaho**         | **English**           |
+|--------------------|-----------------------|
+| Jo dii Hoozdoh hahoodzo eii yaa, doo nidahałtingóó, dził, tsékooh, dóó dah azką́, eidigii t'aa ałtsoh Diné Bikeyah 'akwe'e sha hoghan. Dził bilááhdęęh 'akwe'e tłéego jo wót’ááhjį' alááhgo, yágháhookáán biyi'di, łees'áán yílzhódí nizhonigo adindiin. 'Akohgo 'índa ládą́ą́' k'os ádin, t’áá ákwii tł'éé' sǫ'łání dah dinisxǫs. 'Akót'áó shił yá'át'ééh. | In Arizona, there are deserts, mountains, canyons, and mesas within the Navaho Nation, my home. From the mountains and beyond, way up in the sky, in outer space, the Milky Way can be seen shining beautifully. Every night, if there are no clouds obstructing the view, one can observe so many sparkling stars. I am content with the way that this is. |
+
+________________________________________________________
+
+### Quantum Mechanics Explained in Navaho by Onri
+
+| **Navaho** |
+|-----------------------------------------------|
+| Díí atsiniltł'ish biyi' 'asdizí náás góne'é t'áá kóníghánígo 'akwe'é 'ahóodziil éídígii yidísin. <br> T'áá bééhodoozįįł yił ałhii'níná’iidzóóh nida'ałkáá'i' Schrödinger bits’ą́ą́dę́ę́ nihinááł. |
+
+> **Note:**
+> English translation is coming soon...
+
+________________________________________________________
+
+### Language Ideas for Quantum Hardware Comprehension
+
+| **Stage**         | **English Term** | **Navaho Term**                                              |
+|--------------------|------------------|--------------------------------------------------------------|
+| Initial Idea       | Some Word        | Nv = Eng                                                    |
+|                    |                  | Nv = Eng                                                    |
+|                    |                  | Nv = Eng                                                    |
+| Final Version      | Final Word       | Navaho Term Spelled = [Rough Transcription]                 |
+
+*Generic blueprint for language breakdown from English to Navaho.*
+
+---
+
+#### From idea to practice...
+
+| **Stage**         | **English Term** | **Navaho Term**                                              |
+|--------------------|------------------|--------------------------------------------------------------|
+| Initial Idea       | Computer         | Béésh = Metal                                               |
+|                    |                  | Łichííʼ = Red                                               |
+|                    |                  | Nitsékees = Think                                           |
+| Final Version      | Computer         | Béésh Łichííʼ Nitsékeesí = [A piece of copper that thinks]  |
+
+*Representation of 'computer' in Navaho.*
+
+---
+
+### Other examples:
+
+| **English**                                    | **Navaho**                                                    |
+|------------------------------------------------|----------------------------------------------------------------|
+| The quick brown fox                           | ma'ii dibéłchíʼí dilwo' or ma'ii yishtłizh dilwoʼ             |
+| Lazy dog                                      | léechąąʼí iłhóyéé                                             |
+| Jumped                                        | nahachaʼ or dah nahachaʼ or dahnáníjįįh                       |
+| To jump                                       | dahnáníshjį́į́h                                               |
+| Jumping                                       | dah naháchaʼgo                                                |
+| Laziness                                      | iłhóyéé                                                       |
+| Slow or in vain                               | chʼééh                                                        |
+| Fast runner (quick)                           | dilwoʼ                                                        |
+| The quick brown fox jumped over the lazy dog | maʼii dibéłchíʼí dilwoʼ eii léechąąʼí iłhóyéé dahnáníjįįh     |
+
 
 ________________________________________________________
 
@@ -30,10 +92,10 @@ ________________________________________________________
 ### 3 Categories of Technical Communication by O.J.B.
 
 | Category               | Description                                                                       |
-|------------------------|----------------------------------------------------------------------------------------|
-| **Mathematical linguistics** | - Logical operations with words. <br> - Can be relayed through Braille, visible, or spoken text. <br> - Aims to formalize & create syntax & morphology. |
-| **Linguistical mathematics** | - Semantics & philosophical-based communication. <br> - Tendency to be abstract, indeterminate, or ambiguous. <br> - Applies mathematical theories to understand linguistic phenomena & existing syntax. |
-| **Descriptive linguistics**  | - Delineated, formulated, stringified, expanded, verbal communication. <br> - Can be relayed through Braille, visible, or spoken text. <br> - Uses familiar syntax of one’s spoken language for comprehensive documentation. |
+|------------------------|-----------------------------------------------------------------------------------|
+| **Mathematical Linguistics** | - Logical operations with words. <br> - Can be relayed through Braille, visible, or spoken text. <br> - Aims to formalize & create syntax & morphology. |
+| **Linguistical Mathematics** | - Semantics & philosophical-based communication. <br> - Tendency to be abstract, indeterminate, or ambiguous. <br> - Applies mathematical theories to understand linguistic phenomena & existing syntax. |
+| **Descriptive Linguistics**  | - Delineated, formulated, stringified, expanded, verbal communication. <br> - Can be relayed through Braille, visible, or spoken text. <br> - Uses familiar syntax of one’s spoken language for comprehensive documentation. |
 
 _______________________________________________________________________________________________________________________________________________________________________
 
@@ -44,8 +106,8 @@ ________________________________________________________________________________
 | **Universal Nature of Geometry** | - Geometry is highly visual and uses universally recognized symbols and diagrams.<br>- Fundamental concepts like points, lines, and shapes are easily understood visually, transcending linguistic barriers.                   |
 | **Language's Mathematical Lexicon** | - Requires a well-developed mathematical vocabulary.<br>- Terms can be created or borrowed for effective communication.<br>- Descriptions and analogies can substitute for missing terms.                                       |
 | **Teaching Methods**            | - Visual aids (diagrams, models, animations) can overcome linguistic gaps.<br>- Teaching in the learners' native language enhances understanding.<br>- Multilingual strategies can support advanced topics.                    |
-| **Linguistic and Cultural Context** | - Relating concepts to cultural or environmental contexts engages learners.<br>- Indigenous languages, like Navajo, can use descriptive translations for geometric terms.                                                  |
-| **Technology and Tools**        | - Geometry software and platforms support multilingual learning.<br>- Open Educational Resources (OERs) ensure inclusivity and access to content in various languages.                                                        |
+| **Linguistic & Cultural Context** | - Relating concepts to cultural or environmental contexts engages learners.<br>- Indigenous languages, like Navajo, can use descriptive translations for geometric terms.                                                  |
+| **Technology & Tools**        | - Geometry software and platforms support multilingual learning.<br>- Open Educational Resources (OERs) ensure inclusivity and access to content in various languages.                                                        |
 | **Challenges in Advanced Topics** | - Advanced geometry topics may require more specialized terminology.<br>- Language development and contextual examples can address this challenge.                                                                             |
 | **Conclusion**                  | - Basic geometry is universally teachable due to its visual and universal nature.<br>- Advanced topics can be effectively taught with creative methods and linguistic adaptability.                                             |
 
@@ -60,7 +122,7 @@ ________________________________________________________________________________
 | ✅ Generate a table of words and phrases by Onri that need to be converted into digital text. |
 | 🔳 Label dilution refrigerator in Navaho. |
 | ✅ Label tunnel junctions & physical qubit components in Navaho, may include original electron micrographs & renderings in Blender. Generate device 3D models intended for comparison with micrographs. |
-| 🔳 Qubit spectroscopy and benchmarking terms in Navaho. |
+| 🔳 Qubit spectroscopy, reflectometry, & benchmarking terms in Navaho. |
 | 🔳 Incorporation of hybrid qubit terms, able to support quantum hardware publication. |
 | 🔳 Potential descriptions of fractal geometry. |
 | 🔳 Potential contributions to Qiskit/ Qiskit Metal documentation in Navaho (from paper to GitHub pull requests). |
@@ -93,23 +155,17 @@ ________________________________________________________________________________
 
 ________________________________________________________________________________________________________________________________________________
 
+### Below are some figures of O.J.B.'s Navaho/ Navajo two-part translation model:
+
 ![312886653-c3bbb6cd-a1bb-480f-9fb0-40e771973f84](https://github.com/user-attachments/assets/180f416d-1140-4e62-98e5-00995d276a7a)
 
 ![312886676-391e17b4-cc45-4662-958b-534af8f6aaba](https://github.com/user-attachments/assets/cfb75dba-4daf-4463-a720-2e2d54fed90d)
-
-![image](https://github.com/user-attachments/assets/63bc2f76-49dc-4e38-b14c-37837058b535)
-
-![image](https://github.com/user-attachments/assets/1f5a1210-27ea-49f7-a97f-583da08179fe)
 
 ![312886767-5cfa8427-06e3-4b69-8cc4-8d8335ce2d46](https://github.com/user-attachments/assets/50488b8c-9b3c-4a21-b334-47dc2f3d3e61)
 
 ![312886795-5ca2e26d-fac3-42fd-be0b-e5a638c8ec6d](https://github.com/user-attachments/assets/b2a58b44-3c93-4bb7-bc3f-e6d8db9323ee)
 
 ![image](https://github.com/user-attachments/assets/4bb53477-5aff-4bbe-89be-d02e0109466f)
-
-![unnamed](https://github.com/user-attachments/assets/0074739b-ba4f-4e44-8f08-186bf52a9fb4)
-
-![image](https://github.com/user-attachments/assets/938b0916-8568-47fe-97e3-2c53cc8aeca8)
 
 ![300189739-9c7c2ba3-e314-4166-9e70-57a794d9bbde](https://github.com/OJB-Quantum/Navaho-Linguistics/assets/88035770/a50ade0b-2fa5-42f4-a4d0-cf822678aa4b)
 
