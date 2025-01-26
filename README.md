@@ -38,10 +38,10 @@ ________________________________________________________
 
 ________________________________________________________
 
-### Linguistic Idea Table for Topic Comprehension
+### Linguistic Idea Table Aimed Toward Translation Use
 
 | **Stage**         | **English Term** | **Navaho Term**                                              |
-|--------------------|------------------|--------------------------------------------------------------|
+|--------------------|------------------|-------------------------------------------------------------|
 | Initial Idea       | Some Word        | Nv = Eng                                                    |
 |                    |                  | Nv = Eng                                                    |
 |                    |                  | Nv = Eng                                                    |
@@ -54,7 +54,7 @@ ________________________________________________________
 ### From Idea to Practice...
 
 | **Stage**         | **English Term** | **Navaho Term**                                              |
-|--------------------|------------------|--------------------------------------------------------------|
+|--------------------|------------------|-------------------------------------------------------------|
 | Initial Idea       | Computer         | Béésh = Metal                                               |
 |                    |                  | Łichííʼ = Red                                               |
 |                    |                  | Nitsékees = Think                                           |
@@ -62,6 +62,7 @@ ________________________________________________________
 
 *Representation of 'computer' in Navaho.*
 
+> For more details, scroll further to view the two-part translation model.
 ---
 
 ### Other Examples:
