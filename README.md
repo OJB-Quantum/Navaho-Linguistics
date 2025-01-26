@@ -47,7 +47,7 @@ ________________________________________________________
 |                    |                  | Nv = Eng                                                    |
 | Final Version      | Final Word       | Navaho Term Spelled = [Rough Transcription]                 |
 
-*Figure 1: Generic blueprint for language breakdown from English to Navaho.*
+*Generic blueprint for language breakdown from English to Navaho.*
 
 ---
 
@@ -60,7 +60,7 @@ ________________________________________________________
 |                    |                  | Nitsékees = Think                                           |
 | Final Version      | Computer         | Béésh Łichííʼ Nitsékeesí = [A piece of copper that thinks]  |
 
-*Figure 2: Representation of Computer in Navaho.*
+*Representation of 'computer' in Navaho.*
 
 ---
 
