@@ -38,10 +38,10 @@ ________________________________________________________
 
 ________________________________________________________
 
-### Linguistic Idea Table for Topic Comprehension
+### Linguistic Idea Table Aimed Toward Translation Use
 
 | **Stage**         | **English Term** | **Navaho Term**                                              |
-|--------------------|------------------|--------------------------------------------------------------|
+|--------------------|------------------|-------------------------------------------------------------|
 | Initial Idea       | Some Word        | Nv = Eng                                                    |
 |                    |                  | Nv = Eng                                                    |
 |                    |                  | Nv = Eng                                                    |
@@ -51,10 +51,10 @@ ________________________________________________________
 
 ---
 
-### From idea to practice...
+### From Idea to Practice...
 
 | **Stage**         | **English Term** | **Navaho Term**                                              |
-|--------------------|------------------|--------------------------------------------------------------|
+|--------------------|------------------|-------------------------------------------------------------|
 | Initial Idea       | Computer         | Béésh = Metal                                               |
 |                    |                  | Łichííʼ = Red                                               |
 |                    |                  | Nitsékees = Think                                           |
@@ -62,9 +62,10 @@ ________________________________________________________
 
 *Representation of 'computer' in Navaho.*
 
+> For more details, scroll further to view the two-part translation model.
 ---
 
-### Other examples:
+### Other Examples:
 
 | **English**                                    | **Navaho**                                                    |
 |------------------------------------------------|----------------------------------------------------------------|
@@ -81,7 +82,7 @@ ________________________________________________________
 
 ________________________________________________________
 
-| Full Immersion by Sight, Auditory, and Tactile Means |
+| Full Immersion by Sight, Auditory, & Tactile Means |
 |-|
 | Sight = Animation & 3D models |
 | Auditory = Harmonics |
@@ -181,6 +182,9 @@ Borrowed from: Gao et al., *Practical Guide for Building Superconducting Quantum
 <https://doi.org/10.1103/PRXQuantum.2.040202>  
 [https://creativecommons.org/licenses/by-nc-nd/4.0/](https://creativecommons.org/licenses/by-nc-nd/4.0/)
 
+> **Note:**
+> Navaho translation for cryogenic dilution fridge is coming soon...
+
 ________________________________________________________________________________________________________________________________________________
 
 ### To access the full PDF booklet, [click here.](https://github.com/OJB-Quantum/Navaho-Linguistics/blob/main/Navaho_Linguistics_for_Quantum_Hardware_Education_v2.pdf)
@@ -191,6 +195,10 @@ ________________________________________________________________________________
 ![Navaho Long Vowel Network](https://github.com/OJB-Quantum/Navaho-Linguistics/assets/88035770/81f88834-244c-4c8e-8926-c62330055334)
 
 ________________________________________________________________________________________________________________________________________________
+
+| Google Colab Notebook Demonstrating the UTF-8 Encoding of the Navaho Language Characters |  |
+| ----------- | ----------------- |
+| Josephson Junction Tunneling Prediction | [![Open In Colab](https://colab.research.google.com/github/OJB-Quantum/Navaho-Linguistics/blob/main/Python%20Scripts%20for%20Navaho%20Linguistics/Navaho_Characters_UTF8_Conversion_U_Plus_Notation.ipynb) |
 
 ### Navaho/ Navajo Character to UTF-8 Encoding by Onri Jay Benally. [Click here for PDF.](https://github.com/OJB-Quantum/Navaho-Linguistics/blob/main/Associated%20Diagrams/Navaho%20to%20UTF8%20Encoding_Onri%20Jay%20Benally.pdf)
 
@@ -377,4 +385,4 @@ Note: I made sources available in this repository to be generally open access, w
 
 Onri's bio in Navaho: 'Aoo', yá'át'ééh. T'aa iyisi baa 'axhééhnisin. Hastiin Biłééhóziní Binalí 'akót'áó shi zhi', kótʼéego. 'Ako shik'a'i dii shi zhi' łaʼ sheiníʼą́ dikwii naahai yęę dą́ą́. T'aadoo shi ei Táchii'nii nishłį, Naakaii Dine'é báshishchíín, Bit'ahnii dashicheii, Kinłichíi'nii dashináli, Ta'neeszahnii dashicheii 'alááhgo, dóó 'Áshįįhí dashinaakidi nácheii. 'Áádóó, Tsé Chʼil Yaa Tó go ei naashá. 'Akót'áó Diné nishłį. 'Axhéhee'.
 
-(Bik'idadi'diitį́į́ł = We will understand it) -Onri
+(Bik'idadi'diitį́į́ł = We will understand it) - Onri
