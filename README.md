@@ -159,6 +159,40 @@ ________________________________________________________________________________
 
 ________________________________________________________________________________________________________________________________________________
 
+| Clickable links to supplementary material: |
+|--------------------------------------------|
+| [Navaho vs. Navajo](http://npshistory.com/nature_notes/meve/vol4-2h.htm)  [Navaho vs. Navajo](https://thecontentauthority.com/blog/navaho-vs-navajo) |
+| [Navaho Wiktionary by Wikimedia Foundation](https://en.wiktionary.org/wiki/Category:nv:All_topics) |
+| [Navaho Wikipedia](https://nv.wikipedia.org/wiki/%C3%8Diyis%C3%AD%C3%AD_Naaltsoos?fbclid=IwAR3w-JlUmK4HDzTGyHSDHGgbjs4rf0UUfVQioguvvF-l3_MbSTwE4Txq_h0) |
+| [Navaho in Latin Script](https://www.gomyson.com/vowels.html) |
+| [Navaho in Cyrillic Script](https://omniglot.com/conscripts/cyrillicnavajo.htm) |
+| [Navaho language audio sample narrated by Onri](https://www.omniglot.com/conscripts/cyrillicnavajo.htm#:~:text=Hear%20a%20recording%20of%20this%20text%20by%20Onri%20Jay%20Benally) |
+| [Navaho sound profiles](https://www.unm.edu/~johncho/html/main.html) |
+| [Navaho prefixes](https://en.wiktionary.org/wiki/Category:Navajo_prefixes) |
+| [Navaho suffixes](https://en.wiktionary.org/wiki/Category:Navajo_suffixes) |
+| [Navaho particles](https://en.wiktionary.org/wiki/Category:Navajo_particles) |
+| [Navaho pronouns](https://en.wiktionary.org/wiki/Category:Navajo_pronouns)|
+| [Navaho postpositions](https://en.wiktionary.org/wiki/Category:Navajo_postpositions) |
+| [Navaho grammar material](https://fernald.domains.swarthmore.edu/nla/grammar/grammar_contents_14.htm) |
+| [Navaho audio dictionary](https://talkingdictionary.swarthmore.edu/navajo_postposition/?lang=nav) |
+| [Navaho biological sciences terminology - "Project ENABLE"](https://enablenavajo.org/dine) |
+| [Navaho linguistics material and history on the Internet Archive](https://archive.org/search?and=&query=navajo+language) |
+| [Navaho linguistics archive at MIT](https://fernald.domains.swarthmore.edu/nla/halearch/halearch.htm) |
+| [Basic 3D-printable cryostat for educational purposes](https://www.tinkercad.com/things/dgJLBpuNQtv-onris-printable-cryostat) |
+
+________________________________________________________________________________________________________________________________________________
+
+| A few examples of my contributions to English-Navaho dictionary on Glosbe: |
+|--------------------------------------------------------------------------------|
+| [Electron spin](https://app.glosbe.com/nv/en/atsinilt%C5%82%E2%80%99ish%20biyi'%20'asdiz%C3%AD) |
+| [Intervals](https://app.glosbe.com/nv/en/t'%C3%A1%C3%A1%20k%C3%B3n%C3%ADgh%C3%A1n%C3%ADgo) |
+| [His/her brain](https://app.glosbe.com/nv/en/bitsiigh%C4%85%C4%85') |
+| [Oak](https://app.glosbe.com/nv/en/Ts%C3%A9%20ch%CA%BCil%20or%20Ts%C3%A9ch%CA%BCil) |
+
+(There is a longer list of the translations I made, which will soon be uploaded in the folders above).
+
+________________________________________________________________________________________________________________________________________________
+
 ### Below are some figures of O.J.B.'s Navaho/ Navajo two-part translation model:
 
 ![312886653-c3bbb6cd-a1bb-480f-9fb0-40e771973f84](https://github.com/user-attachments/assets/180f416d-1140-4e62-98e5-00995d276a7a)
@@ -342,41 +376,6 @@ ________________________________________________________________________________
 | ǫ́ó              | U+01EB U+0301 U+00F3        | \u01EB\u0301\u00F3           |
 | ...              | ...                         | ...                          |
 | ń                | U+0144                     | \u0144                       |
-
-
-________________________________________________________________________________________________________________________________________________
-
-| Clickable links to supplementary material: |
-|--------------------------------------------|
-| [Navaho vs. Navajo](http://npshistory.com/nature_notes/meve/vol4-2h.htm)  [Navaho vs. Navajo](https://thecontentauthority.com/blog/navaho-vs-navajo) |
-| [Navaho Wiktionary by Wikimedia Foundation](https://en.wiktionary.org/wiki/Category:nv:All_topics) |
-| [Navaho Wikipedia](https://nv.wikipedia.org/wiki/%C3%8Diyis%C3%AD%C3%AD_Naaltsoos?fbclid=IwAR3w-JlUmK4HDzTGyHSDHGgbjs4rf0UUfVQioguvvF-l3_MbSTwE4Txq_h0) |
-| [Navaho in Latin Script](https://www.gomyson.com/vowels.html) |
-| [Navaho in Cyrillic Script](https://omniglot.com/conscripts/cyrillicnavajo.htm) |
-| [Navaho language audio sample narrated by Onri](https://www.omniglot.com/conscripts/cyrillicnavajo.htm#:~:text=Hear%20a%20recording%20of%20this%20text%20by%20Onri%20Jay%20Benally) |
-| [Navaho sound profiles](https://www.unm.edu/~johncho/html/main.html) |
-| [Navaho prefixes](https://en.wiktionary.org/wiki/Category:Navajo_prefixes) |
-| [Navaho suffixes](https://en.wiktionary.org/wiki/Category:Navajo_suffixes) |
-| [Navaho particles](https://en.wiktionary.org/wiki/Category:Navajo_particles) |
-| [Navaho pronouns](https://en.wiktionary.org/wiki/Category:Navajo_pronouns)|
-| [Navaho postpositions](https://en.wiktionary.org/wiki/Category:Navajo_postpositions) |
-| [Navaho grammar material](https://fernald.domains.swarthmore.edu/nla/grammar/grammar_contents_14.htm) |
-| [Navaho audio dictionary](https://talkingdictionary.swarthmore.edu/navajo_postposition/?lang=nav) |
-| [Navaho biological sciences terminology - "Project ENABLE"](https://enablenavajo.org/dine) |
-| [Navaho linguistics material and history on the Internet Archive](https://archive.org/search?and=&query=navajo+language) |
-| [Navaho linguistics archive at MIT](https://fernald.domains.swarthmore.edu/nla/halearch/halearch.htm) |
-| [Basic 3D-printable cryostat for educational purposes](https://www.tinkercad.com/things/dgJLBpuNQtv-onris-printable-cryostat) |
-
-________________________________________________________________________________________________________________________________________________
-
-| A few examples of my contributions to English-Navaho dictionary on Glosbe: |
-|--------------------------------------------------------------------------------|
-| [Electron spin](https://app.glosbe.com/nv/en/atsinilt%C5%82%E2%80%99ish%20biyi'%20'asdiz%C3%AD) |
-| [Intervals](https://app.glosbe.com/nv/en/t'%C3%A1%C3%A1%20k%C3%B3n%C3%ADgh%C3%A1n%C3%ADgo) |
-| [His/her brain](https://app.glosbe.com/nv/en/bitsiigh%C4%85%C4%85') |
-| [Oak](https://app.glosbe.com/nv/en/Ts%C3%A9%20ch%CA%BCil%20or%20Ts%C3%A9ch%CA%BCil) |
-
-(There is a longer list of the translations I made, which will soon be uploaded in the folders above).
 
 ________________________________________________________________________________________________________________________________________________
 
