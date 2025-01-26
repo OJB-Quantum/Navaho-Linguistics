@@ -155,6 +155,8 @@ ________________________________________________________________________________
 
 ________________________________________________________________________________________________________________________________________________
 
+### Below are some figures of O.J.B.'s Navaho/ Navajo two-part translation model:
+
 ![312886653-c3bbb6cd-a1bb-480f-9fb0-40e771973f84](https://github.com/user-attachments/assets/180f416d-1140-4e62-98e5-00995d276a7a)
 
 ![312886676-391e17b4-cc45-4662-958b-534af8f6aaba](https://github.com/user-attachments/assets/cfb75dba-4daf-4463-a720-2e2d54fed90d)
