@@ -11,7 +11,7 @@ ________________________________________________________________________________
 
 _______________________________________________________________________________________________________________________________________________________________________
 
-### A translation of "quantum computer" into Navaho/ Navajo, by Onri Jay Benally (an example):
+### Translation of "Quantum Computer" into Navajo by Onri Jay Benally (O.J.B.) [Example]:
 
 | English Term       | Navaho/ Navajo Term                            | Literal Meaning in English                              |
 |--------------------|------------------------------------------------|---------------------------------------------------------|
