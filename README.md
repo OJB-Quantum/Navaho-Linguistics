@@ -49,10 +49,10 @@ ________________________________________________________
 ### 3 Categories of Technical Communication by O.J.B.
 
 | Category               | Description                                                                       |
-|------------------------|----------------------------------------------------------------------------------------|
-| **Mathematical linguistics** | - Logical operations with words. <br> - Can be relayed through Braille, visible, or spoken text. <br> - Aims to formalize & create syntax & morphology. |
-| **Linguistical mathematics** | - Semantics & philosophical-based communication. <br> - Tendency to be abstract, indeterminate, or ambiguous. <br> - Applies mathematical theories to understand linguistic phenomena & existing syntax. |
-| **Descriptive linguistics**  | - Delineated, formulated, stringified, expanded, verbal communication. <br> - Can be relayed through Braille, visible, or spoken text. <br> - Uses familiar syntax of one’s spoken language for comprehensive documentation. |
+|------------------------|-----------------------------------------------------------------------------------|
+| **Mathematical Linguistics** | - Logical operations with words. <br> - Can be relayed through Braille, visible, or spoken text. <br> - Aims to formalize & create syntax & morphology. |
+| **Linguistical Mathematics** | - Semantics & philosophical-based communication. <br> - Tendency to be abstract, indeterminate, or ambiguous. <br> - Applies mathematical theories to understand linguistic phenomena & existing syntax. |
+| **Descriptive Linguistics**  | - Delineated, formulated, stringified, expanded, verbal communication. <br> - Can be relayed through Braille, visible, or spoken text. <br> - Uses familiar syntax of one’s spoken language for comprehensive documentation. |
 
 _______________________________________________________________________________________________________________________________________________________________________
 
@@ -63,8 +63,8 @@ ________________________________________________________________________________
 | **Universal Nature of Geometry** | - Geometry is highly visual and uses universally recognized symbols and diagrams.<br>- Fundamental concepts like points, lines, and shapes are easily understood visually, transcending linguistic barriers.                   |
 | **Language's Mathematical Lexicon** | - Requires a well-developed mathematical vocabulary.<br>- Terms can be created or borrowed for effective communication.<br>- Descriptions and analogies can substitute for missing terms.                                       |
 | **Teaching Methods**            | - Visual aids (diagrams, models, animations) can overcome linguistic gaps.<br>- Teaching in the learners' native language enhances understanding.<br>- Multilingual strategies can support advanced topics.                    |
-| **Linguistic and Cultural Context** | - Relating concepts to cultural or environmental contexts engages learners.<br>- Indigenous languages, like Navajo, can use descriptive translations for geometric terms.                                                  |
-| **Technology and Tools**        | - Geometry software and platforms support multilingual learning.<br>- Open Educational Resources (OERs) ensure inclusivity and access to content in various languages.                                                        |
+| **Linguistic & Cultural Context** | - Relating concepts to cultural or environmental contexts engages learners.<br>- Indigenous languages, like Navajo, can use descriptive translations for geometric terms.                                                  |
+| **Technology & Tools**        | - Geometry software and platforms support multilingual learning.<br>- Open Educational Resources (OERs) ensure inclusivity and access to content in various languages.                                                        |
 | **Challenges in Advanced Topics** | - Advanced geometry topics may require more specialized terminology.<br>- Language development and contextual examples can address this challenge.                                                                             |
 | **Conclusion**                  | - Basic geometry is universally teachable due to its visual and universal nature.<br>- Advanced topics can be effectively taught with creative methods and linguistic adaptability.                                             |
 
