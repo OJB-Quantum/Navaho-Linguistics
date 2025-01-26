@@ -119,10 +119,6 @@ ________________________________________________________________________________
 
 ![image](https://github.com/user-attachments/assets/4bb53477-5aff-4bbe-89be-d02e0109466f)
 
-![unnamed](https://github.com/user-attachments/assets/0074739b-ba4f-4e44-8f08-186bf52a9fb4)
-
-![image](https://github.com/user-attachments/assets/938b0916-8568-47fe-97e3-2c53cc8aeca8)
-
 ![300189739-9c7c2ba3-e314-4166-9e70-57a794d9bbde](https://github.com/OJB-Quantum/Navaho-Linguistics/assets/88035770/a50ade0b-2fa5-42f4-a4d0-cf822678aa4b)
 
 ________________________________________________________________________________________________________________________________________________
