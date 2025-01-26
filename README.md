@@ -19,6 +19,18 @@ ________________________________________________________________________________
 
 ________________________________________________________
 
+### Living on the Countryside Explained by O.J.B. in Navaho \& English
+
+| **Navaho**         | **English**           |
+|--------------------|-----------------------|
+| Jo dii Hoozdoh hahoodzo eii yaa, doo nidahałtingóó, dził, tsékooh, dóó dah azką́, eidigii t'aa ałtsoh Diné Bikeyah 'akwe'e sha hoghan. Dził bilááhdęęh 'akwe'e tłłéego jo wót’ááhjj' alááhgo, yágháhookáán biyi'di, łees'áán yílzhódí nizhonigo adindiin. 'Akohgo 'índa ládąąą' k'os ádin, t’áá ákwii tYéé' sǫ'łání dah dinisxǫs. 'Akót'áó shił yá'át'ééh. | In Arizona, there are deserts, mountains, canyons, and mesas within the Navaho Nation, my home. From the mountains and beyond, way up in the sky, in outer space, the Milky Way can be seen shining beautifully. Every night, if there are no clouds obstructing the view, one can observe so many sparkling stars. I am content with the way that this is. |
+
+________________________________________________________
+
+
+
+________________________________________________________
+
 | Full Immersion by Sight, Auditory, and Tactile Means |
 |-|
 | Sight = Animation & 3D models |
