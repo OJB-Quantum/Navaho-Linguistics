@@ -31,8 +31,7 @@ ________________________________________________________
 
 | **Navaho** |
 |-----------------------------------------------|
-| Díí atsiniltł'ish biyi' 'asdizí náás góne'é t'áá kóníghánígo 'akwe'é 'ahóodziil éídígii yidísin. |
-| T'áá bééhodoozįįł yił ałhii'níná’iidzóóh nida'ałkáá'i' Schrödinger bits’ą́ą́dę́ę́ nihinááł. |
+| Díí atsiniltł'ish biyi' 'asdizí náás góne'é t'áá kóníghánígo 'akwe'é 'ahóodziil éídígii yidísin. <br> T'áá bééhodoozįįł yił ałhii'níná’iidzóóh nida'ałkáá'i' Schrödinger bits’ą́ą́dę́ę́ nihinááł. |
 
 > **Note:**
 > English translation is coming soon...
