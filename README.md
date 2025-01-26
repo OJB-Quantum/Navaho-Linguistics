@@ -196,6 +196,10 @@ ________________________________________________________________________________
 
 ________________________________________________________________________________________________________________________________________________
 
+| Google Colab Notebook Demonstrating the UTF-8 Encoding of the Navaho Language Characters |  |
+| ----------- | ----------------- |
+| Josephson Junction Tunneling Prediction | [![Open In Colab](https://colab.research.google.com/github/OJB-Quantum/Navaho-Linguistics/blob/main/Python%20Scripts%20for%20Navaho%20Linguistics/Navaho_Characters_UTF8_Conversion_U_Plus_Notation.ipynb) |
+
 ### Navaho/ Navajo Character to UTF-8 Encoding by Onri Jay Benally. [Click here for PDF.](https://github.com/OJB-Quantum/Navaho-Linguistics/blob/main/Associated%20Diagrams/Navaho%20to%20UTF8%20Encoding_Onri%20Jay%20Benally.pdf)
 
 [Click here to view Onri's full markdown script of the Navaho/ Navajo-Character-to-UTF-8 Encoding table.](https://github.com/OJB-Quantum/Navaho-Linguistics/blob/main/Table%20of%20Navaho%20Alphabets%20in%20Unicode.md)
