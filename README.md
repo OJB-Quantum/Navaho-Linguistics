@@ -172,6 +172,15 @@ ________________________________________________________________________________
 
 ![300189739-9c7c2ba3-e314-4166-9e70-57a794d9bbde](https://github.com/OJB-Quantum/Navaho-Linguistics/assets/88035770/a50ade0b-2fa5-42f4-a4d0-cf822678aa4b)
 
+---
+## Dilution Fridge Measurement System Schematic
+
+![Screenshot 2025-01-26 083404](https://github.com/user-attachments/assets/782e5d7c-45ca-40fd-892a-c59020c68672)
+
+Borrowed from: Gao et al., *Practical Guide for Building Superconducting Quantum Devices* PRX Quantum 2, 040202 (2021)  
+<https://doi.org/10.1103/PRXQuantum.2.040202>  
+[https://creativecommons.org/licenses/by-nc-nd/4.0/](https://creativecommons.org/licenses/by-nc-nd/4.0/)
+
 ________________________________________________________________________________________________________________________________________________
 
 ### To access the full PDF booklet, [click here.](https://github.com/OJB-Quantum/Navaho-Linguistics/blob/main/Navaho_Linguistics_for_Quantum_Hardware_Education_v2.pdf)
