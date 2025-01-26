@@ -38,6 +38,53 @@ ________________________________________________________
 
 ________________________________________________________
 
+# Language Ideas for Quantum Hardware Comprehension
+
+| **English Term** | **Navaho Term**                                                        |
+|-------------------|------------------------------------------------------------------------|
+| Initial Idea      | Some Word                                                             |
+|                   | Nv = Eng                                                             |
+|                   | Nv = Eng                                                             |
+|                   | Nv = Eng                                                             |
+| Final Version     | Final Word                                                           |
+|                   | Navaho Term Spelled = [Rough Transcription]                          |
+
+*Figure 1: Generic blueprint for language breakdown from English to Navaho.*
+
+---
+
+## From idea to practice...
+
+| **English Term** | **Navaho Term**                                                                 |
+|-------------------|---------------------------------------------------------------------------------|
+| Initial Idea      | Computer                                                                       |
+|                   | Béésh = Metal                                                                 |
+|                   | Łichííʼ = Red                                                                 |
+|                   | Nitsékees = Think                                                             |
+| Final Version     | Computer                                                                       |
+|                   | Béésh Łichííʼ Nitsékeesí = [A piece of copper that thinks]                     |
+
+*Figure 2: Representation of Computer in Navaho.*
+
+---
+
+## Other examples:
+
+| **English**                                    | **Navaho**                                                    |
+|------------------------------------------------|----------------------------------------------------------------|
+| The quick brown fox                           | ma'ii dibéłchíʼí dilwo' or ma'ii yishtłizh dilwoʼ             |
+| Lazy dog                                      | léechąąʼí iłhóyéé                                             |
+| Jumped                                        | nahachaʼ or dah nahachaʼ or dahnáníjįįh                       |
+| To jump                                       | dahnáníshjį́į́h                                               |
+| Jumping                                       | dah naháchaʼgo                                                |
+| Laziness                                      | iłhóyéé                                                       |
+| Slow or in vain                               | chʼééh                                                        |
+| Fast runner (quick)                           | dilwoʼ                                                        |
+| The quick brown fox jumped over the lazy dog | maʼii dibéłchíʼí dilwoʼ eii léechąąʼí iłhóyéé dahnáníjįįh     |
+
+
+________________________________________________________
+
 | Full Immersion by Sight, Auditory, and Tactile Means |
 |-|
 | Sight = Animation & 3D models |
