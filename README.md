@@ -17,7 +17,7 @@ ________________________________________________________________________________
 |--------------------|------------------------------------------------|---------------------------------------------------------|
 | quantum computer   | béésh tʼáá 'aníí 'á'ádaatʼéhígíí nitsékeesí   | Metal or piece of metal that thinks at a truly fundamental level |
 
-________________________________________________________________________________________________________________________________________________
+________________________________________________________
 
 | Full Immersion by Sight, Auditory, and Tactile Means |
 |-|
@@ -25,8 +25,17 @@ ________________________________________________________________________________
 | Auditory = Harmonics |
 | Tactility = Braille-mathematics-inspired learning |
 
-_______________________________________________________________________________________________________________________________________________________________________
+________________________________________________________
 
+### 3 Categories of Technical Communication by O.J.B.
+
+| Category               | Description                                                                       |
+|------------------------|----------------------------------------------------------------------------------------|
+| **Mathematical linguistics** | - Logical operations with words. <br> - Can be relayed through Braille, visible, or spoken text. <br> - Aims to formalize & create syntax & morphology. |
+| **Linguistical mathematics** | - Semantics & philosophical-based communication. <br> - Tendency to be abstract, indeterminate, or ambiguous. <br> - Applies mathematical theories to understand linguistic phenomena & existing syntax. |
+| **Descriptive linguistics**  | - Delineated, formulated, stringified, expanded, verbal communication. <br> - Can be relayed through Braille, visible, or spoken text. <br> - Uses familiar syntax of one’s spoken language for comprehensive documentation. |
+
+_______________________________________________________________________________________________________________________________________________________________________
 
 ### Leveraging the universal nature of geometry with linguistics:
 
