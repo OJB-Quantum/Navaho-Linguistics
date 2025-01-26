@@ -40,14 +40,12 @@ ________________________________________________________
 
 # Language Ideas for Quantum Hardware Comprehension
 
-| **English Term** | **Navaho Term**                                                        |
-|-------------------|------------------------------------------------------------------------|
-| Initial Idea      | Some Word                                                             |
-|                   | Nv = Eng                                                             |
-|                   | Nv = Eng                                                             |
-|                   | Nv = Eng                                                             |
-| Final Version     | Final Word                                                           |
-|                   | Navaho Term Spelled = [Rough Transcription]                          |
+| **Stage**         | **English Term** | **Navaho Term**                                              |
+|--------------------|------------------|--------------------------------------------------------------|
+| Initial Idea       | Some Word        | Nv = Eng                                                    |
+|                    |                  | Nv = Eng                                                    |
+|                    |                  | Nv = Eng                                                    |
+| Final Version      | Final Word       | Navaho Term Spelled = [Rough Transcription]                 |
 
 *Figure 1: Generic blueprint for language breakdown from English to Navaho.*
 
@@ -55,14 +53,12 @@ ________________________________________________________
 
 ## From idea to practice...
 
-| **English Term** | **Navaho Term**                                                                 |
-|-------------------|---------------------------------------------------------------------------------|
-| Initial Idea      | Computer                                                                       |
-|                   | Béésh = Metal                                                                 |
-|                   | Łichííʼ = Red                                                                 |
-|                   | Nitsékees = Think                                                             |
-| Final Version     | Computer                                                                       |
-|                   | Béésh Łichííʼ Nitsékeesí = [A piece of copper that thinks]                     |
+| **Stage**         | **English Term** | **Navaho Term**                                              |
+|--------------------|------------------|--------------------------------------------------------------|
+| Initial Idea       | Computer         | Béésh = Metal                                               |
+|                    |                  | Łichííʼ = Red                                               |
+|                    |                  | Nitsékees = Think                                           |
+| Final Version      | Computer         | Béésh Łichííʼ Nitsékeesí = [A piece of copper that thinks]  |
 
 *Figure 2: Representation of Computer in Navaho.*
 
