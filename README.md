@@ -120,7 +120,7 @@ ________________________________________________________________________________
 | ✅ "The quick brown fox jumped over the lazy dog" example in Navaho. |
 | ✅ Chart formation blueprint. |
 | ✅ Cyrillic example for "blue" and "bee" in Navaho. |
-| ✅ Generate a table of words and phrases by Onri that need to be converted into digital text. |
+| ✅ Generate a table of words & phrases by Onri that need to be converted into digital text. |
 | 🔳 Label dilution refrigerator in Navaho. |
 | ✅ Label tunnel junctions & physical qubit components in Navaho, may include original electron micrographs & renderings in Blender. Generate device 3D models intended for comparison with micrographs. |
 | 🔳 Qubit spectroscopy, reflectometry, & benchmarking terms in Navaho. |
