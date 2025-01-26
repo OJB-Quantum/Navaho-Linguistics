@@ -19,7 +19,7 @@ ________________________________________________________________________________
 
 ________________________________________________________
 
-### Living on the Countryside Explained by O.J.B. in Navaho \& English
+### Living on the Countryside Explained by O.J.B., First in Navaho, Followed by English
 
 | **Navaho**         | **English**           |
 |--------------------|-----------------------|
