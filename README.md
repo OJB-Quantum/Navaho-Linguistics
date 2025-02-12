@@ -90,7 +90,7 @@ ________________________________________________________
 
 ________________________________________________________
 
-### 3 Categories of Technical Communication by O.J.B.
+### 3 General Categories of Technical Communication by O.J.B.
 
 | Category               | Description                                                                       |
 |------------------------|-----------------------------------------------------------------------------------|
@@ -100,7 +100,7 @@ ________________________________________________________
 
 _______________________________________________________________________________________________________________________________________________________________________
 
-### Leveraging the universal nature of geometry with linguistics:
+### Leveraging the Universal Nature of Geometry with Linguistics:
 
 | **Aspect**                     | **Details**                                                                                                                                                                                                                   |
 |---------------------------------|--------------------------------------------|
@@ -120,7 +120,7 @@ ________________________________________________________________________________
 | ✅ "The quick brown fox jumped over the lazy dog" example in Navaho. |
 | ✅ Chart formation blueprint. |
 | ✅ Cyrillic example for "blue" and "bee" in Navaho. |
-| ✅ Generate a table of words and phrases by Onri that need to be converted into digital text. |
+| ✅ Generate a table of words & phrases by Onri that need to be converted into digital text. |
 | 🔳 Label dilution refrigerator in Navaho. |
 | ✅ Label tunnel junctions & physical qubit components in Navaho, may include original electron micrographs & renderings in Blender. Generate device 3D models intended for comparison with micrographs. |
 | 🔳 Qubit spectroscopy, reflectometry, & benchmarking terms in Navaho. |
@@ -140,9 +140,11 @@ ________________________________________________________________________________
 > Note: Unicode is mentioned here due to its convenience of character generation when one desires to correctly spell Navaho words. This form of character generation may provide a robust sequence of protocols for practical language usage in digital form, further strengthening any future initiatives to automate Navaho translation. Another interesting thing is that there are Navaho medical documentation on instrumentation that may be helpful in translating hardware-related topics. This includes microscopes and other advanced spectroscopy techniques in Navaho that we can borrow ideas from for this project. 
 
 > As of summer 2024, the thought of exploring Navajo/ Navaho Braille together with Nemeth (Braille mathematics) came to mind. Although advanced mathematics topics are covered using Nemeth, it would be interesting to see it combined with Navaho/ Navajo Braille to express terms used in quantum mechanics and quantum computing.
+> I created a simple tool to help with this idea: <https://github.com/OJB-Quantum/LaTeX-to-Nemeth-Braille-to-SVG>
 
 > If a language relies less on phonetics or pronunciation based on the spelling, then it is apparent that it requires more memorization. The memorization is of association of pronunciation with a particularly spelled word. 
 > Based on some deductive reasoning, this would mean that languages that are heavily phonetic require less memorization of the association mentioned above. However, for languages that are heavily weighted on speaking rather than writing, would require relatively even more memorization.
+
 
 ||
 |-|
@@ -156,6 +158,40 @@ ________________________________________________________________________________
 | [List of Partial Derivative Terms in Braille](https://uebmath.aphtech.org/lesson10.4) |
 | [List of Logic Operator Terms in Braille](https://nemeth.aphtech.org/lesson11.12) |
 | [Unified English Braille (UEB) Table of Contents](https://uebmath.aphtech.org) |
+
+________________________________________________________________________________________________________________________________________________
+
+| Clickable links to supplementary material: |
+|--------------------------------------------|
+| [Navaho vs. Navajo](http://npshistory.com/nature_notes/meve/vol4-2h.htm)  [Navaho vs. Navajo](https://thecontentauthority.com/blog/navaho-vs-navajo) |
+| [Navaho Wiktionary by Wikimedia Foundation](https://en.wiktionary.org/wiki/Category:nv:All_topics) |
+| [Navaho Wikipedia](https://nv.wikipedia.org/wiki/%C3%8Diyis%C3%AD%C3%AD_Naaltsoos?fbclid=IwAR3w-JlUmK4HDzTGyHSDHGgbjs4rf0UUfVQioguvvF-l3_MbSTwE4Txq_h0) |
+| [Navaho in Latin Script](https://www.gomyson.com/vowels.html) |
+| [Navaho in Cyrillic Script](https://omniglot.com/conscripts/cyrillicnavajo.htm) |
+| [Navaho language audio sample narrated by Onri](https://www.omniglot.com/conscripts/cyrillicnavajo.htm#:~:text=Hear%20a%20recording%20of%20this%20text%20by%20Onri%20Jay%20Benally) |
+| [Navaho sound profiles](https://www.unm.edu/~johncho/html/main.html) |
+| [Navaho prefixes](https://en.wiktionary.org/wiki/Category:Navajo_prefixes) |
+| [Navaho suffixes](https://en.wiktionary.org/wiki/Category:Navajo_suffixes) |
+| [Navaho particles](https://en.wiktionary.org/wiki/Category:Navajo_particles) |
+| [Navaho pronouns](https://en.wiktionary.org/wiki/Category:Navajo_pronouns)|
+| [Navaho postpositions](https://en.wiktionary.org/wiki/Category:Navajo_postpositions) |
+| [Navaho grammar material](https://fernald.domains.swarthmore.edu/nla/grammar/grammar_contents_14.htm) |
+| [Navaho audio dictionary](https://talkingdictionary.swarthmore.edu/navajo_postposition/?lang=nav) |
+| [Navaho biological sciences terminology - "Project ENABLE"](https://enablenavajo.org/dine) |
+| [Navaho linguistics material and history on the Internet Archive](https://archive.org/search?and=&query=navajo+language) |
+| [Navaho linguistics archive at MIT](https://fernald.domains.swarthmore.edu/nla/halearch/halearch.htm) |
+| [Basic 3D-printable cryostat for educational purposes](https://www.tinkercad.com/things/dgJLBpuNQtv-onris-printable-cryostat) |
+
+________________________________________________________________________________________________________________________________________________
+
+| A few examples of my contributions to English-Navaho dictionary on Glosbe: |
+|--------------------------------------------------------------------------------|
+| [Electron spin](https://app.glosbe.com/nv/en/atsinilt%C5%82%E2%80%99ish%20biyi'%20'asdiz%C3%AD) |
+| [Intervals](https://app.glosbe.com/nv/en/t'%C3%A1%C3%A1%20k%C3%B3n%C3%ADgh%C3%A1n%C3%ADgo) |
+| [His/her brain](https://app.glosbe.com/nv/en/bitsiigh%C4%85%C4%85') |
+| [Oak](https://app.glosbe.com/nv/en/Ts%C3%A9%20ch%CA%BCil%20or%20Ts%C3%A9ch%CA%BCil) |
+
+(There is a longer list of the translations I made, which will soon be uploaded in the folders above).
 
 ________________________________________________________________________________________________________________________________________________
 
@@ -198,9 +234,9 @@ ________________________________________________________________________________
 
 | Google Colab Notebook Demonstrating the UTF-8 Encoding of the Navaho Language Characters |  |
 | ----------- | ----------------- |
-| Josephson Junction Tunneling Prediction | [![Open In Colab](https://colab.research.google.com/github/OJB-Quantum/Navaho-Linguistics/blob/main/Python%20Scripts%20for%20Navaho%20Linguistics/Navaho_Characters_UTF8_Conversion_U_Plus_Notation.ipynb) |
+| Navaho to UTF-8 | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/OJB-Quantum/Navaho-Linguistics/blob/main/Python%20Scripts%20for%20Navaho%20Linguistics/Navaho_Characters_UTF8_Conversion_U_Plus_Notation.ipynb) |
 
-### Navaho/ Navajo Character to UTF-8 Encoding by Onri Jay Benally. [Click here for PDF.](https://github.com/OJB-Quantum/Navaho-Linguistics/blob/main/Associated%20Diagrams/Navaho%20to%20UTF8%20Encoding_Onri%20Jay%20Benally.pdf)
+### Navaho/ Navajo Character to UTF-8 Encoding by O.J.B. [Click here for PDF.](https://github.com/OJB-Quantum/Navaho-Linguistics/blob/main/Associated%20Diagrams/Navaho%20to%20UTF8%20Encoding_Onri%20Jay%20Benally.pdf)
 
 [Click here to view Onri's full markdown script of the Navaho/ Navajo-Character-to-UTF-8 Encoding table.](https://github.com/OJB-Quantum/Navaho-Linguistics/blob/main/Table%20of%20Navaho%20Alphabets%20in%20Unicode.md)
 
@@ -342,41 +378,6 @@ ________________________________________________________________________________
 | ǫ́ó              | U+01EB U+0301 U+00F3        | \u01EB\u0301\u00F3           |
 | ...              | ...                         | ...                          |
 | ń                | U+0144                     | \u0144                       |
-
-
-________________________________________________________________________________________________________________________________________________
-
-| Clickable links to supplementary material: |
-|--------------------------------------------|
-| [Navaho vs. Navajo](http://npshistory.com/nature_notes/meve/vol4-2h.htm)  [Navaho vs. Navajo](https://thecontentauthority.com/blog/navaho-vs-navajo) |
-| [Navaho Wiktionary by Wikimedia Foundation](https://en.wiktionary.org/wiki/Category:nv:All_topics) |
-| [Navaho Wikipedia](https://nv.wikipedia.org/wiki/%C3%8Diyis%C3%AD%C3%AD_Naaltsoos?fbclid=IwAR3w-JlUmK4HDzTGyHSDHGgbjs4rf0UUfVQioguvvF-l3_MbSTwE4Txq_h0) |
-| [Navaho in Latin Script](https://www.gomyson.com/vowels.html) |
-| [Navaho in Cyrillic Script](https://omniglot.com/conscripts/cyrillicnavajo.htm) |
-| [Navaho language audio sample narrated by Onri](https://www.omniglot.com/conscripts/cyrillicnavajo.htm#:~:text=Hear%20a%20recording%20of%20this%20text%20by%20Onri%20Jay%20Benally) |
-| [Navaho sound profiles](https://www.unm.edu/~johncho/html/main.html) |
-| [Navaho prefixes](https://en.wiktionary.org/wiki/Category:Navajo_prefixes) |
-| [Navaho suffixes](https://en.wiktionary.org/wiki/Category:Navajo_suffixes) |
-| [Navaho particles](https://en.wiktionary.org/wiki/Category:Navajo_particles) |
-| [Navaho pronouns](https://en.wiktionary.org/wiki/Category:Navajo_pronouns)|
-| [Navaho postpositions](https://en.wiktionary.org/wiki/Category:Navajo_postpositions) |
-| [Navaho grammar material](https://fernald.domains.swarthmore.edu/nla/grammar/grammar_contents_14.htm) |
-| [Navaho audio dictionary](https://talkingdictionary.swarthmore.edu/navajo_postposition/?lang=nav) |
-| [Navaho biological sciences terminology - "Project ENABLE"](https://enablenavajo.org/dine) |
-| [Navaho linguistics material and history on the Internet Archive](https://archive.org/search?and=&query=navajo+language) |
-| [Navaho linguistics archive at MIT](https://fernald.domains.swarthmore.edu/nla/halearch/halearch.htm) |
-| [Basic 3D-printable cryostat for educational purposes](https://www.tinkercad.com/things/dgJLBpuNQtv-onris-printable-cryostat) |
-
-________________________________________________________________________________________________________________________________________________
-
-| A few examples of my contributions to English-Navaho dictionary on Glosbe: |
-|--------------------------------------------------------------------------------|
-| [Electron spin](https://app.glosbe.com/nv/en/atsinilt%C5%82%E2%80%99ish%20biyi'%20'asdiz%C3%AD) |
-| [Intervals](https://app.glosbe.com/nv/en/t'%C3%A1%C3%A1%20k%C3%B3n%C3%ADgh%C3%A1n%C3%ADgo) |
-| [His/her brain](https://app.glosbe.com/nv/en/bitsiigh%C4%85%C4%85') |
-| [Oak](https://app.glosbe.com/nv/en/Ts%C3%A9%20ch%CA%BCil%20or%20Ts%C3%A9ch%CA%BCil) |
-
-(There is a longer list of the translations I made, which will soon be uploaded in the folders above).
 
 ________________________________________________________________________________________________________________________________________________
 
