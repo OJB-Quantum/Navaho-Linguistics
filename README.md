@@ -96,7 +96,7 @@ ________________________________________________________
 |------------------------|-----------------------------------------------------------------------------------|
 | **Mathematical Linguistics** | - Logical operations with words. <br> - Can be relayed through Braille, visible, or spoken text. <br> - Aims to formalize & create syntax & morphology. |
 | **Linguistical Mathematics** | - Semantics & philosophical-based communication. <br> - Tendency to be abstract, indeterminate, or ambiguous. <br> - Applies mathematical theories to understand linguistic phenomena & existing syntax. |
-| **Descriptive Linguistics**  | - Delineated, formulated, stringified, expanded, verbal communication. <br> - Can be relayed through Braille, visible, or spoken text. <br> - Uses familiar syntax of one’s spoken language for comprehensive documentation. |
+| **Descriptive Linguistics**  | - Delineated, formulated, stringified, expanded, verbal communication. <br> - Can be relayed through Braille, visible, or spoken text. <br> - Uses the familiar syntax of one’s spoken language for comprehensive documentation. |
 
 _______________________________________________________________________________________________________________________________________________________________________
 
