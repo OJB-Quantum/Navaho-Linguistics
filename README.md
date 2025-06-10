@@ -5,13 +5,14 @@ A repository for Indigenous American language material for quantum engineering t
 
 Primary URL for the repository: [OJB-Quantum/Navaho-Linguistics](https://github.com/OJB-Quantum/Navaho-Linguistics)
 
-_______________________________________________________________________________________________________________________________________________________________________
+---
 
 ![IMG_20230518_192210_00_018_PureShot](https://github.com/OJB-Quantum/Navaho-Linguistics/assets/88035770/f976afb5-128a-47a8-bb3e-996de87b51a6)
 
-_______________________________________________________________________________________________________________________________________________________________________
+---
 
-### Translation of "Quantum Computer" into Navajo by Onri Jay Benally (O.J.B.) [Example]:
+
+### Translation of "Quantum Computer" into Navajo by Onri Jay Benally (O.J.B.) [Example]
 
 | English Term       | Navaho/ Navajo Term                            | Literal Meaning in English                              |
 |--------------------|------------------------------------------------|---------------------------------------------------------|
@@ -25,7 +26,7 @@ ________________________________________________________
 |--------------------|-----------------------|
 | Jo dii Hoozdoh hahoodzo eii yaa, doo nidahałtingóó, dził, tsékooh, dóó dah azką́, eidigii t'aa ałtsoh Diné Bikeyah 'akwe'e sha hoghan. Dził bilááhdęęh 'akwe'e tłéego jo wót’ááhjį' alááhgo, yágháhookáán biyi'di, łees'áán yílzhódí nizhonigo adindiin. 'Akohgo 'índa ládą́ą́' k'os ádin, t’áá ákwii tł'éé' sǫ'łání dah dinisxǫs. 'Akót'áó shił yá'át'ééh. | In Arizona, there are deserts, mountains, canyons, and mesas within the Navaho Nation, my home. From the mountains and beyond, way up in the sky, in outer space, the Milky Way can be seen shining beautifully. Every night, if there are no clouds obstructing the view, one can observe so many sparkling stars. I am content with the way that this is. |
 
-________________________________________________________
+---
 
 ### Quantum Mechanics Explained in Navaho by Onri
 
@@ -36,7 +37,7 @@ ________________________________________________________
 > **Note:**
 > English translation is coming soon...
 
-________________________________________________________
+---
 
 ### Linguistic Idea Table Aimed Toward Translation Use
 
@@ -63,6 +64,7 @@ ________________________________________________________
 *Representation of 'computer' in Navaho.*
 
 > For more details, scroll further to view the two-part translation model.
+
 ---
 
 ### Other Examples:
@@ -80,7 +82,7 @@ ________________________________________________________
 | The quick brown fox jumped over the lazy dog | maʼii dibéłchíʼí dilwoʼ eii léechąąʼí iłhóyéé dahnáníjįįh     |
 
 
-________________________________________________________
+---
 
 | Full Immersion by Sight, Auditory, & Tactile Means |
 |-|
@@ -88,7 +90,7 @@ ________________________________________________________
 | Auditory = Harmonics |
 | Tactility = Braille-mathematics-inspired learning |
 
-________________________________________________________
+---
 
 ### 3 General Categories of Technical Communication by O.J.B.
 
@@ -98,7 +100,7 @@ ________________________________________________________
 | **Linguistical Mathematics** | - Semantics & philosophical-based communication. <br> - Tendency to be abstract, indeterminate, or ambiguous. <br> - Applies mathematical theories to understand linguistic phenomena & existing syntax. |
 | **Descriptive Linguistics**  | - Delineated, formulated, stringified, expanded, verbal communication. <br> - Can be relayed through Braille, visible, or spoken text. <br> - Uses the familiar syntax of one’s spoken language for comprehensive documentation. |
 
-_______________________________________________________________________________________________________________________________________________________________________
+---
 
 ### Leveraging the Universal Nature of Geometry with Linguistics:
 
@@ -112,7 +114,15 @@ ________________________________________________________________________________
 | **Challenges in Advanced Topics** | - Advanced geometry topics may require more specialized terminology.<br>- Language development and contextual examples can address this challenge.                                                                             |
 | **Conclusion**                  | - Basic geometry is universally teachable due to its visual and universal nature.<br>- Advanced topics can be effectively taught with creative methods and linguistic adaptability.                                             |
 
-________________________________________________________________________________________________________________________________________________
+---
+
+### What is available on Google Translate:
+
+| Supported in Google Translate                                 | Not Supported                                                  |
+| ------------------------------------------------------------- | -------------------------------------------------------------- |
+| Quechua, Guarani, Aymara, Nahuatl (Eastern Huasteca), Inuktut | Navaho/ Navajo, Cherokee, Cree, Ojibwe, & most U.S. Native languages |
+
+---
 
 | Plans for this repository (in no particular order): |
 |-|
@@ -159,7 +169,7 @@ ________________________________________________________________________________
 | [List of Logic Operator Terms in Braille](https://nemeth.aphtech.org/lesson11.12) |
 | [Unified English Braille (UEB) Table of Contents](https://uebmath.aphtech.org) |
 
-________________________________________________________________________________________________________________________________________________
+---
 
 | Clickable links to supplementary material: |
 |--------------------------------------------|
@@ -186,7 +196,7 @@ ________________________________________________________________________________
 | [Linguistics Crashcourse on YouTube, TrevTutor](https://youtu.be/0nBzlNFwgs4?si=kX91qwo7Mp8THRcj) |
 | [Linguistic Diversity, What For?, Coursera](https://www.coursera.org/learn/linguistic-diversity-what-for) |
 
-________________________________________________________________________________________________________________________________________________
+---
 
 | A few examples of my contributions to English-Navaho dictionary on Glosbe: |
 |--------------------------------------------------------------------------------|
@@ -197,7 +207,7 @@ ________________________________________________________________________________
 
 (There is a longer list of the translations I made, which will soon be uploaded in the folders above).
 
-________________________________________________________________________________________________________________________________________________
+---
 
 ### Below are some figures of O.J.B.'s Navaho/ Navajo two-part translation model:
 
@@ -225,7 +235,7 @@ Borrowed from: Gao et al., *Practical Guide for Building Superconducting Quantum
 > **Note:**
 > Navaho translation for cryogenic dilution fridge is coming soon...
 
-________________________________________________________________________________________________________________________________________________
+---
 
 ### To access the full PDF booklet, [click here.](https://github.com/OJB-Quantum/Navaho-Linguistics/blob/main/Navaho_Linguistics_for_Quantum_Hardware_Education_v2.pdf)
 
@@ -234,7 +244,7 @@ ________________________________________________________________________________
 ![Navaho for Quantum Hardware Education_v2-3](https://github.com/OJB-Quantum/Navaho-Linguistics/assets/88035770/62ece4d3-92a1-4206-955a-2de8af4a1ffd)
 ![Navaho Long Vowel Network](https://github.com/OJB-Quantum/Navaho-Linguistics/assets/88035770/81f88834-244c-4c8e-8926-c62330055334)
 
-________________________________________________________________________________________________________________________________________________
+--- 
 
 | Google Colab Notebook Demonstrating the UTF-8 Encoding of the Navaho Language Characters |  |
 | ----------- | ----------------- |
@@ -383,7 +393,7 @@ ________________________________________________________________________________
 | ...              | ...                         | ...                          |
 | ń                | U+0144                     | \u0144                       |
 
-________________________________________________________________________________________________________________________________________________
+---
 
 
 Note: I made sources available in this repository to be generally open access, while others are "copyrighted unless used for educational purposes". This repository intends to produce educational material in the same light. See http://rightsstatements.org/page/InC-EDU/1.0/ for more details on the permissions allowed by those respective authors.
