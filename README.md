@@ -184,6 +184,7 @@ ________________________________________________________________________________
 | [Introduction to Linguistics, MIT OCW](https://ocw.mit.edu/courses/24-900-introduction-to-linguistics-spring-2022/pages/lecture-videos) |
 | [More Linguistics Courses, MIT OCW](https://ocw.mit.edu/search/?q=Linguistics) |
 | [Linguistics Crashcourse on YouTube, TrevTutor](https://youtu.be/0nBzlNFwgs4?si=kX91qwo7Mp8THRcj) |
+| [Linguistic Diversity, What For?, Coursera](https://www.coursera.org/learn/linguistic-diversity-what-for) |
 
 ________________________________________________________________________________________________________________________________________________
 
