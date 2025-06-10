@@ -181,6 +181,9 @@ ________________________________________________________________________________
 | [Navaho linguistics material and history on the Internet Archive](https://archive.org/search?and=&query=navajo+language) |
 | [Navaho linguistics archive at MIT](https://fernald.domains.swarthmore.edu/nla/halearch/halearch.htm) |
 | [Basic 3D-printable cryostat for educational purposes](https://www.tinkercad.com/things/dgJLBpuNQtv-onris-printable-cryostat) |
+| [Introduction to Linguistics, MIT OCW](https://ocw.mit.edu/courses/24-900-introduction-to-linguistics-spring-2022/pages/lecture-videos) |
+| [More Linguistics Courses, MIT OCW](https://ocw.mit.edu/search/?q=Linguistics) |
+| [Linguistics Crashcourse on YouTube, TrevTutor](https://youtu.be/0nBzlNFwgs4?si=kX91qwo7Mp8THRcj) |
 
 ________________________________________________________________________________________________________________________________________________
 
