@@ -114,13 +114,17 @@ ________________________________________________________
 | **Challenges in Advanced Topics** | - Advanced geometry topics may require more specialized terminology.<br>- Language development and contextual examples can address this challenge.                                                                             |
 | **Conclusion**                  | - Basic geometry is universally teachable due to its visual and universal nature.<br>- Advanced topics can be effectively taught with creative methods and linguistic adaptability.                                             |
 
+
 ---
 
-### What is available on Google Translate:
+### Indigenous American/ Native American Languages on Google Translate as of 2025:
 
 | Supported in Google Translate                                 | Not Supported                                                  |
 | ------------------------------------------------------------- | -------------------------------------------------------------- |
 | Quechua, Guarani, Aymara, Nahuatl (Eastern Huasteca), Inuktut | Navaho/ Navajo, Cherokee, Cree, Ojibwe, & most U.S. Native languages |
+
+> With the framework produced in this repository, it may be possible to provide the data neccessary to train machines on at least the translation of technical terms, such as quantum technology.
+> Additionally, a GPU-accelerated semantic shift [simulation](https://github.com/OJB-Quantum/Monte-Carlo-Sim/blob/main/CUDA%E2%80%91Accelerated_Semantic%E2%80%91Shift_Simulation.ipynb) was produced initially in English, but can be expanded to the Navaho/ Navajo linguistics framework and compared with Onri's own translation examples for fine-tuning.
 
 ---
 
@@ -133,9 +137,9 @@ ________________________________________________________
 | ✅ Generate a table of words & phrases by Onri that need to be converted into digital text. |
 | 🔳 Label dilution refrigerator in Navaho. |
 | ✅ Label tunnel junctions & physical qubit components in Navaho, may include original electron micrographs & renderings in Blender. Generate device 3D models intended for comparison with micrographs. |
-| 🔳 Qubit spectroscopy, reflectometry, & benchmarking terms in Navaho. |
-| 🔳 Incorporation of hybrid qubit terms, able to support quantum hardware publication. |
-| 🔳 Potential descriptions of fractal geometry. |
+| 🔳 Quantum device spectroscopy, reflectometry, & benchmarking terms in Navaho. |
+| 🔳 Incorporation of hybrid qubit terms, able to future support quantum hardware publication. |
+| 🔳 Potential descriptions of fractal geometry & recursion. |
 | 🔳 Potential contributions to Qiskit/ Qiskit Metal documentation in Navaho (from paper to GitHub pull requests). |
 | ✅ Explore draw-to-text features for Navaho characters referencing Unicode. |
 
@@ -149,7 +153,7 @@ ________________________________________________________
 
 > Note: Unicode is mentioned here due to its convenience of character generation when one desires to correctly spell Navaho words. This form of character generation may provide a robust sequence of protocols for practical language usage in digital form, further strengthening any future initiatives to automate Navaho translation. Another interesting thing is that there are Navaho medical documentation on instrumentation that may be helpful in translating hardware-related topics. This includes microscopes and other advanced spectroscopy techniques in Navaho that we can borrow ideas from for this project. 
 
-> As of summer 2024, the thought of exploring Navajo/ Navaho Braille together with Nemeth (Braille mathematics) came to mind. Although advanced mathematics topics are covered using Nemeth, it would be interesting to see it combined with Navaho/ Navajo Braille to express terms used in quantum mechanics and quantum computing.
+> In summer of 2024, the thought of exploring Navajo/ Navaho Braille together with Nemeth (Braille mathematics) came to mind. Although advanced mathematics topics are covered using Nemeth, it would be interesting to see it combined with Navaho/ Navajo Braille to express terms used in quantum mechanics and quantum computing.
 > I created a simple tool to help with this idea: <https://github.com/OJB-Quantum/LaTeX-to-Nemeth-Braille-to-SVG>
 
 > If a language relies less on phonetics or pronunciation based on the spelling, then it is apparent that it requires more memorization. The memorization is of association of pronunciation with a particularly spelled word. 
