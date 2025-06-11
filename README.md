@@ -126,7 +126,7 @@ ________________________________________________________
 | Quechua, Guarani, Aymara, Nahuatl (Eastern Huasteca), Inuktut | Navaho/ Navajo, Cherokee, Cree, Ojibwe, & most U.S. Native languages |
 
 > With the framework produced in this repository, it may be possible to provide the data neccessary to train machines on at least the translation of technical terms, such as quantum technology.
-> Additionally, a GPU-accelerated semantic shift [simulation](https://github.com/OJB-Quantum/Monte-Carlo-Sim/blob/main/CUDA%E2%80%91Accelerated_Semantic%E2%80%91Shift_Simulation.ipynb) was produced initially in English, but can be expanded to the Navaho/ Navajo linguistics framework and compared with Onri's own translation examples for fine-tuning.
+> Additionally, a GPU-accelerated semantic shift [simulation](https://github.com/OJB-Quantum/Monte-Carlo-Sim/blob/main/CUDA%E2%80%91Accelerated_Semantic%E2%80%91Shift_Simulation.ipynb) was produced initially in English by Onri, but can be expanded to the Navaho/ Navajo linguistics framework and compared with Onri's own translation examples for fine-tuning.
 
 ---
 
