@@ -227,8 +227,6 @@ ________________________________________________________
 
 ![image](https://github.com/user-attachments/assets/4bb53477-5aff-4bbe-89be-d02e0109466f)
 
-![300189739-9c7c2ba3-e314-4166-9e70-57a794d9bbde](https://github.com/OJB-Quantum/Navaho-Linguistics/assets/88035770/a50ade0b-2fa5-42f4-a4d0-cf822678aa4b)
-
 ---
 ## Dilution Fridge Measurement System Schematic
 
