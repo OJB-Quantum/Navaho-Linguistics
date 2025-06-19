@@ -136,12 +136,13 @@ ________________________________________________________
 | ✅ "The quick brown fox jumped over the lazy dog" example in Navaho. |
 | ✅ Chart formation blueprint. |
 | ✅ Cyrillic example for "blue" and "bee" in Navaho. |
-| ✅ Generate a table of words & phrases by Onri that need to be converted into digital text. |
+| ✅ Generate a table of hardware-related words & phrases by Onri that need to be converted into digital text. |
+| 🔳 Generate a table of basic geometry terms  |
 | 🔳 Label dilution refrigerator in Navaho. |
 | ✅ Label tunnel junctions & physical qubit components in Navaho, may include original electron micrographs & renderings in Blender. Generate device 3D models intended for comparison with micrographs. |
 | 🔳 Quantum device spectroscopy, reflectometry, & benchmarking terms in Navaho. |
 | 🔳 Incorporation of hybrid qubit terms, able to future support quantum hardware publication. |
-| 🔳 Potential descriptions of fractal geometry & recursion. |
+| 🔳 Potential descriptions of fractals & recursion. |
 | 🔳 Potential contributions to Qiskit/ Qiskit Metal documentation in Navaho (from paper to GitHub pull requests). |
 | ✅ Explore draw-to-text features for Navaho characters referencing Unicode. |
 
