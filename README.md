@@ -148,8 +148,7 @@ ________________________________________________________
 
 
 ## Project Roles for Onri's Navaho Linguistics for QHW Education Team (July – October 2025)
-
-| #  | Project / Deliverable                                                                             | Core Participants              | Current Status             |
+| #  | Project/ Deliverable                                                                             | Core Participants              | Current Status             |
 | -- | ------------------------------------------------------------------------------------------------- | ------------------------------ | -------------------------- |
 | 1  | Language-Tree Formation for the Team                                                              | **Onri**, Noah, Mural, Mohamad | **Completed**              |
 | 2  | Category-Based Cryostat/ Dilution-Fridge Image Collection                                        | **Onri**, Noah, Mural, Mohamad | Mostly Completed           |
