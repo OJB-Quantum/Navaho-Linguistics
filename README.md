@@ -118,18 +118,6 @@ ________________________________________________________
 | **Challenges in Advanced Topics** | - Advanced geometry topics may require more specialized terminology.<br>- Language development and contextual examples can address this challenge.                                                                             |
 | **Conclusion**                  | - Basic geometry is universally teachable due to its visual and universal nature.<br>- Advanced topics can be effectively taught with creative methods and linguistic adaptability.                                             |
 
-
----
-
-### Indigenous American/ Native American Languages on Google Translate as of 2025:
-
-| Supported in Google Translate                                 | Not Supported                                                  |
-| ------------------------------------------------------------- | -------------------------------------------------------------- |
-| Quechua, Guarani, Aymara, Nahuatl (Eastern Huasteca), Inuktut | Navaho/ Navajo, Cherokee, Cree, Ojibwe, & most U.S. Native languages |
-
-> With the framework produced in this repository, it may be possible to provide the data neccessary to train machines on at least the translation of technical terms, such as quantum technology.
-> Additionally, a GPU-accelerated semantic shift [simulation](https://github.com/OJB-Quantum/Monte-Carlo-Sim/blob/main/CUDA%E2%80%91Accelerated_Semantic%E2%80%91Shift_Simulation.ipynb) was produced initially in English by Onri, but can be expanded to the Navaho/ Navajo linguistics framework and compared with Onri's own translation examples for fine-tuning.
-
 ---
 
 | Initial Plans for this repository (in no particular order): |
@@ -153,7 +141,7 @@ ________________________________________________________
 | 1  | Language-Tree Formation for the Team                                                              | **Onri**, Noah, Mural, Mohamad | **Completed**              |
 | 2  | Category-Based Cryostat/ Dilution-Fridge Image Collection                                        | **Onri**, Noah, Mural, Mohamad | Mostly Completed           |
 | 3  | General Geometry (2-D/ 3-D) Terminology Table                                                    | **Onri**, Mohamad, Mural       | Partially Completed        |
-| 4  | Electromagnetic-Spectrum Terminology Table                                                        | **Onri**, Mohamad              | Not Started Yet |
+| 4  | Electromagnetic-Spectrum Terminology Table                                                        | **Onri**, Mohamad              | Partially Completed |
 | 5  | English-Braille → Navaho-Braille Conversion for Linguistics & Quantum-Ed. <br> (3-D-printing involved) | **Onri**, Noah                 | Partially Completed        |
 | 6  | Medical-Hardware vs Quantum-Hardware Terminology Table                                            | **Onri**, Mural, Mohamad       | Not Started Yet |
 | 7  | Blender 3-D Model of Basic Quantum Devices / Cryogenic Chambers                                   | **Onri**, Mohamad              | Partially Completed        |
@@ -161,7 +149,26 @@ ________________________________________________________
 | 9  | QPU-Based Linguistics/ Semantic-Shift Simulation (Google Colab)                                  | **Onri**                       | Not Started Yet |
 | 10 | Pseudo-Device: Basic SEM/ High-Res LASER 3-D Imaging                                             | **Onri**                       | Not Started Yet |
 
+---
 
+### Indigenous American/ Native American Languages on Google Translate as of 2025:
+
+| Supported in Google Translate                                 | Not Supported                                                  |
+| ------------------------------------------------------------- | -------------------------------------------------------------- |
+| Quechua, Guarani, Aymara, Nahuatl (Eastern Huasteca), Inuktut | Navaho/ Navajo, Cherokee, Cree, Ojibwe, & most U.S. Native languages |
+
+> With the framework produced in this repository, it may be possible to provide the data neccessary to train machines on at least the translation of technical terms, such as quantum technology.
+> Additionally, a GPU-accelerated semantic shift [simulation](https://github.com/OJB-Quantum/Monte-Carlo-Sim/blob/main/CUDA%E2%80%91Accelerated_Semantic%E2%80%91Shift_Simulation.ipynb) was produced initially in English by Onri, but can be expanded to the Navaho/ Navajo linguistics framework and compared with Onri's own translation examples for fine-tuning.
+
+---
+
+> In summer of 2024, the thought of exploring Navajo/ Navaho Braille together with Nemeth (Braille mathematics) came to mind. Although advanced mathematics topics are covered using Nemeth, it would be interesting to see it combined with Navaho/ Navajo Braille to express terms used in quantum mechanics and quantum computing.
+> I created a simple tool to help with this idea based on Braille dot generation for expressing quantum mechanics equations and terms: <https://github.com/OJB-Quantum/LaTeX-to-Nemeth-Braille-to-SVG>
+
+> If a language relies less on phonetics or pronunciation based on the spelling, then it is apparent that it requires more memorization. The memorization is of association of pronunciation with a particularly spelled word. 
+> Based on some deductive reasoning, this would mean that languages that are heavily phonetic require less memorization of the association mentioned above. However, for languages that are heavily weighted on speaking rather than writing, would require relatively even more memorization.
+> Note: Unicode is mentioned in this project due to its convenience of character generation when one desires to correctly spell Navaho words. This form of character generation may provide a robust sequence of protocols for practical language usage in digital form, further strengthening any future initiatives to automate Navaho translation. Another interesting thing is that there are Navaho medical documentation on instrumentation that may be helpful in translating hardware-related topics. This includes microscopes and other advanced spectroscopy techniques in Navaho that we can borrow ideas from for this project.
+> A recent paper was published on large language model (LLM) identification of Navaho characters with 100% accuracy. This is big news because this project has so far produced a whole Navaho unicode table already, which could be used for efforts on getting the Navaho language and more native North American languages on Google Translate. Here are two links to the 2025 paper: [Association for Computational Linguistics](https://aclanthology.org/2025.naacl-short.24), [Dartmouth College](https://phys.org/news/2025-05-online-ai-easily-navajo-languages.html#:~:text=In%20a%20new%20study%2C%20Dartmouth,perfect%20accuracy) 
 
 ||
 |-|
@@ -170,15 +177,6 @@ ________________________________________________________
 | Private Link for Onri's Quantum Team to Translation Table Elements |
 | - |
 | [Navaho Translation Table - Onri's Quantum Hardware Team @UMN](https://docs.google.com/spreadsheets/d/1-tQlvdACq8fqpjb4uU1IEt-_E-pK_2sf_hXywJTj3uE/edit?usp=sharing)|
-
-> Note: Unicode is mentioned here due to its convenience of character generation when one desires to correctly spell Navaho words. This form of character generation may provide a robust sequence of protocols for practical language usage in digital form, further strengthening any future initiatives to automate Navaho translation. Another interesting thing is that there are Navaho medical documentation on instrumentation that may be helpful in translating hardware-related topics. This includes microscopes and other advanced spectroscopy techniques in Navaho that we can borrow ideas from for this project. 
-
-> In summer of 2024, the thought of exploring Navajo/ Navaho Braille together with Nemeth (Braille mathematics) came to mind. Although advanced mathematics topics are covered using Nemeth, it would be interesting to see it combined with Navaho/ Navajo Braille to express terms used in quantum mechanics and quantum computing.
-> I created a simple tool to help with this idea: <https://github.com/OJB-Quantum/LaTeX-to-Nemeth-Braille-to-SVG>
-
-> If a language relies less on phonetics or pronunciation based on the spelling, then it is apparent that it requires more memorization. The memorization is of association of pronunciation with a particularly spelled word. 
-> Based on some deductive reasoning, this would mean that languages that are heavily phonetic require less memorization of the association mentioned above. However, for languages that are heavily weighted on speaking rather than writing, would require relatively even more memorization.
-
 
 ||
 |-|
