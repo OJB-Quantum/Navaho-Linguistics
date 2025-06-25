@@ -17,7 +17,6 @@ Primary URL for the repository: [OJB-Quantum/Navaho-Linguistics](https://github.
 
 ---
 
-
 ### Translation of "Quantum Computer" into Navajo by Onri Jay Benally (O.J.B.) [Example]
 
 | English Term       | Navaho/ Navajo Term                            | Literal Meaning in English                              |
@@ -149,6 +148,16 @@ ________________________________________________________
 | 🔳 Potential descriptions of fractals & recursion. |
 | 🔳 Potential contributions to Qiskit/ Qiskit Metal documentation in Navaho (from paper to GitHub pull requests). |
 | ✅ Explore draw-to-text features for Navaho characters referencing Unicode. |
+
+## Additional Project Roles for July-August:
+- GPU-Accelerated Linguistics Simulation on Colab (Onri, Noah, Mural)
+- English Braille to Navaho Braille for Linguistics & Quantum Ed. (Onri, Noah)
+- General Geometry Terminology Table (Onri, Mohamad, Mural)
+- Electromagnetic Spectrum Terminology Table (Onri, Mohamad)
+- Medical Hardware Terminology vs Quantum Hardware Terminology Table (Onri, Mural, Mohamad)
+- Blender 3D Model of Basic Quantum Devices for Translating (Onri, Mohamad)
+- Pseudo Device - SEM/High Res LASER 3D Imaging (Onri)
+
 
 ||
 |-|
