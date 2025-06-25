@@ -86,7 +86,6 @@ ________________________________________________________
 | Fast runner (quick)                           | dilwoʼ                                                        |
 | The quick brown fox jumped over the lazy dog | maʼii dibéłchíʼí dilwoʼ eii léechąąʼí biłhóyéé' dahnáníjįįh    |
 
-
 ---
 
 | Full Immersion by Sight, Auditory, & Tactile Means |
