@@ -120,7 +120,7 @@ ________________________________________________________
 
 ---
 
-| The Initial, General Plans for This Repository: |
+| The Initial, General Plans for This Repository Based on Onri's Prelimary Contributions: |
 |-|
 | ✅ Generate a table of Navaho characters in Unicode. |
 | ✅ "The quick brown fox jumped over the lazy dog" example in Navaho. |
@@ -133,7 +133,8 @@ ________________________________________________________
 | 🔳 Incorporation of hybrid qubit terms, able to future support quantum hardware publication. |
 | 🔳 Potential descriptions of fractals & recursion. |
 | 🔳 Potential contributions to Qiskit/ Qiskit Metal documentation in Navaho (from paper to GitHub pull requests). |
-> The next table is more formal and organized to allow for 
+
+> The next table is more formal and organized to allow for team member contribution from the funded version of the the project.
 
 
 ## Project Roles for Onri's Navaho Linguistics for QHW Education Team (July – October 2025)
