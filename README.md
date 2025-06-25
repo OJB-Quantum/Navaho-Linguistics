@@ -132,30 +132,36 @@ ________________________________________________________
 
 ---
 
-| Plans for this repository (in no particular order): |
+| Initial Plans for this repository (in no particular order): |
 |-|
 | ✅ Generate a table of Navaho characters in Unicode. |
 | ✅ "The quick brown fox jumped over the lazy dog" example in Navaho. |
 | ✅ Chart formation blueprint. |
 | ✅ Cyrillic example for "blue" and "bee" in Navaho. |
 | ✅ Generate a table of hardware-related words & phrases by Onri that need to be converted into digital text. |
-| 🔳 Generate a table of basic geometry terms  |
-| 🔳 Label dilution refrigerator in Navaho. |
 | ✅ Label tunnel junctions & physical qubit components in Navaho, may include original electron micrographs & renderings in Blender. Generate device 3D models intended for comparison with micrographs. |
+| ✅ Explore draw-to-text features for Navaho characters referencing Unicode. |
 | 🔳 Quantum device spectroscopy, reflectometry, & benchmarking terms in Navaho. |
 | 🔳 Incorporation of hybrid qubit terms, able to future support quantum hardware publication. |
 | 🔳 Potential descriptions of fractals & recursion. |
 | 🔳 Potential contributions to Qiskit/ Qiskit Metal documentation in Navaho (from paper to GitHub pull requests). |
-| ✅ Explore draw-to-text features for Navaho characters referencing Unicode. |
 
-## Additional Project Roles for July-August:
-- GPU-Accelerated Linguistics Simulation on Colab (Onri, Noah, Mural)
-- English Braille to Navaho Braille for Linguistics & Quantum Ed. (Onri, Noah)
-- General Geometry Terminology Table (Onri, Mohamad, Mural)
-- Electromagnetic Spectrum Terminology Table (Onri, Mohamad)
-- Medical Hardware Terminology vs Quantum Hardware Terminology Table (Onri, Mural, Mohamad)
-- Blender 3D Model of Basic Quantum Devices for Translating (Onri, Mohamad)
-- Pseudo Device - SEM/High Res LASER 3D Imaging (Onri)
+
+## Project Roles for Onri's Navaho Linguistics for QHW Education Team (July – October 2025)
+
+| #  | Project / Deliverable                                                                             | Core Participants              | Current Status             |
+| -- | ------------------------------------------------------------------------------------------------- | ------------------------------ | -------------------------- |
+| 1  | Language-Tree Formation for the Team                                                              | **Onri**, Noah, Mural, Mohamad | **Completed**              |
+| 2  | Category-Based Cryostat/ Dilution-Fridge Image Collection                                        | **Onri**, Noah, Mural, Mohamad | Mostly Completed           |
+| 3  | General Geometry (2-D/ 3-D) Terminology Table                                                    | **Onri**, Mohamad, Mural       | Partially Completed        |
+| 4  | Electromagnetic-Spectrum Terminology Table                                                        | **Onri**, Mohamad              | Not Started Yet |
+| 5  | English-Braille → Navaho-Braille Conversion for Linguistics & Quantum-Ed. <br> (3-D-printing involved) | **Onri**, Noah                 | Partially Completed        |
+| 6  | Medical-Hardware vs Quantum-Hardware Terminology Table                                            | **Onri**, Mural, Mohamad       | Not Started Yet |
+| 7  | Blender 3-D Model of Basic Quantum Devices / Cryogenic Chambers                                   | **Onri**, Mohamad              | Partially Completed        |
+| 8  | GPU-Accelerated Linguistics/ Semantic-Shift Simulation (Google Colab)                            | **Onri**, Noah, Mural          | Partially Completed        |
+| 9  | QPU-Based Linguistics/ Semantic-Shift Simulation (Google Colab)                                  | **Onri**                       | Not Started Yet |
+| 10 | Pseudo-Device: Basic SEM/ High-Res LASER 3-D Imaging                                             | **Onri**                       | Not Started Yet |
+
 
 
 ||
