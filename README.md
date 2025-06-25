@@ -158,6 +158,7 @@ ________________________________________________________
 | Quechua, Guarani, Aymara, Nahuatl (Eastern Huasteca), Inuktut | Navaho/ Navajo, Cherokee, Cree, Ojibwe, & most U.S. Native languages |
 
 > With the framework produced in this repository, it may be possible to provide the data neccessary to train machines on at least the translation of technical terms, such as quantum technology.
+
 > Additionally, a GPU-accelerated semantic shift [simulation](https://github.com/OJB-Quantum/Monte-Carlo-Sim/blob/main/CUDA%E2%80%91Accelerated_Semantic%E2%80%91Shift_Simulation.ipynb) was produced initially in English by Onri, but can be expanded to the Navaho/ Navajo linguistics framework and compared with Onri's own translation examples for fine-tuning.
 
 ---
@@ -166,9 +167,13 @@ ________________________________________________________
 > I created a simple tool to help with this idea based on Braille dot generation for expressing quantum mechanics equations and terms: <https://github.com/OJB-Quantum/LaTeX-to-Nemeth-Braille-to-SVG>
 
 > If a language relies less on phonetics or pronunciation based on the spelling, then it is apparent that it requires more memorization. The memorization is of association of pronunciation with a particularly spelled word. 
+
 > Based on some deductive reasoning, this would mean that languages that are heavily phonetic require less memorization of the association mentioned above. However, for languages that are heavily weighted on speaking rather than writing, would require relatively even more memorization.
+
 > Note: Unicode is mentioned in this project due to its convenience of character generation when one desires to correctly spell Navaho words. This form of character generation may provide a robust sequence of protocols for practical language usage in digital form, further strengthening any future initiatives to automate Navaho translation. Another interesting thing is that there are Navaho medical documentation on instrumentation that may be helpful in translating hardware-related topics. This includes microscopes and other advanced spectroscopy techniques in Navaho that we can borrow ideas from for this project.
+
 > A recent paper was published on large language model (LLM) identification of Navaho characters with 100% accuracy. This is big news because this project has so far produced a whole Navaho unicode table already, which could be used for efforts on getting the Navaho language and more native North American languages on Google Translate. Here are two links to the 2025 paper: [Association for Computational Linguistics](https://aclanthology.org/2025.naacl-short.24), [Dartmouth College](https://phys.org/news/2025-05-online-ai-easily-navajo-languages.html#:~:text=In%20a%20new%20study%2C%20Dartmouth,perfect%20accuracy) 
+
 
 ||
 |-|
@@ -177,6 +182,8 @@ ________________________________________________________
 | Private Link for Onri's Quantum Team to Translation Table Elements |
 | - |
 | [Navaho Translation Table - Onri's Quantum Hardware Team @UMN](https://docs.google.com/spreadsheets/d/1-tQlvdACq8fqpjb4uU1IEt-_E-pK_2sf_hXywJTj3uE/edit?usp=sharing)|
+
+---
 
 ||
 |-|
