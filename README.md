@@ -120,7 +120,7 @@ ________________________________________________________
 
 ---
 
-| Initial Plans for this repository (in no particular order): |
+| The Initial, General Plans for This Repository: |
 |-|
 | ✅ Generate a table of Navaho characters in Unicode. |
 | ✅ "The quick brown fox jumped over the lazy dog" example in Navaho. |
@@ -133,10 +133,11 @@ ________________________________________________________
 | 🔳 Incorporation of hybrid qubit terms, able to future support quantum hardware publication. |
 | 🔳 Potential descriptions of fractals & recursion. |
 | 🔳 Potential contributions to Qiskit/ Qiskit Metal documentation in Navaho (from paper to GitHub pull requests). |
+> The next table is more formal and organized to allow for 
 
 
 ## Project Roles for Onri's Navaho Linguistics for QHW Education Team (July – October 2025)
-| #  | Project/ Deliverable                                                                             | Core Participants              | Current Status             |
+| #  | Project Deliverable                                                                             | Core Participants              | Current Status             |
 | -- | ------------------------------------------------------------------------------------------------- | ------------------------------ | -------------------------- |
 | 1  | Language-Tree Formation for the Team                                                              | **Onri**, Noah, Mural, Mohamad | **Completed**              |
 | 2  | Category-Based Cryostat/ Dilution-Fridge Image Collection                                        | **Onri**, Noah, Mural, Mohamad | Mostly Completed           |
@@ -148,6 +149,7 @@ ________________________________________________________
 | 8  | GPU-Accelerated Linguistics/ Semantic-Shift Simulation (Google Colab)                            | **Onri**, Noah, Mural          | Partially Completed        |
 | 9  | QPU-Based Linguistics/ Semantic-Shift Simulation (Google Colab)                                  | **Onri**                       | Not Started Yet |
 | 10 | Pseudo-Device: Basic SEM/ High-Res LASER 3-D Imaging                                             | **Onri**                       | Not Started Yet |
+| 11 | LaTeX Documentation of the Project (Overleaf + TikZ)                                             | **Onri**                       | Partially Completed |
 
 ---
 
