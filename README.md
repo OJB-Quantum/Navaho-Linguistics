@@ -159,54 +159,57 @@ ________________________________________________________
 - High Comprehension: can read, listen, speak or write, and even translate, with occasional errors.
 - Intermediate Receptive: can read, listen, and possibly speak some phrases up to a limit.
 - Rudimentary Comprehension: can listen and pick out isolated words, with limited to no exposure.
-Onri's Language Tree
-├── Navaho (Native-Level)
-│   └── Other Athabaskan Languages (A Few Examples)
-│       ├── Western Apache (High Comprehension)
-│       ├── Chiricahua Apache (High Comprehension)
-│       └── Other Dene languages (High Comprehension)
-│
-├── English (Native-Level)
-│   └── Other Germanic Languages (A Few Examples)
-│       ├── West Germanic
-│       │   ├── German (Intermediate Receptive)
-│       │   └── Dutch (Intermediate Receptive)
-│       │   └── Afrikaans (Rudimentary Comprehension)
-│       └── North Germanic
-│            └── Swedish (Intermediate Receptive)
-│
-├── Russian (High Comprehension)
-│   └── Other Slavic Languages (A Few Examples)
-│       ├── East Slavic
-│       │   ├── Ukrainian (Intermediate Receptive)
-│       │   └── Belarusian (Intermediate Receptive)
-│       ├── West Slavic
-│       │   ├── Polish (Intermediate Receptive)
-│       │   └── Czech (Rudimentary Comprehension)
-│       └── South Slavic
-│           └── Serbian (Intermediate Receptive)
 
-Noah’s Language Tree
-├── Korean (Native-Level)
-│   └── Other Korean Languages 
-│       └── Chungcheong Language (High Comprehension)
-│       └── Jeolla Language (High Comprehension)
-│       └── Gyeongsang Language (High Comprehension)
-│       └── Gangwon Language (High Comprehension)
-│       └── Jeju Language (High Comprehension)
-│
-└── English (Native-Level)
+### Onri’s Language Tree
+- **Navaho** *(Native-Level)*
+  - Other Athabaskan Languages
+    - **Western Apache** *(High Comprehension)*
+    - **Chiricahua Apache** *(High Comprehension)*
+    - Other Dene languages *(High Comprehension)*
+- **English** *(Native-Level)*
+  - Other Germanic Languages
+    - **West Germanic**
+      - **German** *(Intermediate Receptive)*
+      - **Dutch** *(Intermediate Receptive)*
+      - **Afrikaans** *(Rudimentary Comprehension)*
+    - **North Germanic**
+      - **Swedish** *(Intermediate Receptive)*
+- **Russian** *(High Comprehension)*
+  - Other Slavic Languages
+    - **East Slavic**
+      - **Ukrainian** *(Intermediate Receptive)*
+      - **Belarusian** *(Intermediate Receptive)*
+    - **West Slavic**
+      - **Polish** *(Intermediate Receptive)*
+      - **Czech** *(Rudimentary Comprehension)*
+    - **South Slavic**
+      - **Serbian** *(Intermediate Receptive)*
 
-Mohamad’s Language Tree
-├── Arabic (Native-Level)
-│   └── Other Arabic Languages
-│       └── Sudanese Arabic (Native-Level)
-└── English (Native-Level)
+---
 
-Mural’s Language Tree
-├── English (Native-Level)
-└── Somali (Native-Level)
+### Noah’s Language Tree
+- **Korean** *(Native-Level)*
+  - Other Korean Languages
+    - **Chungcheong** *(High Comprehension)*
+    - **Jeolla** *(High Comprehension)*
+    - **Gyeongsang** *(High Comprehension)*
+    - **Gangwon** *(High Comprehension)*
+    - **Jeju** *(High Comprehension)*
+- **English** *(Native-Level)*
 
+---
+
+### Mohamad’s Language Tree
+- **Arabic** *(Native-Level)*
+  - Other Arabic Languages
+    - **Sudanese Arabic** *(Native-Level)*
+- **English** *(Native-Level)*
+
+---
+
+### Mural’s Language Tree
+- **English** *(Native-Level)*
+- **Somali** *(Native-Level)*
 
 --- 
 
