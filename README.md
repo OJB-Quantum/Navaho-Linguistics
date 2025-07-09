@@ -74,17 +74,17 @@ ________________________________________________________
 
 ### Other Examples:
 
-| **English**                                    | **Navaho**                                                    |
-|------------------------------------------------|----------------------------------------------------------------|
-| The quick brown fox                           | ma'ii dibéłchíʼí dilwo' or ma'ii yishtłizh dilwoʼ             |
-| Lazy dog                                      | léechąąʼí biłhóyéé'                                            |
-| Jumped                                        | nahachaʼ or dah nahachaʼ or dahnáníjįįh                       |
-| To jump                                       | dahnáníshjį́į́h                                               |
-| Jumping                                       | dah naháchaʼgo                                                |
-| Laziness                                      | iłhóyéé'                                                      |
-| Slow or in vain                               | chʼééh                                                        |
-| Fast runner (quick)                           | dilwoʼ                                                        |
-| The quick brown fox jumped over the lazy dog | maʼii dibéłchíʼí dilwoʼ eii léechąąʼí biłhóyéé' dahnáníjįįh    |
+| **Stage**        | **English**                                   | **Navaho**                                                    |
+|------------------|-----------------------------------------------|---------------------------------------------------------------|
+|                  | The quick brown fox                           | ma'ii dibéłchíʼí dilwo' or ma'ii yishtłizh dilwoʼ             |
+|                  | Lazy dog                                      | léechąąʼí biłhóyéé'                                           |
+|                  | Jumped                                        | nahachaʼ or dah nahachaʼ or dahnáníjįįh                       |
+|                  | To jump                                       | dahnáníshjį́į́h                                                 |
+|                  | Jumping                                       | dah naháchaʼgo                                                |
+|                  | Laziness                                      | iłhóyéé'                                                      |
+|                  | Slow or in vain                               | chʼééh                                                        |
+|                  | Fast runner (quick)                           | dilwoʼ                                                        |
+| Final Outcome    | The quick brown fox jumped over the lazy dog  | maʼii dibéłchíʼí dilwoʼ eii léechąąʼí biłhóyéé' dahnáníjįįh   |
 
 ---
 
