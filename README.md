@@ -325,6 +325,14 @@ Borrowed from: Gao et al., *Practical Guide for Building Superconducting Quantum
 > **Note:**
 > Navaho translation for cryogenic dilution fridge is coming soon...
 
+
+<img width="3840" height="3840" alt="Bluefors XLDsl_001" src="https://github.com/user-attachments/assets/6bcb914e-643e-4702-a3d5-92c2decaf7dc" />
+
+> Bluefors XLDsl Dilution Refrigerator (Pulse Tube XL Floor Type). Rendered in Blender.
+
+<img width="3840" height="2400" alt="SC Meta Material Chip 003" src="https://github.com/user-attachments/assets/c3c6ecfe-fff6-47a1-97cc-526e0b5ae4d8" />
+
+> Jopesphson Junctions on a Chip Layout, Next to a Flux Line. Rendered in Blender.
 ---
 
 ### To access the full PDF booklet, [click here.](https://github.com/OJB-Quantum/Navaho-Linguistics/blob/main/Navaho_Linguistics_for_Quantum_Hardware_Education_v2.pdf)
