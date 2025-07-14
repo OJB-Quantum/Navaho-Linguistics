@@ -153,6 +153,7 @@ ________________________________________________________
 | 11 | LaTeX Documentation of the Project (Overleaf + TikZ)                                             | **Onri**                       | Partially Completed |
 
 > A reasonable goal is to be able to complete 3 to 4 deliverables per month.
+> Employ the leap frog approach, by working on at least 2 deliverables simulataneously, but at a different paces each. 
 
 ---
 
