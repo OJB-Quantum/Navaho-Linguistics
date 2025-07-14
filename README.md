@@ -223,6 +223,7 @@ ________________________________________________________
 
 > Additionally, a GPU-accelerated semantic shift [simulation](https://github.com/OJB-Quantum/Monte-Carlo-Sim/blob/main/CUDA%E2%80%91Accelerated_Semantic%E2%80%91Shift_Simulation.ipynb) was produced initially in English by Onri, but can be expanded to the Navaho/ Navajo linguistics framework and compared with Onri's own translation examples for fine-tuning.
 
+> Google Drive for the Navaho Linguistics - QHW Ed Project [Saved Images Here](https://drive.google.com/drive/folders/16rtKbjxGLyHFNugfNqG_-YZOq8MaYb1c?usp=sharing)
 ---
 
 > In summer of 2024, the thought of exploring Navajo/ Navaho Braille together with Nemeth (Braille mathematics) came to mind. Although advanced mathematics topics are covered using Nemeth, it would be interesting to see it combined with Navaho/ Navajo Braille to express terms used in quantum mechanics and quantum computing.
