@@ -141,16 +141,18 @@ ________________________________________________________
 | #  | Project Deliverable                                                                             | Core Participants              | Current Status             |
 | -- | ------------------------------------------------------------------------------------------------- | ------------------------------ | -------------------------- |
 | 1  | Language-Tree Formation for the Team                                                              | **Onri**, Noah, Mural, Mohamad | **Completed**              |
-| 2  | Category-Based Cryostat/ Dilution-Fridge Image Collection                                        | **Onri**, Noah, Mural, Mohamad | Mostly Completed           |
+| 2  | Category-Based Cryostat/ Dilution-Fridge Image Collection                                        | **Onri**, Noah, Mural, Mohamad |  **Completed**           |
 | 3  | General Geometry (2-D/ 3-D) Terminology Table                                                    | **Onri**, Mohamad, Mural       | Partially Completed        |
 | 4  | Electromagnetic-Spectrum Terminology Table                                                        | **Onri**, Mohamad              | Partially Completed |
 | 5  | English-Braille → Navaho-Braille Conversion for Linguistics & Quantum-Ed. <br> (3-D-printing involved) | **Onri**, Noah                 | Partially Completed        |
 | 6  | Medical-Hardware vs Quantum-Hardware Terminology Table                                            | **Onri**, Mural, Mohamad       | Not Started Yet |
-| 7  | Blender 3-D Model of Basic Quantum Devices / Cryogenic Chambers                                   | **Onri**, Mohamad              | Partially Completed        |
+| 7  | Blender 3-D Model of Basic Quantum Devices/ Cryogenic Chambers                                   | **Onri**, Mohamad              | Partially Completed        |
 | 8  | GPU-Accelerated Linguistics/ Semantic-Shift Simulation (Google Colab)                            | **Onri**, Noah, Mural          | Partially Completed        |
 | 9  | QPU-Based Linguistics/ Semantic-Shift Simulation (Google Colab)                                  | **Onri**                       | Not Started Yet |
 | 10 | Pseudo-Device: Basic SEM/ High-Res LASER 3-D Imaging                                             | **Onri**                       | Not Started Yet |
 | 11 | LaTeX Documentation of the Project (Overleaf + TikZ)                                             | **Onri**                       | Partially Completed |
+
+> A reasonable goal is to be able to complete 3 to 4 deliverables per month.
 
 ---
 
@@ -326,13 +328,22 @@ Borrowed from: Gao et al., *Practical Guide for Building Superconducting Quantum
 > Navaho translation for cryogenic dilution fridge is coming soon...
 
 
-## Bluefors XLDsl Dilution Refrigerator (Pulse Tube XL Floor Type). Rendered in Blender.
+## Bluefors XLDsl Dilution Refrigerator (Pulse Tube XL Floor Type)
 <img width="3840" height="3840" alt="Bluefors XLDsl_001" src="https://github.com/user-attachments/assets/6bcb914e-643e-4702-a3d5-92c2decaf7dc" />
+> Rendered in Blender.
 
 
-## Jopesphson Junctions on a Chip Layout, Next to a Flux Line. Rendered in Blender.
+## Jopesphson Junctions on a Chip Layout, Next to a Flux Line
 <img width="3840" height="2400" alt="SC Meta Material Chip 003" src="https://github.com/user-attachments/assets/c3c6ecfe-fff6-47a1-97cc-526e0b5ae4d8" />
+> Rendered in Blender.
 
+## Simplified Quantum Computing Workflow
+<img width="2935" height="1669" alt="image" src="https://github.com/user-attachments/assets/0179180b-ca26-475a-b9c3-f4e1ce846abc" />
+> Image courtesy of Dr. Olivia Lanes via Qiskit on YouTube.
+
+## Gate-Based Quantum Computing Workflow
+<img width="3050" height="1587" alt="image" src="https://github.com/user-attachments/assets/6a9878ae-e0c0-45bc-aeb9-133a7255d9a2" />
+> Showing classical data inputs and classical data outputs, which should be paid close attention to if one desires to build a real quantum computer. Note that one of the main goals in the practical setup of quantum computers is the manipulation of “the quantum object”, which is a size-dependent device or atomic structure, with a natural or designed resonance frequency. This also means that it is typically placed under isolated physical conditions as well (e.g. refrigeration, vacuum sealing, radiation shielding, etc.). Courtesy of Olivier Ezratty’s Understanding Quantum Technologies 2024 book.
 
 ---
 
