@@ -68,7 +68,7 @@ ________________________________________________________
 
 *Representation of 'computer' in Navaho.*
 
-> For more details, scroll further to view the two-part translation model.
+> For more details, scroll further to view Onri's Two-Part Translation model.
 
 ---
 
@@ -387,6 +387,7 @@ Form-Factor Families ─ Dilution Refrigerators/ Non-Dilution Cryostats/ Paired 
 ![image](https://github.com/user-attachments/assets/4bb53477-5aff-4bbe-89be-d02e0109466f)
 
 ---
+
 ## Dilution Fridge Measurement System Schematic
 
 ![Screenshot 2025-01-26 083404](https://github.com/user-attachments/assets/782e5d7c-45ca-40fd-892a-c59020c68672)
