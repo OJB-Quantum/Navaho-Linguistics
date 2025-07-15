@@ -401,19 +401,23 @@ Borrowed from: Gao et al., *Practical Guide for Building Superconducting Quantum
 
 ## Bluefors XLDsl Dilution Refrigerator (Pulse Tube XL Floor Type)
 <img width="3840" height="3840" alt="Bluefors XLDsl_001" src="https://github.com/user-attachments/assets/6bcb914e-643e-4702-a3d5-92c2decaf7dc" />
+
 > Rendered in Blender.
 
 
 ## Jopesphson Junctions on a Chip Layout, Next to a Flux Line
 <img width="3840" height="2400" alt="SC Meta Material Chip 003" src="https://github.com/user-attachments/assets/c3c6ecfe-fff6-47a1-97cc-526e0b5ae4d8" />
+
 > Rendered in Blender.
 
 ## Simplified Quantum Computing Workflow
 <img width="2935" height="1669" alt="image" src="https://github.com/user-attachments/assets/0179180b-ca26-475a-b9c3-f4e1ce846abc" />
+
 > Image courtesy of Dr. Olivia Lanes via Qiskit on YouTube.
 
 ## Gate-Based Quantum Computing Workflow
 <img width="3050" height="1587" alt="image" src="https://github.com/user-attachments/assets/6a9878ae-e0c0-45bc-aeb9-133a7255d9a2" />
+
 > Showing classical data inputs and classical data outputs, which should be paid close attention to if one desires to build a real quantum computer. Note that one of the main goals in the practical setup of quantum computers is the manipulation of “the quantum object”, which is a size-dependent device or atomic structure, with a natural or designed resonance frequency. This also means that it is typically placed under isolated physical conditions as well (e.g. refrigeration, vacuum sealing, radiation shielding, etc.). Courtesy of Olivier Ezratty’s Understanding Quantum Technologies 2024 book.
 
 ---
