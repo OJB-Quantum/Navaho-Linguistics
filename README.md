@@ -138,6 +138,7 @@ ________________________________________________________
 
 
 ## Project Roles for Onri's Navaho Linguistics for QHW Education Team (July – October 2025)
+
 | #  | Project Deliverable                                                                             | Core Participants              | Current Status             |
 | -- | ------------------------------------------------------------------------------------------------- | ------------------------------ | -------------------------- |
 | 1  | Language-Tree Formation for the Team                                                              | **Onri**, Noah, Mural, Mohamad | **Completed**              |
@@ -217,6 +218,7 @@ ________________________________________________________
 ---
 
 ## Cryostats & Dilution Refrigerators on the Market
+
 ```
 CRYOGENIC VESSELS
 ├─ Passive Vessels (no active temperature control)
@@ -288,6 +290,7 @@ DR: Dilution Refrigerator
 ```
 
 #### Additional Notes on Passive Cryogenic Vessels
+
 | Passive‑vessel subtype                                          | Common cryogens†                              | Practical temperature floor\*                      | Core thermal/ safety constraints                                                                                                                                                                                                                    |
 | --------------------------------------------------------------- | --------------------------------------------- | -------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | **Open “bucket” (wide‑mouth Dewar)**                            | LN₂, LAr (occasionally LO₂ for spot cleaning) | 77 K (LN₂)/ 87 K (LAr)                            | Violent bubbling on warm insertion; splash, frost & rapid O₂ enrichment; zero over‑pressure protection — must remain vented (ehs.lbl.gov)                                                                         |
@@ -321,6 +324,7 @@ DR: Dilution Refrigerator
 ---
 
 > In summer of 2024, the thought of exploring Navajo/ Navaho Braille together with Nemeth (Braille mathematics) came to mind. Although advanced mathematics topics are covered using Nemeth, it would be interesting to see it combined with Navaho/ Navajo Braille to express terms used in quantum mechanics and quantum computing.
+
 > I created a simple tool to help with this idea based on Braille dot generation for expressing quantum mechanics equations and terms: <https://github.com/OJB-Quantum/LaTeX-to-Nemeth-Braille-to-SVG>
 
 > If a language relies less on phonetics or pronunciation based on the spelling, then it is apparent that it requires more memorization. The memorization is of association of pronunciation with a particularly spelled word. 
