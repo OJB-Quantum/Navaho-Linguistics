@@ -1,17 +1,23 @@
 # Navaho-Linguistics
 [![License](https://img.shields.io/badge/Creative_Commons-License-green)](https://choosealicense.com/licenses/cc-by-4.0) [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/OJB-Quantum/Navaho-Linguistics/main)
 
-A repository for Indigenous American language material for quantum engineering topics from the Diné/Navaho/Navajo tribe. Collected and written by Onri Jay Benally, an Indigenous American quantum hardware engineer born and raised on the Navaho tribe (Diné Bikeyah). This is a life-long project. In January of 2024, this open-access repository became part of an approved proposal funded by the [Arizona State University (ASU) Quantum Collaborative](https://quantumcollaborative.org) network.
+A repository for Indigenous American language material for quantum engineering topics from the Diné/Navaho/Navajo tribe. Collected and written by Onri Jay Benally, an Indigenous American quantum hardware engineer born and raised on the Navaho tribe (Diné Bikeyah). This is a life-long project. 
+
+In January of 2024, this open-access repository became part of an approved proposal funded by the [Arizona State University (ASU) Quantum Collaborative](https://quantumcollaborative.org) network. 
+
+The official funding start date is: June 2nd of 2025. 
+
+The official funded project name is: Quantum Hardware Engineering Education Augmented Through Navaho Linguistics.
 
 Primary URL for the repository: [OJB-Quantum/Navaho-Linguistics](https://github.com/OJB-Quantum/Navaho-Linguistics)
 
-_______________________________________________________________________________________________________________________________________________________________________
+---
 
 ![IMG_20230518_192210_00_018_PureShot](https://github.com/OJB-Quantum/Navaho-Linguistics/assets/88035770/f976afb5-128a-47a8-bb3e-996de87b51a6)
 
-_______________________________________________________________________________________________________________________________________________________________________
+---
 
-### Translation of "Quantum Computer" into Navajo by Onri Jay Benally (O.J.B.) [Example]:
+### Translation of "Quantum Computer" into Navajo by Onri Jay Benally (O.J.B.) [Example]
 
 | English Term       | Navaho/ Navajo Term                            | Literal Meaning in English                              |
 |--------------------|------------------------------------------------|---------------------------------------------------------|
@@ -25,7 +31,7 @@ ________________________________________________________
 |--------------------|-----------------------|
 | Jo dii Hoozdoh hahoodzo eii yaa, doo nidahałtingóó, dził, tsékooh, dóó dah azką́, eidigii t'aa ałtsoh Diné Bikeyah 'akwe'e sha hoghan. Dził bilááhdęęh 'akwe'e tłéego jo wót’ááhjį' alááhgo, yágháhookáán biyi'di, łees'áán yílzhódí nizhonigo adindiin. 'Akohgo 'índa ládą́ą́' k'os ádin, t’áá ákwii tł'éé' sǫ'łání dah dinisxǫs. 'Akót'áó shił yá'át'ééh. | In Arizona, there are deserts, mountains, canyons, and mesas within the Navaho Nation, my home. From the mountains and beyond, way up in the sky, in outer space, the Milky Way can be seen shining beautifully. Every night, if there are no clouds obstructing the view, one can observe so many sparkling stars. I am content with the way that this is. |
 
-________________________________________________________
+---
 
 ### Quantum Mechanics Explained in Navaho by Onri
 
@@ -36,7 +42,7 @@ ________________________________________________________
 > **Note:**
 > English translation is coming soon...
 
-________________________________________________________
+---
 
 ### Linguistic Idea Table Aimed Toward Translation Use
 
@@ -62,25 +68,25 @@ ________________________________________________________
 
 *Representation of 'computer' in Navaho.*
 
-> For more details, scroll further to view the two-part translation model.
+> For more details, scroll further to view Onri's Two-Part Translation model.
+
 ---
 
 ### Other Examples:
 
-| **English**                                    | **Navaho**                                                    |
-|------------------------------------------------|----------------------------------------------------------------|
-| The quick brown fox                           | ma'ii dibéłchíʼí dilwo' or ma'ii yishtłizh dilwoʼ             |
-| Lazy dog                                      | léechąąʼí iłhóyéé                                             |
-| Jumped                                        | nahachaʼ or dah nahachaʼ or dahnáníjįįh                       |
-| To jump                                       | dahnáníshjį́į́h                                               |
-| Jumping                                       | dah naháchaʼgo                                                |
-| Laziness                                      | iłhóyéé                                                       |
-| Slow or in vain                               | chʼééh                                                        |
-| Fast runner (quick)                           | dilwoʼ                                                        |
-| The quick brown fox jumped over the lazy dog | maʼii dibéłchíʼí dilwoʼ eii léechąąʼí iłhóyéé dahnáníjįįh     |
+|                  | **English**                                   | **Navaho**                                                    |
+|------------------|-----------------------------------------------|---------------------------------------------------------------|
+|                  | The quick brown fox                           | ma'ii dibéłchíʼí dilwo' or ma'ii yishtłizh dilwoʼ             |
+|                  | Lazy dog                                      | léechąąʼí biłhóyéé'                                           |
+|                  | Jumped                                        | nahachaʼ or dah nahachaʼ or dahnáníjįįh                       |
+|                  | To jump                                       | dahnáníshjį́į́h                                                 |
+|                  | Jumping                                       | dah naháchaʼgo                                                |
+|                  | Laziness                                      | iłhóyéé'                                                      |
+|                  | Slow or in vain                               | chʼééh                                                        |
+|                  | Fast runner (quick)                           | dilwoʼ                                                        |
+| Final Outcome    | The quick brown fox jumped over the lazy dog  | maʼii dibéłchíʼí dilwoʼ eii léechąąʼí biłhóyéé' dahnáníjįįh   |
 
-
-________________________________________________________
+---
 
 | Full Immersion by Sight, Auditory, & Tactile Means |
 |-|
@@ -88,7 +94,7 @@ ________________________________________________________
 | Auditory = Harmonics |
 | Tactility = Braille-mathematics-inspired learning |
 
-________________________________________________________
+---
 
 ### 3 General Categories of Technical Communication by O.J.B.
 
@@ -96,9 +102,9 @@ ________________________________________________________
 |------------------------|-----------------------------------------------------------------------------------|
 | **Mathematical Linguistics** | - Logical operations with words. <br> - Can be relayed through Braille, visible, or spoken text. <br> - Aims to formalize & create syntax & morphology. |
 | **Linguistical Mathematics** | - Semantics & philosophical-based communication. <br> - Tendency to be abstract, indeterminate, or ambiguous. <br> - Applies mathematical theories to understand linguistic phenomena & existing syntax. |
-| **Descriptive Linguistics**  | - Delineated, formulated, stringified, expanded, verbal communication. <br> - Can be relayed through Braille, visible, or spoken text. <br> - Uses familiar syntax of one’s spoken language for comprehensive documentation. |
+| **Descriptive Linguistics**  | - Delineated, formulated, stringified, expanded, verbal communication. <br> - Can be relayed through Braille, visible, or spoken text. <br> - Uses the familiar syntax of one’s spoken language for comprehensive documentation. |
 
-_______________________________________________________________________________________________________________________________________________________________________
+---
 
 ### Leveraging the Universal Nature of Geometry with Linguistics:
 
@@ -112,22 +118,219 @@ ________________________________________________________________________________
 | **Challenges in Advanced Topics** | - Advanced geometry topics may require more specialized terminology.<br>- Language development and contextual examples can address this challenge.                                                                             |
 | **Conclusion**                  | - Basic geometry is universally teachable due to its visual and universal nature.<br>- Advanced topics can be effectively taught with creative methods and linguistic adaptability.                                             |
 
-________________________________________________________________________________________________________________________________________________
+---
 
-| Plans for this repository (in no particular order): |
+| The Initial, General Plans for This Repository Based on Onri's Prelimary Contributions: |
 |-|
 | ✅ Generate a table of Navaho characters in Unicode. |
 | ✅ "The quick brown fox jumped over the lazy dog" example in Navaho. |
 | ✅ Chart formation blueprint. |
 | ✅ Cyrillic example for "blue" and "bee" in Navaho. |
-| ✅ Generate a table of words & phrases by Onri that need to be converted into digital text. |
-| 🔳 Label dilution refrigerator in Navaho. |
+| ✅ Generate a table of hardware-related words & phrases by Onri that need to be converted into digital text. |
 | ✅ Label tunnel junctions & physical qubit components in Navaho, may include original electron micrographs & renderings in Blender. Generate device 3D models intended for comparison with micrographs. |
-| 🔳 Qubit spectroscopy, reflectometry, & benchmarking terms in Navaho. |
-| 🔳 Incorporation of hybrid qubit terms, able to support quantum hardware publication. |
-| 🔳 Potential descriptions of fractal geometry. |
-| 🔳 Potential contributions to Qiskit/ Qiskit Metal documentation in Navaho (from paper to GitHub pull requests). |
 | ✅ Explore draw-to-text features for Navaho characters referencing Unicode. |
+| 🔳 Quantum device spectroscopy, reflectometry, & benchmarking terms in Navaho. |
+| 🔳 Incorporation of hybrid qubit terms, able to future support quantum hardware publication. |
+| 🔳 Potential descriptions of fractals & recursion. |
+| 🔳 Potential contributions to Qiskit/ Qiskit Metal documentation in Navaho (from paper to GitHub pull requests). |
+
+> The next table is more formal and organized to allow for team member contribution from the funded version of the the project.
+
+
+## Project Roles for Onri's Navaho Linguistics for QHW Education Team (July – October 2025)
+| #  | Project Deliverable                                                                             | Core Participants              | Current Status             |
+| -- | ------------------------------------------------------------------------------------------------- | ------------------------------ | -------------------------- |
+| 1  | Language-Tree Formation for the Team                                                              | **Onri**, Noah, Mural, Mohamad | **Completed**              |
+| 2  | Category-Based Cryostat/ Dilution-Fridge Image Collection                                        | **Onri**, Noah, Mural, Mohamad |  **Completed**           |
+| 3  | General Geometry (2-D/ 3-D) Terminology Table                                                    | **Onri**, Mohamad, Mural       | Partially Completed        |
+| 4  | Electromagnetic-Spectrum Terminology Table                                                        | **Onri**, Mohamad              | Partially Completed |
+| 5  | English-Braille → Navaho-Braille Conversion for Linguistics & Quantum-Ed. <br> (3-D-printing involved) | **Onri**, Noah                 | Partially Completed        |
+| 6  | Medical-Hardware vs Quantum-Hardware Terminology Table                                            | **Onri**, Mural, Mohamad       | Not Started Yet |
+| 7  | Blender 3-D Model of Basic Quantum Devices/ Cryogenic Chambers                                   | **Onri**, Mohamad              | Partially Completed        |
+| 8  | GPU-Accelerated Linguistics/ Semantic-Shift Simulation (Google Colab)                            | **Onri**, Noah, Mural          | Partially Completed        |
+| 9  | QPU-Based Linguistics/ Semantic-Shift Simulation (Google Colab)                                  | **Onri**                       | Not Started Yet |
+| 10 | Pseudo-Device: Basic SEM/ High-Res LASER 3-D Imaging                                             | **Onri**                       | Not Started Yet |
+| 11 | LaTeX Documentation of the Project (Overleaf + TikZ)                                             | **Onri**                       | Partially Completed |
+
+> A reasonable goal is to be able to complete 3 to 4 deliverables per month.
+> Employ the leap frog approach, by working on at least 2 deliverables simulataneously, but at a different paces each. 
+
+---
+
+## Language Trees for the Team
+- Native-Level or Fluent: can fully self-translate and interpret fluidly, with little to no errors.
+- High Comprehension: can read, listen, speak or write, and even translate, with occasional errors.
+- Intermediate Receptive: can read, listen, and possibly speak some phrases up to a limit.
+- Rudimentary Comprehension: can listen and pick out isolated words, with limited to no exposure.
+
+### Onri’s Language Tree
+- **Navaho** *(Native-Level)*
+  - Other Athabaskan Languages
+    - **Western Apache** *(High Comprehension)*
+    - **Chiricahua Apache** *(High Comprehension)*
+    - Other Dene languages *(High Comprehension)*
+- **English** *(Native-Level)*
+  - Other Germanic Languages
+    - **West Germanic**
+      - **German** *(Intermediate Receptive)*
+      - **Dutch** *(Intermediate Receptive)*
+      - **Afrikaans** *(Rudimentary Comprehension)*
+    - **North Germanic**
+      - **Swedish** *(Intermediate Receptive)*
+- **Russian** *(High Comprehension)*
+  - Other Slavic Languages
+    - **East Slavic**
+      - **Ukrainian** *(Intermediate Receptive)*
+      - **Belarusian** *(Intermediate Receptive)*
+    - **West Slavic**
+      - **Polish** *(Intermediate Receptive)*
+      - **Czech** *(Rudimentary Comprehension)*
+    - **South Slavic**
+      - **Serbian** *(Intermediate Receptive)*
+
+---
+
+### Noah’s Language Tree
+- **Korean** *(Native-Level)*
+  - Other Korean Languages
+    - **Chungcheong** *(High Comprehension)*
+    - **Jeolla** *(High Comprehension)*
+    - **Gyeongsang** *(High Comprehension)*
+    - **Gangwon** *(High Comprehension)*
+    - **Jeju** *(High Comprehension)*
+- **English** *(Native-Level)*
+
+---
+
+### Mohamad’s Language Tree
+- **Arabic** *(Native-Level)*
+  - Other Arabic Languages
+    - **Sudanese Arabic** *(Native-Level)*
+- **English** *(Native-Level)*
+
+---
+
+### Mural’s Language Tree
+- **English** *(Native-Level)*
+- **Somali** *(Native-Level)*
+
+---
+
+## Cryostats & Dilution Refrigerators on the Market
+```
+CRYOGENIC VESSELS
+├─ Passive Vessels (no active temperature control)
+│   └─ Dewar Flasks [L]         ← vacuum-insulated storage
+│       ├─ Static/ Storage Dewar
+│       ├─ Transport Dewar (road/ air)
+│       └─ Open “bucket” Dewar (bench-top dip)
+│
+└─ Cryostats (instrumented cryogenic vessels, with active temperature control)
+    ├─ Liquid-Filled Platforms [L]
+    │   ├─ Bath Cryostat
+    │   │   ├─ LN₂ bath (~77 K)
+    │   │   └─ LHe bath (4.2 K; pumped 1 K pot)
+    │   └─ Continuous-Flow Cryostat (4 K – 300 K; fed from external Dewar)
+    ├─ Closed-Cycle Platforms “Dry” [D]
+    │   ├─ Gifford–McMahon (GM) head (≈ 2 – 4 K)
+    │   └─ Pulse-Tube (PT) head (≈ 2 – 4 K; low vibration)
+    └─ Ultra-Low-T Inserts (mount on any 2–4 K stage)
+        ├─ Dilution Refrigerator (DR) < 10 mK [D‡]
+        ├─ ADR/ PDR 50 – 100 mK [L/D]
+        ├─ ³He Sorption Cooler 250 – 400 mK [L/D]
+        └─ Pumped-⁴He 1 K Stage/ VTI [L/D]
+
+Legend  
+[L] Requires stored liquid cryogen 
+[D] Cryogen-free mechanical (GM or PT) cooler  
+[L/D] Available in both wet-dipstick and dry bolt-on versions  
+[D‡] > 90 % of new DRs ship cryogen-free; a few legacy wet dip-stick units still exist
+
+---
+
+Form-Factor Families ─ Dilution Refrigerators/ Non-Dilution Cryostats/ Paired Dewar Vessels
+├─ Table-Top/ Insert  (< 0.5 m²)
+│   ├─ DR attocube  attoDRY-800/ -1100
+│   ├─ DR Cryogenic Ltd  STM-insert DRs (UHV tubes)
+│   └─ Dewar KGW-Isotherm lab borosilicate/ stainless hybrids  (< 30 L)
+│
+├─ Ultra-Compact Floor  (≈ 0.6 – 0.8 m²)
+│   ├─ DR Bluefors  Ultra-Compact LD  (≤ 300 mm plate)
+│   └─ Dewar Statebourne Cryolab & CryoCycl  LN₂ micro-bulk  (30 – 60 L)
+│
+├─ Compact Floor-Standing  (≈ 1 m²)
+│   ├─ DR  Bluefors  LD/ SD
+│   ├─ DR  FormFactor-HPD  JDry-400  ·  LF-400
+│   ├─ DR  Oxford Instruments  Proteox S
+│   ├─ DR  Quantum Design PPMS DynaCool + DR insert
+│   ├─ Non-DR  Quantum Design PPMS DynaCool without DR insert (standard option)
+│   ├─ Non-DR  Quantum Design PPMS VersaLab 
+│   ├─ Non-DR  Quantum Design MPMS-3 SQUID
+│   └─ Dewar Cryofab  CMSH  liquid-helium Dewars  (20 – 500 L)
+│
+├─ Large-Frame  (≥ 1 m²)
+│   ├─ DR   Bluefors  XLD/  XL
+│   ├─ DR   FormFactor-HPD  XLF-600
+│   ├─ DR   Oxford Instruments  Proteox MX/  LX
+│   ├─ DR   ICE Oxford  DRY-ICE Eden
+│   ├─ DR   Zero Point Cryogenics  Model L
+│   ├─ DR   Leiden Cryogenics  CF-CS-XXL/ 1 m plate
+│   └─ Dewar Wessington  PV/ TPV tanks  ·  Cryo Diffusion  LO/ CDB series  (> 1,000 L)
+│
+└─ Data-Center/ XXL  (> 1.4 m² · multi-PT stacks)
+    ├─ DR   Bluefors  KIDE  (1.6 m² flange)
+    ├─ DR   Cryoconcept  HEXA-DRY XXL  (Ø 800 mm)
+    ├─ DR   QuantumCTek  EZ-Q  (mass-production line)
+    ├─ DR   ULVAC  next-gen DR  (IBM co-design, slated ≥ 2026)
+    └─ Dewar Taiyo Nippon Sanso bulk LN₂ tanks  ·  Sumitomo (SHI) GM-precooled LHe vessels
+
+DR: Dilution Refrigerator
+```
+
+#### Additional Notes on Passive Cryogenic Vessels
+| Passive‑vessel subtype                                          | Common cryogens†                              | Practical temperature floor\*                      | Core thermal/ safety constraints                                                                                                                                                                                                                    |
+| --------------------------------------------------------------- | --------------------------------------------- | -------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Open “bucket” (wide‑mouth Dewar)**                            | LN₂, LAr (occasionally LO₂ for spot cleaning) | 77 K (LN₂)/ 87 K (LAr)                            | Violent bubbling on warm insertion; splash, frost & rapid O₂ enrichment; zero over‑pressure protection — must remain vented (ehs.lbl.gov)                                                                         |
+| **Static storage Dewar**<br>(bench or floor, non‑pressurized)   | LN₂, LAr, LO₂, **LHe (with LN₂ shield)**      | 4.2 K for LHe (inner can)<br>≈ 77 K for LN₂ shield | Multilayer insulation (MLI) plus <10⁻⁵ mbar vacuum to limit radiative & gaseous conduction loads; vented neck to avoid plug ice; shield‑fill adds ≈1 W latent load per litre (americanmagnetics.com, EHRS)                   |
+| **Transport Dewar/ ISO tank**<br>(road, sea, or air certified) | LN₂, **LHe**, LH₂ (ISO‑T75)                   | 4.2 K (LHe)/ 20.3 K (LH₂)                         | Must survive continuous vibration & shocks (ADR, IMDG, IATA); dual or triple pressure‑relief trains sized for full flash; seismic‑stop frame & slosh‑baffle for air cargo (Wessington, cryotherminc.com, ehs.lbl.gov) |
+
+†LO₂ and LH₂ add powerful oxidizer/flammability hazards and are therefore restricted to specially cleaned, oxygen‑compatible or hydrogen‑compatible hardware.
+*Temperature “floor” means the minimum bath temperature achievable at 1 atm with pure, saturated liquid of the listed cryogen(s).
+
+- Thermos (™) combines thermo‑ “heat” with the ‑s denoting a container.
+- Cryostat blends Greek kryos “icy cold” with -stat “standing-place,” literally “cold-standing device.”
+- A Dewar or Dewar flask is essentially an ultra-efficient, vacuum-insulated “thermos.” Dewar is named after its inventor, Sir James Dewar (1842-1923).
+- Open Dewars become impractical for helium because superfluid He-II (below 2.17 K) can “creep” up walls (Rollin film) and escape.
+- For millikelvin work you attach an insert (e.g., dilution refrigerator) to a 4 K flange.
+- Some modern laboratories skip stored liquids entirely by tying the “Cryostat” branch’s pulse-tube coolers straight to a helium-recovery compressor; nevertheless, Dewars are still ubiquitous for transport, purge, and backup.
+
+> Google Drive for [Saved Images of Cryostats and More](https://drive.google.com/drive/folders/16rtKbjxGLyHFNugfNqG_-YZOq8MaYb1c?usp=sharing)
+
+--- 
+
+### Indigenous American/ Native American Languages on Google Translate as of 2025:
+
+| Supported in Google Translate                                 | Not Supported                                                  |
+| ------------------------------------------------------------- | -------------------------------------------------------------- |
+| Quechua, Guarani, Aymara, Nahuatl (Eastern Huasteca), Inuktut | Navaho/ Navajo, Cherokee, Cree, Ojibwe, & most U.S. Native languages |
+
+> With the framework produced in this repository, it may be possible to provide the data neccessary to train machines on at least the translation of technical terms, such as quantum technology.
+
+> Additionally, a GPU-accelerated semantic shift [simulation](https://github.com/OJB-Quantum/Monte-Carlo-Sim/blob/main/CUDA%E2%80%91Accelerated_Semantic%E2%80%91Shift_Simulation.ipynb) was produced initially in English by Onri, but can be expanded to the Navaho/ Navajo linguistics framework and compared with Onri's own translation examples for fine-tuning.
+
+---
+
+> In summer of 2024, the thought of exploring Navajo/ Navaho Braille together with Nemeth (Braille mathematics) came to mind. Although advanced mathematics topics are covered using Nemeth, it would be interesting to see it combined with Navaho/ Navajo Braille to express terms used in quantum mechanics and quantum computing.
+> I created a simple tool to help with this idea based on Braille dot generation for expressing quantum mechanics equations and terms: <https://github.com/OJB-Quantum/LaTeX-to-Nemeth-Braille-to-SVG>
+
+> If a language relies less on phonetics or pronunciation based on the spelling, then it is apparent that it requires more memorization. The memorization is of association of pronunciation with a particularly spelled word. 
+
+> Based on some deductive reasoning, this would mean that languages that are heavily phonetic require less memorization of the association mentioned above. However, for languages that are heavily weighted on speaking rather than writing, would require relatively even more memorization.
+
+> Note: Unicode is mentioned in this project due to its convenience of character generation when one desires to correctly spell Navaho words. This form of character generation may provide a robust sequence of protocols for practical language usage in digital form, further strengthening any future initiatives to automate Navaho translation. Another interesting thing is that there are Navaho medical documentation on instrumentation that may be helpful in translating hardware-related topics. This includes microscopes and other advanced spectroscopy techniques in Navaho that we can borrow ideas from for this project.
+
+> A recent paper was published on large language model (LLM) identification of Navaho characters with 100% accuracy. This is big news because this project has so far produced a whole Navaho unicode table already, which could be used for efforts on getting the Navaho language and more native North American languages on Google Translate. Here are two links to the 2025 paper: [Association for Computational Linguistics](https://aclanthology.org/2025.naacl-short.24), [Dartmouth College](https://phys.org/news/2025-05-online-ai-easily-navajo-languages.html#:~:text=In%20a%20new%20study%2C%20Dartmouth,perfect%20accuracy) 
+
 
 ||
 |-|
@@ -137,14 +340,7 @@ ________________________________________________________________________________
 | - |
 | [Navaho Translation Table - Onri's Quantum Hardware Team @UMN](https://docs.google.com/spreadsheets/d/1-tQlvdACq8fqpjb4uU1IEt-_E-pK_2sf_hXywJTj3uE/edit?usp=sharing)|
 
-> Note: Unicode is mentioned here due to its convenience of character generation when one desires to correctly spell Navaho words. This form of character generation may provide a robust sequence of protocols for practical language usage in digital form, further strengthening any future initiatives to automate Navaho translation. Another interesting thing is that there are Navaho medical documentation on instrumentation that may be helpful in translating hardware-related topics. This includes microscopes and other advanced spectroscopy techniques in Navaho that we can borrow ideas from for this project. 
-
-> As of summer 2024, the thought of exploring Navajo/ Navaho Braille together with Nemeth (Braille mathematics) came to mind. Although advanced mathematics topics are covered using Nemeth, it would be interesting to see it combined with Navaho/ Navajo Braille to express terms used in quantum mechanics and quantum computing.
-> I created a simple tool to help with this idea: <https://github.com/OJB-Quantum/LaTeX-to-Nemeth-Braille-to-SVG>
-
-> If a language relies less on phonetics or pronunciation based on the spelling, then it is apparent that it requires more memorization. The memorization is of association of pronunciation with a particularly spelled word. 
-> Based on some deductive reasoning, this would mean that languages that are heavily phonetic require less memorization of the association mentioned above. However, for languages that are heavily weighted on speaking rather than writing, would require relatively even more memorization.
-
+---
 
 ||
 |-|
@@ -159,7 +355,7 @@ ________________________________________________________________________________
 | [List of Logic Operator Terms in Braille](https://nemeth.aphtech.org/lesson11.12) |
 | [Unified English Braille (UEB) Table of Contents](https://uebmath.aphtech.org) |
 
-________________________________________________________________________________________________________________________________________________
+---
 
 | Clickable links to supplementary material: |
 |--------------------------------------------|
@@ -181,8 +377,12 @@ ________________________________________________________________________________
 | [Navaho linguistics material and history on the Internet Archive](https://archive.org/search?and=&query=navajo+language) |
 | [Navaho linguistics archive at MIT](https://fernald.domains.swarthmore.edu/nla/halearch/halearch.htm) |
 | [Basic 3D-printable cryostat for educational purposes](https://www.tinkercad.com/things/dgJLBpuNQtv-onris-printable-cryostat) |
+| [Introduction to Linguistics, MIT OCW](https://ocw.mit.edu/courses/24-900-introduction-to-linguistics-spring-2022/pages/lecture-videos) |
+| [More Linguistics Courses, MIT OCW](https://ocw.mit.edu/search/?q=Linguistics) |
+| [Linguistics Crashcourse on YouTube, TrevTutor](https://youtu.be/0nBzlNFwgs4?si=kX91qwo7Mp8THRcj) |
+| [Linguistic Diversity, What For?, Coursera](https://www.coursera.org/learn/linguistic-diversity-what-for) |
 
-________________________________________________________________________________________________________________________________________________
+---
 
 | A few examples of my contributions to English-Navaho dictionary on Glosbe: |
 |--------------------------------------------------------------------------------|
@@ -193,7 +393,7 @@ ________________________________________________________________________________
 
 (There is a longer list of the translations I made, which will soon be uploaded in the folders above).
 
-________________________________________________________________________________________________________________________________________________
+---
 
 ### Below are some figures of O.J.B.'s Navaho/ Navajo two-part translation model:
 
@@ -207,9 +407,8 @@ ________________________________________________________________________________
 
 ![image](https://github.com/user-attachments/assets/4bb53477-5aff-4bbe-89be-d02e0109466f)
 
-![300189739-9c7c2ba3-e314-4166-9e70-57a794d9bbde](https://github.com/OJB-Quantum/Navaho-Linguistics/assets/88035770/a50ade0b-2fa5-42f4-a4d0-cf822678aa4b)
-
 ---
+
 ## Dilution Fridge Measurement System Schematic
 
 ![Screenshot 2025-01-26 083404](https://github.com/user-attachments/assets/782e5d7c-45ca-40fd-892a-c59020c68672)
@@ -221,7 +420,29 @@ Borrowed from: Gao et al., *Practical Guide for Building Superconducting Quantum
 > **Note:**
 > Navaho translation for cryogenic dilution fridge is coming soon...
 
-________________________________________________________________________________________________________________________________________________
+
+## Bluefors XLDsl Dilution Refrigerator (Pulse Tube XL Floor Type)
+<img width="3840" height="3840" alt="Bluefors XLDsl_001" src="https://github.com/user-attachments/assets/6bcb914e-643e-4702-a3d5-92c2decaf7dc" />
+
+> Rendered in Blender.
+
+
+## Jopesphson Junctions on a Chip Layout, Next to a Flux Line
+<img width="3840" height="2400" alt="SC Meta Material Chip 003" src="https://github.com/user-attachments/assets/c3c6ecfe-fff6-47a1-97cc-526e0b5ae4d8" />
+
+> Rendered in Blender.
+
+## Simplified Quantum Computing Workflow
+<img width="2935" height="1669" alt="image" src="https://github.com/user-attachments/assets/0179180b-ca26-475a-b9c3-f4e1ce846abc" />
+
+> Image courtesy of Dr. Olivia Lanes via Qiskit on YouTube.
+
+## Gate-Based Quantum Computing Workflow
+<img width="3050" height="1587" alt="image" src="https://github.com/user-attachments/assets/6a9878ae-e0c0-45bc-aeb9-133a7255d9a2" />
+
+> Showing classical data inputs and classical data outputs, which should be paid close attention to if one desires to build a real quantum computer. Note that one of the main goals in the practical setup of quantum computers is the manipulation of “the quantum object”, which is a size-dependent device or atomic structure, with a natural or designed resonance frequency. This also means that it is typically placed under isolated physical conditions as well (e.g. refrigeration, vacuum sealing, radiation shielding, etc.). Courtesy of Olivier Ezratty’s Understanding Quantum Technologies 2024 book.
+
+---
 
 ### To access the full PDF booklet, [click here.](https://github.com/OJB-Quantum/Navaho-Linguistics/blob/main/Navaho_Linguistics_for_Quantum_Hardware_Education_v2.pdf)
 
@@ -230,7 +451,7 @@ ________________________________________________________________________________
 ![Navaho for Quantum Hardware Education_v2-3](https://github.com/OJB-Quantum/Navaho-Linguistics/assets/88035770/62ece4d3-92a1-4206-955a-2de8af4a1ffd)
 ![Navaho Long Vowel Network](https://github.com/OJB-Quantum/Navaho-Linguistics/assets/88035770/81f88834-244c-4c8e-8926-c62330055334)
 
-________________________________________________________________________________________________________________________________________________
+--- 
 
 | Google Colab Notebook Demonstrating the UTF-8 Encoding of the Navaho Language Characters |  |
 | ----------- | ----------------- |
@@ -379,7 +600,7 @@ ________________________________________________________________________________
 | ...              | ...                         | ...                          |
 | ń                | U+0144                     | \u0144                       |
 
-________________________________________________________________________________________________________________________________________________
+---
 
 
 Note: I made sources available in this repository to be generally open access, while others are "copyrighted unless used for educational purposes". This repository intends to produce educational material in the same light. See http://rightsstatements.org/page/InC-EDU/1.0/ for more details on the permissions allowed by those respective authors.
