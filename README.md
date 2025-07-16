@@ -216,14 +216,15 @@ ________________________________________________________
 
 ---
 
-## Cryostats and Dilution Refrigerators on the Market
+## Cryostats & Dilution Refrigerators on the Market
 ```
 CRYOGENIC VESSELS
 ├─ Passive Vessels (no active temperature control)
-│   └─ Dewar Flasks [L]                                           ← vacuum-insulated storage
+│   └─ Dewar Flasks [L]         ← vacuum-insulated storage
 │       ├─ Static/ Storage Dewar
 │       ├─ Transport Dewar (road/ air)
 │       └─ Open “bucket” Dewar (bench-top dip)
+│
 └─ Cryostats (instrumented cryogenic vessels, with active temperature control)
     ├─ Liquid-Filled Platforms [L]
     │   ├─ Bath Cryostat
@@ -282,7 +283,27 @@ Form-Factor Families ─ Dilution Refrigerators/ Non-Dilution Cryostats/ Paired 
     ├─ DR   QuantumCTek  EZ-Q  (mass-production line)
     ├─ DR   ULVAC  next-gen DR  (IBM co-design, slated ≥ 2026)
     └─ Dewar Taiyo Nippon Sanso bulk LN₂ tanks  ·  Sumitomo (SHI) GM-precooled LHe vessels
+
+DR: Dilution Refrigerator
 ```
+
+#### Additional Notes on Passive Cryogenic Vessels
+| Passive‑vessel subtype                                          | Common cryogens†                              | Practical temperature floor\*                      | Core thermal/ safety constraints                                                                                                                                                                                                                    |
+| --------------------------------------------------------------- | --------------------------------------------- | -------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Open “bucket” (wide‑mouth Dewar)**                            | LN₂, LAr (occasionally LO₂ for spot cleaning) | 77 K (LN₂)/ 87 K (LAr)                            | Violent bubbling on warm insertion; splash, frost & rapid O₂ enrichment; zero over‑pressure protection — must remain vented (ehs.lbl.gov)                                                                         |
+| **Static storage Dewar**<br>(bench or floor, non‑pressurized)   | LN₂, LAr, LO₂, **LHe (with LN₂ shield)**      | 4.2 K for LHe (inner can)<br>≈ 77 K for LN₂ shield | Multilayer insulation (MLI) plus <10⁻⁵ mbar vacuum to limit radiative & gaseous conduction loads; vented neck to avoid plug ice; shield‑fill adds ≈1 W latent load per litre (americanmagnetics.com, EHRS)                   |
+| **Transport Dewar/ ISO tank**<br>(road, sea, or air certified) | LN₂, **LHe**, LH₂ (ISO‑T75)                   | 4.2 K (LHe)/ 20.3 K (LH₂)                         | Must survive continuous vibration & shocks (ADR, IMDG, IATA); dual or triple pressure‑relief trains sized for full flash; seismic‑stop frame & slosh‑baffle for air cargo (Wessington, cryotherminc.com, ehs.lbl.gov) |
+
+†LO₂ and LH₂ add powerful oxidizer/flammability hazards and are therefore restricted to specially cleaned, oxygen‑compatible or hydrogen‑compatible hardware.
+*Temperature “floor” means the minimum bath temperature achievable at 1 atm with pure, saturated liquid of the listed cryogen(s).
+
+- Thermos (™) combines thermo‑ “heat” with the ‑s denoting a container.
+- Cryostat blends Greek kryos “icy cold” with -stat “standing-place,” literally “cold-standing device.”
+- A Dewar or Dewar flask is essentially an ultra-efficient, vacuum-insulated “thermos.” Dewar is named after its inventor, Sir James Dewar (1842-1923).
+- Open Dewars become impractical for helium because superfluid He-II (below 2.17 K) can “creep” up walls (Rollin film) and escape.
+- For millikelvin work you attach an insert (e.g., dilution refrigerator) to a 4 K flange.
+- Some modern laboratories skip stored liquids entirely by tying the “Cryostat” branch’s pulse-tube coolers straight to a helium-recovery compressor; nevertheless, Dewars are still ubiquitous for transport, purge, and backup.
+
 > Google Drive for [Saved Images of Cryostats and More](https://drive.google.com/drive/folders/16rtKbjxGLyHFNugfNqG_-YZOq8MaYb1c?usp=sharing)
 
 --- 
