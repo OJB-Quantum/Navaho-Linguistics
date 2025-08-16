@@ -366,6 +366,7 @@ DR: Dilution Refrigerator
 | [Navaho in Cyrillic Script](https://omniglot.com/conscripts/cyrillicnavajo.htm) |
 | [Navaho language audio sample narrated by Onri](https://www.omniglot.com/conscripts/cyrillicnavajo.htm#:~:text=Hear%20a%20recording%20of%20this%20text%20by%20Onri%20Jay%20Benally) |
 | [Navaho sound profiles](https://www.unm.edu/~johncho/html/main.html) |
+| [Navaho language samples](https://youtube.com/playlist?list=PLbW5jviv4ckyQfIkzE8mJQDyuspK-QGXS&si=ATb_AL1t1gpWdUot) |
 | [Navaho prefixes](https://en.wiktionary.org/wiki/Category:Navajo_prefixes) |
 | [Navaho suffixes](https://en.wiktionary.org/wiki/Category:Navajo_suffixes) |
 | [Navaho particles](https://en.wiktionary.org/wiki/Category:Navajo_particles) |
