@@ -23,7 +23,7 @@ Primary URL for the repository: [OJB-Quantum/Navaho-Linguistics](https://github.
 |--------------------|------------------------------------------------|---------------------------------------------------------|
 | quantum computer   | béésh tʼáá 'aníí 'á'ádaatʼéhígíí nitsékeesí   | Metal or piece of metal that thinks at a truly fundamental level |
 
-________________________________________________________
+---
 
 ### Living on the Countryside Explained by O.J.B., First in Navaho, Followed by English
 
