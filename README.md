@@ -17,6 +17,12 @@ Primary URL for the repository: [OJB-Quantum/Navaho-Linguistics](https://github.
 
 ---
 
+### Pro tip by Onri: 
+- Navaho root words often start with 'a', 'b', 'h', 'n', 't', or 'y' sounds.
+- Also, when a word starts with an 'a', it is usually preceded by an apostrophe.
+
+---
+
 ### Translation of "Quantum Computer" into Navajo by Onri Jay Benally (O.J.B.) [Example]
 
 | English Term       | Navaho/ Navajo Term                            | Literal Meaning in English                              |
