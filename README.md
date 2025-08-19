@@ -129,8 +129,6 @@ Primary URL for the repository: [OJB-Quantum/Navaho-Linguistics](https://github.
 
 ### Common Shapes & Geometries in Navaho:
 
-Here, for now, I’ve placed your items into two clean markdown tables, preserving the spellings exactly as given, and capturing any parenthetical notes.
-
 #### 3D 
 
 | English shape or object                  | Navaho (as provided)                    | Notes      |
