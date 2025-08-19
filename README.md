@@ -397,22 +397,23 @@ MXC: Mixing Chamber
 | [Navaho vs. Navajo](http://npshistory.com/nature_notes/meve/vol4-2h.htm)  [Navaho vs. Navajo](https://thecontentauthority.com/blog/navaho-vs-navajo) |
 | [Navaho Wiktionary by Wikimedia Foundation](https://en.wiktionary.org/wiki/Category:nv:All_topics) |
 | [Navaho Wikipedia](https://nv.wikipedia.org/wiki/%C3%8Diyis%C3%AD%C3%AD_Naaltsoos?fbclid=IwAR3w-JlUmK4HDzTGyHSDHGgbjs4rf0UUfVQioguvvF-l3_MbSTwE4Txq_h0) |
+| [Navaho Glossary](https://www.learnnavajo.com/glossary) |
 | [Navaho in Latin Script](https://www.gomyson.com/vowels.html) |
 | [Navaho in Cyrillic Script](https://omniglot.com/conscripts/cyrillicnavajo.htm) |
-| [Navaho language audio sample narrated by Onri](https://www.omniglot.com/conscripts/cyrillicnavajo.htm#:~:text=Hear%20a%20recording%20of%20this%20text%20by%20Onri%20Jay%20Benally) |
-| [Navaho sound profiles](https://www.unm.edu/~johncho/html/main.html) |
-| [Navaho language samples](https://youtube.com/playlist?list=PLbW5jviv4ckyQfIkzE8mJQDyuspK-QGXS&si=ATb_AL1t1gpWdUot) |
-| [Navaho prefixes](https://en.wiktionary.org/wiki/Category:Navajo_prefixes) |
-| [Navaho suffixes](https://en.wiktionary.org/wiki/Category:Navajo_suffixes) |
-| [Navaho particles](https://en.wiktionary.org/wiki/Category:Navajo_particles) |
-| [Navaho pronouns](https://en.wiktionary.org/wiki/Category:Navajo_pronouns)|
-| [Navaho postpositions](https://en.wiktionary.org/wiki/Category:Navajo_postpositions) |
-| [Navaho grammar material](https://fernald.domains.swarthmore.edu/nla/grammar/grammar_contents_14.htm) |
-| [Navaho audio dictionary](https://talkingdictionary.swarthmore.edu/navajo_postposition/?lang=nav) |
-| [Navaho biological sciences terminology - "Project ENABLE"](https://enablenavajo.org/dine) |
-| [Navaho linguistics material and history on the Internet Archive](https://archive.org/search?and=&query=navajo+language) |
-| [Navaho linguistics archive at MIT](https://fernald.domains.swarthmore.edu/nla/halearch/halearch.htm) |
-| [Basic 3D-printable cryostat for educational purposes](https://www.tinkercad.com/things/dgJLBpuNQtv-onris-printable-cryostat) |
+| [Navaho Language Audio Sample Narrated by Onri](https://www.omniglot.com/conscripts/cyrillicnavajo.htm#:~:text=Hear%20a%20recording%20of%20this%20text%20by%20Onri%20Jay%20Benally) |
+| [Navaho Sound Profiles](https://www.unm.edu/~johncho/html/main.html) |
+| [Navaho Language Samples](https://youtube.com/playlist?list=PLbW5jviv4ckyQfIkzE8mJQDyuspK-QGXS&si=ATb_AL1t1gpWdUot) |
+| [Navaho Prefixes](https://en.wiktionary.org/wiki/Category:Navajo_prefixes) |
+| [Navaho Suffixes](https://en.wiktionary.org/wiki/Category:Navajo_suffixes) |
+| [Navaho Particles](https://en.wiktionary.org/wiki/Category:Navajo_particles) |
+| [Navaho Pronouns](https://en.wiktionary.org/wiki/Category:Navajo_pronouns)|
+| [Navaho Postpositions](https://en.wiktionary.org/wiki/Category:Navajo_postpositions) |
+| [Navaho Grammar Material](https://fernald.domains.swarthmore.edu/nla/grammar/grammar_contents_14.htm) |
+| [Navaho Audio Dictionary](https://talkingdictionary.swarthmore.edu/navajo_postposition/?lang=nav) |
+| [Navaho Biological Sciences Terminology - "Project ENABLE"](https://enablenavajo.org/dine) |
+| [Navaho Linguistics Material and History on the Internet Archive](https://archive.org/search?and=&query=navajo+language) |
+| [Navaho Linguistics Archive at MIT](https://fernald.domains.swarthmore.edu/nla/halearch/halearch.htm) |
+| [Basic 3D-Printable Cryostat for Educational Purposes](https://www.tinkercad.com/things/dgJLBpuNQtv-onris-printable-cryostat) |
 | [Introduction to Linguistics, MIT OCW](https://ocw.mit.edu/courses/24-900-introduction-to-linguistics-spring-2022/pages/lecture-videos) |
 | [More Linguistics Courses, MIT OCW](https://ocw.mit.edu/search/?q=Linguistics) |
 | [Linguistics Crashcourse on YouTube, TrevTutor](https://youtu.be/0nBzlNFwgs4?si=kX91qwo7Mp8THRcj) |
