@@ -127,6 +127,69 @@ Primary URL for the repository: [OJB-Quantum/Navaho-Linguistics](https://github.
 
 ---
 
+### Common Shapes & Geometries in Navaho:
+
+Here, for now, I’ve placed your items into two clean markdown tables, preserving the spellings exactly as given, and capturing any parenthetical notes.
+
+#### 3D 
+
+| English shape or object                  | Navaho (as provided)                    | Notes      |
+| ---------------------------------------- | --------------------------------------- | ---------- |
+| Cylinder or tube                         | Niyiz                                   |            |
+| Cone                                     | Heetsʼóóz                               |            |
+| Cube (usually wooden box)                | Tsits'aa'                               |            |
+| Sphere or spherical                      | Nimaz                                   |            |
+| Hemisphere                               | 'Ałníí do nimaz                         | maybe      |
+| Torus                                    | Nazbas                                  | nahalin    |
+| Pyramid                                  | Tse bilatahji' dahees'oozgo daastl'inii |            |
+| Capsule                                  | Dijool                                  |            |
+| Wire                                     | Béésh 'áłtsózí                          | relatively |
+| Curved object                            | Haabas                                  |            |
+| Box or wooden box                        | Tsitsʼaaʼ                               |            |
+| Spikey or points in different directions | Dah deeshzhah                           |            |
+| Elbow                                    | 'Ach'oozhlaa'                           |            |
+| Arm                                      | 'Agaan                                  |            |
+| Joints                                   | 'Ahadit'aan                             |            |
+| Chisel                                   | Bee hahalzhishi                         |            |
+
+#### 2D 
+
+| English shape or symbol       | Navaho (as provided)                                                | Notes                |
+| ----------------------------- | ------------------------------------------------------------------- | -------------------- |
+| Circle                        | Nahazbas                                                            |                      |
+| Circular                      | Nazbas                                                              |                      |
+| Semi-circle or partial circle | 'Ałníí do nazbas                                                    |                      |
+| Ellipse                       | Haahideeneez                                                        |                      |
+| Triangle                      | Táaʼgóó adeezʼá                                                     |                      |
+| Right Triangle                | Nishʼnáajigo heetsʼóóz                                              | tapered on the right |
+| Equilateral Triangle          |                                                                     |                      |
+| Rectangle                     | Dik'aago heeneez                                                    |                      |
+| Square                        | Dik'a                                                               |                      |
+| Rhombus or “diamond”          | Bee aditlihi                                                        |                      |
+| Quadrilateral                 | Dii'go adeezʼá                                                      |                      |
+| Parallelogram (any angle)     | Naadeeki                                                            |                      |
+| Trapezoid                     | 'Ałníí do heetsʼóóz or 'Ał'ąą dii'go adeezʼá or Heetsʼóózgo adeezʼá | multiple forms given |
+| Kite                          | 'Ał'ąą bee aditlihi                                                 | maybe                |
+| Pentagon                      | 'Ashdla'góó adeezʼá                                                 |                      |
+| Hexagon                       | Hastą́ą́góó adeezʼá                                                 |                      |
+| Honeycomb-shape               | Dikin                                                               |                      |
+| Octagon                       | Tseebiigóó adeezʼá                                                  |                      |
+| Wedge                         | Bee ałkʼíniilkaałí                                                  |                      |
+| Chisel                        | Bee hahalzhishi                                                     |                      |
+| Cross or plus                 | Dik'aago heeneez alnáosdzi (alnáoszid) or alnáaz'á                  | multiple forms given |
+| U-shape                       | Názhah                                                              |                      |
+| Saw-tooth type                | Doolghas                                                            |                      |
+| Wavy                          | Doolk'ool                                                           |                      |
+| Coiled or spiraled            | Náhineest'ee'                                                       |                      |
+| Tapered                       | Hááhaaschii'                                                        |                      |
+| Point or tip                  | Dah hats'os                                                         |                      |
+| Generic polygon               | `<number>`góó adeezʼá or `<number>`go adeezʼá                       | placeholder forms    |
+| Generic symbol                | `<object>` yishchiin                                                | placeholder form     |
+| Variation                     | 'Ał'ąą                                                              |                      |
+
+
+---
+
 | The Initial, General Plans for This Repository Based on Onri's Prelimary Contributions: |
 |-|
 | ✅ Generate a table of Navaho characters in Unicode. |
