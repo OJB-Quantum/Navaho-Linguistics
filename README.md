@@ -208,19 +208,20 @@ Here, for now, I’ve placed your items into two clean markdown tables, preservi
 
 
 ## Project Roles for Onri's Navaho Linguistics for QHW Education Team (July – October 2025)
-| #  | Project Deliverable                                                                             | Core Participants              | Current Status             |
+| #  | Project Deliverable                                                                              | Core Participants              | Current Status             |
 | -- | ------------------------------------------------------------------------------------------------- | ------------------------------ | -------------------------- |
 | 1  | Language-Tree Formation for the Team                                                              | **Onri**, Noah, Mural, Mohamad | **Completed**              |
 | 2  | Category-Based Cryostat/ Dilution-Fridge Image Collection                                        | **Onri**, Noah, Mural, Mohamad |  **Completed**           |
-| 3  | General Geometry (2-D/ 3-D) Terminology Table                                                    | **Onri**, Mohamad, Mural       | Partially Completed        |
+| 3  | General Geometry (2-D/ 3-D) Terminology Table                                                    | **Onri**, Mohamad, Mural       | **Completed**        |
 | 4  | Electromagnetic-Spectrum Terminology Table                                                        | **Onri**, Mohamad              | Partially Completed |
 | 5  | English-Braille → Navaho-Braille Conversion for Linguistics & Quantum-Ed. <br> (3-D-printing involved) | **Onri**, Noah                 | Partially Completed        |
 | 6  | Medical-Hardware vs Quantum-Hardware Terminology Table                                            | **Onri**, Mural, Mohamad       | Not Started Yet |
 | 7  | Blender 3-D Model of Basic Quantum Devices/ Cryogenic Chambers                                   | **Onri**, Mohamad, Mural        | Partially Completed        |
-| 8  | GPU-Accelerated Linguistics/ Semantic-Shift Simulation (Google Colab)                            | **Onri**, Noah, Mural          | Partially Completed        |
+| 8  | GPU-Accelerated Linguistics/ Semantic-Shift Simulation (Google Colab)                            | **Onri**, Noah, Mural          | **Completed**        |
 | 9  | QPU-Based Linguistics/ Semantic-Shift Simulation (Google Colab)                                  | **Onri**                       | Not Started Yet |
 | 10 | Pseudo-Device: Basic SEM/ High-Res LASER 3-D Imaging                                             | **Onri**                       | Not Started Yet |
 | 11 | LaTeX Documentation of the Project (Overleaf + TikZ)                                             | **Onri**                       | Partially Completed |
+| 12 | Metals & Other Common Solid-State Materials Terminology Table                                    | **Onri**                       | Partially Completed |
 
 > A reasonable goal is to be able to complete 3 to 4 deliverables per month.
 > Employ the leap frog approach, by working on at least 2 deliverables simulataneously, but at a different paces each. 
