@@ -20,7 +20,7 @@ Primary URL for the repository: [OJB-Quantum/Navaho-Linguistics](https://github.
 ### Pro tip by Onri: 
 - Navaho root words often start with 'a', 'b', 'h', 'n', 't', or 'y' sounds.
 - Also, when a word starts with an 'a' or 'a' sound, it is usually preceded by an apostrophe.
-- Note that since Navaho/ Navajo is a speaking-focused language, you may notice variations of word spellings in writing, whether in literature or video or other media. It is possible to provide a more correct spelling in writing when converting speech to text to remain true to the phonetics. 
+- Note that since Navaho/ Navajo is a speaking-focused language, you may notice variations of word spellings in writing, whether in literature or video or other media. It is possible to provide a more correct spelling in writing when converting speech to text to accurately match the phonetics. 
 
 ---
 
