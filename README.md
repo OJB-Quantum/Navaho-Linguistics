@@ -641,6 +641,6 @@ Borrowed from: Gao et al., *Practical Guide for Building Superconducting Quantum
 
 Note: I made sources available in this repository to be generally open access, while others are "copyrighted unless used for educational purposes". This repository intends to produce educational material in the same light. See http://rightsstatements.org/page/InC-EDU/1.0/ for more details on the permissions allowed by those respective authors.
 
-Onri's bio in Navaho: 'Aoo', yá'át'ééh. T'aa iyisi baa 'axhééhnisin. Hastiin Biłééhóziní Binalí 'akót'áó shi zhi', kótʼéego. 'Ako shik'a'i dii shi zhi' łaʼ sheiníʼą́ dikwii naahai yęę dą́ą́. T'aadoo shi ei Táchii'nii nishłį, Naakaii Dine'é báshishchíín, Bit'ahnii dashicheii, Kinłichíi'nii dashináli, Ta'neeszahnii dashicheii 'alááhgo, dóó 'Áshįįhí dashinaakidi nácheii. 'Áádóó, Tsé Chʼil Yaa Tó go ei naashá. 'Akót'áó Diné nishłį. 'Axhéhee'.
+Onri's bio in Navaho: 'Aoo', yá'át'ééh. T'aa iyisi baa 'axhééhnisin. Hastiin Biłééhóziní Binalí 'akót'áó shi zhi', kótʼéego. 'Ako shik'a'i dii shi zhi' łaʼ sheiníʼą́ dikwii naahai yęę dą́ą́. T'aadoo shi ei Táchii'nii nishłį, Naakaii Dine'é 'báshíshchíín, Bit'ahnii dashicheii, Kinłichíi'nii dashináli, Ta'neeszahnii dashicheii 'alááhgo, dóó 'Áshįįhí dashinaakidi nácheii. 'Áádóó, Tsé Chʼil Yaa Tó go ei naashá. 'Akót'áó Diné nishłį. 'Axhéhee'.
 
 (Bik'idadi'diitį́į́ł = We will understand it) - Onri
