@@ -187,7 +187,7 @@ Primary URL for the repository: [OJB-Quantum/Navaho-Linguistics](https://github.
 
 ---
 
-### Helper Terms for Quantum Hardware Terminology
+### Helper Terms for Quantum Hardware Terminology in Navaho
 
 | Navaho term                             | English term                                                            |
 | --------------------------------------- | ----------------------------------------------------------------------- |
@@ -256,6 +256,46 @@ Primary URL for the repository: [OJB-Quantum/Navaho-Linguistics](https://github.
 | Íʼneelʼąąh                              | measurement or magnitude determined by measuring                        |
 | 'Áníłtso                                | size of, or as big as                                                   |
 | 'Á'ádaatʼéhígíí bi bee 'ahída'diiljeehí | glue by which elements can stick together                               |
+
+---
+
+### Metal-Related Terminology in Navaho
+
+| English Term | Navaho Term | Literal Meaning |
+| - | - | - |
+| **Metal**                                  | Béésh                           | Metal              |
+| Rust                                           | ńdiniichxii'                     | Became red (generally used to describe rust) |
+| Aluminum                                       | Béésh 'ádaaszóólígíí | Particular lightweight metal |
+| Copper                                         | Béésh łichíí' or béésh łichíí'ii | Red metal     |
+| Iron                                           | Béésh dootł'izh     | Blue metal        |
+| Steel (Carbon Steel)                       | Béésh nitł'izígíí       |                                   |
+| Stainless Steel                                | Béésh nitł'izígíí doo ńdiniichxíihii | |
+| Nickel                                         | Béésh ...                         |                                              |
+| Chromium                                       | Béésh ...      |                                              |
+| Titanium                                       | Béésh doo ńdiniichxíihii | Metal that does not rust |
+| Tungsten                                       | Béésh ...    |                                              |
+| Platinum                                       | Béésh ...     |                                              |
+| Gold                                           | 'óola     | Gold   |
+| Silver                                         | Béésh łigaii | White metal  |
+| Zinc                                           | Béésh ... |                                              |
+| Lead                                           | Béésh ...  |                                              |
+| Tin                                            | Béésh kágí  | Metal skin or metal hide   |
+| Magnesium                                      | Béésh ...    |                                |
+| Cobalt                                         | Béésh ...    |                                              |
+| Manganese                                      | Béésh ...    |                                 |
+| Molybdenum                                     | Béésh ...     |                           |
+| Tantalum                                       | Béésh ...   |                                              |
+| Niobium                                        | Béésh ...   |                                              |
+| Palladium                                      | Béésh ...           |                                              |
+| Rhodium                                        | Béésh ...         |                                              |
+| Ruthenium                                      | Béésh ...        |                                              |
+| Iridium                                        | Béésh ...             |                                              |
+| Gallium                                        | Béésh ...        |                                              |
+| Indium                                         | Béésh ...          |                                              |
+| Cadmium                                        | Béésh ...    |                                              |
+| Brass (Copper–Zinc Alloy)                      | Béésh łitsoii      |  Yellow metal         |
+| Bronze (Copper–Tin Alloy)                      | Béésh ...        |                 |
+| Solder (Tin–Lead or Lead-free)                 | Béésh bee 'ahída'diiljeehí | Metal glue |
 
 ---
 
