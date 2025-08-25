@@ -268,8 +268,8 @@ Primary URL for the repository: [OJB-Quantum/Navaho-Linguistics](https://github.
 | Aluminum                                       | Béésh 'ádaaszóólígíí | Particular lightweight metal |
 | Copper                                         | Béésh łichíí' or béésh łichíí'ii | Red metal     |
 | Iron                                           | Béésh dootł'izh     | Blue metal        |
-| Steel (Carbon Steel)                       | Béésh nitł'izígíí       |                                   |
-| Stainless Steel                                | Béésh nitł'izígíí doo ńdiniichxíihii | |
+| Steel (Carbon Steel)                       | Béésh nitł'izígíí       | Hard or inflexible metal |
+| Stainless Steel                                | Béésh nitł'izígíí doo ńdiniichxíihii | Hard or inflexible metal that does not rust |
 | Nickel                                         | Béésh ...                         |                                              |
 | Chromium                                       | Béésh ...      |                                              |
 | Titanium                                       | Béésh doo ńdiniichxíihii | Metal that does not rust |
@@ -278,7 +278,7 @@ Primary URL for the repository: [OJB-Quantum/Navaho-Linguistics](https://github.
 | Gold                                           | 'óola     | Gold   |
 | Silver                                         | Béésh łigaii | White metal  |
 | Zinc                                           | Béésh ... |                                              |
-| Lead                                           | Béésh ...  |                                              |
+| Lead                                           | Dilyį́hí |                                              |
 | Tin                                            | Béésh kágí  | Metal skin or metal hide   |
 | Magnesium                                      | Béésh ...    |                                |
 | Cobalt                                         | Béésh ...    |                                              |
