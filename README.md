@@ -185,6 +185,77 @@ Primary URL for the repository: [OJB-Quantum/Navaho-Linguistics](https://github.
 | Generic symbol                | `<object>` yishchiin                                                | placeholder form     |
 | Variation                     | 'Ał'ąą                                                              |                      |
 
+---
+
+### Helper Terms for Quantum Hardware Terminology
+
+| Navaho term                             | English term                                                            |
+| --------------------------------------- | ----------------------------------------------------------------------- |
+| Yi-                                     | his, her, its, their                                                    |
+| Ba-                                     | for him, for her                                                        |
+| Ha                                      | his                                                                     |
+| Ná'                                     | again                                                                   |
+| -go                                     | since, because, when, during, while, being, -ly                         |
+| -di                                     | times (scaled up or down by), or at                                     |
+| -gi                                     | at                                                                      |
+| -ígíí                                   | a particular one that is                                                |
+| 'í'neel'ąąh                             | measurement                                                             |
+| 'í'níłdzil                              | resistance or endurance                                                 |
+| Báshíshchíín                            | I am born for him                                                       |
+| 'Ánéełt'e'                              | number                                                                  |
+| 'Ánéełt'e'ígíí                          | that is the particular amount, or that is the particular number         |
+| 'Áłtsíísí                               | is little                                                               |
+| 'Áłch'į́dí                              | insufficient                                                            |
+| T'áá 'áłch'ídígo                        | just a little, just a few                                               |
+| T'áá átʼé                               | the whole thing, all of it                                              |
+| 'Áłch'į́į́dí                            | it is a small amount                                                    |
+| 'Áłch'į́į́dígo                          | a small amount, just a little bit                                       |
+| 'Ádin                                   | there is nothing, zero                                                  |
+| Díkwíí?                                 | how much is it, or how many?                                            |
+| 'Ákwíí                                  | that many                                                               |
+| 'Ákwii                                  | thereabout, in some general area                                        |
+| 'Ákwíí bits’ą́ą́dę́ę́                   | offspring or derivative of an amount (note: potential new term by Onri) |
+| T'áá 'ákwíí                             | every or each one in the same amount                                    |
+| T'áá kóníghánígo                        | at every interval                                                       |
+| T'áá 'áłts'íísígo                       | small piece                                                             |
+| T'áá 'áłch'į́į́dígo                     | just a little bit, just a few                                           |
+| Yidísin                                 | he, she observes                                                        |
+| Nánísh'įįh                              | to look at it; I am watching it                                         |
+| Haalzííd                                | it is being watched                                                     |
+| 'Áhoodzaago                             | when it happened                                                        |
+| 'Ánáhoot'įįh                            | it happens                                                              |
+| 'Ałts'á'ii'nííł                         | division                                                                |
+| Dooleeł                                 | it will be                                                              |
+| Bit'áahgi                               | near it, close to it                                                    |
+| Sik'az                                  | cold                                                                    |
+| Hakʼaz                                  | coldness, chill, frigidity                                              |
+| Hoozkʼaz                                | place or region that is cold (such as an ice box)                       |
+| Naʼalkid                                | temperature or time (depending on context)                              |
+| Dįį' bich'į'go naʼalkid Kelvin da'azjah | 4 degrees Kelvin                                                        |
+| Bee 'azk'azi                            | refrigerator                                                            |
+| T'áádoole'é nabíhonitaah                | experiment                                                              |
+| T'áádoole'é nabíhonitaah bee 'azk'azi   | refrigerator for experiment                                             |
+| 'Ayóo or 'Ayóó                          | very, extremely                                                         |
+| 'Ayóogo                                 | really                                                                  |
+| 'Agháadi                                | extreme                                                                 |
+| Yilááh or Bilááh or Alááh               | beyond                                                                  |
+| 'Ayóí                                   | very, exceedingly, remarkably (can be used at the end of a term)        |
+| 'Ayóígo                                 | very, exceedingly, remarkably                                           |
+| 'Á'ádaatʼéhígíí                         | fundamental, elements                                                   |
+| Ndaalnishii                             | workers                                                                 |
+| Ndaalnishígíí                           | worker or employee, those that work                                     |
+| Béé'deetą́                              | knowledge was obtained, learned, or acquired                            |
+| Bénínáá'deetą́                          | invented, discovered, found, originated                                 |
+| Bénínáá'deetánígíí                      | that which was invented or discovered                                   |
+| 'Ániidí                                 | new                                                                     |
+| Béésh 'ayóo 'áłtsózí                    | extremely small metal                                                   |
+| Béésh 'áłtsózí                          | wire                                                                    |
+| Bitsiniltł'ish ádin                     | neutron (no charge)                                                     |
+| Bee ídaʼneelʼąąhí                       | tape measure, something to measure by                                   |
+| Bee 'ahída'diiljeehí                    | glue or solder, something by which things can stick together            |
+| Íʼneelʼąąh                              | measurement or magnitude determined by measuring                        |
+| 'Áníłtso                                | size of, or as big as                                                   |
+| 'Á'ádaatʼéhígíí bi bee 'ahída'diiljeehí | glue by which elements can stick together                               |
 
 ---
 
@@ -213,13 +284,13 @@ Primary URL for the repository: [OJB-Quantum/Navaho-Linguistics](https://github.
 | 3  | General Geometry (2-D/ 3-D) Terminology Table                                                    | **Onri**, Mohamad, Mural       | **Completed**        |
 | 4  | Electromagnetic-Spectrum Terminology Table                                                        | **Onri**, Mohamad              | Partially Completed |
 | 5  | English-Braille → Navaho-Braille Conversion for Linguistics & Quantum-Ed. <br> (3-D-printing involved) | **Onri**, Noah                 | Partially Completed        |
-| 6  | Medical-Hardware vs Quantum-Hardware Terminology Table                                            | **Onri**, Mural, Mohamad       | Not Started Yet |
+| 6  | Medical-Hardware vs Quantum-Hardware Terminology Table                                            | **Onri**, Mural, Mohamad       | Partially Completed |
 | 7  | Blender 3-D Model of Basic Quantum Devices/ Cryogenic Chambers                                   | **Onri**, Mohamad, Mural        | Partially Completed        |
 | 8  | GPU-Accelerated Linguistics/ Semantic-Shift Simulation (Google Colab)                            | **Onri**, Noah, Mural          | **Completed**        |
 | 9  | QPU-Based Linguistics/ Semantic-Shift Simulation (Google Colab)                                  | **Onri**                       | Not Started Yet |
 | 10 | Pseudo-Device: Basic SEM/ High-Res LASER 3-D Imaging                                             | **Onri**                       | Not Started Yet |
 | 11 | LaTeX Documentation of the Project (Overleaf + TikZ)                                             | **Onri**                       | Partially Completed |
-| 12 | Metals & Other Common Solid-State Materials Terminology Table                                    | **Onri**                       | Partially Completed |
+| 12 | Metals & Other Common Solid-State Materials Terminology Table                                    | **Onri**                       | **Completed** |
 
 > A reasonable goal is to be able to complete 3 to 4 deliverables per month.
 > Employ the leap frog approach, by working on at least 2 deliverables simulataneously, but at a different paces each. 
