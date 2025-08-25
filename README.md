@@ -490,7 +490,7 @@ MXC: Mixing Chamber
 
 ---
 
-| A few examples of my contributions to English-Navaho dictionary on Glosbe: |
+| A few examples of Onri's contributions to English-Navaho dictionary on Glosbe: |
 |--------------------------------------------------------------------------------|
 | [Electron spin](https://app.glosbe.com/nv/en/atsinilt%C5%82%E2%80%99ish%20biyi'%20'asdiz%C3%AD) |
 | [Intervals](https://app.glosbe.com/nv/en/t'%C3%A1%C3%A1%20k%C3%B3n%C3%ADgh%C3%A1n%C3%ADgo) |
@@ -567,7 +567,7 @@ Borrowed from: Gao et al., *Practical Guide for Building Superconducting Quantum
 
 [Click here to view Onri's full markdown script of the Navaho/ Navajo-Character-to-UTF-8 Encoding table.](https://github.com/OJB-Quantum/Navaho-Linguistics/blob/main/Table%20of%20Navaho%20Alphabets%20in%20Unicode.md)
 
-[Click here to download Onri's Navaho/ Navajo Character-to-UTF-8 Encoding Excel file.](https://github.com/OJB-Quantum/Navaho-Linguistics/raw/main/Associated%20Diagrams/Navaho%20to%20UTF8%20Encoding_Onri%20Jay%20Benally.xlsx)
+[Click here to view or download Onri's Navaho/ Navajo Character-to-UTF-8 Encoding Google Sheets file.](https://docs.google.com/spreadsheets/d/1MbiPpDlNMAOqWdMSRhO2dLrW_GRkfdG9u-3QbnUOSfU/edit?usp=sharing)
 
 [Click here to view or download the Python script as a Jupyter Notebook of the Navaho/ Navajo Character-to-UTF-8 Encoding.](https://github.com/OJB-Quantum/Navaho-Linguistics/blob/main/Python%20Scripts%20for%20Navaho%20Linguistics/Navaho_Characters_UTF8_Conversion_U_Plus_Notation.ipynb)
 
