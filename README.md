@@ -502,7 +502,7 @@ MXC: Mixing Chamber
 
 | Term | OEM language | Function |
 | ----- | ----- | ----- |
-| **XLDsl Dilution Refrigerator Measurement System** | Marketed as a *cryogen-free DR measurement system* with large experimental space. | The entire fridge—including still, heat-exchangers, mixing chamber—is already inside the vacuum can. |
+| **XLDsl Dilution Refrigerator Measurement System** | Marketed as a *cryogen-free DR measurement system* with large experimental space. | The entire fridge (including still, heat-exchangers, mixing chamber) is already inside the vacuum can. |
 | **High-Density Wiring (side-load or top-load)** | Bluefors calls the modular wiring loom “High-Density Wiring,” compatible with XLD. | Provides hundreds of coax/twisted-pair lines; resembles a metallic “chandelier.” |
 | **Colloquial “chandelier”** | Community photos and forum threads show the gold-plated wiring tree hanging from the mixing chamber. | Visual nickname, not a refrigeration stage. |
 
