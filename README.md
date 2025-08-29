@@ -290,7 +290,7 @@ Primary URL for the repository: [OJB-Quantum/Navaho-Linguistics](https://github.
 | ------------ | ------ | ------------------------------------------ | ------------------------ | ---------------------------- |
 | Aluminum     | Al     | \*                                         | Béésh 'ádaaszóólígíí     | Particular lightweight metal |
 | Zinc         | Zn     | \*                                         | Béésh ...                | —                            |
-| Lead         | Pb     | \*                                         | Dilyį́hí                 | —                            |
+| Lead         | Pb     | \*                                         | Dilyį́hí                 | Lead                          |
 | Tin          | Sn     | \*                                         | Béésh kágí               | Metal skin or metal hide     |
 | Magnesium    | Mg     | (borderline) ^                             | Béésh ...                | —                            |
 | Nickel       | Ni     | ^                                          | Béésh ...                | —                            |
