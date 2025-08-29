@@ -190,73 +190,79 @@ Primary URL for the repository: [OJB-Quantum/Navaho-Linguistics](https://github.
 
 ### Helper Terms for Quantum Hardware Terminology in Navaho
 
-| Navaho term                             | English term                                                            |
-| --------------------------------------- | ----------------------------------------------------------------------- |
-| Yi-                                     | his, her, its, their                                                    |
-| Ba-                                     | for him, for her                                                        |
-| Ha                                      | his                                                                     |
-| Ná'                                     | again                                                                   |
-| -go                                     | since, because, when, during, while, being, -ly                         |
-| -di                                     | times (scaled up or down by), or at                                     |
-| -gi                                     | at                                                                      |
-| -ígíí                                   | a particular one that is                                                |
-| 'í'neel'ąąh                             | measurement                                                             |
-| 'í'níłdzil                              | resistance or endurance                                                 |
-| Báshíshchíín                            | I am born for him                                                       |
-| 'Ánéełt'e'                              | number                                                                  |
-| 'Ánéełt'e'ígíí                          | that is the particular amount, or that is the particular number         |
-| 'Áłtsíísí                               | is little                                                               |
-| 'Áłch'į́dí                              | insufficient                                                            |
-| T'áá 'áłch'ídígo                        | just a little, just a few                                               |
-| T'áá átʼé                               | the whole thing, all of it                                              |
-| 'Áłch'į́į́dí                            | it is a small amount                                                    |
-| 'Áłch'į́į́dígo                          | a small amount, just a little bit                                       |
-| 'Ádin                                   | there is nothing, zero                                                  |
-| Díkwíí?                                 | how much is it, or how many?                                            |
-| 'Ákwíí                                  | that many                                                               |
-| 'Ákwii                                  | thereabout, in some general area                                        |
-| 'Ákwíí bits’ą́ą́dę́ę́                   | offspring or derivative of an amount (note: potential new term by Onri) |
-| T'áá 'ákwíí                             | every or each one in the same amount                                    |
-| T'áá kóníghánígo                        | at every interval                                                       |
-| T'áá 'áłts'íísígo                       | small piece                                                             |
-| T'áá 'áłch'į́į́dígo                     | just a little bit, just a few                                           |
-| Yidísin                                 | he, she observes                                                        |
-| Nánísh'įįh                              | to look at it; I am watching it                                         |
-| Haalzííd                                | it is being watched                                                     |
-| 'Áhoodzaago                             | when it happened                                                        |
-| 'Ánáhoot'įįh                            | it happens                                                              |
-| 'Ałts'á'ii'nííł                         | division                                                                |
-| Dooleeł                                 | it will be                                                              |
-| Bit'áahgi                               | near it, close to it                                                    |
-| Sik'az                                  | cold                                                                    |
-| Hakʼaz                                  | coldness, chill, frigidity                                              |
-| Hoozkʼaz                                | place or region that is cold (such as an ice box)                       |
-| Naʼalkid                                | temperature or time (depending on context)                              |
-| Dįį' bich'į'go naʼalkid Kelvin da'azjah | 4 degrees Kelvin                                                        |
-| Bee 'azk'azi                            | refrigerator                                                            |
-| T'áádoole'é nabíhonitaah                | experiment                                                              |
-| T'áádoole'é nabíhonitaah bee 'azk'azi   | refrigerator for experiment                                             |
-| 'Ayóo or 'Ayóó                          | very, extremely                                                         |
-| 'Ayóogo                                 | really                                                                  |
-| 'Agháadi                                | extreme                                                                 |
-| Yilááh or Bilááh or Alááh               | beyond                                                                  |
-| 'Ayóí                                   | very, exceedingly, remarkably (can be used at the end of a term)        |
-| 'Ayóígo                                 | very, exceedingly, remarkably                                           |
-| 'Á'ádaatʼéhígíí                         | fundamental, elements                                                   |
-| Ndaalnishii                             | workers                                                                 |
-| Ndaalnishígíí                           | worker or employee, those that work                                     |
-| Béé'deetą́                              | knowledge was obtained, learned, or acquired                            |
-| Bénínáá'deetą́                          | invented, discovered, found, originated                                 |
-| Bénínáá'deetánígíí                      | that which was invented or discovered                                   |
-| 'Ániidí                                 | new                                                                     |
-| Béésh 'ayóo 'áłtsózí                    | extremely small metal                                                   |
-| Béésh 'áłtsózí                          | wire                                                                    |
-| Bitsiniltł'ish ádin                     | neutron (no charge)                                                     |
-| Bee ídaʼneelʼąąhí                       | tape measure, something to measure by                                   |
-| Bee 'ahída'diiljeehí                    | glue or solder, something by which things can stick together            |
-| Íʼneelʼąąh                              | measurement or magnitude determined by measuring                        |
-| 'Áníłtso                                | size of, or as big as                                                   |
-| 'Á'ádaatʼéhígíí bi bee 'ahída'diiljeehí | glue by which elements can stick together                               |
+| Navaho Term | English Term |
+| ----------- | ------------ |
+| Yi- | His/her/its/their |
+| Ba- | For him/her |
+| Ha | His |
+| Ná' | Again |
+| -go | Since, because, when, during, while, being, -ly |
+| -góó | To, towards, or extension of |
+| -di | Times (scaled up/ down by) or at |
+| -gi | At |
+| -ígíí | A particular one that is |
+| -ii | Similar to -er in English. A person or thing that does an action indicated by the root verb |
+| Bee- | By means of it, by means of, or with |
+| T'áá | Just, quite, only, kind of, or sort of |
+| T'óó | Quite, just, merely, just for fun |
+| 'í'neel'ąąh | Measurement |
+| 'í'níłdzil | Resistance or endurance |
+| Báshíshchíín | I am born for him |
+| 'Ánéełt'e' | Number |
+| 'Ánéełt'e'ígíí | That is the particular amount or that is the particular number |
+| 'Áłtsíísí | Is little |
+| 'Áłch'į́dí | Insufficient |
+| T'áá 'áłch'ídígo | Just a little. Just a few |
+| T'áá átʼé | The whole thing. All of it |
+| Tʼóó ahayói | Quite a lot. Very many |
+| 'Áłch'į́į́dí | It is a small amount |
+| 'Áłch'į́į́dígo | A small amount. Just a little bit |
+| 'Ádin | There is nothing. Zero |
+| Díkwíí? | How much is it or how many? |
+| 'Ákwíí | That many |
+| 'Ákwii | Thereabout, in some general area |
+| 'Ákwíí bits’ą́ą́dę́ę́ | Offspring or derivative of an amount (potential new term by Onri) |
+| T'áá 'ákwíí | Every or each one in the same amount |
+| T'áá kóníghánígo | At every interval |
+| T'áá 'áłts'íísígo | Small piece |
+| T'áá 'áłch'į́į́dígo | Just a little bit. Just a few |
+| Yidísin | He/she observes |
+| Nánísh'įįh | To look at it. I am watching it |
+| Haalzííd | It is being watched |
+| 'Áhoodzaago | When it happened |
+| 'Ánáhoot'įįh | It happens |
+| 'Ałts'á'ii'nííł | Division |
+| Dooleeł | It will be |
+| Bit'áahgi | Near it. Close to it |
+| Sik'az | Cold |
+| Hakʼaz | Coldness. Chill. Frigidity |
+| Hoozkʼaz | Place or region that is cold (such as an ice box) |
+| Naʼalkid | Temperature or time (depending on context) |
+| Dįį' bich'į'go naʼalkid Kelvin da'azjah | 4 degrees Kelvin |
+| Bee 'azk'azi | Refrigerator |
+| T'áádoole'é nabíhonitaah | Experiment |
+| T'áádoole'é nabíhonitaah bee 'azk'azi | Refrigerator for experiment |
+| 'Ayóo / 'Ayóó | Very. Extremely |
+| 'Ayóogo | Really |
+| 'Agháadi | Extreme |
+| Yilááh / Bilááh / Alááh | Beyond |
+| 'Ayóí | Very. Exceedingly. Remarkably (can be used at the end of a term) |
+| 'Ayóígo | Very. Exceedingly. Remarkably |
+| 'Á'ádaatʼéhígíí | Fundamental. Elements |
+| Ndaalnishii | Workers |
+| Ndaalnishígíí | Worker or employee. Those that work |
+| Béé'deetą́ | Knowledge was obtained, learned, or acquired |
+| Bénínáá'deetą́ | Invented. Discovered. Found. Originated |
+| Bénínáá'deetánígíí | That which was invented or discovered |
+| 'Ániidí | New |
+| Béésh 'ayóo 'áłtsózí | Extremely small metal |
+| Béésh 'áłtsózí | Wire |
+| Bitsiniltł'ish ádin | Neutron (no charge) |
+| Bee ídaʼneelʼąąhí | Tape measure. Something to measure by |
+| Bee 'ahída'diiljeehí | Glue or solder. Something by which things can stick together |
+| Íʼneelʼąąh | Measurement or magnitude determined by measuring |
+| 'Áníłtso | Size of or as big as |
+| 'Á'ádaatʼéhígíí bi bee 'ahída'diiljeehí | Glue by which elements can stick together |
 
 ---
 
