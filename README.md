@@ -267,43 +267,51 @@ Primary URL for the repository: [OJB-Quantum/Navaho-Linguistics](https://github.
 
 ---
 
-### Metal-Related Terminology in Navaho
+### Non-Superconducting Metals (Normal Conductors at Low Temperature) in Navaho
 
-| English Term | Navaho Term | Literal Meaning |
-| - | - | - |
-| **Metal**                                  | Béésh                           | Metal              |
-| Rust                                           | ńdiniichxii'                     | Became red (generally used to describe rust) |
-| Aluminum                                       | Béésh 'ádaaszóólígíí | Particular lightweight metal |
-| Copper                                         | Béésh łichíí' or béésh łichíí'ii | Red metal     |
-| Iron                                           | Béésh dootł'izh     | Blue metal        |
-| Steel (Carbon Steel)                       | Béésh nitł'izígíí       | Hard or inflexible metal |
-| Stainless Steel                                | Béésh nitł'izígíí doo ńdiniichxíihii | Hard or inflexible metal that does not rust |
-| Nickel                                         | Béésh ...                         |                                              |
-| Chromium                                       | Béésh ...      |                                              |
-| Titanium                                       | Béésh doo ńdiniichxíihii | Metal that does not rust |
-| Tungsten                                       | Béésh ...    |                                              |
-| Platinum                                       | Béésh ...     |                                              |
-| Gold                                           | 'óola     | Gold   |
-| Silver                                         | Béésh łigaii | White metal  |
-| Zinc                                           | Béésh ... |                                              |
-| Lead                                           | Dilyį́hí |                                              |
-| Tin                                            | Béésh kágí  | Metal skin or metal hide   |
-| Magnesium                                      | Béésh ...    |                                |
-| Cobalt                                         | Béésh ...    |                                              |
-| Manganese                                      | Béésh ...    |                                 |
-| Molybdenum                                     | Béésh ...     |                           |
-| Tantalum                                       | Béésh ...   |                                              |
-| Niobium                                        | Béésh ...   |                                              |
-| Palladium                                      | Béésh ...           |                                              |
-| Rhodium                                        | Béésh ...         |                                              |
-| Ruthenium                                      | Béésh ...        |                                              |
-| Iridium                                        | Béésh ...             |                                              |
-| Gallium                                        | Béésh ...        |                                              |
-| Indium                                         | Béésh ...          |                                              |
-| Cadmium                                        | Béésh ...    |                                              |
-| Brass (Copper–Zinc Alloy)                      | Béésh łitsoii      |  Yellow metal         |
-| Bronze (Copper–Tin Alloy)                      | Béésh ...        |                 |
-| Solder (Tin–Lead or Lead-free)                 | Béésh bee 'ahída'diiljeehí | Metal glue |
+| English Term                    | Navaho Term                          | Literal Meaning                              |
+| ------------------------------- | ------------------------------------ | -------------------------------------------- |
+| **Metal**                       | Béésh                                | Metal                                        |
+| Rust                            | ńdiniichxii'                         | Became red (generally used to describe rust or oxidation) |
+| Copper (Cu)                     | Béésh łichíí' or béésh łichíí'ii     | Red metal                                    |
+| Iron (Fe)                       | Béésh dootł'izh                      | Blue metal                                   |
+| Steel (Fe–C Alloy)              | Béésh nitł'izígíí                    | Hard or inflexible metal                     |
+| Stainless Steel                 | Béésh nitł'izígíí doo ńdiniichxíihii | Hard or inflexible metal that does not rust or oxidize  |
+| Gold (Au)                       | 'óola                                | Gold                                         |
+| Silver (Ag)                     | Béésh łigaii                         | White metal                                  |
+| Brass (Cu–Zn Alloy)             | Béésh łitsoii                        | Yellow metal                                 |
+| Bronze (Cu–Sn Alloy)            | Béésh ...                            | —                                            |
+| Solder (Sn–Pb or Pb-free alloy) | Béésh bee 'ahída'diiljeehí           | Metal glue                                   |
+
+
+### Superconducting Metals (Known to Become Superconductors at Low Temperature) in Navaho
+
+| English Term | Symbol | Superconductivity                          | Navaho Term              | Literal Meaning              |
+| ------------ | ------ | ------------------------------------------ | ------------------------ | ---------------------------- |
+| Aluminum     | Al     | \*                                         | Béésh 'ádaaszóólígíí     | Particular lightweight metal |
+| Zinc         | Zn     | \*                                         | Béésh ...                | —                            |
+| Lead         | Pb     | \*                                         | Dilyį́hí                 | —                            |
+| Tin          | Sn     | \*                                         | Béésh kágí               | Metal skin or metal hide     |
+| Magnesium    | Mg     | (borderline) ^                             | Béésh ...                | —                            |
+| Nickel       | Ni     | ^                                          | Béésh ...                | —                            |
+| Chromium     | Cr     | ^                                          | Béésh ...                | —                            |
+| Titanium     | Ti     | \*                                         | Béésh doo ńdiniichxíihii | Metal that does not rust     |
+| Tungsten     | W      | ^                                          | Béésh ...                | —                            |
+| Platinum     | Pt     | (no SC) → stays here if considering alloys | Béésh ...                | —                            |
+| Cobalt       | Co     | (no SC) but alloys SC                      | Béésh ...                | —                            |
+| Manganese    | Mn     | (no SC) but SC compounds exist             | Béésh ...                | —                            |
+| Molybdenum   | Mo     | \*                                         | Béésh ...                | —                            |
+| Tantalum     | Ta     | \*                                         | Béésh ...                | —                            |
+| Niobium      | Nb     | \*                                         | Béésh ...                | —                            |
+| Palladium    | Pd     | ^                                          | Béésh ...                | —                            |
+| Rhodium      | Rh     | ^                                          | Béésh ...                | —                            |
+| Ruthenium    | Ru     | \*                                         | Béésh ...                | —                            |
+| Iridium      | Ir     | ^                                          | Béésh ...                | —                            |
+| Gallium      | Ga     | \*                                         | Béésh ...                | —                            |
+| Indium       | In     | \*                                         | Béésh ...                | —                            |
+| Cadmium      | Cd     | \*                                         | Béésh ...                | —                            |
+
+> (legend: * = ambient pressure superconductivity, ^ = superconductivity only under high pressure)
 
 ---
 
@@ -489,7 +497,8 @@ Primary URL for the repository: [OJB-Quantum/Navaho-Linguistics](https://github.
 | 9  | QPU-Based Linguistics/ Semantic-Shift Simulation (Google Colab)                                  | **Onri**                       | Not Started Yet |
 | 10 | Pseudo-Device: Basic SEM/ High-Res LASER 3-D Imaging                                             | **Onri**                       | Not Started Yet |
 | 11 | LaTeX Documentation of the Project (Overleaf + TikZ)                                             | **Onri**                       | Partially Completed |
-| 12 | Metals & Other Common Solid-State Materials Terminology Table                                    | **Onri**                       | **Completed** |
+| 12 | Common Metals Terminology Table                                                                  | **Onri**                       | **Completed** |
+| 13 | Superconducting Metals Terminology Table | **Onri** | Not Started Yet |
 
 > A reasonable goal is to be able to complete 3 to 4 deliverables per month.
 > Employ the leap frog approach, by working on at least 2 deliverables simulataneously, but at a different paces each. 
