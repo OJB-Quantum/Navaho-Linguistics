@@ -19,7 +19,7 @@ Primary URL for the repository: [OJB-Quantum/Navaho-Linguistics](https://github.
 
 ### Pro tip by Onri: 
 - Navaho root words often start with 'a', 'b', 'h', 'n', 't', or 'y' sounds. 
-- Also, when a word starts with an 'a' or an 'i' or an 'o' sound and their variations, it is usually preceded by an apostrophe. 
+- Also, when a word starts with an 'a', 'e', 'i', or an 'o' sound (Navaho vowels) and their variations, it is usually preceded by an apostrophe. 
 - Note that since Navaho/ Navajo is a speaking-focused language, you may notice variations of word spellings in writing, whether in literature or video or other media. It is possible to provide a more correct spelling in writing when converting speech to text to accurately match the phonetics. 
 - Using the term 'particular' in English usually means to single out something, and the equivalent of this is used heavily in Navaho to highlight objects. 
 
@@ -494,12 +494,18 @@ Primary URL for the repository: [OJB-Quantum/Navaho-Linguistics](https://github.
 | 9  | QPU-Based Linguistics/ Semantic-Shift Simulation (Google Colab)                                  | **Onri**                       | Not Started Yet |
 | 10 | Pseudo-Device: Basic SEM/ High-Res LASER 3-D Imaging                                             | **Onri**                       | Not Started Yet |
 | 11 | LaTeX Documentation of the Project (Overleaf + TikZ)                                             | **Onri**                       | Partially Completed |
-| 12 | Common Metals Terminology Table                                                                  | **Onri**                       | **Completed** |
+| 12 | Non-Superconducting Metals Terminology Table                                                     | **Onri**                       | **Completed** |
 | 13 | Superconducting Metals Terminology Table | **Onri** | Not Started Yet |
+| 14 | Poster of Normal and Superconducting Metals in Navaho | **Onri** | Not Started Yet |
 
 > A reasonable goal is to be able to complete 3 to 4 deliverables per month.
 > Employ the leap frog approach, by working on at least 2 deliverables simulataneously, but at a different paces each. 
 
+
+Notes: 
+- The Cryostats to be rendered for later labeling should be focused on the large-frame DR, floor standing cryostat (cryogen-free PPMS-type), and floor standing cryostat (liquid cryogen Dewar type).
+- Send cryogenic coils and other curved objects as blend files to Mohamad and Mural.
+  
 ---
 
 ## Language Trees for the Team
