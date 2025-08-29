@@ -455,13 +455,10 @@ Primary URL for the repository: [OJB-Quantum/Navaho-Linguistics](https://github.
 | 117 |   Ts   | Tennessine    |      —     | Place/Region           | **Tennessee**                                                | 2010             | Russia–USA                 |
 | 118 |   Og   | Oganesson     |      —     | Person                 | **Yuri Oganessian**                                          | 2006             | Russia–USA                 |
 
->   legend:
-> 
-> *  superconducts at ≈ 0 GPa (ambient)
-> *  
-> ^  superconducts only under high pressure
->
-> (blank)  no superconductivity yet confirmed in the pure element
+```
+   legend:  *  superconducts at ≈ 0 GPa (ambient)          ^  superconducts only under high pressure
+            (blank)  no superconductivity yet confirmed in the pure element
+```
 
 ---
 
