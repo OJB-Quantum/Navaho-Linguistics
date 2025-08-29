@@ -201,7 +201,7 @@ Primary URL for the repository: [OJB-Quantum/Navaho-Linguistics](https://github.
 | -di | Times (scaled up/ down by) or at |
 | -gi | At |
 | -ígíí | A particular one that is |
-| -ii | Similar to -er in English. A person or thing that does an action indicated by the root verb |
+| -ii | Similar to -er in English. A person or thing that does an action indicated by the root verb. Similar to -er in English. A person or thing that does an action indicated by the root verb. That which is of <adjective> quality. That which <verb(s)>. |
 | -í | The one that or the one who. | 
 | Bee- | By means of it, by means of, or with |
 | T'áá | Just, quite, only, kind of, or sort of |
@@ -324,8 +324,135 @@ Primary URL for the repository: [OJB-Quantum/Navaho-Linguistics](https://github.
             (blank)  no superconductivity yet confirmed in the pure element
 ```
 
----
+### Table of Metal Etymologies in English (To Help with Translation)
 
+|   Z | Symbol | Element       | Superconducting Note | Origin type            | Etymology (basis)                                            | Discovery (year) | Place                      |
+| --: | :----: | :------------ | :--------: | :--------------------- | :----------------------------------------------------------- | :--------------- | :------------------------- |
+|   1 |    H   | Hydrogen      |      ^     | Property/Composition   | Greek *hydro* “water” + *genes* “forming”                    | 1766             | UK                         |
+|   2 |   He   | Helium        |            | Celestial/Mythology    | Greek *helios* “sun”                                         | 1895 (isolation) | UK                         |
+|   3 |   Li   | Lithium       |     \*     | Mineral/Geology        | Greek *lithos* “stone”                                       | 1817             | Sweden                     |
+|   4 |   Be   | Beryllium     |     \*     | Mineral                | From **beryl** (*beryllos*)                                  | 1798             | France                     |
+|   5 |    B   | Boron         |      ^     | Mineral                | From **borax** (via Arabic *būraq*)                          | 1808             | UK/France                  |
+|   6 |    C   | Carbon        |            | Material               | Latin *carbo* “coal”                                         | Ancient          | —                          |
+|   7 |    N   | Nitrogen      |            | Property/Composition   | *nitron* + *genes* “niter‑former”                            | 1772             | Scotland                   |
+|   8 |    O   | Oxygen        |            | Property/Composition   | *oxys* + *genes* “acid‑former”                               | 1774             | UK/Sweden/France           |
+|   9 |    F   | Fluorine      |            | Mineral/Process        | *fluor* (flux; fluorite)                                     | 1886             | France                     |
+|  10 |   Ne   | Neon          |            | Property               | Greek *neos* “new”                                           | 1898             | UK                         |
+|  11 |   Na   | Sodium        |      ^     | Mineral/Material       | From **soda**; symbol from *natrium*                         | 1807             | UK                         |
+|  12 |   Mg   | Magnesium     |            | Place                  | **Magnesia** (Greece)                                        | 1808             | UK                         |
+|  13 |   Al   | Aluminium     |     \*     | Mineral                | Latin *alumen* “alum”                                        | 1825             | Denmark                    |
+|  14 |   Si   | Silicon       |      ^     | Mineral                | Latin *silex/silicis* “flint”                                | 1824             | Sweden                     |
+|  15 |    P   | Phosphorus    |      ^     | Phenomenon             | Greek *phōs‑phoros* “light‑bringer”                          | 1669             | Germany                    |
+|  16 |    S   | Sulfur        |      ^     | Material               | Latin *sulfur* (brimstone)                                   | Ancient          | —                          |
+|  17 |   Cl   | Chlorine      |            | Property/Appearance    | Greek *chlōros* “pale green”                                 | 1774             | Sweden                     |
+|  18 |   Ar   | Argon         |            | Property/Behavior      | Greek *argos* “inactive”                                     | 1894             | UK                         |
+|  19 |    K   | Potassium     |      ^     | Material               | **potash**; symbol from *kalium*                             | 1807             | UK                         |
+|  20 |   Ca   | Calcium       |      ^     | Material               | Latin *calx* “lime”                                          | 1808             | UK                         |
+|  21 |   Sc   | Scandium      |      ^     | Place                  | **Scandinavia**                                              | 1879             | Sweden                     |
+|  22 |   Ti   | Titanium      |     \*     | Mythology              | the **Titans**                                               | 1791             | UK                         |
+|  23 |    V   | Vanadium      |     \*     | Mythology              | **Vanadis** (Freyja)                                         | 1801             | Mexico (re‑ID 1830 Sweden) |
+|  24 |   Cr   | Chromium      |      ^     | Property/Appearance    | Greek *chroma* “colour”                                      | 1797             | France                     |
+|  25 |   Mn   | Manganese     |            | Mineral                | from *magnesia/manganesia*                                   | 1774             | Sweden                     |
+|  26 |   Fe   | Iron          |      ^     | Classical (Latin)      | Latin *ferrum*                                               | Ancient          | —                          |
+|  27 |   Co   | Cobalt        |            | Mythology/Folklore     | German *Kobold* “goblin”                                     | 1735             | Sweden                     |
+|  28 |   Ni   | Nickel        |            | Mythology/Folklore     | from *Kupfernickel* “Old Nick’s copper”                      | 1751             | Sweden                     |
+|  29 |   Cu   | Copper        |            | Place                  | Latin *cuprum* “Cyprus”                                      | Ancient          | —                          |
+|  30 |   Zn   | Zinc          |     \*     | Property/Appearance    | German *Zink* (possibly “prong/tooth”)                       | 1746             | Germany                    |
+|  31 |   Ga   | Gallium       |     \*     | Place/Region           | Latin *Gallia* “Gaul/France”                                 | 1875             | France                     |
+|  32 |   Ge   | Germanium     |      ^     | Place/Region           | Latin *Germania* “Germany”                                   | 1886             | Germany                    |
+|  33 |   As   | Arsenic       |      ^     | Mineral                | Greek *arsenikon* (orpiment)                                 | Ancient/Medieval | —                          |
+|  34 |   Se   | Selenium      |      ^     | Celestial/Mythology    | Greek *selene* “moon”                                        | 1817             | Sweden                     |
+|  35 |   Br   | Bromine       |            | Property/Smell         | Greek *brōmos* “stench”                                      | 1826             | France                     |
+|  36 |   Kr   | Krypton       |            | Property               | Greek *kryptos* “hidden”                                     | 1898             | UK                         |
+|  37 |   Rb   | Rubidium      |      ^     | Property/Colour        | Latin *rubidus* “deep red”                                   | 1861             | Germany                    |
+|  38 |   Sr   | Strontium     |      ^     | Place                  | **Strontian**, Scotland                                      | 1790             | Scotland                   |
+|  39 |    Y   | Yttrium       |      ^     | Place                  | **Ytterby**, Sweden                                          | 1794             | Finland (Åbo/Turku)        |
+|  40 |   Zr   | Zirconium     |     \*     | Mineral                | from **zircon** (Persian *zargun*)                           | 1789             | Germany                    |
+|  41 |   Nb   | Niobium       |     \*     | Mythology              | **Niobe**                                                    | 1801             | UK                         |
+|  42 |   Mo   | Molybdenum    |     \*     | Mineral                | Greek *molybdos* “lead‑like”                                 | 1778             | Sweden                     |
+|  43 |   Tc   | Technetium    |     \*     | Concept/Process        | Greek *technetos* “artificial”                               | 1937             | Italy                      |
+|  44 |   Ru   | Ruthenium     |     \*     | Place/Region           | Latin *Ruthenia* “Russia”                                    | 1844             | Russia                     |
+|  45 |   Rh   | Rhodium       |      ^     | Property/Colour        | Greek *rhodon* “rose”                                        | 1803             | UK                         |
+|  46 |   Pd   | Palladium     |      ^     | Celestial/Mythology    | asteroid **Pallas** (Athena)                                 | 1803             | UK                         |
+|  47 |   Ag   | Silver        |            | Classical (Latin)      | Latin *argentum*                                             | Ancient          | —                          |
+|  48 |   Cd   | Cadmium       |     \*     | Mineral                | from **cadmia** (calamine)                                   | 1817             | Germany                    |
+|  49 |   In   | Indium        |     \*     | Property/Colour        | **indigo** spectral line                                     | 1863             | Germany                    |
+|  50 |   Sn   | Tin           |     \*     | Classical (Latin)      | Latin *stannum*                                              | Ancient          | —                          |
+|  51 |   Sb   | Antimony      |      ^     | Mineral/Classical      | from *stibium* (stibnite); origin of “antimony” uncertain    | Ancient/Medieval | —                          |
+|  52 |   Te   | Tellurium     |      ^     | Concept/Earth          | Latin *tellus* “earth”                                       | 1782             | Transylvania (now Romania) |
+|  53 |    I   | Iodine        |            | Property/Colour        | Greek *ioeides* “violet”                                     | 1811             | France                     |
+|  54 |   Xe   | Xenon         |            | Property               | Greek *xenos* “strange”                                      | 1898             | UK                         |
+|  55 |   Cs   | Caesium       |      ^     | Property/Colour        | Latin *caesius* “sky‑blue”                                   | 1860             | Germany                    |
+|  56 |   Ba   | Barium        |      ^     | Property               | Greek *barys* “heavy”                                        | 1808             | UK                         |
+|  57 |   La   | Lanthanum     |     \*     | Property               | Greek *lanthanein* “lie hidden”                              | 1839             | Sweden                     |
+|  58 |   Ce   | Cerium        |      ^     | Celestial              | dwarf planet **Ceres**                                       | 1803             | Sweden/Germany             |
+|  59 |   Pr   | Praseodymium  |      ^     | Property/Colour        | *prasios* “green” + *didymos* “twin”                         | 1885             | Austria                    |
+|  60 |   Nd   | Neodymium     |      ^     | Concept                | *neos* “new” + *didymos* “twin”                              | 1885             | Austria                    |
+|  61 |   Pm   | Promethium    |      —     | Mythology              | **Prometheus**                                               | 1945             | USA (Oak Ridge)            |
+|  62 |   Sm   | Samarium      |      ^     | Person (via mineral)   | **Samarsky‑Bykhovets** (via samarskite)                      | 1879             | France                     |
+|  63 |   Eu   | Europium      |      ^     | Place/Region           | **Europe**                                                   | 1896             | France                     |
+|  64 |   Gd   | Gadolinium    |            | Person                 | **J. Gadolin**                                               | 1880             | France                     |
+|  65 |   Tb   | Terbium       |            | Place                  | **Ytterby**, Sweden                                          | 1843             | Sweden                     |
+|  66 |   Dy   | Dysprosium    |            | Property               | Greek *dysprositos* “hard to get”                            | 1886             | France                     |
+|  67 |   Ho   | Holmium       |            | Place                  | **Holmia** (Stockholm)                                       | 1878             | Sweden                     |
+|  68 |   Er   | Erbium        |            | Place                  | **Ytterby**, Sweden                                          | 1843             | Sweden                     |
+|  69 |   Tm   | Thulium       |            | Mythic geography       | **Thule** (far north)                                        | 1879             | Sweden                     |
+|  70 |   Yb   | Ytterbium     |      ^     | Place                  | **Ytterby**, Sweden                                          | 1878             | Switzerland                |
+|  71 |   Lu   | Lutetium      |      ^     | Place                  | **Lutetia** (Paris)                                          | 1907             | France                     |
+|  72 |   Hf   | Hafnium       |     \*     | Place                  | **Hafnia** (Copenhagen)                                      | 1923             | Denmark                    |
+|  73 |   Ta   | Tantalum      |     \*     | Mythology              | **Tantalus**                                                 | 1802             | Sweden                     |
+|  74 |    W   | Tungsten      |      ^     | Mineral/Name history   | Swedish “**tung sten**” (heavy stone); symbol from *wolfram* | 1783             | Spain                      |
+|  75 |   Re   | Rhenium       |     \*     | Place                  | **Rhenus** (Rhine)                                           | 1925             | Germany                    |
+|  76 |   Os   | Osmium        |     \*     | Property/Smell         | Greek *osme* “smell”                                         | 1803             | UK                         |
+|  77 |   Ir   | Iridium       |     \*     | Property/Colour        | Greek *iris* “rainbow”                                       | 1803             | UK                         |
+|  78 |   Pt   | Platinum      |            | Property/Material      | Spanish *platina* “little silver”                            | 1735             | South America (Colombia)   |
+|  79 |   Au   | Gold          |            | Classical (Latin)      | Latin *aurum*                                                | Ancient          | —                          |
+|  80 |   Hg   | Mercury       |     \*     | Mythology/Name history | Roman **Mercury**; symbol from *hydrargyrum*                 | Ancient          | —                          |
+|  81 |   Tl   | Thallium      |     \*     | Property/Colour        | Greek *thallos* “green shoot”                                | 1861             | UK                         |
+|  82 |   Pb   | Lead          |     \*     | Classical (Latin)      | Latin *plumbum*                                              | Ancient          | —                          |
+|  83 |   Bi   | Bismuth       |     \*     | Material/Name history  | German **Wismut** (“white mass”)                             | Medieval         | —                          |
+|  84 |   Po   | Polonium      |            | Place/Region           | **Poland**                                                   | 1898             | France                     |
+|  85 |   At   | Astatine      |            | Property/Stability     | Greek *astatos* “unstable”                                   | 1940             | USA                        |
+|  86 |   Rn   | Radon         |            | Derivative/Other       | from **radium** + “‑on”                                      | 1900             | Germany                    |
+|  87 |   Fr   | Francium      |            | Place/Region           | **France**                                                   | 1939             | France                     |
+|  88 |   Ra   | Radium        |            | Property/Phenomenon    | Latin *radius* “ray”                                         | 1898             | France                     |
+|  89 |   Ac   | Actinium      |            | Property/Phenomenon    | Greek *aktis* “ray”                                          | 1899             | France                     |
+|  90 |   Th   | Thorium       |     \*     | Mythology              | **Thor**                                                     | 1828             | Sweden                     |
+|  91 |   Pa   | Protactinium  |     \*     | Concept/Relation       | “parent of actinium”                                         | 1917             | Germany                    |
+|  92 |    U   | Uranium       |     \*     | Celestial              | planet **Uranus**                                            | 1789             | Germany                    |
+|  93 |   Np   | Neptunium     |      ^     | Celestial              | planet **Neptune**                                           | 1940             | USA                        |
+|  94 |   Pu   | Plutonium     |      ^     | Celestial              | (then‑planet) **Pluto**                                      | 1940             | USA                        |
+|  95 |   Am   | Americium     |      ^     | Place/Region           | the **Americas**                                             | 1944             | USA                        |
+|  96 |   Cm   | Curium        |      —     | Person                 | **Marie & Pierre Curie**                                     | 1944             | USA                        |
+|  97 |   Bk   | Berkelium     |      —     | Place                  | **Berkeley**                                                 | 1949             | USA                        |
+|  98 |   Cf   | Californium   |      —     | Place                  | **California**                                               | 1950             | USA                        |
+|  99 |   Es   | Einsteinium   |      —     | Person                 | **Albert Einstein**                                          | 1952             | Enewetak Atoll (US test)   |
+| 100 |   Fm   | Fermium       |      —     | Person                 | **Enrico Fermi**                                             | 1952             | Enewetak Atoll (US test)   |
+| 101 |   Md   | Mendelevium   |      —     | Person                 | **D. I. Mendeleev**                                          | 1955             | USA                        |
+| 102 |   No   | Nobelium      |      —     | Person                 | **Alfred Nobel**                                             | 1966 (credit)    | USSR (Dubna)               |
+| 103 |   Lr   | Lawrencium    |      —     | Person                 | **E. O. Lawrence**                                           | 1961             | USA                        |
+| 104 |   Rf   | Rutherfordium |      —     | Person                 | **Ernest Rutherford**                                        | 1969 (contested) | USA / USSR                 |
+| 105 |   Db   | Dubnium       |      —     | Place                  | **Dubna**                                                    | 1967             | USSR                       |
+| 106 |   Sg   | Seaborgium    |      —     | Person                 | **Glenn T. Seaborg**                                         | 1974             | USA                        |
+| 107 |   Bh   | Bohrium       |      —     | Person                 | **Niels Bohr**                                               | 1981             | Germany                    |
+| 108 |   Hs   | Hassium       |      —     | Place/Region           | **Hesse** (Hassia)                                           | 1984             | Germany                    |
+| 109 |   Mt   | Meitnerium    |      —     | Person                 | **Lise Meitner**                                             | 1982             | Germany                    |
+| 110 |   Ds   | Darmstadtium  |      —     | Place                  | **Darmstadt**                                                | 1994             | Germany                    |
+| 111 |   Rg   | Roentgenium   |      —     | Person                 | **W. C. Röntgen**                                            | 1994             | Germany                    |
+| 112 |   Cn   | Copernicium   |      —     | Person                 | **N. Copernicus**                                            | 1996             | Germany                    |
+| 113 |   Nh   | Nihonium      |      —     | Place                  | **Nihon** (= Japan)                                          | 2004/2012        | Japan (RIKEN)              |
+| 114 |   Fl   | Flerovium     |      —     | Person                 | **G. N. Flerov**                                             | 1998             | Russia–USA                 |
+| 115 |   Mc   | Moscovium     |      —     | Place/Region           | **Moscow** oblast                                            | 2003             | Russia–USA                 |
+| 116 |   Lv   | Livermorium   |      —     | Place                  | **Lawrence Livermore**                                       | 2000             | Russia–USA                 |
+| 117 |   Ts   | Tennessine    |      —     | Place/Region           | **Tennessee**                                                | 2010             | Russia–USA                 |
+| 118 |   Og   | Oganesson     |      —     | Person                 | **Yuri Oganessian**                                          | 2006             | Russia–USA                 |
+
+>   legend:
+> *  superconducts at ≈ 0 GPa (ambient)
+> ^  superconducts only under high pressure
+> (blank)  no superconductivity yet confirmed in the pure element
+
+---
 
 
 | The Initial, General Plans for This Repository Based on Onri's Prelimary Contributions: |
