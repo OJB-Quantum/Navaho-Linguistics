@@ -202,6 +202,7 @@ Primary URL for the repository: [OJB-Quantum/Navaho-Linguistics](https://github.
 | -gi | At |
 | -ígíí | A particular one that is |
 | -ii | Similar to -er in English. A person or thing that does an action indicated by the root verb |
+| -í | The one that or the one who. | 
 | Bee- | By means of it, by means of, or with |
 | T'áá | Just, quite, only, kind of, or sort of |
 | T'óó | Quite, just, merely, just for fun |
