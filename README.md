@@ -213,8 +213,8 @@ Primary URL for the repository: [OJB-Quantum/Navaho-Linguistics](https://github.
 | 'Áłtsíísí | Is little |
 | 'Áłch'į́dí | Insufficient |
 | T'áá 'áłch'ídígo | Just a little. Just a few |
-| T'áá átʼé | The whole thing. All of it |
-| Tʼóó ahayói | Quite a lot. Very many |
+| T'áá 'átʼé | The whole thing. All of it |
+| Tʼóó 'ahayói | Quite a lot. Very many |
 | 'Áłch'į́į́dí | It is a small amount |
 | 'Áłch'į́į́dígo | A small amount. Just a little bit |
 | 'Ádin | There is nothing. Zero |
