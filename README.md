@@ -585,6 +585,7 @@ MXC: Mixing Chamber
 | [Navaho Sound Profiles](https://www.unm.edu/~johncho/html/main.html) |
 | [Navaho Language Samples](https://youtube.com/playlist?list=PLbW5jviv4ckyQfIkzE8mJQDyuspK-QGXS&si=ATb_AL1t1gpWdUot) |
 | [Navaho Grammar on Wikipedia](https://en.wikipedia.org/wiki/Navajo_grammar) | 
+| [Navaho Roots](https://en.wiktionary.org/wiki/Category:Navajo_roots) |
 | [Navaho Prefixes](https://en.wiktionary.org/wiki/Category:Navajo_prefixes) |
 | [Navaho Suffixes](https://en.wiktionary.org/wiki/Category:Navajo_suffixes) |
 | [Navaho Particles](https://en.wiktionary.org/wiki/Category:Navajo_particles) |
