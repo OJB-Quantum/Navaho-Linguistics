@@ -291,13 +291,13 @@ Primary URL for the repository: [OJB-Quantum/Navaho-Linguistics](https://github.
 | ------------ | ------ | ------------------------------------------ | ------------------------ | ---------------------------- |
 | Aluminum     | Al     | \*                                         | Béésh 'ádaaszóólígíí     | Particular lightweight metal |
 | Mercury      | Hg     | \*                                         | Béésh tózháanii          | Metal with mushy characteristics |
-| Zinc         | Zn     | \*                                         | Béésh ...                | —                            |
 | Lead         | Pb     | \*                                         | Dilyį́hí                  | Lead                          |
 | Tin          | Sn     | \*                                         | Béésh kágí               | Metal skin or metal hide     |
+| Titanium     | Ti     | \*                                         | Béésh doo ńdiniichxíihii | Metal that does not rust     |
+| Zinc         | Zn     | \*                                         | Béésh ...                | —                            |
 | Magnesium    | Mg     | (borderline) ^                             | Béésh ...                | —                            |
 | Nickel       | Ni     | ^                                          | Béésh ...                | —                            |
 | Chromium     | Cr     | ^                                          | Béésh ...                | —                            |
-| Titanium     | Ti     | \*                                         | Béésh doo ńdiniichxíihii | Metal that does not rust     |
 | Tungsten     | W      | ^                                          | Béésh ...                | —                            |
 | Platinum     | Pt     | (no SC) → stays here if considering alloys | Béésh ...                | —                            |
 | Cobalt       | Co     | (no SC) but alloys SC                      | Béésh ...                | —                            |
