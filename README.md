@@ -280,6 +280,7 @@ Primary URL for the repository: [OJB-Quantum/Navaho-Linguistics](https://github.
 | Stainless Steel                 | Béésh nitł'izígíí doo ńdiniichxíihii | Hard or inflexible metal that does not rust or oxidize  |
 | Gold (Au)                       | 'óola                                | Gold                                         |
 | Silver (Ag)                     | Béésh łigaii                         | White metal                                  |
+| Chromium (Cr)                   | Béésh ...                            | —                                            |
 | Brass (Cu–Zn Alloy)             | Béésh łitsoii                        | Yellow metal                                 |
 | Bronze (Cu–Sn Alloy)            | Béésh dinishtsoii or béésh diniłtsoii | Dark yellow metal                            |
 | Solder (Sn–Pb or Pb-free alloy) | Béésh bee 'ahída'diiljeehí           | Metal glue                                   |
@@ -297,7 +298,6 @@ Primary URL for the repository: [OJB-Quantum/Navaho-Linguistics](https://github.
 | Zinc         | Zn     | \*                                         | Béésh ...                | —                            |
 | Magnesium    | Mg     | (borderline) ^                             | Béésh ...                | —                            |
 | Nickel       | Ni     | ^                                          | Béésh ...                | —                            |
-| Chromium     | Cr     | ^                                          | Béésh ...                | —                            |
 | Tungsten     | W      | ^                                          | Béésh ...                | —                            |
 | Platinum     | Pt     | (no SC) → stays here if considering alloys | Béésh ...                | —                            |
 | Cobalt       | Co     | (no SC) but alloys SC                      | Béésh ...                | —                            |
