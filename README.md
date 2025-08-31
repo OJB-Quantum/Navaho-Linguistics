@@ -272,6 +272,7 @@ Primary URL for the repository: [OJB-Quantum/Navaho-Linguistics](https://github.
 | English Term                    | Navaho Term                          | Literal Meaning                              |
 | ------------------------------- | ------------------------------------ | -------------------------------------------- |
 | **Metal**                       | Béésh                                | Metal                                        |
+| Precious Metal(s)               | Béésh 'ílíinii                       | Expensive or valuable metal(s)               |
 | Rust                            | ńdiniichxii'                         | Became red (generally used to describe rust or oxidation) |
 | Copper (Cu)                     | Béésh łichíí' or béésh łichíí'ii     | Red metal                                    |
 | Iron (Fe)                       | Béésh dootł'izh                      | Blue metal                                   |
