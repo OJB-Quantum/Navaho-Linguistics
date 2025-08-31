@@ -280,7 +280,7 @@ Primary URL for the repository: [OJB-Quantum/Navaho-Linguistics](https://github.
 | Gold (Au)                       | 'óola                                | Gold                                         |
 | Silver (Ag)                     | Béésh łigaii                         | White metal                                  |
 | Brass (Cu–Zn Alloy)             | Béésh łitsoii                        | Yellow metal                                 |
-| Bronze (Cu–Sn Alloy)            | Béésh dinishtsoii                    | Dark yellow metal                            |
+| Bronze (Cu–Sn Alloy)            | Béésh dinishtsoii or béésh diniłtsoii | Dark yellow metal                            |
 | Solder (Sn–Pb or Pb-free alloy) | Béésh bee 'ahída'diiljeehí           | Metal glue                                   |
 
 
