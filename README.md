@@ -49,6 +49,13 @@ Primary URL for the repository: [OJB-Quantum/Navaho-Linguistics](https://github.
 
 > **Note:**
 > English translation is coming soon...
+> 
+
+---
+
+### Cryogenic Dilution Refrigerator Measurement System in Navaho by Onri
+
+<img width="3839" height="auto" alt="image" src="https://github.com/user-attachments/assets/26ae965e-f613-4b56-aaf2-4be3454a83c7" />
 
 ---
 
