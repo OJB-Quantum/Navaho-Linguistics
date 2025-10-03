@@ -250,13 +250,15 @@ Primary URL for the repository: [OJB-Quantum/Navaho-Linguistics](https://github.
 | Bee 'azk'azi | Refrigerator |
 | T'áádoole'é nabíhonitaah | Experiment |
 | T'áádoole'é nabíhonitaah bee 'azk'azi | Refrigerator for experiment |
-| 'Ayóo / 'Ayóó | Very. Extremely |
+| 'Ayóo/ 'Ayóó | Very. Extremely |
 | 'Ayóogo | Really |
 | 'Agháadi | Extreme |
-| Yilááh / Bilááh / Alááh | Beyond |
+| Yilááh/ Bilááh/ Alááh | Beyond |
 | 'Ayóí | Very. Exceedingly. Remarkably (can be used at the end of a term) |
 | 'Ayóígo | Very. Exceedingly. Remarkably |
 | 'Á'ádaatʼéhígíí | Fundamental. Elements |
+| Naas konadazaa | It increased again | 
+| Jilaah | to increase | 
 | Ndaalnishii | Workers |
 | Ndaalnishígíí | Worker or employee. Those that work |
 | Béé'deetą́ | Knowledge was obtained, learned, or acquired |
