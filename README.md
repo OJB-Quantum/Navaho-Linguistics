@@ -216,6 +216,7 @@ Primary URL for the repository: [OJB-Quantum/Navaho-Linguistics](https://github.
 | Bee na'anishí | By means of the one is used to work. Tool or instrument or apparatus |
 | Bee nda'onishígíí | By means of the one used for the work. Tool | 
 | Ch'osh doo yit'íinii bee níl'íní | By means of the one that is used to see by you on insects that cannot be seen. Viewing instrument for invisible bugs. Biological microscope |
+| Bee níl'íní | By means of the one that is used to see by you. Viewing instrument or tool |
 | 'í'neel'ąąh | Measurement |
 | 'í'níłdzil | Resistance or endurance |
 | Báshíshchíín | I am born for him |
@@ -261,7 +262,7 @@ Primary URL for the repository: [OJB-Quantum/Navaho-Linguistics](https://github.
 | 'Ayóígo | Very. Exceedingly. Remarkably |
 | 'Á'ádaatʼéhígíí | Fundamental. Elements |
 | Naas konadazaa | It increased again | 
-| Jilaah | to increase | 
+| Jiłąąh | to increase | 
 | Ndaalnishii | Workers |
 | Ndaalnishígíí | Worker or employee. Those that work |
 | Béé'deetą́ | Knowledge was obtained, learned, or acquired |
