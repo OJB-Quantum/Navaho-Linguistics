@@ -213,6 +213,9 @@ Primary URL for the repository: [OJB-Quantum/Navaho-Linguistics](https://github.
 | Bee- | By means of it, by means of, or with |
 | T'áá | Just, quite, only, kind of, or sort of |
 | T'óó | Quite, just, merely, just for fun |
+| Bee na'anishí | By means of the one is used to work. Tool or instrument or apparatus |
+| Bee nda'onishígíí | By means of the one used for the work. Tool | 
+| Ch'osh doo yit'íinii bee níl'íní | By means of the one that is used to see by you on insects that cannot be seen. Viewing instrument for invisible bugs. Biological microscope |
 | 'í'neel'ąąh | Measurement |
 | 'í'níłdzil | Resistance or endurance |
 | Báshíshchíín | I am born for him |
