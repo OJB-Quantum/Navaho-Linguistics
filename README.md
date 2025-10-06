@@ -47,10 +47,6 @@ Primary URL for the repository: [OJB-Quantum/Navaho-Linguistics](https://github.
 |-|-|
 | Díí atsiniltł'ish biyi' 'asdizí náás góne'é t'áá kóníghánígo 'akwe'é 'ahóodziil éídígii yidísin. T'áá bééhodoozįįł yił ałhii'níná’iidzóóh nida'ałkáá'i' Schrödinger bits’ą́ą́dę́ę́ nihinááł. | In the spin of electrons, further within it, at every interval here is energy that one observes or can observe. It must be explained with [the language of] mathematics that we can see, derived by Professor Schrodinger. |
 
-> **Note:**
-> English translation is coming soon...
-> 
-
 ---
 
 ### Cryogenic Dilution Refrigerator Measurement System in Navaho by Onri
