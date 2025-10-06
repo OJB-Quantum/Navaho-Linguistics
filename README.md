@@ -216,12 +216,14 @@ Primary URL for the repository: [OJB-Quantum/Navaho-Linguistics](https://github.
 | Bee- | By means of it, by means of, or with |
 | T'áá | Just, quite, only, kind of, or sort of |
 | T'óó | Quite, just, merely, just for fun |
+| Nahalin | Looks like or seems |
+| Nahalingo | Resembles. While looking alike |
 | Bee na'anishí | By means of the one is used to work. Tool or instrument or apparatus |
 | Bee nda'onishígíí | By means of the one used for the work. Tool | 
 | Ch'osh doo yit'íinii bee níl'íní | By means of the one that is used to see by you on insects that cannot be seen. Viewing instrument for invisible bugs. Biological microscope |
 | Bee níl'íní | By means of the one that is used to see by you. Viewing instrument or tool |
 | 'í'neel'ąąh | Measurement |
-| 'í'níłdzil | Resistance or endurance |
+| 'í'níłdzil | Resistance or endurance | 
 | Báshíshchíín | I am born for him |
 | 'Ánéełt'e' | Number |
 | 'Ánéełt'e'ígíí | That is the particular amount or that is the particular number |
@@ -241,7 +243,7 @@ Primary URL for the repository: [OJB-Quantum/Navaho-Linguistics](https://github.
 | T'áá kóníghánígo | At every interval |
 | T'áá 'áłts'íísígo | Small piece |
 | T'áá 'áłch'į́į́dígo | Just a little bit. Just a few |
-| Yidísin | He/she observes |
+| Yidísin | He/ she/ one observes |
 | Nánísh'įįh | To look at it. I am watching it |
 | Haalzííd | It is being watched |
 | 'Áhoodzaago | When it happened |
@@ -296,7 +298,7 @@ Primary URL for the repository: [OJB-Quantum/Navaho-Linguistics](https://github.
 | Stainless Steel                 | Béésh nitł'izígíí doo ńdiniichxíihii | Hard or inflexible metal that does not rust or oxidize  |
 | Gold (Au)                       | 'óola                                | Gold                                         |
 | Silver (Ag)                     | Béésh łigaii                         | White metal                                  |
-| Chromium (Cr)                   | Béésh ...                            | Dark shaded white metal                      |
+| Chromium (Cr)                   | Béésh łibáhí bitsa'dinidiin          | Gray metal that shines                       |
 | Brass (Cu–Zn Alloy)             | Béésh łitsoii                        | Yellow metal                                 |
 | Bronze (Cu–Sn Alloy)            | Béésh dinishtsoii or béésh diniłtsoii | Dark yellow metal                            |
 | Solder (Sn–Pb or Pb-free alloy) | Béésh bee 'ahída'diiljeehí           | Metal glue                                   |
@@ -311,10 +313,10 @@ Primary URL for the repository: [OJB-Quantum/Navaho-Linguistics](https://github.
 | Lead         | Pb     | \*                                         | Dilyį́hí                  | Lead                          |
 | Tin          | Sn     | \*                                         | Béésh kágí               | Metal skin or metal hide     |
 | Titanium     | Ti     | \*                                         | Béésh doo ńdiniichxíihii | Metal that does not rust     |
-| Zinc         | Zn     | \*                                         | Béésh hááhaashchii'      | Sharp pointed metal          |
-| Magnesium    | Mg     | (borderline) ^                             | Béésh ...                | —                            |
-| Nickel       | Ni     | ^                                          | Béésh ...                | —                            |
-| Tungsten     | W      | ^                                          | Béésh ...                | —                            |
+| Zinc         | Zn     | \*                                         | Béésh ditł'ooí           | Hairy metal          |
+| Magnesium    | Mg     | (borderline) ^                             | Béésh Magniiziiya bijoosye' or Magniiziiya bibéésh | Metal named after Magnesia (Greece) |
+| Nickel       | Ni     | ^                                          | Béésh Nik sání bijoosye'   | Metal named after Old Nick |
+| Tungsten     | W      | ^                                          | Béésh łibáhí 'ádaníłdáás | Heavy gray metal             |
 | Platinum     | Pt     | (no SC) → stays here if considering alloys | Béésh ...                | —                            |
 | Cobalt       | Co     | (no SC) but alloys SC                      | Béésh ...                | —                            |
 | Manganese    | Mn     | (no SC) but SC compounds exist             | Béésh ...                | —                            |
@@ -330,6 +332,7 @@ Primary URL for the repository: [OJB-Quantum/Navaho-Linguistics](https://github.
 | Cadmium      | Cd     | \*                                         | Béésh ...                | —                            |
 
 > (legend: * = ambient pressure superconductivity, ^ = superconductivity only under high pressure)
+> When a metal is named after a noun: Béésh <Navaho transcription of noun> bijoosye' or <Navaho transcription of noun> bibéésh = Metal named after <noun> (additional context)
 
 ---
 
@@ -350,7 +353,7 @@ legend:  *  superconducts at ≈ 0 GPa (ambient)          ^  superconducts only 
             (blank)  no superconductivity yet confirmed in the pure element
 ```
 
-### Table of Metal Etymologies in English (To Help with Translation)
+### Table of Metal Etymologies in English (To Help with Translation if The Metal Hasn't Been Translated in Navaho)
 
 |   Z | Symbol | Element       | Superconducting Note | Origin type            | Etymology (basis)                                            | Discovery (year) | Place                      |
 | --: | :----: | :------------ | :--------: | :--------------------- | :----------------------------------------------------------- | :--------------- | :------------------------- |
@@ -366,7 +369,7 @@ legend:  *  superconducts at ≈ 0 GPa (ambient)          ^  superconducts only 
 |  10 |   Ne   | Neon          |            | Property               | Greek *neos* “new”                                           | 1898             | UK                         |
 |  11 |   Na   | Sodium        |      ^     | Mineral/Material       | From **soda**; symbol from *natrium*                         | 1807             | UK                         |
 |  12 |   Mg   | Magnesium     |            | Place                  | **Magnesia** (Greece)                                        | 1808             | UK                         |
-|  13 |   Al   | Aluminium     |     \*     | Mineral                | Latin *alumen* “alum”                                        | 1825             | Denmark                    |
+|  13 |   Al   | Aluminum      |     \*     | Mineral                | Latin *alumen* “alum”                                        | 1825             | Denmark                    |
 |  14 |   Si   | Silicon       |      ^     | Mineral                | Latin *silex/silicis* “flint”                                | 1824             | Sweden                     |
 |  15 |    P   | Phosphorus    |      ^     | Phenomenon             | Greek *phōs‑phoros* “light‑bringer”                          | 1669             | Germany                    |
 |  16 |    S   | Sulfur        |      ^     | Material               | Latin *sulfur* (brimstone)                                   | Ancient          | —                          |
