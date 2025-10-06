@@ -132,9 +132,9 @@ Primary URL for the repository: [OJB-Quantum/Navaho-Linguistics](https://github.
 
 ---
 
-### Common Shapes & Geometries in Navaho:
+### Common Shapes, Textures, & Geometries in Navaho:
 
-#### 3D 
+#### 3D View
 
 | English shape or object                  | Navaho (as provided)                    | Notes      |
 | ---------------------------------------- | --------------------------------------- | ---------- |
@@ -157,8 +157,9 @@ Primary URL for the repository: [OJB-Quantum/Navaho-Linguistics](https://github.
 | Arm                                      | 'Agaan                                  |            |
 | Joints                                   | 'Ahadit'aan                             |            |
 | Chisel                                   | Bee hahalzhishi                         |            |
+| Hairy                                    | Dits'oz                                 | |
 
-#### 2D 
+#### 2D Cross-Sectional View
 
 | English shape or symbol       | Navaho (as provided)                                                | Notes                |
 | ----------------------------- | ------------------------------------------------------------------- | -------------------- |
@@ -177,18 +178,20 @@ Primary URL for the repository: [OJB-Quantum/Navaho-Linguistics](https://github.
 | Trapezoid                     | 'Ałníí do heetsʼóóz or 'Ał'ąą dii'go adeezʼá or Heetsʼóózgo adeezʼá | multiple forms given |
 | Kite                          | 'Ał'ąą bee aditlihi                                                 | maybe                |
 | Pentagon                      | 'Ashdla'góó adeezʼá                                                 |                      |
-| Hexagon                       | Hastą́ą́góó adeezʼá                                                 |                      |
+| Hexagon                       | Hastą́ą́góó adeezʼá                                                   |                      |
 | Honeycomb-shape               | Dikin                                                               |                      |
 | Octagon                       | Tseebiigóó adeezʼá                                                  |                      |
 | Wedge                         | Bee ałkʼíniilkaałí                                                  |                      |
 | Chisel                        | Bee hahalzhishi                                                     |                      |
 | Cross or plus                 | Dik'aago heeneez alnáosdzi (alnáoszid) or alnáaz'á                  | multiple forms given |
 | U-shape                       | Názhah                                                              |                      |
+| V-shape or forked             | Halgizh                                                             | |
 | Saw-tooth type                | Doolghas                                                            |                      |
 | Wavy                          | Doolk'ool                                                           |                      |
 | Coiled or spiraled            | Náhineest'ee'                                                       |                      |
 | Tapered                       | Hááhaaschii'                                                        |                      |
 | Point or tip                  | Dah hats'os                                                         |                      |
+| Extends or stretches          | 'íít'i'                                                             | |
 | Generic polygon               | `<number>`góó adeezʼá or `<number>`go adeezʼá                       | placeholder forms    |
 | Generic symbol                | `<object>` yishchiin                                                | placeholder form     |
 | Variation                     | 'Ał'ąą                                                              |                      |
@@ -293,7 +296,7 @@ Primary URL for the repository: [OJB-Quantum/Navaho-Linguistics](https://github.
 | Stainless Steel                 | Béésh nitł'izígíí doo ńdiniichxíihii | Hard or inflexible metal that does not rust or oxidize  |
 | Gold (Au)                       | 'óola                                | Gold                                         |
 | Silver (Ag)                     | Béésh łigaii                         | White metal                                  |
-| Chromium (Cr)                   | Béésh ...                            | —                                            |
+| Chromium (Cr)                   | Béésh ...                            | Dark shaded white metal                      |
 | Brass (Cu–Zn Alloy)             | Béésh łitsoii                        | Yellow metal                                 |
 | Bronze (Cu–Sn Alloy)            | Béésh dinishtsoii or béésh diniłtsoii | Dark yellow metal                            |
 | Solder (Sn–Pb or Pb-free alloy) | Béésh bee 'ahída'diiljeehí           | Metal glue                                   |
@@ -308,7 +311,7 @@ Primary URL for the repository: [OJB-Quantum/Navaho-Linguistics](https://github.
 | Lead         | Pb     | \*                                         | Dilyį́hí                  | Lead                          |
 | Tin          | Sn     | \*                                         | Béésh kágí               | Metal skin or metal hide     |
 | Titanium     | Ti     | \*                                         | Béésh doo ńdiniichxíihii | Metal that does not rust     |
-| Zinc         | Zn     | \*                                         | Béésh ...                | —                            |
+| Zinc         | Zn     | \*                                         | Béésh hááhaashchii'      | Sharp pointed metal          |
 | Magnesium    | Mg     | (borderline) ^                             | Béésh ...                | —                            |
 | Nickel       | Ni     | ^                                          | Béésh ...                | —                            |
 | Tungsten     | W      | ^                                          | Béésh ...                | —                            |
