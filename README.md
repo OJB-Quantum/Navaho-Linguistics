@@ -309,7 +309,7 @@ Primary URL for the repository: [OJB-Quantum/Navaho-Linguistics](https://github.
 | English Term | Symbol | Superconductivity                          | Navaho Term              | Literal Meaning              |
 | ------------ | ------ | ------------------------------------------ | ------------------------ | ---------------------------- |
 | Aluminum     | Al     | \*                                         | Béésh 'ádaaszóólígíí     | Particular lightweight metal |
-| Mercury      | Hg     | \*                                         | Béésh tózháanii          | Metal with mushy characteristics |
+| Mercury      | Hg     | \*                                         | Béésh tózháanii          | Metal with mushy or diluted characteristics |
 | Lead         | Pb     | \*                                         | Dilyį́hí                  | Lead                          |
 | Tin          | Sn     | \*                                         | Béésh kágí               | Metal skin or metal hide     |
 | Titanium     | Ti     | \*                                         | Béésh doo ńdiniichxíihii | Metal that does not rust     |
@@ -317,18 +317,18 @@ Primary URL for the repository: [OJB-Quantum/Navaho-Linguistics](https://github.
 | Magnesium    | Mg     | (borderline) ^                             | Béésh Magniiziiya bijoosye' or Magniiziiya bibéésh | Metal named after Magnesia (Greece) |
 | Nickel       | Ni     | ^                                          | Béésh Nik sání bijoosye'   | Metal named after Old Nick |
 | Tungsten     | W      | ^                                          | Béésh łibáhí 'ádaníłdáás | Heavy gray metal             |
-| Platinum     | Pt     | (no SC) → stays here if considering alloys | Béésh ...                | —                            |
-| Cobalt       | Co     | (no SC) but alloys SC                      | Béésh ...                | —                            |
-| Manganese    | Mn     | (no SC) but SC compounds exist             | Béésh ...                | —                            |
-| Molybdenum   | Mo     | \*                                         | Béésh ...                | —                            |
-| Tantalum     | Ta     | \*                                         | Béésh ...                | —                            |
-| Niobium      | Nb     | \*                                         | Béésh ...                | —                            |
+| Platinum     | Pt     | (no SC) → stays here if considering alloys | Béésh łigaii yázhí       | Little silver or little white metal  |
+| Cobalt       | Co     | (no SC) but alloys SC                      | Béésh kaobal bijoosye'   | Metal named after Kobald (Germany) | 
+| Manganese    | Mn     | (no SC) but SC compounds exist             | Béésh Manganiiziiya bijoosye' | Metal named after Manganesia | 
+| Molybdenum   | Mo     | \*                                         | Béésh dilyį́hí nahaligo   | Lead-like metal              |
+| Tantalum     | Ta     | \*                                         | Béésh Tantalas bijoosye' | Metal named after Tantalus   |
+| Niobium      | Nb     | \*                                         | Béésh Naiiyob bijoosye' | Metal named after Niob        |
 | Palladium    | Pd     | ^                                          | Béésh ...                | —                            |
 | Rhodium      | Rh     | ^                                          | Béésh ...                | —                            |
-| Ruthenium    | Ru     | \*                                         | Béésh ...                | —                            |
-| Iridium      | Ir     | ^                                          | Béésh ...                | —                            |
-| Gallium      | Ga     | \*                                         | Béésh ...                | —                            |
-| Indium       | In     | \*                                         | Béésh ...                | —                            |
+| Ruthenium    | Ru     | \*                                         | Béésh         |                 |
+| Iridium      | Ir     | ^                                          | Béésh nááts'íílid        | Rainbow metal                |
+| Gallium      | Ga     | \*                                         | Béésh bis dootł'izh nahalingo | Clay-like metal | 
+| Indium       | In     | \*                                         | Béésh tsídídééh dootł'izhígíí | Particular purple blue metal |
 | Cadmium      | Cd     | \*                                         | Béésh ...                | —                            |
 
 > (legend: * = ambient pressure superconductivity, ^ = superconductivity only under high pressure)
