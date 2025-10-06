@@ -43,9 +43,9 @@ Primary URL for the repository: [OJB-Quantum/Navaho-Linguistics](https://github.
 
 ### Quantum Mechanics Explained in Navaho by Onri
 
-| **Navaho** |
-|-----------------------------------------------|
-| Díí atsiniltł'ish biyi' 'asdizí náás góne'é t'áá kóníghánígo 'akwe'é 'ahóodziil éídígii yidísin. <br> T'áá bééhodoozįįł yił ałhii'níná’iidzóóh nida'ałkáá'i' Schrödinger bits’ą́ą́dę́ę́ nihinááł. |
+| **Navaho** | **English**  |
+|-|-|
+| Díí atsiniltł'ish biyi' 'asdizí náás góne'é t'áá kóníghánígo 'akwe'é 'ahóodziil éídígii yidísin. <br> T'áá bééhodoozįįł yił ałhii'níná’iidzóóh nida'ałkáá'i' Schrödinger bits’ą́ą́dę́ę́ nihinááł. | In the spin of electrons, further within it, at every interval here is energy that one observes. It must be explained with [the language of] mathematics introduced by Professor Schrodinger |
 
 > **Note:**
 > English translation is coming soon...
