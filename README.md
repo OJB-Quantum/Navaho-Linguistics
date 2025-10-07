@@ -45,13 +45,13 @@ Primary URL for the repository: [OJB-Quantum/Navaho-Linguistics](https://github.
 
 | **Navaho** | **English**  |
 |-|-|
-| Díí áʼádaatʼéhígíí náás góne'é t'áá kóníghánígo 'akwe'é 'ahóodziil doo bee atsiniltł'ish biyi' 'asdizígíí éídí 'í'neel'ąąh 'áádóó yidísin. T'áá bééhodoozįįł yił ałhii'níná’iidzóóh nida'ałkáá'i' Schrödinger bits’ą́ą́dę́ę́ nihinááł. | In a fundamental or elemental object such as an atom, further within it, at every interval here, is energy that one can observe and from there measure it as well as its electron spin. It must be explained with [the language of] mathematics that we can see, derived by Professor Schrodinger. |
+| Díí áʼádaatʼéhígíí náás góne'é t'áá kóníghánígo 'akwe'é 'ahóodziil doo bee atsiniltł'ish biyi' 'asdizígíí éídí 'í'neel'ąąh 'áádóó yidísin. T'áá bééhodoozįįł yił ałhii'níná’iidzóóh nida'ałkáá'ii' Schrödinger doo Pauli doo Dirac bits’ą́ą́dę́ę́ nihinááł. | In a fundamental or elemental object such as an atom, further within it, at every interval here, is energy that one can observe, and from there, measure it, as well as its electron spin [depending on which measurement tool is used]. It must be explained with [the language of] mathematics that we can see, derived by Professors Schrodinger, Pauli, and Dirac. |
 
 ---
 
 ### Cryogenic Dilution Refrigerator Measurement System in Navaho by Onri
 
-<img width="3530" height="1712" alt="image" src="https://github.com/user-attachments/assets/b55ca66d-3f77-49ff-b32c-ae140700f0c0" />
+<img width="3530" height="auto" alt="image" src="https://github.com/user-attachments/assets/b55ca66d-3f77-49ff-b32c-ae140700f0c0" />
 
 
 ---
