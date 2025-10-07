@@ -310,26 +310,26 @@ Primary URL for the repository: [OJB-Quantum/Navaho-Linguistics](https://github.
 | ------------ | ------ | ------------------------------------------ | ------------------------ | ---------------------------- |
 | Aluminum     | Al     | \*                                         | Béésh 'ádaaszóólígíí     | Particular lightweight metal |
 | Mercury      | Hg     | \*                                         | Béésh tózháanii          | Metal with mushy or diluted characteristics |
-| Lead         | Pb     | \*                                         | Dilyį́hí                  | Lead                          |
+| Lead         | Pb     | \*                                         | Dilyį́hí                  | Lead                         |
 | Tin          | Sn     | \*                                         | Béésh kágí               | Metal skin or metal hide     |
 | Titanium     | Ti     | \*                                         | Béésh doo ńdiniichxíihii | Metal that does not rust     |
-| Zinc         | Zn     | \*                                         | Béésh ditł'ooí           | Hairy metal          |
-| Magnesium    | Mg     | (borderline) ^                             | Béésh Magniiziiya bijoosye' or Magniiziiya bibéésh | Metal named after Magnesia (Greece) |
+| Zinc         | Zn     | \*                                         | Béésh ditł'ooí           | Hairy metal                  |
+| Magnesium    | Mg     | (borderline) ^                             | Béésh Magniiziya bijoosye' or Magniiziiya bibéésh | Metal named after Magnesia (Greece) |
 | Nickel       | Ni     | ^                                          | Béésh Nik sání bijoosye'   | Metal named after Old Nick |
 | Tungsten     | W      | ^                                          | Béésh łibáhí 'ádaníłdáás | Heavy gray metal             |
 | Platinum     | Pt     | (no SC) → stays here if considering alloys | Béésh łigaii yázhí       | Little silver or little white metal  |
-| Cobalt       | Co     | (no SC) but alloys SC                      | Béésh kaobal bijoosye'   | Metal named after Kobald (Germany) | 
-| Manganese    | Mn     | (no SC) but SC compounds exist             | Béésh Manganiiziiya bijoosye' | Metal named after Manganesia | 
-| Molybdenum   | Mo     | \*                                         | Béésh dilyį́hí nahaligo   | Lead-like metal              |
-| Tantalum     | Ta     | \*                                         | Béésh Tantalas bijoosye' | Metal named after Tantalus (Greece/ UK) |
-| Niobium      | Nb     | \*                                         | Béésh Naiiyob bijoosye'  | Metal named after Niob (Greece/ UK) |
-| Palladium    | Pd     | ^                                          | Béésh balas bijoosye'    | Metal named after Pallas (Greece/ UK) |
-| Rhodium      | Rh     | ^                                          | Béésh ...                | —                            |
-| Ruthenium    | Ru     | \*                                         | Béésh         |                 |
+| Cobalt       | Co     | (no SC) but alloys SC                      | Béésh kaobal bijoosye'   | Metal named after kobald (Germany) | 
+| Manganese    | Mn     | (no SC) but SC compounds exist             | Béésh Manganiiziya bijoosye' | Metal named after Manganesia | 
+| Molybdenum   | Mo     | \*                                         | Béésh dilyį́hí nahaligo or Béésh maalib'doos bijoosye' | Lead-like metal or metal named after molybdos (Greece) |
+| Tantalum     | Ta     | \*                                         | Béésh Tantalas bijoosye' | Metal named after Tantalus (Greece) |
+| Niobium      | Nb     | \*                                         | Béésh Naiiyob bijoosye'  | Metal named after Niob (Greece) |
+| Palladium    | Pd     | ^                                          | Béésh balas bijoosye'    | Metal named after Pallas (Greece) |
+| Rhodium      | Rh     | ^                                          | Béésh chǫǫ bijoosye'     | Metal named after a rose (Greece) |
+| Ruthenium    | Ru     | \*                                         | Béésh Wootiiniya bijoosye' | Metal named after Ruthenia (Greece) |
 | Iridium      | Ir     | ^                                          | Béésh nááts'íílid        | Rainbow metal                |
-| Gallium      | Ga     | \*                                         | Béésh bis dootł'izh nahalingo | Clay-like metal | 
-| Indium       | In     | \*                                         | Béésh tsídídééh dootł'izhígíí | Particular purple blue metal |
-| Cadmium      | Cd     | \*                                         | Béésh ...                | —                            |
+| Gallium      | Ga     | \*                                         | Béésh Galiya bijoosye'   | Metal named after Gallia (France) | 
+| Indium       | In     | \*                                         | Béésh taos'nii' nahalingo | Dough-like metal            |
+| Cadmium      | Cd     | \*                                         | Béésh Kadmiya bijoosye'  | Metal named after Cadmea (Greece) |
 
 > (legend: * = ambient pressure superconductivity, ^ = superconductivity only under high pressure)
 > When a metal is named after a noun: Béésh <Navaho transcription of noun> bijoosye' or <Navaho transcription of noun> bibéésh = Metal named after <noun> (additional context)
@@ -355,8 +355,8 @@ legend:  *  superconducts at ≈ 0 GPa (ambient)          ^  superconducts only 
 
 ### Table of Metal Etymologies in English (To Help with Translation if The Metal Hasn't Been Translated in Navaho)
 
-|   Z | Symbol | Element       | Superconducting Note | Origin type             | Etymology (basis)                                                                   | Discovery (year) | Place                      |
-| --: | :----: | :------------ | :------------------: | :---------------------- | :---------------------------------------------------------------------------------- | :--------------- | :------------------------- |
+|   Z | Symbol | Element       | Superconducting Note | Origin type             | Etymology (basis)                                                                   | Discovery (year) | Place       |
+| --: | :----: | :------------ | :------------------: | :---------------------- | :---------------------------------------------------------------------------------- | :--------------- | :---------- |
 |   1 |    H   | Hydrogen      |           ^          | Property/Composition    | Greek *hydro* “water” + *genes* “forming”                                           | 1766             | UK                         |
 |   2 |   He   | Helium        |                      | Celestial/Mythology     | Greek *helios* “sun”                                                                | 1895 (isolation) | UK                         |
 |   3 |   Li   | Lithium       |           *          | Mineral/Geology         | Greek *lithos* “stone”                                                              | 1817             | Sweden                     |
