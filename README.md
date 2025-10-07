@@ -65,6 +65,73 @@ Primary URL for the repository: [OJB-Quantum/Navaho-Linguistics](https://github.
 
 ---
 
+### Common Equations in Nemeth Braille as a Supplementary Example for the Navaho Quantum Mechanics Introduction
+
+## 1) Ehrenfest’s theorem — general operator form
+
+**Braille title:** `⠑⠓⠗⠑⠝⠋⠑⠎⠞⠄⠎ ⠞⠓⠑⠕⠗⠑⠍ ⠤⠤ ⠛⠑⠝⠑⠗⠁⠇ ⠕⠏⠻⠁⠞⠕⠗ ⠋⠕⠗⠍`
+
+**Nemeth:**
+`⠹⠙⠌⠙⠞⠼ ⠨⠨⠷⠁⠨⠨⠾ ⠨⠅ ⠹⠼⠁⠌⠊⠓⠒⠼ ⠨⠨⠷⠈⠷⠁⠂⠓⠈⠾⠨⠨⠾ ⠖ ⠨⠨⠷⠹⠈⠙⠁⠌⠈⠙⠞⠼⠨⠨⠾`
+
+> d/dt ⟨A⟩ = (1/(iħ)) ⟨[A,H]⟩ + ⟨∂A/∂t⟩
+
+---
+
+## 2) Classical comparison
+
+`**Braille title:** ⠉⠇⠁⠎⠎⠊⠉⠁⠇ ⠉⠕⠍⠏⠁⠗⠊⠎⠕⠝`
+
+**Nemeth:**
+`⠹⠙⠌⠙⠞⠼ ⠨⠨⠷⠭⠨⠨⠾ ⠨⠅ ⠹⠨⠨⠷⠏⠨⠨⠾⠌⠍⠼⠂ ⠹⠙⠌⠙⠞⠼ ⠨⠨⠷⠏⠨⠨⠾ ⠨⠅ ⠨⠨⠷⠤⠘⠙⠧⠨⠨⠾`
+
+> d/dt ⟨x⟩ = ⟨p⟩/m,  d/dt ⟨p⟩ = ⟨−∇V⟩
+
+---
+
+## 3) Time‑independent Schrodinger equation (3D)
+
+**Braille title:** `⠞⠊⠍⠑⠤⠊⠝⠙⠑⠏⠑⠝⠙⠑⠝⠞ ⠎⠉⠓⠗⠕⠙⠊⠝⠛⠻ ⠑⠟⠥⠁⠞⠊⠕⠝`
+
+**Nemeth:**
+`⠈⠷⠤⠹⠓⠒⠘⠼⠃⠌⠼⠃⠍⠼ ⠘⠙⠘⠼⠃ ⠖ ⠧⠣⠗⠜⠈⠾ ⠨⠽⠣⠗⠜ ⠨⠅ ⠑ ⠨⠽⠣⠗⠜`
+
+> [ −(ħ^2)/(2m) ∇^2 + V(r) ] ψ(r) = E ψ(r)
+
+---
+
+## 4) Dirac equation — αβ Hamiltonian (Dirac‑αβ) form
+
+**Braille title:** `⠙⠊⠗⠁⠉ ⠑⠟⠥⠁⠞⠊⠕⠝ ⠤⠤ ⠨⠁⠨⠃ ⠓⠁⠍⠊⠇⠞⠕⠝⠊⠁⠝ ⠋⠕⠗⠍`
+
+**Nemeth:**
+`⠊⠓⠒ ⠹⠈⠙⠨⠽⠌⠈⠙⠞⠼ ⠨⠅ ⠣ ⠉ ⠨⠁⠡⠏ ⠖ ⠨⠃⠍⠉⠘⠼⠃ ⠜ ⠨⠽`
+
+> iħ (∂ψ/∂t) = ( c α·p + β m c^2 ) ψ
+
+---
+
+## 5) Dirac equation — manifestly covariant form
+
+**Braille title:** `⠙⠊⠗⠁⠉ ⠑⠟⠥⠁⠞⠊⠕⠝ ⠤⠤ ⠍⠁⠝⠊⠋⠑⠎⠞⠇⠽ ⠉⠕⠧⠁⠗⠊⠁⠝⠞ ⠋⠕⠗⠍`
+
+**Nemeth:**
+`⠣ ⠊⠓⠒ ⠨⠛⠘⠨⠍ ⠈⠙⠆⠨⠍ ⠤ ⠍⠉ ⠜ ⠨⠽ ⠨⠅ ⠼⠚`
+
+> ( iħ γ^μ ∂_μ − m c ) ψ = 0
+
+### Notes
+
+• Angle brackets: ⟨…⟩ are ⠨⠨⠷ … ⠨⠨⠾.  Square brackets: ⟦…⟧ here shown as basic ⠈⠷ … ⠈⠾.  Equals: ⠨⠅ (spaced).  Minus: ⠤.  Plus: ⠖.  Centered dot: ⠡.
+
+• Greek: α ⟶ ⠨⠁, β ⟶ ⠨⠃, γ ⟶ ⠨⠛, μ ⟶ ⠨⠍, ψ ⟶ ⠨⠽.
+
+• ∂ is ⠈⠙; ∇ (del) is ⠘⠙; superscripts use ⠘, subscripts use ⠆; overbar (h‑bar) uses the horizontal‑bar sign ⠒ after the base letter.
+
+• Digits use the numeric indicator ⠼ before the first digit when needed for clarity.
+
+---
+
 ### Cryogenic Dilution Refrigerator Measurement System in Navaho by Onri
 
 <img width="3530" height="auto" alt="image" src="https://github.com/user-attachments/assets/b55ca66d-3f77-49ff-b32c-ae140700f0c0" />
