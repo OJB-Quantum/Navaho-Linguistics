@@ -314,7 +314,7 @@ Primary URL for the repository: [OJB-Quantum/Navaho-Linguistics](https://github.
 | Tin          | Sn     | \*                                         | Béésh kágí               | Metal skin or metal hide     |
 | Titanium     | Ti     | \*                                         | Béésh doo ńdiniichxíihii | Metal that does not rust     |
 | Zinc         | Zn     | \*                                         | Béésh ditł'ooí           | Hairy metal                  |
-| Magnesium    | Mg     | (borderline) ^                             | Béésh Magniiziya bijoosye' or Magniiziiya bibéésh | Metal named after Magnesia (Greece) |
+| Magnesium    | Mg     | (borderline) ^                             | Béésh Magniiziya bijoosye' or Magniiziya bibéésh | Metal named after Magnesia (Greece) |
 | Nickel       | Ni     | ^                                          | Béésh Nik sání bijoosye'   | Metal named after Old Nick |
 | Tungsten     | W      | ^                                          | Béésh łibáhí 'ádaníłdáás | Heavy gray metal             |
 | Platinum     | Pt     | (no SC) → stays here if considering alloys | Béésh łigaii yázhí       | Little silver or little white metal  |
