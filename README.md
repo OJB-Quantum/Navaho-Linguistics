@@ -309,7 +309,7 @@ Primary URL for the repository: [OJB-Quantum/Navaho-Linguistics](https://github.
 | English Term | Symbol | Superconductivity                          | Navaho Term              | Literal Meaning              |
 | ------------ | ------ | ------------------------------------------ | ------------------------ | ---------------------------- |
 | Aluminum     | Al     | \*                                         | Béésh 'ádaaszóólígíí     | Particular lightweight metal |
-| Mercury      | Hg     | \*                                         | Béésh tózháanii          | Metal with mushy or diluted characteristics |
+| Mercury      | Hg     | \*                                         | Béésh tózháanii          | Metal with mushy or somewhat "watery" characteristics |
 | Lead         | Pb     | \*                                         | Dilyį́hí                  | Lead                         |
 | Tin          | Sn     | \*                                         | Béésh kágí               | Metal skin or metal hide     |
 | Titanium     | Ti     | \*                                         | Béésh doo ńdiniichxíihii | Metal that does not rust     |
