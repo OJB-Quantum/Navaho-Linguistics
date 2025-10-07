@@ -323,7 +323,7 @@ Primary URL for the repository: [OJB-Quantum/Navaho-Linguistics](https://github.
 | Molybdenum   | Mo     | \*                                         | Béésh dilyį́hí nahaligo or Béésh maalib'doos bijoosye' | Lead-like metal or metal named after molybdos (Greece) |
 | Tantalum     | Ta     | \*                                         | Béésh Tantalas bijoosye' | Metal named after Tantalus (Greece) |
 | Niobium      | Nb     | \*                                         | Béésh Naiiyob bijoosye'  | Metal named after Niob (Greece) |
-| Palladium    | Pd     | ^                                          | Béésh balas bijoosye'    | Metal named after Pallas (Greece) |
+| Palladium    | Pd     | ^                                          | Béésh Balas bijoosye'    | Metal named after Pallas (Greece) |
 | Rhodium      | Rh     | ^                                          | Béésh chǫǫ bijoosye'     | Metal named after a rose (Greece) |
 | Ruthenium    | Ru     | \*                                         | Béésh Wootiiniya bijoosye' | Metal named after Ruthenia (Greece) |
 | Iridium      | Ir     | ^                                          | Béésh nááts'íílid        | Rainbow metal                |
