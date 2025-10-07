@@ -41,13 +41,13 @@ Primary URL for the repository: [OJB-Quantum/Navaho-Linguistics](https://github.
 
 ---
 
-### Quantum Mechanics Explained in Navaho by Onri
+### Brief Quantum Mechanics Introduction Explained in Navaho by Onri
 
 | **Navaho** | **English**  |
 |-|-|
 | Díí 'áʼádaatʼéhígíí náás góne'é t'áá kóníghánígo 'akwe'é 'ahóodziil doo bee 'atsiniltł'ish biyi' 'asdizígíí éídí 'í'neel'ąąh 'áádóó yidísin. T'áá bééhodoozįįł yił 'ałhii'níná’iidzóóh nida'ałkáá'ii' Schrödinger doo Pauli doo Dirac bits’ą́ą́dę́ę́ nihinááł. | In fundamental or elemental objects such as an atom, further within it, all at short intervals here, is energy that one can observe, and from there, measure it, as well as its electron spin [depending on which measurement tool is used]. It must be explained with [the language of] mathematics that we can see, derived by Professors Schrodinger, Pauli, and Dirac. | 
 
-### Navajo Braille Transcription of Quantum Mechanics (Unicode Braille Cells)
+### Navajo Braille Transcription of Quantum Mechanics Introduction (Unicode Braille Cells)
 
 ⠠⠙⠌⠌ ⠄⠷⠄⠷⠙⠁⠁⠞⠄⠮⠓⠌⠛⠌⠌ ⠝⠷⠷⠎ ⠛⠬⠝⠑⠄⠮ ⠞⠄⠷⠷ ⠅⠬⠝⠌⠛⠓⠷⠝⠌⠛⠕ ⠄⠁⠅⠺⠑⠄⠮ ⠄⠁⠓⠬⠕⠕⠙⠵⠊⠊⠇ ⠙⠕⠕ ⠃⠑⠑ ⠄⠁⠞⠎⠊⠝⠊⠇⠞⠹⠄⠊⠎⠓ ⠃⠊⠽⠊⠄ ⠄⠁⠎⠙⠊⠦⠛⠌⠌ ⠮⠌⠙⠌ ⠄⠌⠄⠝⠑⠑⠇⠄⠨⠁⠨⠁⠓ ⠄⠷⠷⠙⠬⠬ ⠽⠊⠙⠌⠎⠊⠝⠲ ⠠⠞⠄⠷⠷ ⠃⠮⠮⠓⠕⠙⠕⠕⠵⠔⠌⠌⠹ ⠽⠊⠹ ⠁⠹⠓⠊⠊⠄⠝⠌⠝⠷⠄⠊⠊⠙⠵⠬⠬⠓ ⠝⠊⠙⠁⠄⠁⠹⠅⠷⠷⠄⠊⠊⠄ ⠠⠎⠉⠓⠗⠘⠒⠕⠙⠊⠝⠛⠑⠗ ⠙⠕⠕ ⠠⠏⠁⠥⠇⠊ ⠙⠕⠕ ⠠⠙⠊⠗⠁⠉ ⠃⠊⠞⠎⠄⠨⠁⠨⠁⠙⠨⠑⠨⠑ ⠝⠊⠓⠊⠝⠷⠷⠹⠲
 
