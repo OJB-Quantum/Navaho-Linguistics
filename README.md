@@ -47,13 +47,13 @@ Primary URL for the repository: [OJB-Quantum/Navaho-Linguistics](https://github.
 |-|-|
 | Díí 'áʼádaatʼéhígíí náás góne'é t'áá kóníghánígo 'akwe'é 'ahóodziil doo bee 'atsiniltł'ish biyi' 'asdizígíí éídí 'í'neel'ąąh 'áádóó yidísin. T'áá bééhodoozįįł yił 'ałhii'níná’iidzóóh nida'ałkáá'ii' Schrödinger doo Pauli doo Dirac bits’ą́ą́dę́ę́ nihinááł. | In fundamental or elemental objects such as an atom, further within it, all at short intervals here, is energy that one can observe, and from there, measure it, as well as its electron spin [depending on which measurement tool is used]. It must be explained with [the language of] mathematics that we can see, derived by Professors Schrodinger, Pauli, and Dirac. | 
 
-# Navajo Braille Transcription of Quantum Mechanics (Unicode Braille Cells)
+### Navajo Braille Transcription of Quantum Mechanics (Unicode Braille Cells)
 
 ⠠⠙⠌⠌ ⠄⠷⠄⠷⠙⠁⠁⠞⠄⠮⠓⠌⠛⠌⠌ ⠝⠷⠷⠎ ⠛⠬⠝⠑⠄⠮ ⠞⠄⠷⠷ ⠅⠬⠝⠌⠛⠓⠷⠝⠌⠛⠕ ⠄⠁⠅⠺⠑⠄⠮ ⠄⠁⠓⠬⠕⠕⠙⠵⠊⠊⠇ ⠙⠕⠕ ⠃⠑⠑ ⠄⠁⠞⠎⠊⠝⠊⠇⠞⠹⠄⠊⠎⠓ ⠃⠊⠽⠊⠄ ⠄⠁⠎⠙⠊⠦⠛⠌⠌ ⠮⠌⠙⠌ ⠄⠌⠄⠝⠑⠑⠇⠄⠨⠁⠨⠁⠓ ⠄⠷⠷⠙⠬⠬ ⠽⠊⠙⠌⠎⠊⠝⠲ ⠠⠞⠄⠷⠷ ⠃⠮⠮⠓⠕⠙⠕⠕⠵⠔⠌⠌⠹ ⠽⠊⠹ ⠁⠹⠓⠊⠊⠄⠝⠌⠝⠷⠄⠊⠊⠙⠵⠬⠬⠓ ⠝⠊⠙⠁⠄⠁⠹⠅⠷⠷⠄⠊⠊⠄ ⠠⠎⠉⠓⠗⠘⠒⠕⠙⠊⠝⠛⠑⠗ ⠙⠕⠕ ⠠⠏⠁⠥⠇⠊ ⠙⠕⠕ ⠠⠙⠊⠗⠁⠉ ⠃⠊⠞⠎⠄⠨⠁⠨⠁⠙⠨⠑⠨⠑ ⠝⠊⠓⠊⠝⠷⠷⠹⠲
 
 ---
 
-## How this was encoded
+#### How this was encoded
 
 * High-tone vowels are single cells: **á** ⟶ ⠷ (dots-12356), **é** ⟶ ⠮ (dots-2346), **í** ⟶ ⠌ (dots-34), **ó** ⟶ ⠬ (dots-346). 
 * Nasal vowels prefix **dots-46** before the vowel; for example **ą** ⟶ ⠨⠁, **ę** ⟶ ⠨⠑. High-tone nasal vowels use dots-46 + the high-tone vowel cell (e.g., **ą́** ⟶ ⠨⠷, **ę́** ⟶ ⠨⠮). 
