@@ -45,7 +45,7 @@ Primary URL for the repository: [OJB-Quantum/Navaho-Linguistics](https://github.
 
 | **Navaho** | **English**  |
 |-|-|
-| Díí atsiniltł'ish biyi' 'asdizí náás góne'é t'áá kóníghánígo 'akwe'é 'ahóodziil éídígii yidísin. T'áá bééhodoozįįł yił ałhii'níná’iidzóóh nida'ałkáá'i' Schrödinger bits’ą́ą́dę́ę́ nihinááł. | In the spin of electrons, further within it, at every interval here, is energy that one observes or can observe. It must be explained with [the language of] mathematics that we can see, derived by Professor Schrodinger. |
+| Díí áʼádaatʼéhígíí náás góne'é t'áá kóníghánígo 'akwe'é 'ahóodziil doo bee atsiniltł'ish biyi' 'asdizígíí éídí 'í'neel'ąąh 'áádóó yidísin. T'áá bééhodoozįįł yił ałhii'níná’iidzóóh nida'ałkáá'i' Schrödinger bits’ą́ą́dę́ę́ nihinááł. | In a fundamental or elemental object such as an atom, further within it, at every interval here, is energy that one can observe and from there measure . It must be explained with [the language of] mathematics that we can see, derived by Professor Schrodinger. |
 
 ---
 
