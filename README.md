@@ -294,8 +294,8 @@ Primary URL for the repository: [OJB-Quantum/Navaho-Linguistics](https://github.
 | Rust                            | ńdiniichxii'                         | Became red (generally used to describe rust or oxidation) |
 | Copper (Cu)                     | Béésh łichíí' or béésh łichíí'ii     | Red metal                                    |
 | Iron (Fe)                       | Béésh dootł'izh                      | Blue metal                                   |
-| Steel (Fe–C Alloy)              | Béésh nitł'izígíí                    | Hard or inflexible metal                     |
-| Stainless Steel                 | Béésh nitł'izígíí doo ńdiniichxíihii | Hard or inflexible metal that does not rust or oxidize  |
+| Steel (Fe–C Alloy)              | Béésh nitł'izígíí                    | Particular hard or inflexible metal          |
+| Stainless Steel                 | Béésh nitł'izígíí doo ńdiniichxíihii | Particular hard or inflexible metal that does not rust or oxidize  |
 | Gold (Au)                       | 'óola                                | Gold                                         |
 | Silver (Ag)                     | Béésh łigaii                         | White metal                                  |
 | Chromium (Cr)                   | Béésh łibáhí bitsa'dinidiin          | Gray metal that shines                       |
