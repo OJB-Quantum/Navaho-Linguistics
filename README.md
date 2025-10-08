@@ -130,6 +130,16 @@ Primary URL for the repository: [OJB-Quantum/Navaho-Linguistics](https://github.
 
 • Digits use the numeric indicator ⠼ before the first digit when needed for clarity.
 
+### Printing Setup for the Navajo Braille & Supplementary Nemeth Braille 
+
+<img width="3839" height="auto" alt="image" src="https://github.com/user-attachments/assets/6252a41e-ef3d-405a-83fd-d8aeaf8f1dfd" />
+
+<img width="3839" height="auto" alt="image" src="https://github.com/user-attachments/assets/b810139c-4793-402b-94e1-d28b2dba233c" />
+
+<img width="3839" height="auto" alt="image" src="https://github.com/user-attachments/assets/f5c7f864-a2c9-4ece-829b-1c58d0c2ac43" />
+
+
+
 ---
 
 ### Cryogenic Dilution Refrigerator Measurement System in Navaho by Onri
