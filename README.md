@@ -156,7 +156,7 @@ Primary URL for the repository: [OJB-Quantum/Navaho-Linguistics](https://github.
 | Initial Idea       | Some Word        | Nv = Eng                                                    |
 |                    |                  | Nv = Eng                                                    |
 |                    |                  | Nv = Eng                                                    |
-| Final Version      | Final Word       | Navaho Term Spelled = [Rough Transcription]                 |
+| Final Version      | [Rough Transcription] <> Final Word | Navaho Term Spelled                      |
 
 *Generic blueprint for language breakdown from English to Navaho.*
 
@@ -169,7 +169,7 @@ Primary URL for the repository: [OJB-Quantum/Navaho-Linguistics](https://github.
 | Initial Idea       | Computer         | Béésh = Metal                                               |
 |                    |                  | Łichííʼ = Red                                               |
 |                    |                  | Nitsékees = Think                                           |
-| Final Version      | Computer         | Béésh Łichííʼ Nitsékeesí = [A piece of copper that thinks]  |
+| Final Version      | [A piece of] copper that thinks <br> (computer) | Béésh Łichííʼ Nitsékeesí     |
 
 *Representation of 'computer' in Navaho.*
 
@@ -190,6 +190,40 @@ Primary URL for the repository: [OJB-Quantum/Navaho-Linguistics](https://github.
 |                  | Slow or in vain                               | chʼééh                                                        |
 |                  | Fast runner (quick)                           | dilwoʼ                                                        |
 | Final Outcome    | The quick brown fox jumped over the lazy dog  | maʼii dibéłchíʼí dilwoʼ eii léechąąʼí biłhóyéé' dahnáníjįįh   |
+
+
+|                  | **English**                                   | **Navaho**                                                    |
+|------------------|-----------------------------------------------|---------------------------------------------------------------|
+|                  | electricity or electrical                     | 'atsiniltł'ish                                                |
+|                  | strength or to be strong                      | dziil                                                         |
+|                  | his strength or he is strong                  | hadziil                                                       |
+|                  | energy or his strength                        | bidziil                                                       |
+|                  | it flows. You are                             | ńlį́                                                           |
+|                  | a particular one that is                      | -ígíí                                                         |
+|                  | that which flows                              | ńlínígíí                                                      |
+| Final Outcome    | Strength of electrical [charge] flow. <br> (Electrical [charge] current). | 'atsiniltł'ish bidziil ńlínígíí       |
+
+
+|                  | **English**                                   | **Navaho**                                                    |
+|------------------|-----------------------------------------------|---------------------------------------------------------------|
+|                  | electricity or electrical                     | 'atsiniltł'ish                                                |
+|                  | by means of it, by means of, or with          | bee-                                                          |
+|                  | strength or to be strong                      | dziil                                                         |
+|                  | energy or his strength                        | bidziil                                                       |
+|                  | it flows. You are                             | ńlį́                                                           |
+|                  | a particular one that is                      | -ígíí                                                         |
+|                  | that which flows                              | ńlínígíí                                                      |
+|                  | very, extremely, really                       | t'áá 'íiyisíí                                                 |
+|                  | 'atsiniltł'ish bidziil ńlínígíí               | [electrical charge] current                                   |
+| Final Outcome    | By which the strength of the electrical charge current [can] extremely flow. <br> (Superconductor). | bee 'atsiniltł'ish bidziil ńlínígíí t'áá 'íiyisíí dabidziil |
+
+
+|                  | **English**                                   | **Navaho**                                                    |
+|------------------|-----------------------------------------------|---------------------------------------------------------------|
+|                  | By means of it, by means of, or with          | bee-                                                          |
+|                  | Cold                                          | sik'az                                                        |
+|                  | Coldness. Chill. Frigidity.                   | hakʼaz                                                        | 
+|                  | By which [something] is [made] cold. <br> (Refrigerator). | bee 'azk'azi                                             |
 
 ---
 
@@ -317,6 +351,8 @@ Primary URL for the repository: [OJB-Quantum/Navaho-Linguistics](https://github.
 | Bee níl'íní | By means of the one that is used to see by you. Viewing instrument or tool |
 | 'í'neel'ąąh | Measurement |
 | 'í'níłdzil | Resistance or endurance | 
+| Hodéezyéél | Noiseless |
+| 'Anáhoolzhishgo | time having completed a cycle back to a point |
 | Báshíshchíín | I am born for him |
 | 'Ánéełt'e' | Number |
 | 'Ánéełt'e'ígíí | That is the particular amount or that is the particular number |
@@ -349,7 +385,7 @@ Primary URL for the repository: [OJB-Quantum/Navaho-Linguistics](https://github.
 | Hoozkʼaz | Place or region that is cold (such as an ice box) |
 | Naʼalkid | Temperature or time (depending on context) |
 | Dįį' bich'į'go naʼalkid Kelvin da'azjah | 4 degrees Kelvin |
-| Bee 'azk'azi | Refrigerator |
+| Bee 'azk'azi | Refrigerator. By which [something] is made or kept cold |
 | T'áádoole'é nabíhonitaah | Experiment |
 | T'áádoole'é nabíhonitaah bee 'azk'azi | Refrigerator for experiment |
 | 'Ayóo/ 'Ayóó | Very. Extremely |
