@@ -367,9 +367,12 @@ Primary URL for the repository: [OJB-Quantum/Navaho-Linguistics](https://github.
 | Bénínáá'deetą́ | Invented. Discovered. Found. Originated |
 | Bénínáá'deetánígíí | That which was invented or discovered |
 | 'Ániidí | New |
-| Béésh 'ayóo 'áłtsózí | Extremely small metal |
+| Béésh 'ayóo 'áłtsózí | Extremely small metal | 
 | Béésh 'áłtsózí | Wire |
 | Bitsiniltł'ish ádin | Neutron (no charge) |
+| 'atsiniltł'ish bidziil ńlínígíí | [electrical] current |
+| 'atsiniltł'ish bidziil ńlínígíí t'áá 'íiyisíí dabidziil or 'atsiniltł'ish bidziil 'ayóo dabidziil ńlínígíí | [Electrical] super current |
+| Béésh bee 'atsiniltł'ish bidziil ńlínígíí t'áá 'íiyisíí dabidziil or béésh bee 'atsiniltł'ish bidziil 'ayóo dabidziil ńlínígíí | Super conductor |
 | Bee ídaʼneelʼąąhí | Tape measure. Something to measure by |
 | Bee 'ahída'diiljeehí | Glue or solder. Something by which things can stick together |
 | Íʼneelʼąąh | Measurement or magnitude determined by measuring |
