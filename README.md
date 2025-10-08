@@ -191,6 +191,7 @@ Primary URL for the repository: [OJB-Quantum/Navaho-Linguistics](https://github.
 |                  | Fast runner (quick)                           | dilwoʼ                                                        |
 | Final Outcome    | The quick brown fox jumped over the lazy dog  | maʼii dibéłchíʼí dilwoʼ eii léechąąʼí biłhóyéé' dahnáníjįįh   |
 
+***
 
 |                  | **English**                                   | **Navaho**                                                    |
 |------------------|-----------------------------------------------|---------------------------------------------------------------|
@@ -203,6 +204,7 @@ Primary URL for the repository: [OJB-Quantum/Navaho-Linguistics](https://github.
 |                  | that which flows                              | ńlínígíí                                                      |
 | Final Outcome    | Strength of electrical [charge] flow. <br> (Electrical [charge] current). | 'atsiniltł'ish bidziil ńlínígíí       |
 
+***
 
 |                  | **English**                                   | **Navaho**                                                    |
 |------------------|-----------------------------------------------|---------------------------------------------------------------|
@@ -217,13 +219,14 @@ Primary URL for the repository: [OJB-Quantum/Navaho-Linguistics](https://github.
 |                  | 'atsiniltł'ish bidziil ńlínígíí               | [electrical charge] current                                   |
 | Final Outcome    | By which the strength of the electrical charge current [can] extremely flow. <br> (Superconductor). | bee 'atsiniltł'ish bidziil ńlínígíí t'áá 'íiyisíí dabidziil |
 
+***
 
 |                  | **English**                                   | **Navaho**                                                    |
 |------------------|-----------------------------------------------|---------------------------------------------------------------|
 |                  | By means of it, by means of, or with          | bee-                                                          |
 |                  | Cold                                          | sik'az                                                        |
 |                  | Coldness. Chill. Frigidity.                   | hakʼaz                                                        | 
-|                  | By which [something] is [made] cold. <br> (Refrigerator). | bee 'azk'azi                                             |
+|                  | By which [something] is [made] cold. <br> (Refrigerator). | bee 'azk'azi                                      |
 
 ---
 
