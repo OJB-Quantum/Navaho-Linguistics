@@ -341,11 +341,29 @@ Primary URL for the repository: [OJB-Quantum/Navaho-Linguistics](https://github.
 | -di | Times (scaled up/ down by) or at |
 | -gi | At |
 | -ígíí | A particular one that is |
-| -ii | Similar to -er in English. A person or thing that does an action indicated by the root verb. Similar to -er in English. A person or thing that does an action indicated by the root verb. That which is of <adjective> quality. That which <verb(s)>. |
+| -ii | Similar to -er in English. A person or thing that does an action indicated by the root verb. Similar to -er in English. A person or thing that does an action indicated by the root verb. That which is of <adjective> quality. That which <verb(s)>. Of which |
 | -í | The one that or the one who. | 
 | Bee- | By means of it, by means of, or with |
+| -jígo | In the direction or on the side of it |
+| -jigo | Toward |
 | T'áá | Just, quite, only, kind of, or sort of |
 | T'óó | Quite, just, merely, just for fun |
+| Dóó | And |
+| Yik'ee | Because. On account of |
+| Bilááhgóó | Over or beyond it |
+| Biláahgo | Because there was an excess of it |
+| Bilááh | Beyond it |
+| Yikáá'góó | Above it |
+| Haká'ígíí | On the top |
+| Hayaaígíí | On the bottom |
+| Bichą | Barrier | 
+| Bideiijígo | Above it or upper distant side of it |
+| Biyaiijígo | Below it or beneath it |
+| Bi'oh | Less than it |
+| Bi'oh neel'ą́ | Insufficient for them or too little for it  |
+| 'Atsoo' | Tongue |
+| K'aa' | Arrow | 
+| Shá bitł'óól | Sun beam or sun rays |
 | Nahalin | Looks like or seems |
 | Nahalingo | Resembles. While looking alike |
 | Bee na'anishí | By means of the one is used to work. Tool or instrument or apparatus |
@@ -355,7 +373,9 @@ Primary URL for the repository: [OJB-Quantum/Navaho-Linguistics](https://github.
 | 'í'neel'ąąh | Measurement |
 | 'í'níłdzil | Resistance or endurance | 
 | Hodéezyéél | Noiseless |
-| 'Anáhoolzhishgo | time having completed a cycle back to a point |
+| Wóyah | Low |
+| Wóyahgo na''alkid | Low temperature |
+| 'Anáhoolzhishgo | Time having completed a cycle back to a point |
 | Báshíshchíín | I am born for him |
 | 'Ánéełt'e' | Number |
 | 'Ánéełt'e'ígíí | That is the particular amount or that is the particular number |
@@ -386,6 +406,10 @@ Primary URL for the repository: [OJB-Quantum/Navaho-Linguistics](https://github.
 | Sik'az | Cold |
 | Hakʼaz | Coldness. Chill. Frigidity |
 | Hoozkʼaz | Place or region that is cold (such as an ice box) |
+| Sido | It is hot or it is warm | 
+| Siil | Steam or vapor |
+| Siil bitoo' | Distilled water |
+| Bitoo' | It's juice |
 | Naʼalkid | Temperature or time (depending on context) |
 | Dįį' bich'į'go naʼalkid Kelvin da'azjah | 4 degrees Kelvin |
 | Bee 'azk'azi | Refrigerator. By which [something] is made or kept cold |
@@ -394,29 +418,67 @@ Primary URL for the repository: [OJB-Quantum/Navaho-Linguistics](https://github.
 | 'Ayóo/ 'Ayóó | Very. Extremely |
 | 'Ayóogo | Really |
 | 'Agháadi | Extreme |
+| 'Agháadi yá'át'ééh | Excellent | 
+| 'Agháadi yá'át'ééhígíí | Best |
+| 'Aghá | Best, utmost |
 | Yilááh/ Bilááh/ Alááh | Beyond |
 | 'Ayóí | Very. Exceedingly. Remarkably (can be used at the end of a term) |
 | 'Ayóígo | Very. Exceedingly. Remarkably |
 | 'Á'ádaatʼéhígíí | Fundamental. Elements |
+| 'áhóót'įįdii | Occurence |
+| 'Adiits'a' | To hear or to make sounds |
+| Diists'a' | Hear. Listen. Making sounds | 
+| Doo deiidiits'a' da | They do not understand it (as a language). They cannot hear it. They have not heard of it | 
+| Doo ndiists'a' da | I cannot hear you. I cannot understand your language |
+| 'Adiits'a'í | One who hears. Interpreter | 
+| Hodéezyéél | Noiseless |
 | Naas konadazaa | It increased again | 
+| Nich'i | Breeze or current of air |
+| Nílį́ | it flows (as a river). You are |
+| Nił | With you |
+| ńlį́ | It flows. You are |
+| ńlínígíí | That which flows |
+| nil- or nl- | Like an idea related to a vector field |
+| Yilk'oołígíí | Wave | 
+| Yilk'ooł | Wave ripples | 
+| 'Adinídíín | Light |
+| Dínéest'ą́ | It started to grow |
 | Jiłąąh | to increase | 
-| Ndaalnishii | Workers |
+| Bee 'adiits'a'i | By which [something] can be heard or interpreted |
+| Béésh bibee 'adiits'a'i bee jiłąąhígíí | By which the interpreter for the metal or piece of metal is increased. [Electronic] amplifier | 
+| Naalnish | Work or he is working |
+| Naalnishii | Of which works |
+| Ndaalnishii | Workers | 
 | Ndaalnishígíí | Worker or employee. Those that work |
 | Béé'deetą́ | Knowledge was obtained, learned, or acquired |
 | Bénínáá'deetą́ | Invented. Discovered. Found. Originated |
 | Bénínáá'deetánígíí | That which was invented or discovered |
-| 'Ániidí | New |
+| Bighá | Through it |
+| 'ániidí | New | 
+| Nayiisnii’ | To obtain or buy something (verify), used in |
 | Béésh 'ayóo 'áłtsózí | Extremely small metal | 
+| T'áá 'ałtso | All of it or all of them |
+| T'áá 'áłts'íísígo | Just a small piece | 
 | Béésh 'áłtsózí | Wire |
+| Béésh sitán'ígíí | Metal plate |
+| Sitán'ígíí | That which lies (stiff, slender object) |
+| Dibahí | Powder | 
+| Béésh ligaii dibahí | Silver powder |
+| Béésh ligaii dibahí biyi'di | Silver powder inside of it |
+| Tó hayiiłt'oodí | Water pump | 
+| <Navaho term> hayiiłt'oodí | <insert term> pump |
 | Bitsiniltł'ish ádin | Neutron (no charge) |
-| 'atsiniltł'ish bidziil ńlínígíí | [electrical] current |
+| Béésh łichíí'ii bee naalnishii | By which [something] works using red metal. Electric | 
+| 'atsiniltł'ish bidziil ńlínígíí | [Electrical] current |
+| Bee da'diltłi'ígíí | By which lights are lit in particular. Electricity |
 | 'atsiniltł'ish bidziil ńlínígíí t'áá 'íiyisíí dabidziil or 'atsiniltł'ish bidziil 'ayóo dabidziil ńlínígíí | [Electrical] super current |
-| Béésh bee 'atsiniltł'ish bidziil ńlínígíí t'áá 'íiyisíí dabidziil or béésh bee 'atsiniltł'ish bidziil 'ayóo dabidziil ńlínígíí | Super conductor |
+| Bee 'atsiniltł'ish bidziil ńlínígíí t'áá 'íiyisíí dabidziil or bee 'atsiniltł'ish bidziil 'ayóo dabidziil ńlínígíí | Superconductor |
+| Béésh bee 'atsiniltł'ish bidziil ńlínígíí t'áá 'íiyisíí dabidziil | Superconducting metal |
 | Bee ídaʼneelʼąąhí | Tape measure. Something to measure by |
 | Bee 'ahída'diiljeehí | Glue or solder. Something by which things can stick together |
 | Íʼneelʼąąh | Measurement or magnitude determined by measuring |
-| 'Áníłtso | Size of or as big as |
-| 'Á'ádaatʼéhígíí bi bee 'ahída'diiljeehí | Glue by which elements can stick together |
+| 'áníłtso | Size of or as big as |
+| 'á'ádaatʼéhígíí bi bee 'ahída'diiljeehí | Glue by which elements can stick together |
 
 ---
 
