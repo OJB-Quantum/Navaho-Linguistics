@@ -169,7 +169,7 @@ Primary URL for the repository: [OJB-Quantum/Navaho-Linguistics](https://github.
 | Initial Idea       | Computer         | Béésh = Metal                                               |
 |                    |                  | Łichííʼ = Red                                               |
 |                    |                  | Nitsékees = Think                                           |
-| Final Version      | [A piece of] copper that thinks <br> (computer) | Béésh Łichííʼ Nitsékeesí     |
+| Final Version      | [A piece of] copper that thinks. <br> ( [Electronic] Computer). | Béésh Łichííʼ Nitsékeesí     |
 
 *Representation of 'computer' in Navaho.*
 
