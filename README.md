@@ -158,7 +158,7 @@ Primary URL for the repository: [OJB-Quantum/Navaho-Linguistics](https://github.
 |                    |                  | Nv = Eng                                                    |
 | Final Version      | [Rough Transcription] <> Final Word | Navaho Term Spelled                      |
 
-*Generic blueprint for language breakdown from English to Navaho.*
+*Generic blueprint for language breakdown from Navaho to English and vice-versa.*
 
 ---
 
