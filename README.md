@@ -202,7 +202,7 @@ Primary URL for the repository: [OJB-Quantum/Navaho-Linguistics](https://github.
 |                  | it flows. You are                             | ńlį́                                                           |
 |                  | a particular one that is                      | -ígíí                                                         |
 |                  | that which flows                              | ńlínígíí                                                      |
-| Final Outcome    | Strength of electrical [charge] flow. <br> (Electrical [charge] current). | 'atsiniltł'ish bidziil ńlínígíí       |
+| Final Outcome    | Strength of electrical [charge] flow. <br> (Electrical [charge] current). | 'atsiniltł'ish bidziil ńlínígíí   |
 
 ***
 
