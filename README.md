@@ -451,7 +451,7 @@ Primary URL for the repository: [OJB-Quantum/Navaho-Linguistics](https://github.
 | 'ákwii | Thereabout, in some general area |
 | 'ákwíí bits’ą́ą́dę́ę́ | Offspring or derivative of an amount (potential new term by Onri) |
 | T'áá 'ákwíí | Every or each one in the same amount |
-| T'áá 'áhą́ą́ | Simultaneously. Frequently. Often |
+| T'áá 'áhą́ą́ | Simultaneously. Frequently. Often. At the same time |
 | T'áá 'áhą́ą́dígo | Close together |
 | 'áháádzogo | It is divided |
 | 'aha'ádzaago | Since or when. They come together | 
