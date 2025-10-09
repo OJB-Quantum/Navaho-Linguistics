@@ -480,7 +480,7 @@ Primary URL for the repository: [OJB-Quantum/Navaho-Linguistics](https://github.
 | nil- or nl- | Like an idea related to a vector field |
 | Yilk'oołígíí | Wave | 
 | Yilk'ooł | Wave ripples | 
-| Yilk'oołígíí nahalin bee neestł'ah | Wave-like interference |
+| Yilk'oołígíí nahalingo bee neestł'ah | Wave-like interference |
 | 'Adinídíín | Light |
 | Dínéest'ą́ | It started to grow |
 | Jiłąąh | to increase | 
@@ -504,6 +504,7 @@ Primary URL for the repository: [OJB-Quantum/Navaho-Linguistics](https://github.
 | Béésh 'áłtsózí | Wire |
 | Lashdóón | Ribbon |
 | Béésh lashdóón | Metal ribbon |
+| Béésh náhineests'ee'ígíí | Metal coil |
 | Béésh sitán'ígíí | Metal plate |
 | Béésh łichíí sitán'ígíí eidíígíí sik'az | Red metal that which lies [and] is cold. Copper cold plate(s) |
 | Sitán'ígíí | That which lies (stiff, slender object) |
