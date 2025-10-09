@@ -397,6 +397,10 @@ Primary URL for the repository: [OJB-Quantum/Navaho-Linguistics](https://github.
 | Biyaiijígo | Below it or beneath it |
 | Bi'oh | Less than it |
 | Bi'oh neel'ą́ | Insufficient for them or too little for it  |
+| Ditą́ | It is deep (as water). It is thick | 
+| Dit'in | Dense. Close together (as leaves on a tree) |
+| Ditsid | Tough. Sinewy |
+| Daditą́ | They are thick. They are deep |
 | T'áágééd | Without |
 | T'áadoo | Do not. Did not. Without |
 | T'áadoo 'ádíníní | Do not say that. Stop talking. Hush. Be quiet | 
