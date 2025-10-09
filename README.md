@@ -395,6 +395,7 @@ Primary URL for the repository: [OJB-Quantum/Navaho-Linguistics](https://github.
 | T'áá kóníghánígo | At every interval |
 | T'áá 'áłts'íísígo | Small piece |
 | T'áá 'áłch'į́į́dígo | Just a little bit. Just a few |
+| T'áá bíyó | A little bit. Mildly. Slightly. Kind of |
 | Yidísin | He/ she/ one observes |
 | Nánísh'įįh | To look at it. I am watching it |
 | Haalzííd | It is being watched |
@@ -426,7 +427,10 @@ Primary URL for the repository: [OJB-Quantum/Navaho-Linguistics](https://github.
 | 'Ayóígo | Very. Exceedingly. Remarkably |
 | 'Á'ádaatʼéhígíí | Fundamental. Elements |
 | 'áhóót'įįdii | Occurence |
+| Bizaad | His language. His words |
+| Bizaadji | In his lanuage. According to his language |
 | 'Adiits'a' | To hear or to make sounds |
+| Bizaad k'ehgo | At his word. At his command. His orders |
 | Diists'a' | Hear. Listen. Making sounds | 
 | Doo deiidiits'a' da | They do not understand it (as a language). They cannot hear it. They have not heard of it | 
 | Doo ndiists'a' da | I cannot hear you. I cannot understand your language |
@@ -457,7 +461,8 @@ Primary URL for the repository: [OJB-Quantum/Navaho-Linguistics](https://github.
 | 'ániidí | New | 
 | Nayiisnii’ | To obtain or buy something (verify), used in |
 | Béésh 'ayóo 'áłtsózí | Extremely small metal | 
-| T'áá 'ałtso | All of it or all of them |
+| T'áá 'ałtso | All of it or all of them | 
+| T'áá boholniihgi | Anytime. Any place. Any day |
 | T'áá 'áłts'íísígo | Just a small piece | 
 | Béésh 'áłtsózí | Wire |
 | Béésh sitán'ígíí | Metal plate |
@@ -479,6 +484,11 @@ Primary URL for the repository: [OJB-Quantum/Navaho-Linguistics](https://github.
 | Íʼneelʼąąh | Measurement or magnitude determined by measuring |
 | 'áníłtso | Size of or as big as |
 | 'á'ádaatʼéhígíí bi bee 'ahída'diiljeehí | Glue by which elements can stick together |
+| Bits'áda'deezdíín | Gleaming. Shining. Throwing off light |
+| Bits'áda'deezdíingo | They are sparkling. They are shining. They are glittering |
+| Bits'áda'di'nídíín | To shine [light or similar] |
+| Bits'áda'di'nílííd | Glittering. Bright. Shiny |
+|  |  |
 
 ---
 
@@ -681,6 +691,14 @@ legend:  *  superconducts at ≈ 0 GPa (ambient)          ^  superconducts only 
 
 ---
 
+### Partial Electromagnetic Spectrum in Navaho
+
+| English Term                    | Navaho Term                          | Literal Meaning                              |
+| ------------------------------- | ------------------------------------ | -------------------------------------------- |
+|  |  |  |
+
+
+---
 
 | The Initial, General Plans for This Repository Based on Onri's Prelimary Contributions: |
 |-|
