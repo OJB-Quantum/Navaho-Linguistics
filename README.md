@@ -151,11 +151,11 @@ Primary URL for the repository: [OJB-Quantum/Navaho-Linguistics](https://github.
 
 ### Linguistic Idea Table Aimed Toward Translation Use
 
-| **Stage**         | **English Term** | **Navaho Term**                                              |
+| **Stage**         | **English Term** | **Navaho Term**                                              | 
 |--------------------|------------------|-------------------------------------------------------------|
-| Initial Idea       | Some Word        | Nv = Eng                                                    |
-|                    |                  | Nv = Eng                                                    |
-|                    |                  | Nv = Eng                                                    |
+| Initial Idea       | Some Word  (Eng) | Nv                                                          |
+|                    | Eng              | Nv                                                          |
+|                    | Eng              | Nv                                                          |
 | Final Version      | [Rough Transcription] <> Final Word | Navaho Term Spelled                      |
 
 *Generic blueprint for language breakdown from Navaho to English and vice-versa.*
@@ -164,12 +164,12 @@ Primary URL for the repository: [OJB-Quantum/Navaho-Linguistics](https://github.
 
 ### From Idea to Practice...
 
-| **Stage**         | **English Term** | **Navaho Term**                                              |
+| **Stage**          | **English Term** | **Navaho Term**                                             |
 |--------------------|------------------|-------------------------------------------------------------|
-| Initial Idea       | Computer         | Béésh = Metal                                               |
-|                    |                  | Łichííʼ = Red                                               |
-|                    |                  | Nitsékees = Think                                           |
-| Final Version      | [A piece of] copper that thinks. <br> ( [Electronic] Computer). | Béésh Łichííʼ Nitsékeesí     |
+|                    | metal            | béésh                                                       |
+|                    | red              | łichííʼ                                                     |
+|                    | think            | nitsékees                                                   |
+| Final Version      | [A piece of] copper that thinks. <br> ( [Electronic] Computer). | béésh łichííʼ nitsékeesí | 
 
 *Representation of 'computer' in Navaho.*
 
@@ -221,12 +221,32 @@ Primary URL for the repository: [OJB-Quantum/Navaho-Linguistics](https://github.
 
 ***
 
+| **Stage**          | **English Term** | **Navaho Term**                                             |
+|--------------------|------------------|-------------------------------------------------------------|
+|                    | metal            | béésh                                                       |
+|                    | truly            | tʼáá 'aníí                                                  |
+|                    | think            | nitsékees                                                   |
+|                    | fundamental or elements | 'á'ádaatʼéhígíí                                      |
+| Final Version      | Metal or piece of metal that thinks at a truly fundamental level <br> (Quantum Computer). | béésh tʼáá 'aníí 'á'ádaatʼéhígíí nitsékeesí |
+
+***
+
 |                  | **English**                                   | **Navaho**                                                    |
 |------------------|-----------------------------------------------|---------------------------------------------------------------|
 |                  | By means of it, by means of, or with          | bee-                                                          |
 |                  | Cold                                          | sik'az                                                        |
 |                  | Coldness. Chill. Frigidity.                   | hakʼaz                                                        | 
 | Final Outcome    | By which [something] is [made] cold. <br> (Refrigerator). | bee 'azk'azi                                      |
+
+***
+
+|                  | **English**                                   | **Navaho**                                                    |
+|------------------|-----------------------------------------------|---------------------------------------------------------------|
+|                  | by means of it, by means of, or with          | bee-                                                          |
+|                  | cold                                          | sik'az                                                        |
+|                  | coldness, chill, or frigidity                 | hak'az                                                        |
+|                  | experiment                                    | t'áádoole'é nabíhonitaah                                              |
+| Final Outcome    | By which is made cold for experiment <br> (Measurement refrigerator or cryostat). |  t'áádoole'é nabíhonitaah bee 'azk'azi  
 
 ---
 
@@ -456,7 +476,14 @@ Primary URL for the repository: [OJB-Quantum/Navaho-Linguistics](https://github.
 | T'áádoole'é le'égóó | About anything. About something |  
 | T'áádoole'é łeeyi' dahólóonii | Mineral or mineral resources | 
 | T'áádoole'é nabíhonitaah | Experiment |
-| T'áádoole'é nabíhonitaah bee 'azk'azi | Refrigerator for experiment |
+| T'áádoole'é nabíhonitaah bee 'azk'azi | Refrigerator for experiment. Measurement refrigerator or experimental measurement refrigerator |
+| T’áádoole’é nabíhonitaah bee ‘azk’azi ni'góó sizínígíí | Refrigerator for experiment, the one standing on the floor. Floor standing experimental measurement fridge |
+| T’áádoole’é nabíhonitaah bee ‘azk’azi tsoh | Large refrigerator for experiment. Large experimental measurement refrigerator |
+| T’áádoole’é nabíhonitaah bee ‘azk’azi ni'góó sizínígíí t'áadoo bitoo' | Refrigerator for experiment, the one standing on the floor. Floor standing experimental measurement fridge. |
+| T’áádoole’é nabíhonitaah bee ‘azk’azi ni'góó sizínígíí bitoo' | Refrigerator for experiment, the one standing on the floor. Floor standing experimental measurement fridge. Dewar (large Thermos) |
+| Sizínígíí | The one who is standing |
+| T'óshjeeh | Water barrel. Can be used to describe barrel-shaped objects in general |
+| T'óshjeehtso | Big water barrel |
 | 'Ayóo/ 'Ayóó | Very. Extremely |
 | 'Ayóogo | Really |
 | 'Agháadi | Extreme |
@@ -478,6 +505,7 @@ Primary URL for the repository: [OJB-Quantum/Navaho-Linguistics](https://github.
 | Doo ndiists'a' da | I cannot hear you. I cannot understand your language |
 | 'Adiits'a'í | One who hears. Interpreter | 
 | Hodéezyéél | Noiseless |
+| Haszéé' | Noiseless | 
 | Naas konadazaa | It increased again | 
 | Nich'i | Breeze or current of air |
 | Nílį́ | it flows (as a river). You are |
@@ -521,6 +549,7 @@ Primary URL for the repository: [OJB-Quantum/Navaho-Linguistics](https://github.
 | Béésh náhineests'ee'ígíí | Metal coil |
 | Béésh sitán'ígíí | Metal plate |
 | Béésh łichíí sitán'ígíí eidíígíí sik'az | Red metal that which lies [and] is cold. Copper cold plate(s) |
+| Béésh ná'iiláahii | Magnet. Magnetic | 
 | Sitán'ígíí | That which lies (stiff, slender object) |
 | Dibahí | Powder | 
 | Béésh ligaii dibahí | Silver powder |
@@ -554,7 +583,6 @@ Primary URL for the repository: [OJB-Quantum/Navaho-Linguistics](https://github.
 | Bee bits'áníłdoi 'ałhaaígíí | By which heat is exchanged |
 | Yił nááhodoolnih | He will tell him again. He will relay the information to him | 
 | Doo beehaz'ą́ąda | It is forbidden | 
-| T'óshjeeh | Water barrel |
 | 'Adéest'į́į́' | Lookout or observation point |
 | Bee 'adéest'į́į́' | By which [one] can look out. Binocular or telescope |
 | Nihídadéét'i' | We have interest in it |
@@ -579,7 +607,7 @@ Primary URL for the repository: [OJB-Quantum/Navaho-Linguistics](https://github.
 | Silver (Ag)                     | Béésh łigaii                         | White metal                                  |
 | Chromium (Cr)                   | Béésh łibáhí bitsa'dinidiin          | Gray metal that shines                       |
 | Brass (Cu–Zn Alloy)             | Béésh łitsoii                        | Yellow metal                                 |
-| Bronze (Cu–Sn Alloy)            | Béésh dinishtsoii or béésh diniłtsoii | Dark yellow metal                            |
+| Bronze (Cu–Sn Alloy)            | Béésh dinishtsoii or béésh diniłtsoii | Dark yellow metal                           |
 | Solder (Sn–Pb or Pb-free alloy) | Béésh bee 'ahída'diiljeehí           | Metal glue                                   |
 
 
