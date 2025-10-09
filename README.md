@@ -350,9 +350,16 @@ Primary URL for the repository: [OJB-Quantum/Navaho-Linguistics](https://github.
 | Eii | That one there. That one. That (nearby) |
 | Eidí | That one near you |
 | Eidíígíí | That very one |
+| Díí | This. These |
+| Díidí | This one. These |
+| Díidíígíí | Particularly this one |
 | T'áá | Just, quite, only, kind of, or sort of |
 | T'óó | Quite, just, merely, just for fun |
 | Dóó | And |
+| Bii' | In. Within. Inside of it (same as biyi') |
+| Bíí' | Theirs. His |
+| Bíí'oh | What is left. What remains |
+| 'ádzaa | It happened. He did | 
 | Yik'ee | Because. On account of |
 | Bilááhgóó | Over or beyond it |
 | Biláahgo | Because there was an excess of it |
@@ -360,13 +367,20 @@ Primary URL for the repository: [OJB-Quantum/Navaho-Linguistics](https://github.
 | Yikáá'góó | Above it |
 | Haká'ígíí | On the top |
 | Hayaaígíí | On the bottom |
-| Bichą | Barrier | 
+| Bichą́ą́h | In his way. In front of it. Obstructing. Barrier |
+| Bichą́ą́h dahólǫ́ǫgo | Existing to prevent it. Obstructing. Hindering |
+| Bichą́ąhgi | In front of it |
+| Bichą́ąhji' | In place of it |
+| Bichą́ąhji' hazlį́į́' | It replaced it |
 | Bideiijígo | Above it or upper distant side of it |
 | Biyaiijígo | Below it or beneath it |
 | Bi'oh | Less than it |
 | Bi'oh neel'ą́ | Insufficient for them or too little for it  |
 | 'Atsoo' | Tongue |
 | K'aa' | Arrow | 
+| Bee 'a'nizhi | Tweezers | 
+| Bee 'áté | Due to it. Because of it |
+| Digiz | It is crooked |
 | Shá bitł'óól | Sun beam or sun rays |
 | Nahalin | Looks like or seems |
 | Nahalingo | Resembles. While looking alike |
@@ -374,28 +388,43 @@ Primary URL for the repository: [OJB-Quantum/Navaho-Linguistics](https://github.
 | Bee nda'onishígíí | By means of the one used for the work. Tool | 
 | Ch'osh doo yit'íinii bee níl'íní | By means of the one that is used to see by you on insects that cannot be seen. Viewing instrument for invisible bugs. Biological microscope |
 | Bee níl'íní | By means of the one that is used to see by you. Viewing instrument or tool |
+| Bee béédahodoozįįł | With which a study will be made. It will be observed to learn more about it |
+| Béé deetą́ | It was learned (by study). Knowledge was acquired | 
+| Béé dahózin | They are known |
+| Béé dahózinígíí | The ones that are known |
+| Nihił béé dahózinígíí | That which we know about. Those of us that know about it |
 | 'í'neel'ąąh | Measurement |
+| Deínóołta' | You study it. You read it |
+| Naalkaahgo | Tracking. Studying |
+| Ndeiłkaahígíí | Those who track it. Those who study it. Those who investigate it |
+| Di'į́dí | Fragile or brittle | 
+| Na'ólní | Expectation |
+| Bą́ą́h da'ílį́ | Cost or value |
 | 'í'níłdzil | Resistance or endurance | 
 | Hodéezyéél | Noiseless |
 | Wóyah | Low |
 | Wóyahgo na''alkid | Low temperature |
 | 'Anáhoolzhishgo | Time having completed a cycle back to a point |
 | Báshíshchíín | I am born for him |
-| 'Ánéełt'e' | Number |
-| 'Ánéełt'e'ígíí | That is the particular amount or that is the particular number |
-| 'Áłtsíísí | Is little |
-| 'Áłch'į́dí | Insufficient |
+| 'ánéełt'e' | Number |
+| 'ánéełt'e'ígíí | That is the particular amount or that is the particular number |
+| 'áłtsíísí | Is little |
+| 'áłch'į́dí | Insufficient |
 | T'áá 'áłch'ídígo | Just a little. Just a few |
 | T'áá 'átʼé | The whole thing. All of it |
 | Tʼóó 'ahayói | Quite a lot. Very many |
-| 'Áłch'į́į́dí | It is a small amount |
-| 'Áłch'į́į́dígo | A small amount. Just a little bit |
-| 'Ádin | There is nothing. Zero |
+| 'áłch'į́į́dí | It is a small amount |
+| 'áłch'į́į́dígo | A small amount. Just a little bit |
+| 'ádin | There is nothing. Zero |
 | Díkwíí? | How much is it or how many? |
-| 'Ákwíí | That many |
-| 'Ákwii | Thereabout, in some general area |
-| 'Ákwíí bits’ą́ą́dę́ę́ | Offspring or derivative of an amount (potential new term by Onri) |
+| 'ákwíí | That many |
+| 'ákwii | Thereabout, in some general area |
+| 'ákwíí bits’ą́ą́dę́ę́ | Offspring or derivative of an amount (potential new term by Onri) |
 | T'áá 'ákwíí | Every or each one in the same amount |
+| T'áá 'áhą́ą́ | Simultaneously. Frequently. Often |
+| T'áá 'áhą́ą́dígo | Close together |
+| 'áháádzogo | It is divided |
+| 'aha'ádzaago | Since or when. They come together | 
 | T'áá kóníghánígo | At every interval |
 | T'áá 'áłts'íísígo | Small piece |
 | T'áá 'áłch'į́į́dígo | Just a little bit. Just a few |
@@ -404,7 +433,7 @@ Primary URL for the repository: [OJB-Quantum/Navaho-Linguistics](https://github.
 | Nánísh'įįh | To look at it. I am watching it |
 | Haalzííd | It is being watched |
 | 'Áhoodzaago | When it happened |
-| 'Ánáhoot'įįh | It happens |
+| 'ánáhoot'įįh | It happens |
 | 'Ałts'á'ii'nííł | Division |
 | Dooleeł | It will be |
 | Bit'áahgi | Near it. Close to it |
@@ -431,8 +460,9 @@ Primary URL for the repository: [OJB-Quantum/Navaho-Linguistics](https://github.
 | 'Ayóígo | Very. Exceedingly. Remarkably |
 | 'Á'ádaatʼéhígíí | Fundamental. Elements |
 | 'áhóót'įįdii | Occurence |
+| Neestł'ah | Interfere with. Mitigated. Arrested |
 | Bizaad | His language. His words |
-| Bizaadji | In his lanuage. According to his language |
+| Bizaadji | In his language. According to his language |
 | 'Adiits'a' | To hear or to make sounds |
 | Bizaad k'ehgo | At his word. At his command. His orders |
 | Diists'a' | Hear. Listen. Making sounds | 
@@ -449,9 +479,11 @@ Primary URL for the repository: [OJB-Quantum/Navaho-Linguistics](https://github.
 | nil- or nl- | Like an idea related to a vector field |
 | Yilk'oołígíí | Wave | 
 | Yilk'ooł | Wave ripples | 
+| Yilk'oołígíí nahalin bee neestł'ah | Wave-like interference |
 | 'Adinídíín | Light |
 | Dínéest'ą́ | It started to grow |
 | Jiłąąh | to increase | 
+| Naas konadazaa | It increased again |
 | Bee 'adiits'a'i | By which [something] can be heard or interpreted |
 | Béésh bibee 'adiits'a'i bee jiłąąhígíí | By which the interpreter for the metal or piece of metal is increased. [Electronic] amplifier | 
 | Naalnish | Work or he is working |
@@ -481,9 +513,9 @@ Primary URL for the repository: [OJB-Quantum/Navaho-Linguistics](https://github.
 | <Navaho term> hayiiłt'oodí | <insert term> pump |
 | Bitsiniltł'ish ádin | Neutron (no charge) |
 | Béésh łichíí'ii bee naalnishii | By which [something] works using red metal. Electric | 
-| 'atsiniltł'ish bidziil ńlínígíí | [Electrical] current |
+| 'atsiniltł'ish bidziil ńlínígíí | [Electrical charge] current |
 | Bee da'diltłi'ígíí | By which lights are lit in particular. Electricity |
-| 'atsiniltł'ish bidziil ńlínígíí t'áá 'íiyisíí dabidziil or 'atsiniltł'ish bidziil 'ayóo dabidziil ńlínígíí | [Electrical] super current |
+| 'atsiniltł'ish bidziil ńlínígíí t'áá 'íiyisíí dabidziil or 'atsiniltł'ish bidziil 'ayóo dabidziil ńlínígíí | [Electrical charge] super current |
 | Bee 'atsiniltł'ish bidziil ńlínígíí t'áá 'íiyisíí dabidziil or bee 'atsiniltł'ish bidziil 'ayóo dabidziil ńlínígíí | Superconductor |
 | Béésh bee 'atsiniltł'ish bidziil ńlínígíí t'áá 'íiyisíí dabidziil | Superconducting metal |
 | Bee ídaʼneelʼąąhí | Tape measure. Something to measure by |
@@ -495,6 +527,7 @@ Primary URL for the repository: [OJB-Quantum/Navaho-Linguistics](https://github.
 | Bits'áda'deezdíingo | They are sparkling. They are shining. They are glittering |
 | Bits'áda'di'nídíín | To shine [light or similar] |
 | Bits'áda'di'nílííd | Glittering. Bright. Shiny |
+| Disxǫs | Glittering |
 | Bee 'adiits'ah'ígíí or bee 'adiits'a'ígíí | Readout |
 | Lą'í | Much. Numerous. Many |
 | Lą'ígo | Lots of it. Since there were many. Since there was much |
@@ -503,6 +536,8 @@ Primary URL for the repository: [OJB-Quantum/Navaho-Linguistics](https://github.
 | 'Ałhaa | To each other. To one another |
 | Bee bits'áníłdoi 'ałhaaígíí | By which heat is exchanged |
 | Yił nááhodoolnih | He will tell him again. He will relay the information to him | 
+| Doo beehaz'ą́ąda | It is forbidden | 
+| T'óshjeeh | Water barrel |
 
 ---
 
