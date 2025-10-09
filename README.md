@@ -539,6 +539,8 @@ Primary URL for the repository: [OJB-Quantum/Navaho-Linguistics](https://github.
 | Yił nááhodoolnih | He will tell him again. He will relay the information to him | 
 | Doo beehaz'ą́ąda | It is forbidden | 
 | T'óshjeeh | Water barrel |
+| 'Adéest'į́į́' | Lookout or observation point |
+| Bee 'adéest'į́į́' | By which [one] can look out. Binocular or telescope |
 
 ---
 
