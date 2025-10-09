@@ -433,7 +433,7 @@ Primary URL for the repository: [OJB-Quantum/Navaho-Linguistics](https://github.
 | Yidísin | He/ she/ one observes |
 | Nánísh'įįh | To look at it. I am watching it |
 | Haalzííd | It is being watched |
-| 'Áhoodzaago | When it happened |
+| 'áhoodzaago | When it happened |
 | 'ánáhoot'įįh | It happens |
 | 'Ałts'á'ii'nííł | Division |
 | Dooleeł | It will be |
@@ -459,7 +459,7 @@ Primary URL for the repository: [OJB-Quantum/Navaho-Linguistics](https://github.
 | Yilááh/ Bilááh/ Alááh | Beyond |
 | 'Ayóí | Very. Exceedingly. Remarkably (can be used at the end of a term) |
 | 'Ayóígo | Very. Exceedingly. Remarkably |
-| 'Á'ádaatʼéhígíí | Fundamental. Elements |
+| 'á'ádaatʼéhígíí | Fundamental. Elements |
 | 'áhóót'įįdii | Occurence |
 | Neestł'ah | Interfere with. Mitigated. Arrested |
 | Bizaad | His language. His words |
