@@ -534,7 +534,8 @@ Primary URL for the repository: [OJB-Quantum/Navaho-Linguistics](https://github.
 | 'atsiniltł'ish bidziil ńlínígíí t'áá 'íiyisíí dabidziil or 'atsiniltł'ish bidziil 'ayóo dabidziil ńlínígíí | [Electrical charge] super current |
 | Bee 'atsiniltł'ish bidziil ńlínígíí t'áá 'íiyisíí dabidziil or bee 'atsiniltł'ish bidziil 'ayóo dabidziil ńlínígíí | Superconductor |
 | Béésh bee 'atsiniltł'ish bidziil ńlínígíí t'áá 'íiyisíí dabidziil | Superconducting metal |
-| Bee ídaʼneelʼąąhí | Tape measure. Something to measure by |
+| Bee ídaʼneelʼąąhí | Tape measure. Ruler. Yardstick. Something to measure by (in general) |
+| Bee 'í'diiljeehí | Adhesive tape |
 | Bee 'ahída'diiljeehí | Glue or solder. Something by which things can stick together |
 | Íʼneelʼąąh | Measurement or magnitude determined by measuring |
 | 'áníłtso | Size of or as big as |
@@ -556,6 +557,10 @@ Primary URL for the repository: [OJB-Quantum/Navaho-Linguistics](https://github.
 | T'óshjeeh | Water barrel |
 | 'Adéest'į́į́' | Lookout or observation point |
 | Bee 'adéest'į́į́' | By which [one] can look out. Binocular or telescope |
+| Nihídadéét'i' | We have interest in it |
+| Bighan | His house |
+| Ni'góó | On the ground. On the floor |
+| Ni'góó sitį́įgo | While he lay on the ground |
 
 ---
 
