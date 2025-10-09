@@ -377,6 +377,9 @@ Primary URL for the repository: [OJB-Quantum/Navaho-Linguistics](https://github.
 | Biyaiijígo | Below it or beneath it |
 | Bi'oh | Less than it |
 | Bi'oh neel'ą́ | Insufficient for them or too little for it  |
+| T'áágééd | Without |
+| T'áadoo | Do not. Did not. Without |
+| T'áadoo 'ádíníní | Do not say that. Stop talking. Hush. Be quiet | 
 | 'Atsoo' | Tongue |
 | K'aa' | Arrow | 
 | Bee 'a'nizhi | Tweezers | 
@@ -448,6 +451,10 @@ Primary URL for the repository: [OJB-Quantum/Navaho-Linguistics](https://github.
 | Naʼalkid | Temperature or time (depending on context) |
 | Dįį' bich'į'go naʼalkid Kelvin da'azjah | 4 degrees Kelvin |
 | Bee 'azk'azi | Refrigerator. By which [something] is made or kept cold |
+| T'áádoole'é | Things. Something. Anything | 
+| T'áádoole'é 'ádaal'į́įgi | A factory [of things] | 
+| T'áádoole'é le'égóó | About anything. About something |  
+| T'áádoole'é łeeyi' dahólóonii | Mineral or mineral resources | 
 | T'áádoole'é nabíhonitaah | Experiment |
 | T'áádoole'é nabíhonitaah bee 'azk'azi | Refrigerator for experiment |
 | 'Ayóo/ 'Ayóó | Very. Extremely |
@@ -499,6 +506,13 @@ Primary URL for the repository: [OJB-Quantum/Navaho-Linguistics](https://github.
 | Nayiisnii’ | To obtain or buy something (verify), used in |
 | Béésh 'ayóo 'áłtsózí | Extremely small metal | 
 | T'áá 'ałtso | All of it or all of them | 
+| T'áá 'ałtsogo | Everywhere |
+| T'áá 'ałtsogóó | Everywhere. In all directions | 
+| T'áá 'ałtsoní | Everything | 
+| T'áá 'áłah | Both. Both of them |
+| T'áá 'áłajį' | Frequently. Always. All the time |
+| T'áá 'ałch'ishdę́ę́' | From both sides |
+| T'áá 'ałch'ishjí | On both sides |
 | T'áá boholniihgi | Anytime. Any place. Any day |
 | T'áá 'áłts'íísígo | Just a small piece | 
 | Béésh 'áłtsózí | Wire |
