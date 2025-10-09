@@ -502,6 +502,7 @@ Primary URL for the repository: [OJB-Quantum/Navaho-Linguistics](https://github.
 | Bits'áníłdoi | It gives off heat |
 | 'Ałhaa | To each other. To one another |
 | Bee bits'áníłdoi 'ałhaaígíí | By which heat is exchanged |
+| Yił nááhodoolnih | He will tell him again. He will relay the information to him | 
 
 ---
 
