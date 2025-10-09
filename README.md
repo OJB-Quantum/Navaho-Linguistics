@@ -346,6 +346,10 @@ Primary URL for the repository: [OJB-Quantum/Navaho-Linguistics](https://github.
 | Bee- | By means of it, by means of, or with |
 | -jígo | In the direction or on the side of it |
 | -jigo | Toward |
+| éí | That one. That (remotely) |
+| Eii | That one there. That one. That (nearby) |
+| Eidí | That one near you |
+| Eidíígíí | That very one |
 | T'áá | Just, quite, only, kind of, or sort of |
 | T'óó | Quite, just, merely, just for fun |
 | Dóó | And |
@@ -465,7 +469,10 @@ Primary URL for the repository: [OJB-Quantum/Navaho-Linguistics](https://github.
 | T'áá boholniihgi | Anytime. Any place. Any day |
 | T'áá 'áłts'íísígo | Just a small piece | 
 | Béésh 'áłtsózí | Wire |
+| Lashdóón | Ribbon |
+| Béésh lashdóón | Metal ribbon |
 | Béésh sitán'ígíí | Metal plate |
+| Béésh łichíí sitán'ígíí eidíígíí sik'az | Red metal that which lies [and] is cold. Copper cold plate(s) |
 | Sitán'ígíí | That which lies (stiff, slender object) |
 | Dibahí | Powder | 
 | Béésh ligaii dibahí | Silver powder |
@@ -488,7 +495,13 @@ Primary URL for the repository: [OJB-Quantum/Navaho-Linguistics](https://github.
 | Bits'áda'deezdíingo | They are sparkling. They are shining. They are glittering |
 | Bits'áda'di'nídíín | To shine [light or similar] |
 | Bits'áda'di'nílííd | Glittering. Bright. Shiny |
-|  |  |
+| Bee 'adiits'ah'ígíí or bee 'adiits'a'ígíí | Readout |
+| Lą'í | Much. Numerous. Many |
+| Lą'ígo | Lots of it. Since there were many. Since there was much |
+| Lą'ídi | Many times |
+| Bits'áníłdoi | It gives off heat |
+| 'Ałhaa | To each other. To one another |
+| Bee bits'áníłdoi 'ałhaaígíí | By which heat is exchanged |
 
 ---
 
