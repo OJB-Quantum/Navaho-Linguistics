@@ -591,6 +591,7 @@ Primary URL for the repository: [OJB-Quantum/Navaho-Linguistics](https://github.
 | Bighan | His house |
 | Ni'góó | On the ground. On the floor |
 | Ni'góó sitį́įgo | While he lay on the ground |
+| Shá | Radiation (in general, whether ionizing or non-ionizing depends on context) |
 
 ---
 
