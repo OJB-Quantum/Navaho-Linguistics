@@ -508,7 +508,6 @@ Primary URL for the repository: [OJB-Quantum/Navaho-Linguistics](https://github.
 | 'Adiits'a'í | One who hears. Interpreter | 
 | Hodéezyéél | Noiseless |
 | Haszéé' | Noiseless | 
-| Naas konadazaa | It increased again | 
 | Nich'i | Breeze or current of air |
 | Nílį́ | it flows (as a river). You are |
 | Nił | With you |
