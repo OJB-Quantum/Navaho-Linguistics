@@ -419,6 +419,8 @@ Primary URL for the repository: [OJB-Quantum/Navaho-Linguistics](https://github.
 | Nihił béé dahózinígíí | That which we know about. Those of us that know about it |
 | 'í'neel'ąąh | Measurement |
 | Deínóołta' | You study it. You read it |
+| Naalkaah | Inspection. Examination |
+| Na'alkaah | Investigation. Research. To trial. Trial (at law) |
 | Naalkaahgo | Tracking. Studying |
 | Ndeiłkaahígíí | Those who track it. Those who study it. Those who investigate it |
 | Di'į́dí | Fragile or brittle | 
