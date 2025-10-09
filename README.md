@@ -481,11 +481,16 @@ Primary URL for the repository: [OJB-Quantum/Navaho-Linguistics](https://github.
 | T'áádoole'é nabíhonitaah bee 'azk'azi | Refrigerator for experiment. Measurement refrigerator or experimental measurement refrigerator |
 | T’áádoole’é nabíhonitaah bee ‘azk’azi ni'góó sizínígíí | Refrigerator for experiment, the one standing on the floor. Floor standing experimental measurement fridge |
 | T’áádoole’é nabíhonitaah bee ‘azk’azi tsoh | Large refrigerator for experiment. Large experimental measurement refrigerator |
-| T’áádoole’é nabíhonitaah bee ‘azk’azi ni'góó sizínígíí t'áadoo bitoo' | Refrigerator for experiment, the one standing on the floor. Floor standing experimental measurement fridge. |
-| T’áádoole’é nabíhonitaah bee ‘azk’azi ni'góó sizínígíí bitoo' | Refrigerator for experiment, the one standing on the floor. Floor standing experimental measurement fridge. Dewar (large Thermos) |
+| T’áádoole’é nabíhonitaah t'óshjeehtso bee ‘azk’azi ni'góó sizínígíí or t’áádoole’é nabíhonitaah bee ‘azk’azi ni'góó sizínígíí t'áadoo bitoo' | Refrigerator for experiment, the one standing on the floor. Floor standing experimental measurement fridge. |
+| T’áádoole’é nabíhonitaah bee t'óshjeehtso góne' honeezk'az or t'óshjeehtso góne' honeezk'az Dewar bijoosye' | A big barrel where something is kept cold for experiment(s). Experimental measurement cold keeping barrel. Dewar (large Thermos) |
+| T'óshjeeh góne' honeezk'az | Barrel where it [something] is kept cold |
+| Ni'góó sizínígíí | The one who is standing on the floor | 
 | Sizínígíí | The one who is standing |
 | T'óshjeeh | Water barrel. Can be used to describe barrel-shaped objects in general |
-| T'óshjeehtso | Big water barrel |
+| T'óshjeehtso | Big water barrel. Large water barrel. Can be used to describe large barrel-shaped objects in general |
+| Bá haz'ání góne' | A space for it. A place for it | 
+| Honeezk'az | To keep cool or to keep cold | 
+| Honeezk'ází | It (an area) is cool or cold |
 | 'Ayóo/ 'Ayóó | Very. Extremely |
 | 'Ayóogo | Really |
 | 'Agháadi | Extreme |
@@ -591,6 +596,7 @@ Primary URL for the repository: [OJB-Quantum/Navaho-Linguistics](https://github.
 | Ni'góó | On the ground. On the floor |
 | Ni'góó sitį́įgo | While he lay on the ground |
 | Shá | Radiation (in general, whether ionizing or non-ionizing depends on context) |
+| Tóshjeehtso biih ho’dilzho’ dóó béésh ná’iiláahii bee hats'íís naalkaah dóó yida'ale' | Big barrel, while inside it, sliding, and magnetic, with it, body, study done and pictures are taken . Magnetic resonance imaging |
 
 ---
 
