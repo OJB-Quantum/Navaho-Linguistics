@@ -335,6 +335,7 @@ Primary URL for the repository: [OJB-Quantum/Navaho-Linguistics](https://github.
 | Yi- | His/her/its/their |
 | Ba- | For him/her |
 | Ha | His |
+| Da | Including. As well as. And |
 | Ná' | Again |
 | -go | Since, because, when, during, while, being, -ly |
 | -góó | To, towards, or extension of |
