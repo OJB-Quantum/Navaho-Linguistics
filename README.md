@@ -226,7 +226,7 @@ Primary URL for the repository: [OJB-Quantum/Navaho-Linguistics](https://github.
 |                  | By means of it, by means of, or with          | bee-                                                          |
 |                  | Cold                                          | sik'az                                                        |
 |                  | Coldness. Chill. Frigidity.                   | hakʼaz                                                        | 
-|                  | By which [something] is [made] cold. <br> (Refrigerator). | bee 'azk'azi                                      |
+| Final Outcome    | By which [something] is [made] cold. <br> (Refrigerator). | bee 'azk'azi                                      |
 
 ---
 
