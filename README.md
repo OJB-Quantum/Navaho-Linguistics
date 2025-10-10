@@ -807,7 +807,7 @@ legend:  *  superconducts at ≈ 0 GPa (ambient)          ^  superconducts only 
 
 | English Term                    | Navaho Term                          | Literal Meaning                              |
 | ------------------------------- | ------------------------------------ | -------------------------------------------- |
-|  |  |  |
+| Sun beam or sun rays            | shá bitł'óól                      |  | | 
 
 
 ---
