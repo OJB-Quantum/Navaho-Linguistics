@@ -395,6 +395,7 @@ Primary URL for the repository: [OJB-Quantum/Navaho-Linguistics](https://github.
 | Bichą́ąhji' hazlį́į́' | It replaced it |
 | Bideiijígo | Above it or upper distant side of it |
 | Biyaiijígo | Below it or beneath it |
+| 'Ałį́į'gi | At the middle. In the center |
 | Bi'oh | Less than it |
 | Bi'oh neel'ą́ | Insufficient for them or too little for it  |
 | Ditą́ | It is deep (as water). It is thick | 
