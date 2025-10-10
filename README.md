@@ -45,7 +45,7 @@ Primary URL for the repository: [OJB-Quantum/Navaho-Linguistics](https://github.
 
 | **Navaho** | **English**  |
 |-|-|
-| Díí 'áʼádaatʼéhígíí náás góne'é t'áá kóníghánígo 'akwe'é 'ahóodziil doo bee 'atsiniltł'ish biyi' 'asdizígíí éídí 'í'neel'ąąh 'áádóó yidísin. T'áá bééhodoozįįł yił 'ałhii'níná’iidzóóh nida'ałkáá'ii' Schrödinger doo Pauli doo Dirac bits’ą́ą́dę́ę́ nihinááł. | In fundamental or elemental objects such as an atom, further within it, at short intervals here, is energy that one can observe, and from there, measure it, as well as its electron spin [depending on which measurement tool is used]. It must be explained with [the language of] mathematics that we can see, derived by Professors Schrodinger, Pauli, and Dirac. | 
+| Díí 'áʼádaatʼéhígíí náás góne'é t'áá kóníghánígo 'akwe'é 'ahóodziil doo bee 'atsiniltł'ish biyi' 'asdizígíí éídí 'í'neel'ąąh 'áádóó yidísin. T'áá bééhodoozįįł yił 'ałhii'níná’iidzóóh nida'ałkáá'ii' Schrödinger doo Pauli doo Dirac bits’ą́ą́dę́ę́ nihinááł. | In fundamental or elemental objects such as an atom, further within it, at short intervals here, is energy that one can observe, and from there, measure it, as well as its electron spin [depending on which measurement tool is used]. It must be explained with [the language of] mathematics that we can see, introduced by Professors Schrodinger, Pauli, and Dirac. | 
 
 ### Navajo Braille Transcription of Quantum Mechanics Introduction (Unicode Braille Cells)
 
@@ -508,7 +508,7 @@ Primary URL for the repository: [OJB-Quantum/Navaho-Linguistics](https://github.
 | 'Ayóígo | Very. Exceedingly. Remarkably |
 | 'á'ádaatʼéhígíí | Fundamental. Elements |
 | 'á'ádaatʼéhígíí bitsiniltł'ish shá bik'ehgo siláii | Proton | 
-| 'á'ádaatʼéhígíí bináhaazléí | Electron |
+| 'á'ádaatʼéhígíí bináhaazléí or 'á'ádaatʼéhígíí bináhaazléí bitsiniltł'ish| Electron |
 | 'á'ádaatʼéhígíí ahii'sinilgo bitsiniltł'ish hólǫ́ | Ion |
 | Nishigizh | Diffusion (of materials at the atomic or molecular level) |
 | T'áádoole'é łahgo áániił | Chemical reaction |
