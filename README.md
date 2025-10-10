@@ -507,23 +507,23 @@ Primary URL for the repository: [OJB-Quantum/Navaho-Linguistics](https://github.
 | T’áádoole’é nabíhonitaah bee ‘azk’azi tsoh | Large refrigerator for experiment. Large experimental measurement refrigerator |
 | T’áádoole’é nabíhonitaah t'óshjeehtso bee ‘azk’azi ni'góó sizínígíí or t’áádoole’é nabíhonitaah bee ‘azk’azi ni'góó sizínígíí t'áadoo bitoo' | Refrigerator for experiment, the one standing on the floor. Floor standing experimental measurement fridge. |
 | T’áádoole’é nabíhonitaah bee t'óshjeehtso góne' honeezk'az or t'óshjeehtso góne' honeezk'az Dewar bijoosye' | A big barrel where something is kept cold for experiment(s). Experimental measurement cold keeping barrel. Dewar (large Thermos) |
-| T'óshjeeh góne' honeezk'az | Barrel where it [something] is kept cold |
+| T'óshjeeh góne' honeezk'az | Barrel where it [something] is kept cold | 
 | Ni'góó sizínígíí | The one who is standing on the floor | 
-| Sizínígíí | The one who is standing |
-| T'óshjeeh | Water barrel. Can be used to describe barrel-shaped objects in general |
-| T'óshjeehtso | Big water barrel. Large water barrel. Can be used to describe large barrel-shaped objects in general |
+| Sizínígíí | The one who is standing | 
+| T'óshjeeh | Water barrel. Can be used to describe barrel-shaped objects in general | 
+| T'óshjeehtso | Big water barrel. Large water barrel. Can be used to describe large barrel-shaped objects in general | 
 | Bá haz'ání góne' | A space for it. A place for it | 
 | Honeezk'az | To keep cool or to keep cold | 
-| Honeezk'ází | It (an area) is cool or cold |
-| 'Ayóo/ 'Ayóó | Very. Extremely |
-| 'Ayóogo | Really |
-| 'Agháadi | Extreme |
+| Honeezk'ází | It (an area) is cool or cold | 
+| 'Ayóo/ 'Ayóó | Very. Extremely | 
+| 'Ayóogo | Really | 
+| 'Agháadi | Extreme | 
 | 'Agháadi yá'át'ééh | Excellent | 
-| 'Agháadi yá'át'ééhígíí | Best |
-| 'Aghá | Best, utmost |
-| Yilááh/ Bilááh/ Alááh | Beyond |
-| 'Ayóí | Very. Exceedingly. Remarkably (can be used at the end of a term) |
-| 'Ayóígo | Very. Exceedingly. Remarkably |
+| 'Agháadi yá'át'ééhígíí | Best | 
+| 'Aghá | Best, utmost | 
+| Yilááh/ Bilááh/ Alááh | Beyond | 
+| 'Ayóí | Very. Exceedingly. Remarkably (can be used at the end of a term) | 
+| 'Ayóígo | Very. Exceedingly. Remarkably | 
 | 'á'ádaatʼéhígíí | Fundamental. Elements |
 | 'á'ádaatʼéhígíí bitsiniltł'ish shá bik'ehgo siláii | Proton | 
 | 'á'ádaatʼéhígíí bináhaazléí or 'á'ádaatʼéhígíí bináhaazléí bitsiniltł'ish| Electron |
@@ -552,7 +552,7 @@ Primary URL for the repository: [OJB-Quantum/Navaho-Linguistics](https://github.
 | Yilk'oołígíí | Wave | 
 | Yilk'ooł | Wave ripples | 
 | Yilk'oołígíí nahalingo bee neestł'ah | Wave-like interference |
-| 'Adinídíín | Light |
+| 'Adinídíín | Light | 
 | Dínéest'ą́ | It started to grow |
 | Jiłąąh | to increase | 
 | Naas konadazaa | It increased again |
@@ -626,7 +626,7 @@ Primary URL for the repository: [OJB-Quantum/Navaho-Linguistics](https://github.
 | Ni'góó | On the ground. On the floor |
 | Ni'góó sitį́įgo | While he lay on the ground |
 | Shá | Radiation (in general, whether ionizing or non-ionizing depends on context) |
-| Tóshjeehtso biih ho’dilzho’ dóó béésh ná’iiláahii bee hats'íís naalkaah dóó yida'ale' | Big barrel, while inside it, sliding, and magnetic, with it, body, study done and pictures are taken . Magnetic resonance imaging |
+| Tóshjeehtso biih ho’dilzho’ dóó béésh ná’iiláahii bee hats'íís naalkaah dóó yida'ale' | Big barrel, while inside it, sliding, and magnetic, with it, body, study done and pictures are taken. Magnetic resonance imaging |
 | Niłch'i łikoní | Inflammable gas |
 | Bił ‘ahidadii’nilę́ę | Those that were mixed. Those that were put with them | 
 | 'ábidiilyaa | He was made to be |
@@ -838,7 +838,14 @@ legend:  *  superconducts at ≈ 0 GPa (ambient)          ^  superconducts only 
 
 | English Term                    | Navaho Term                          | Literal Meaning                              |
 | ------------------------------- | ------------------------------------ | -------------------------------------------- |
-|  |  |  |
+| Radiation | Shá or hatsoo'algha k'aa | Radiation in general, whether ionizing or non-ionizing (depends on context). It uses its tongue to produce extreme arrows. |
+| Light | 'Adinídíín | Light | 
+| Visible rays | shá dahoot'į́ígíí or shá eii dahoot'į́ígíí | Radiation by which there is visibility |
+| Wave | Yilk'oołígíí | That particular ripple | 
+| X-rays | 'Aghá'deeldlaad | An extreme projection |
+| Gamma rays | 'Aghá'deeldlaad t'áá 'íiyisíí dabidziil | An extreme projection that is truly strong | 
+| Extreme ultraviolet [light] rays | 'Aghá'deeldlaad t'áá tsídídééh nahalingo | Extreme projection that is barely purple | 
+
 
 
 ---
