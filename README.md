@@ -146,6 +146,24 @@ Primary URL for the repository: [OJB-Quantum/Navaho-Linguistics](https://github.
 
 <img width="3530" height="auto" alt="image" src="https://github.com/user-attachments/assets/b55ca66d-3f77-49ff-b32c-ae140700f0c0" />
 
+---
+
+### Cryogenic Cable Examples in Navaho by Onri and Team
+
+<img width="2230" height="auto" alt="image" src="https://github.com/user-attachments/assets/a8785233-4bfa-404f-b3b5-551f95ced4a2" />
+
+---
+
+### Common Cryostat and Cryogenic Vessel Formfactors in Navaho by Onri
+
+<img width="2124" height="auto" alt="image" src="https://github.com/user-attachments/assets/d13b792d-6467-45e2-923d-6430f4a952d2" />
+
+---
+
+### Some Processor Components (Superconducting Qubits) in Navaho by Onri
+
+<img width="2512" height="auto" alt="image" src="https://github.com/user-attachments/assets/ff6ab061-7983-49a3-b7a7-0bdb9e11fa9a" />
+
 
 ---
 
