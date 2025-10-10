@@ -377,6 +377,7 @@ Primary URL for the repository: [OJB-Quantum/Navaho-Linguistics](https://github.
 | Díidíígíí | Particularly this one |
 | T'áá | Just, quite, only, kind of, or sort of |
 | T'óó | Quite, just, merely, just for fun |
+| Dó' | Too. Also |
 | Dóó | And |
 | Bii' | In. Within. Inside of it (same as biyi') |
 | Bíí' | Theirs. His |
