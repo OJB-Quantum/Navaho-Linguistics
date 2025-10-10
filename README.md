@@ -842,9 +842,9 @@ legend:  *  superconducts at ≈ 0 GPa (ambient)          ^  superconducts only 
 | Light | 'Adinídíín | Light | 
 | Visible rays | Shá dahoot'į́ígíí or shá eii dahoot'į́ígíí | Radiation by which there is visibility. (Could be used to explain visibility techniques beyond the detectibility of the human eye) |
 | Wave | Yilk'oołígíí | That particular ripple | 
-| X-rays | 'Aghá'deeldlaad | An extreme projection |
-| Gamma rays | 'Aghá'deeldlaad t'áá 'íiyisíí dabidziil | An extreme projection that is truly strong | 
-| Extreme ultraviolet [light] rays | 'Aghá'deeldlaad t'áá tsídídééh nahalingo | Extreme projection that is barely purple | 
+| X-rays | 'Aghá'deeldlaad or shá 'aghá'deeldlaad | An extreme projection |
+| Gamma rays | 'Aghá'deeldlaad t'áá 'íiyisíí dabidziil or shá 'aghá'deeldlaad t'áá 'íiyisíí dabidziil | An extreme projection that is truly strong | 
+| Extreme ultraviolet [light] rays | 'Aghá'deeldlaad t'áá tsídídééh nahalingo or shá 'aghá'deeldlaad t'áá tsídídééh nahalingo | Extreme projection that is barely purple-like | 
 
 
 
