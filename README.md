@@ -371,6 +371,7 @@ Primary URL for the repository: [OJB-Quantum/Navaho-Linguistics](https://github.
 | Eii | That one there. That one. That (nearby) |
 | Eidí | That one near you |
 | Eidíígíí | That very one |
+| Eíyá | Only. Exclusively. Specifically |
 | Díí | This. These |
 | Díidí | This one. These |
 | Díidíígíí | Particularly this one |
@@ -508,6 +509,8 @@ Primary URL for the repository: [OJB-Quantum/Navaho-Linguistics](https://github.
 | 'á'ádaatʼéhígíí bitsiniltł'ish shá bik'ehgo siláii | Proton | 
 | 'á'ádaatʼéhígíí bináhaazléí | Electron |
 | 'á'ádaatʼéhígíí ahii'sinilgo bitsiniltł'ish hólǫ́ | Ion |
+| Nishigizh | Diffusion (of materials at the atomic or molecular level) |
+| T'áádoole'é łahgo áániił | Chemical reaction |
 | Bik'ehgo na'alkaahii | Theory |
 | 'áhóót'įįdii | Occurence |
 | Neestł'ah | Interfere with. Mitigated. Arrested |
@@ -605,6 +608,11 @@ Primary URL for the repository: [OJB-Quantum/Navaho-Linguistics](https://github.
 | Ni'góó sitį́įgo | While he lay on the ground |
 | Shá | Radiation (in general, whether ionizing or non-ionizing depends on context) |
 | Tóshjeehtso biih ho’dilzho’ dóó béésh ná’iiláahii bee hats'íís naalkaah dóó yida'ale' | Big barrel, while inside it, sliding, and magnetic, with it, body, study done and pictures are taken . Magnetic resonance imaging |
+| Niłch'i łikoní | Inflammable gas |
+| Bił ‘ahidadii’nilę́ę | Those that were mixed. Those that were put with them | 
+| 'ábidiilyaa | He was made to be |
+| 'ádaalyaa | They were made |
+
 
 ---
 
