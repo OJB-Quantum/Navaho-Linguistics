@@ -505,6 +505,7 @@ Primary URL for the repository: [OJB-Quantum/Navaho-Linguistics](https://github.
 | 'Ayóí | Very. Exceedingly. Remarkably (can be used at the end of a term) |
 | 'Ayóígo | Very. Exceedingly. Remarkably |
 | 'á'ádaatʼéhígíí | Fundamental. Elements |
+| 'á'ádaatʼéhígíí bitsiniltł'ish shá bik'ehgo siláii | Proton | 
 | 'áhóót'įįdii | Occurence |
 | Neestł'ah | Interfere with. Mitigated. Arrested |
 | Bizaad | His language. His words |
