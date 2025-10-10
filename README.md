@@ -576,7 +576,7 @@ Primary URL for the repository: [OJB-Quantum/Navaho-Linguistics](https://github.
 | Bee ídaʼneelʼąąhí | Tape measure. Ruler. Yardstick. Something to measure by (in general) |
 | Bee 'í'diiljeehí | Adhesive tape |
 | Bee 'ahída'diiljeehí | Glue or solder. Something by which things can stick together |
-| Íʼneelʼąąh | Measurement or magnitude determined by measuring |
+| íʼneelʼąąh | Measurement or magnitude determined by measuring |
 | 'áníłtso | Size of or as big as |
 | 'á'ádaatʼéhígíí bi bee 'ahída'diiljeehí | Glue by which elements can stick together |
 | Bits'áda'deezdíín | Gleaming. Shining. Throwing off light |
@@ -601,6 +601,7 @@ Primary URL for the repository: [OJB-Quantum/Navaho-Linguistics](https://github.
 | Ni'góó sitį́įgo | While he lay on the ground |
 | Shá | Radiation (in general, whether ionizing or non-ionizing depends on context) |
 | Tóshjeehtso biih ho’dilzho’ dóó béésh ná’iiláahii bee hats'íís naalkaah dóó yida'ale' | Big barrel, while inside it, sliding, and magnetic, with it, body, study done and pictures are taken . Magnetic resonance imaging |
+| 'ál'į́įgi | The technique of making. The making of. How to make | 
 
 ---
 
