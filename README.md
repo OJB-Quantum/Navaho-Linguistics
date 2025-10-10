@@ -840,7 +840,7 @@ legend:  *  superconducts at ≈ 0 GPa (ambient)          ^  superconducts only 
 | ------------------------------- | ------------------------------------ | -------------------------------------------- |
 | Radiation | Shá or hatsoo'algha k'aa | Radiation in general, whether ionizing or non-ionizing (depends on context). It uses its tongue to produce extreme arrows. |
 | Light | 'Adinídíín | Light | 
-| Visible rays | shá dahoot'į́ígíí or shá eii dahoot'į́ígíí | Radiation by which there is visibility |
+| Visible rays | Shá dahoot'į́ígíí or shá eii dahoot'į́ígíí | Radiation by which there is visibility |
 | Wave | Yilk'oołígíí | That particular ripple | 
 | X-rays | 'Aghá'deeldlaad | An extreme projection |
 | Gamma rays | 'Aghá'deeldlaad t'áá 'íiyisíí dabidziil | An extreme projection that is truly strong | 
