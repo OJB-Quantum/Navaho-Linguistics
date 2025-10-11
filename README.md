@@ -640,6 +640,11 @@ Primary URL for the repository: [OJB-Quantum/Navaho-Linguistics](https://github.
 | 'Atsoos dootł'izhígíí | Vein (that which is blue) |
 | 'Atsoostsoh dootł'izhígíí | Vein (that which is blue) |
 | 'Atsoos dahiyiiye' | Varicose veins |
+| Łe' oogeed | Storage pit or cellar |
+| T'áá 'ííshjání | Visible. Plainly. Unmistakeable. Evidently. Conspicious | 
+| Yisk'is | To crack or be cracked. Very fine, barely visible crack | 
+| K'asdą́ą́ | Almost. Nearly. About to | 
+| K'adí | That is all. That is enough. Quit it |
 
 ---
 
