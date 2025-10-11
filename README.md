@@ -393,6 +393,7 @@ Primary URL for the repository: [OJB-Quantum/Navaho-Linguistics](https://github.
 | Díí | This. These |
 | Díidí | This one. These |
 | Díidíígíí | Particularly this one |
+| Łeh | Usually or customarily |
 | T'áá | Just, quite, only, kind of, or sort of |
 | T'óó | Quite, just, merely, just for fun |
 | Dó' | Too. Also |
