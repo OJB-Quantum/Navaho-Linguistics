@@ -632,9 +632,14 @@ Primary URL for the repository: [OJB-Quantum/Navaho-Linguistics](https://github.
 | Bił ‘ahidadii’nilę́ę | Those that were mixed. Those that were put with them | 
 | 'ábidiilyaa | He was made to be |
 | 'ádaalyaa | They were made |
+| 'Atsoos | Blood vessel(s) or nerve(s) |
 | 'Atsoos yita' | Pulse |
 | 'Atsoos yita'gi | Pulsation of <insert term> |
-
+| 'Atsóóz | Nerves |
+| 'Atsoos łichí'ígíí | Artery (that which is red) |
+| 'Atsoos dootł'izhígíí | Vein (that which is blue) |
+| 'Atsoostsoh dootł'izhígíí | Vein (that which is blue) |
+| 'Atsoos dahiyiiye' | Varicose veins |
 
 ---
 
