@@ -632,6 +632,8 @@ Primary URL for the repository: [OJB-Quantum/Navaho-Linguistics](https://github.
 | Bił ‘ahidadii’nilę́ę | Those that were mixed. Those that were put with them | 
 | 'ábidiilyaa | He was made to be |
 | 'ádaalyaa | They were made |
+| 'Atsoos yita' | Pulse |
+| 'Atsoos yita'gi | Pulsation of <insert term> |
 
 
 ---
