@@ -646,6 +646,7 @@ Primary URL for the repository: [OJB-Quantum/Navaho-Linguistics](https://github.
 | K'asdą́ą́ | Almost. Nearly. About to | 
 | K'adí | That is all. That is enough. Quit it |
 | Ho’dilzho’ | To slide (on something, like a guide or rail) | 
+| Beda'alyaa | The images of it. Copies of (like photographs, statues, duplicates) |
 
 ---
 
