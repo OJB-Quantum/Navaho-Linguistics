@@ -377,7 +377,7 @@ Primary URL for the repository: [OJB-Quantum/Navaho-Linguistics](https://github.
 | Ná' | Again |
 | -go | Since, because, when, during, while, being, -ly |
 | -góó | To, towards, or extension of |
-| -di | Times (scaled up/ down by) or at |
+| -di | At or times (scaled up/ down by) |
 | -gi | At |
 | -ígíí | A particular one that is |
 | -ii | Similar to -er in English. A person or thing that does an action indicated by the root verb. Similar to -er in English. A person or thing that does an action indicated by the root verb. That which is of <adjective> quality. That which <verb(s)>. Of which |
@@ -647,6 +647,9 @@ Primary URL for the repository: [OJB-Quantum/Navaho-Linguistics](https://github.
 | K'adí | That is all. That is enough. Quit it |
 | Ho’dilzho’ | To slide (on something, like a guide or rail) | 
 | Beda'alyaa | The images of it. Copies of (like photographs, statues, duplicates) |
+| Dili' | It usually burns | 
+| Ditłi' | It is burning. It is afire |
+| 'ádił | To oneself. In company with oneself |
 
 ---
 
