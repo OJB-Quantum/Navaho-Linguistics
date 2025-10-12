@@ -603,7 +603,7 @@ Primary URL for the repository: [OJB-Quantum/Navaho-Linguistics](https://github.
 | Bee ídaʼneelʼąąhí | Tape measure. Ruler. Yardstick. Something to measure by (in general) |
 | Bee 'í'diiljeehí | Adhesive tape |
 | Bee 'ahída'diiljeehí | Glue or solder. Something by which things can stick together |
-| Íʼneelʼąąh | Measurement or magnitude determined by measuring |
+| 'íʼneelʼąąh | Measurement or magnitude determined by measuring |
 | 'áníłtso | Size of or as big as |
 | 'á'ádaatʼéhígíí bi bee 'ahída'diiljeehí | Glue by which elements can stick together |
 | Bits'áda'deezdíín | Gleaming. Shining. Throwing off light |
@@ -858,6 +858,7 @@ legend:  *  superconducts at ≈ 0 GPa (ambient)          ^  superconducts only 
 | X-rays | 'Aghá'deeldlaad or shá 'aghá'deeldlaad | An extreme projection |
 | Gamma rays | 'Aghá'deeldlaad t'áá 'íiyisíí dabidziil or shá 'aghá'deeldlaad t'áá 'íiyisíí dabidziil | An extreme projection that is truly strong | 
 | Extreme ultraviolet [light] rays | 'Aghá'deeldlaad t'áá tsídídééh nahalingo or shá 'aghá'deeldlaad t'áá tsídídééh nahalingo | Extreme projection that is barely purple-like | 
+| Ultraviolet [light] rays | Shá t'áá tsídídééh nahalingo  | Extreme projection that is barely purple-like | 
 
 
 
