@@ -645,6 +645,7 @@ Primary URL for the repository: [OJB-Quantum/Navaho-Linguistics](https://github.
 | Yisk'is | To crack or be cracked. Very fine, barely visible crack | 
 | K'asdą́ą́ | Almost. Nearly. About to | 
 | K'adí | That is all. That is enough. Quit it |
+| Ho’dilzho’ | To slide (on something, like a guide or rail) | 
 
 ---
 
