@@ -590,6 +590,7 @@ Primary URL for the repository: [OJB-Quantum/Navaho-Linguistics](https://github.
 | T'áá 'ałch'ishjí | On both sides |
 | T'áá boholniihgi | Anytime. Any place. Any day |
 | T'áá 'áłts'íísígo | Just a small piece | 
+| Hahinidééh | They fall out one after another |
 | Béésh 'áłtsózí | Wire |
 | Lashdóón | Ribbon |
 | Béésh lashdóón | Metal ribbon |
