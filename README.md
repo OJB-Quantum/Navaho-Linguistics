@@ -432,6 +432,7 @@ Primary URL for the repository: [OJB-Quantum/Navaho-Linguistics](https://github.
 | Digiz | It is crooked |
 | Shá | For me. Sun. Radiation (in general) |
 | Shá bitł'óól | Sun beam or sun rays |
+| Shą́ą'ji' | In the sunshine |
 | Nahalin | Looks like or seems |
 | Nahalingo | Resembles. While looking alike |
 | Bee na'anishí | By means of the one is used to work. Tool or instrument or apparatus |
@@ -480,7 +481,7 @@ Primary URL for the repository: [OJB-Quantum/Navaho-Linguistics](https://github.
 | T'áá kóníghánígo | At every interval |
 | T'áá 'áłts'íísígo | Small piece |
 | T'áá 'áłch'į́į́dígo | Just a little bit. Just a few |
-| T'áá bíyó | A little bit. Mildly. Slightly. Kind of |
+| T'áá bíyó | A little bit. Mildly. Slightly. Kind of. Somewhat. Rather |
 | Yidísin | He/ she/ one observes |
 | Nánísh'įįh | To look at it. I am watching it |
 | Haalzííd | It is being watched |
@@ -655,6 +656,7 @@ Primary URL for the repository: [OJB-Quantum/Navaho-Linguistics](https://github.
 | Hinání | The one that lives | 
 | Wolyéii | It is called |
 | Wolyéego | Since it is called |
+| Saad | Word. Language. Speech |
 
 ---
 
@@ -861,15 +863,15 @@ legend:  *  superconducts at ≈ 0 GPa (ambient)          ^  superconducts only 
 
 | English Term                    | Navaho Term                          | Literal Meaning                              |
 | ------------------------------- | ------------------------------------ | -------------------------------------------- |
-| Radiation | Shá or hatsoo'algha k'aa | Radiation in general, whether ionizing or non-ionizing (depends on context). It uses its tongue to produce extreme arrows |
+| Radiation | Shá or hatsoo'algha k'aa | Radiation in general, whether ionizing or non-ionizing (depends on context). It uses its tongue or his tongue to produce extreme arrows |
 | Light | 'Adinídíín | Light | 
 | Visible rays | Shá dahoot'į́ígíí or shá eii dahoot'į́ígíí | Radiation by which there is visibility. (Could be used to explain visibility techniques beyond the detectibility of the human eye) |
-| 
+|  |  |
 | Wave | Yilk'oołígíí | That particular ripple | 
 | X-rays | 'Aghá'deeldlaad or shá 'aghá'deeldlaad | An extreme projection |
 | Gamma rays | 'Aghá'deeldlaad t'áá 'íiyisíí dabidziil or shá 'aghá'deeldlaad t'áá 'íiyisíí dabidziil | An extreme projection that is truly strong | 
-| Extreme ultraviolet [light] rays | 'Aghá'deeldlaad t'áá tsídídééh nahalingo or shá 'aghá'deeldlaad t'áá tsídídééh nahalingo | Extreme projection that is barely purple-like | 
-| Ultraviolet [light] rays | Shá t'áá tsídídééh nahalingo  | Radiation that is barely purple-like | 
+| Extreme ultraviolet [light] rays | 'Aghá'deeldlaad t'áá bíyó tsídídééh nahalingo or shá 'aghá'deeldlaad t'áá bíyó tsídídééh nahalingo | Extreme projection that is barely purple-like | 
+| Ultraviolet [light] rays | Shá t'áá bíyó tsídídééh nahalingo  | Radiation that is barely purple-like | 
 
 
 
