@@ -591,6 +591,7 @@ Primary URL for the repository: [OJB-Quantum/Navaho-Linguistics](https://github.
 | T'áá 'áłts'íísígo | Just a small piece | 
 | Hahinidééh | They fall out one after another |
 | 'Ahąąh naaznilígíí | Those that are lying side by side |
+| T'áá ‘ádíjį' | At its termination. The end |
 | Béésh 'áłtsózí | Wire |
 | Lashdóón | Ribbon |
 | Béésh lashdóón | Metal ribbon |
@@ -675,6 +676,8 @@ Primary URL for the repository: [OJB-Quantum/Navaho-Linguistics](https://github.
 | Hanáá' bee | With one's eyes |
 | Hastóí | Elders. Menfolk |
 | Hastóí dahóyáanii | Scientists. Wise men. Savants |
+| ‘Ahidiníłnáago | They pass each other going in different directions |
+
 
 ---
 
