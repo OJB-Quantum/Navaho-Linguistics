@@ -884,7 +884,6 @@ legend:  *  superconducts at ≈ 0 GPa (ambient)          ^  superconducts only 
 | Radiation | Shá or hatsoo'algha k'aa | Radiation in general, whether ionizing or non-ionizing (depends on context). It uses its tongue or his tongue to produce extreme arrows |
 | Light | 'Adinídíín | Light | 
 | Visible rays | Shá dahoot'į́ígíí or shá eii dahoot'į́ígíí | Radiation by which there is visibility. (Could be used to explain visibility techniques beyond the detectibility of the human eye) |
-|  |  |
 | Wave | Yilk'oołígíí | That particular ripple | 
 | X-rays | 'Aghá'deeldlaad or shá 'aghá'deeldlaad | An extreme projection |
 | Gamma rays | 'Aghá'deeldlaad t'áá 'íiyisíí dabidziil or shá 'aghá'deeldlaad t'áá 'íiyisíí dabidziil | An extreme projection that is truly strong | 
@@ -893,7 +892,7 @@ legend:  *  superconducts at ≈ 0 GPa (ambient)          ^  superconducts only 
 
 ---
 
-### 
+### Brief Medical/ Biological Research vs. Quantum Hardware Terminology
 
 | Navaho Term | English Term |
 | :--- | :--- |
@@ -904,6 +903,16 @@ legend:  *  superconducts at ≈ 0 GPa (ambient)          ^  superconducts only 
 | Tóshjeehtso biih ho’dilzho’ dóó béésh ná’iiláahii bee hináanii dóó t'áádoole'é ndaaznilí t'áá 'áłah naalkaah dóó yida'ale' | Big barrel, while inside it, [there is a] sliding [mechanism], and magnets with it, by which a study is done, and pictures are taken of living things or anything that is an inanimate grouped object. [General] **magnetic resonance imaging (MRI)** [technique]. |
 | Bee na'anishí hináanii dóó t'áádoole'é ndaaznilí yida'ale' kindę́ę́' bááh neheeshgizh nahalingo hahinidééh | Apparatus by which pictures are taken of living things or anything that is an inanimate grouped object, similar to sliced bread from the store or shop, that falls out after one another. **Computed Tomography (CT)** [technique]. |
 | 'Agháda' dildlaadí | Examine with an X-ray tool. |
+| Naʼalkid | Temperature or time (depending on context) |
+| Dįį' bich'į'go naʼalkid Kelvin da'azjah | 4 degrees Kelvin |
+| Bee 'azk'azi | Refrigerator. By which [something] is made or kept cold |
+| T'áádoole'é 'ádaal'į́įgi | A factory [of things] | 
+| T'áádoole'é nabíhonitaah bee 'azk'azi | Refrigerator for experiment. Measurement refrigerator or experimental measurement refrigerator |
+| T’áádoole’é nabíhonitaah bee ‘azk’azi ni'góó sizínígíí | Refrigerator for experiment, the one standing on the floor. Floor standing experimental measurement fridge |
+| T’áádoole’é nabíhonitaah bee ‘azk’azi tsoh | Large refrigerator for experiment. Large experimental measurement refrigerator |
+| T’áádoole’é nabíhonitaah t'óshjeehtso bee ‘azk’azi ni'góó sizínígíí or t’áádoole’é nabíhonitaah bee ‘azk’azi ni'góó sizínígíí t'áadoo bitoo' | Refrigerator for experiment, the one standing on the floor. Floor standing experimental measurement fridge. |
+| T’áádoole’é nabíhonitaah bee t'óshjeehtso góne' honeezk'az or t'óshjeehtso góne' honeezk'az Dewar bijoosye' | A big barrel where something is kept cold for experiment(s). Experimental measurement cold keeping barrel. Dewar (large Thermos) |
+| T'óshjeeh góne' honeezk'az | Barrel where it [something] is kept cold | 
 
 ---
 
