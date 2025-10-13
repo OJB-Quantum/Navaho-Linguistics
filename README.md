@@ -430,6 +430,7 @@ Primary URL for the repository: [OJB-Quantum/Navaho-Linguistics](https://github.
 | Bee 'a'nizhi | Tweezers | 
 | Bee 'áté | Due to it. Because of it |
 | Digiz | It is crooked |
+| Shá | For me. Sun. Radiation (in general) |
 | Shá bitł'óól | Sun beam or sun rays |
 | Nahalin | Looks like or seems |
 | Nahalingo | Resembles. While looking alike |
@@ -863,11 +864,12 @@ legend:  *  superconducts at ≈ 0 GPa (ambient)          ^  superconducts only 
 | Radiation | Shá or hatsoo'algha k'aa | Radiation in general, whether ionizing or non-ionizing (depends on context). It uses its tongue to produce extreme arrows |
 | Light | 'Adinídíín | Light | 
 | Visible rays | Shá dahoot'į́ígíí or shá eii dahoot'į́ígíí | Radiation by which there is visibility. (Could be used to explain visibility techniques beyond the detectibility of the human eye) |
+| 
 | Wave | Yilk'oołígíí | That particular ripple | 
 | X-rays | 'Aghá'deeldlaad or shá 'aghá'deeldlaad | An extreme projection |
 | Gamma rays | 'Aghá'deeldlaad t'áá 'íiyisíí dabidziil or shá 'aghá'deeldlaad t'áá 'íiyisíí dabidziil | An extreme projection that is truly strong | 
 | Extreme ultraviolet [light] rays | 'Aghá'deeldlaad t'áá tsídídééh nahalingo or shá 'aghá'deeldlaad t'áá tsídídééh nahalingo | Extreme projection that is barely purple-like | 
-| Ultraviolet [light] rays | Shá t'áá tsídídééh nahalingo  | Extreme projection that is barely purple-like | 
+| Ultraviolet [light] rays | Shá t'áá tsídídééh nahalingo  | Radiation that is barely purple-like | 
 
 
 
