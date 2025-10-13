@@ -682,6 +682,7 @@ Primary URL for the repository: [OJB-Quantum/Navaho-Linguistics](https://github.
 | Hastóí | Elders. Menfolk |
 | Hastóí dahóyáanii | Scientists. Wise men. Savants |
 | ‘Ahidiníłnáago | They pass each other going in different directions |
+| 'ééhéestł'inígíí | Parts |
 
 
 ---
