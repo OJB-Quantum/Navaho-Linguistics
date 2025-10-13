@@ -652,6 +652,8 @@ Primary URL for the repository: [OJB-Quantum/Navaho-Linguistics](https://github.
 | 'ádił | To oneself. In company with oneself |
 | Hináanii | The living things | 
 | Hinání | The one that lives | 
+| Wolyéii | It is called |
+| Wolyéego | Since it is called |
 
 ---
 
