@@ -1391,6 +1391,19 @@ Borrowed from: Gao et al., *Practical Guide for Building Superconducting Quantum
 | Z                | U+005A                 | \u005A                 |
 | z                | U+007A                 | \u007A                 |
 ...
+| Á                | U+00C1                | \u00C1                |
+| Ą                | U+0104                | \u0104                |
+| Ą́               | U+0104 U+0301         | \u0104\u0301           |
+| É                | U+00C9                | \u00C9                |
+| Ę                | U+0118                | \u0118                |
+| Ę́               | U+0118 U+0301         | \u0118\u0301           |
+| Í                | U+00CD                | \u00CD                |
+| Į                | U+012E                | \u012E                |
+| Į́               | U+012E U+0301         | \u012E\u0301           |
+| Ó                | U+00D3                | \u00D3                |
+| Ǫ                | U+01EA                | \u01EA                |
+| Ǫ́               | U+01EA U+0301         | \u01EA\u0301           |
+...
 | aa        | U+0061 U+0061                  | \u0061\u0061            |
 | á         | U+00E1                         | \u00E1                  |
 | áá        | U+00E1 U+00E1                  | \u00E1\u00E1            |
