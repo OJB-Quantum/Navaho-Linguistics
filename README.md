@@ -527,6 +527,14 @@ Primary URL for the repository: [OJB-Quantum/Navaho-Linguistics](https://github.
 | Yilááh/ Bilááh/ Alááh | Beyond | 
 | 'Ayóí | Very. Exceedingly. Remarkably (can be used at the end of a term) | 
 | 'Ayóígo | Very. Exceedingly. Remarkably | 
+| Ndaaz | It is heavy |
+| Ndaaznil | They (inanimate objects) lie about in groups |
+| T'áádoole'é ndaaznil | Things or anything (inanimate) that lies about in groups |
+| 'Ałąą | Separate. Individual. Each. Different. Distinct. Apart. Divide. Varies |
+| 'Ałąą 'át'é | Distinct |
+| 'Ałąą 'ádaat'éii | Different kinds. Different colors |
+| 'Ałąą 'áníłdíilgo | Since they (inanimate objects) are of different sizes |
+| T'áá 'ałąą | Each. Separately. Different. Distinct |
 | 'á'ádaatʼéhígíí | Fundamental. Elements |
 | 'á'ádaatʼéhígíí bitsiniltł'ish shá bik'ehgo siláii | Proton | 
 | 'á'ádaatʼéhígíí bináhaazléí or 'á'ádaatʼéhígíí bináhaazléí bitsiniltł'ish| Electron |
@@ -622,8 +630,6 @@ Primary URL for the repository: [OJB-Quantum/Navaho-Linguistics](https://github.
 | Bee bits'áníłdoi 'ałhaaígíí | By which heat is exchanged |
 | Yił nááhodoolnih | He will tell him again. He will relay the information to him | 
 | Doo beehaz'ą́ąda | It is forbidden | 
-| 'Adéest'į́į́' | Lookout or observation point |
-| Bee 'adéest'į́į́' | By which [one] can look out. Binocular or telescope |
 | Nihídadéét'i' | We have interest in it |
 | Bighan | His house |
 | Ni'góó | On the ground. On the floor |
@@ -657,6 +663,17 @@ Primary URL for the repository: [OJB-Quantum/Navaho-Linguistics](https://github.
 | Wolyéii | It is called |
 | Wolyéego | Since it is called |
 | Saad | Word. Language. Speech |
+| Tózis | Bottle. Jar (usually glass). Tumbler(s) |
+| Tózis bee da'déest'į́į́'ígíí | Telescope. Bottle or glass jar in particular of which can be used for looking out |
+| 'Adéest'į́į́' | Lookout or observation point |
+| Bee 'adéest'į́į́' | By which [one] can look out. Binocular or telescope |
+| Hasht'e' | In order. Settled |
+| Hasht'e dahoolyaa | They were prepared |
+| Hasht'e danile' | You prepare them. You make them ready |
+| Hashtedeiilyaa | We made it ready. We prepared it. We prepared them |
+| Hanáá' bee | With one's eyes |
+| Hastóí | Elders. Menfolk |
+| Hastóí dahóyáanii | Scientists. Wise men. Savants |
 
 ---
 
