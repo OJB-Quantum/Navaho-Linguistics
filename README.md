@@ -478,7 +478,7 @@ Primary URL for the repository: [OJB-Quantum/Navaho-Linguistics](https://github.
 | T'áá 'áhą́ą́dígo | Close together |
 | T'ah kodą́ą́' | Beforehand |
 | 'áháádzogo | It is divided |
-| 'aha'ádzaago | Since or when. They come together | 
+| 'Aha'ádzaago | Since or when. They come together | 
 | T'áá kóníghánígo | At every interval |
 | T'áá 'áłts'íísígo | Small piece |
 | T'áá 'áłch'į́į́dígo | Just a little bit. Just a few |
