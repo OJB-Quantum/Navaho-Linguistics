@@ -476,6 +476,7 @@ Primary URL for the repository: [OJB-Quantum/Navaho-Linguistics](https://github.
 | T'áá 'ákwíí | Every or each one in the same amount |
 | T'áá 'áhą́ą́ | Simultaneously. Frequently. Often. At the same time |
 | T'áá 'áhą́ą́dígo | Close together |
+| T'ah kodą́ą́' | Beforehand |
 | 'áháádzogo | It is divided |
 | 'aha'ádzaago | Since or when. They come together | 
 | T'áá kóníghánígo | At every interval |
