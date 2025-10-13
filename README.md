@@ -650,6 +650,8 @@ Primary URL for the repository: [OJB-Quantum/Navaho-Linguistics](https://github.
 | Dili' | It usually burns | 
 | Ditłi' | It is burning. It is afire |
 | 'ádił | To oneself. In company with oneself |
+| Hináanii | The living things | 
+| Hinání | The one that lives | 
 
 ---
 
