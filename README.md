@@ -400,6 +400,7 @@ Primary URL for the repository: [OJB-Quantum/Navaho-Linguistics](https://github.
 | Dóó | And |
 | Bii' | In. Within. Inside of it (same as biyi') |
 | Bíí' | Theirs. His |
+| Biih | Within or within it. Its interior |
 | Bíí'oh | What is left. What remains |
 | 'ádzaa | It happened. He did | 
 | Yik'ee | Because. On account of |
@@ -639,7 +640,10 @@ Primary URL for the repository: [OJB-Quantum/Navaho-Linguistics](https://github.
 | Shá | Radiation (in general, whether ionizing or non-ionizing depends on context) |
 | Tóshjeehtso biih ho’dilzho’ dóó béésh ná’iiláahii bee hats'íís naalkaah dóó yida'ale' | Big barrel, while inside it, sliding, and magnetic, with it, body, study done and pictures are taken. Magnetic resonance imaging |
 | Niłch'i łikoní | Inflammable gas |
+| Niłch'i łikoní Hiiliiyos bijoosye' | Inflammable gas named after Helios. Helium |
+| Niłch'i łikoní Hiiliiyos bijoosye' éí 'ayóo bił sikaz dóó siil bitoo' nahalingo | Inflammable gas named after Helios, which is extremely cold and resembles distilled water |
 | Bił ‘ahidadii’nilę́ę | Those that were mixed. Those that were put with them | 
+| Bee ha'al'eełí | Strainer | 
 | 'ábidiilyaa | He was made to be |
 | 'ádaalyaa | They were made |
 | 'Atsoos | Blood vessel(s) or nerve(s) |
