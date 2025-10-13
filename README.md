@@ -891,7 +891,19 @@ legend:  *  superconducts at ≈ 0 GPa (ambient)          ^  superconducts only 
 | Extreme ultraviolet [light] rays | 'Aghá'deeldlaad t'áá bíyó tsídídééh nahalingo or shá 'aghá'deeldlaad t'áá bíyó tsídídééh nahalingo | Extreme projection that is barely purple-like | 
 | Ultraviolet [light] rays | Shá t'áá bíyó tsídídééh nahalingo  | Radiation that is barely purple-like | 
 
+---
 
+### 
+
+| Navaho Term | English Term |
+| :--- | :--- |
+| Bee níl'íní | By means of the one that is used to see by you. Viewing instrument or tool. |
+| Ch'osh doo yit'íinii bee níl'íní | By means of the one that is used to see by you on insects that cannot be seen. Viewing instrument for invisible bugs. **Biological microscope**. |
+| 'á'ádaatʼéhígíí doo yit'íinii bee níl'íní | By means of the one that is used to see by you on fundamental or elemental objects [such as an atom] that cannot be seen. Viewing instrument for atoms, which are invisible to the naked eye. **Electron microscope, scanning probe microscope, ion microscope, X-ray microscope, super-resolution microscope**, and others with nanoscale, atomic, or near-atomic scale resolution. |
+| Tóshjeehtso biih ho’dilzho’ dóó béésh ná’iiláahii bee hats'íís naalkaah dóó yida'ale' | Big barrel, while inside it, [there is a] sliding [mechanism], and magnets with it, by which a study is done and pictures are taken of one's body. [Biological] magnetic resonance imaging (MRI) [technique]. |
+| Tóshjeehtso biih ho’dilzho’ dóó béésh ná’iiláahii bee hináanii dóó t'áádoole'é ndaaznilí t'áá 'áłah naalkaah dóó yida'ale' | Big barrel, while inside it, [there is a] sliding [mechanism], and magnets with it, by which a study is done, and pictures are taken of living things or anything that is an inanimate grouped object. [General] **magnetic resonance imaging (MRI)** [technique]. |
+| Bee na'anishí hináanii dóó t'áádoole'é ndaaznilí yida'ale' kindę́ę́' bááh neheeshgizh nahalingo hahinidééh | Apparatus by which pictures are taken of living things or anything that is an inanimate grouped object, similar to sliced bread from the store or shop, that falls out after one another. **Computed Tomography (CT)** [technique]. |
+| 'Agháda' dildlaadí | Examine with an X-ray tool. |
 
 ---
 
@@ -920,15 +932,15 @@ legend:  *  superconducts at ≈ 0 GPa (ambient)          ^  superconducts only 
 | 3  | General Geometry (2-D/ 3-D) Terminology Table                                                    | **Onri**, Mohamad, Mural       | **Completed**        |
 | 4  | Brief Electromagnetic-Spectrum Terminology Table                                                        | **Onri**, Mohamad              | **Completed** |
 | 5  | English-Braille → Navaho-Braille Conversion for Linguistics & Quantum-Ed. <br> (3-D-printing involved) | **Onri**, Noah                 | **Completed**        |
-| 6  | Brief Medical-Hardware vs Quantum-Hardware Terminology Table                                            | **Onri**, Mural, Mohamad       | Partially Completed |
+| 6  | Brief Medical-Hardware vs Quantum-Hardware Terminology Table                                            | **Onri**, Mural, Mohamad       | **Completed** |
 | 7  | Blender 3-D Model of Basic Quantum Devices/ Cryogenic Chambers                                   | **Onri**, Mohamad, Mural        | **Completed**        |
 | 8  | GPU-Accelerated Linguistics/ Semantic-Shift Simulation (Google Colab)                            | **Onri**, Noah, Mural          | **Completed**        |
 | 9  | QPU-Based Linguistics/ Semantic-Shift Simulation (Google Colab)                                  | **Onri**                       | Not Started Yet |
 | 10 | Pseudo-Device: Basic SEM/ High-Res LASER 3-D Imaging Shrinkwrapping in Blender                   | **Onri**                       | Partially Completed |
 | 11 | LaTeX Documentation of the Project (Overleaf + TikZ)                                             | **Onri**                       | **Completed** |
 | 12 | Non-Superconducting Metals Terminology Table                                                     | **Onri**                       | **Completed** |
-| 13 | Superconducting Metals Terminology Table | **Onri** | **Completed** |
-| 14 | Poster of Normal and Superconducting Metals in Navaho | **Onri** | **Completed** |
+| 13 | Superconducting Metals Terminology Table                                                         | **Onri** | **Completed** |
+| 14 | Poster of Normal and Superconducting Metals in Navaho                                            | **Onri** | **Completed** |
 
 > A reasonable goal is to be able to complete 3 to 4 deliverables per month.
 > Employ the leap frog approach, by working on at least 2 deliverables simulataneously, but at a different paces each. 
