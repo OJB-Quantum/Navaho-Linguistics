@@ -454,7 +454,6 @@ Primary URL for the repository: [OJB-Quantum/Navaho-Linguistics](https://github.
 | Na'ólní | Expectation |
 | Bą́ą́h da'ílį́ | Cost or value |
 | 'í'níłdzil | Resistance or endurance | 
-| Hodéezyéél | Noiseless |
 | Wóyah | Low |
 | Wóyahgo na''alkid | Low temperature |
 | 'Anáhoolzhishgo | Time having completed a cycle back to a point |
