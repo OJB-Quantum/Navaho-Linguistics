@@ -1023,8 +1023,6 @@ Notes:
   - Other Germanic Languages
     - **West Germanic**
       - **German** *(Intermediate Receptive)*
-      - **Dutch** *(Intermediate Receptive)*
-      - **Afrikaans** *(Rudimentary Comprehension)*
     - **North Germanic**
       - **Swedish** *(Intermediate Receptive)*
 - **Russian** *(High Comprehension)*
@@ -1034,7 +1032,6 @@ Notes:
       - **Belarusian** *(Intermediate Receptive)*
     - **West Slavic**
       - **Polish** *(Intermediate Receptive)*
-      - **Czech** *(Rudimentary Comprehension)*
     - **South Slavic**
       - **Serbian** *(Intermediate Receptive)*
 
