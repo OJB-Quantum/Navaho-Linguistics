@@ -626,6 +626,8 @@ Primary URL for the repository: [OJB-Quantum/Navaho-Linguistics](https://github.
 | T'áá 'ałch'ishjí | On both sides |
 | T'áá boholniihgi | Anytime. Any place. Any day |
 | T'áá 'áłts'íísígo | Just a small piece | 
+| T'áá 'ákogi na'alkid | It is normal. He has a temperature |
+| Hadaałt'é | It is in a proper state. Normal as it should be | 
 | Hahinidééh | They fall out one after another |
 | 'Ahąąh naaznilígíí | Those that are lying side by side |
 | T'áá ‘ádíjį' | At its termination. The end |
