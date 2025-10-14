@@ -938,6 +938,8 @@ legend:  *  superconducts at ≈ 0 GPa (ambient)          ^  superconducts only 
 | 🔳 Incorporation of hybrid qubit terms, able to future support quantum hardware publication. |
 | 🔳 Potential descriptions of fractals & recursion. |
 | 🔳 Potential contributions to Qiskit/ Qiskit Metal documentation in Navaho (from paper to GitHub pull requests). |
+| 🔳 QPU-Based Linguistics/ Semantic-Shift Simulation (Google Colab)                                  |
+| ✅ GPU-Accelerated Linguistics/ Semantic-Shift Simulation (Google Colab)                            |
 
 > The next table is more formal and organized to allow for team member contribution from the funded version of the the project.
 
@@ -952,13 +954,11 @@ legend:  *  superconducts at ≈ 0 GPa (ambient)          ^  superconducts only 
 | 5  | English-Braille → Navaho-Braille Conversion for Linguistics & Quantum-Ed. <br> (3-D-printing involved) | **Onri**, Noah                 | **Completed**        |
 | 6  | Brief Medical-Hardware vs Quantum-Hardware Terminology Table                                            | **Onri**, Mural, Mohamad       | **Completed** |
 | 7  | Blender 3-D Model of Basic Quantum Devices/ Cryogenic Chambers                                   | **Onri**, Mohamad, Mural        | **Completed**        |
-| 8  | GPU-Accelerated Linguistics/ Semantic-Shift Simulation (Google Colab)                            | **Onri**, Noah, Mural          | **Completed**        |
-| 9  | QPU-Based Linguistics/ Semantic-Shift Simulation (Google Colab)                                  | **Onri**                       | Not Started Yet |
-| 10 | Pseudo-Device: Basic SEM/ High-Res LASER 3-D Imaging Shrinkwrapping in Blender                   | **Onri**                       | Partially Completed |
-| 11 | LaTeX Documentation of the Project (Overleaf + TikZ)                                             | **Onri**                       | **Completed** |
-| 12 | Non-Superconducting Metals Terminology Table                                                     | **Onri**                       | **Completed** |
-| 13 | Superconducting Metals Terminology Table                                                         | **Onri** | **Completed** |
-| 14 | Poster of Normal and Superconducting Metals in Navaho                                            | **Onri** | **Completed** |
+| 8 | Pseudo-Device + Layouts: Basic SEM/ High-Res LASER 3-D Imaging Shrinkwrapping in Blender                   | **Onri**                       | Partially Completed |
+| 9 | LaTeX Documentation of the Project (Overleaf + TikZ)                                             | **Onri**                       | **Completed** |
+| 10 | Non-Superconducting Metals Terminology Table                                                     | **Onri**                       | **Completed** |
+| 11 | Superconducting Metals Terminology Table                                                         | **Onri** | **Completed** |
+| 12 | Poster of Normal and Superconducting Metals in Navaho                                            | **Onri** | **Completed** |
 
 > A reasonable goal is to be able to complete 3 to 4 deliverables per month.
 > Employ the leap frog approach, by working on at least 2 deliverables simulataneously, but at a different paces each. 
