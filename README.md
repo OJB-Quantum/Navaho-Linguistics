@@ -144,7 +144,20 @@ Primary URL for the repository: [OJB-Quantum/Navaho-Linguistics](https://github.
 
 ### Cryogenic Dilution Refrigerator Measurement System in Navaho by Onri
 
-<img width="3530" height="auto" alt="image" src="https://github.com/user-attachments/assets/b55ca66d-3f77-49ff-b32c-ae140700f0c0" />
+<img width="3493" height="auto" alt="image" src="https://github.com/user-attachments/assets/734451a3-3a22-415a-86b0-c7b382f2dd3c" />
+
+---
+
+### Dilution Refrigerator Components for Quantum Computer Explained in Navaho
+
+<img width="3348" height="auto" alt="image" src="https://github.com/user-attachments/assets/f1881ef9-c067-4a54-bdaf-db37c8520127" />
+
+---
+
+### Cryogenic Vessels and Cryostats Explained in Navaho by Onri 
+
+<img width="3287" height="auto" alt="image" src="https://github.com/user-attachments/assets/7faa7486-d5ad-48b0-acab-9f9234b4fc4a" />
+
 
 ---
 
@@ -164,8 +177,30 @@ Primary URL for the repository: [OJB-Quantum/Navaho-Linguistics](https://github.
 
 <img width="2512" height="auto" alt="image" src="https://github.com/user-attachments/assets/ff6ab061-7983-49a3-b7a7-0bdb9e11fa9a" />
 
+---
+
+### Superconducting Transmon Trilayers Shown in Navaho by Onri 
+
+<img width="3759" height="auto" alt="image" src="https://github.com/user-attachments/assets/c92573c9-1b43-4935-b71b-52df24d3cdd4" />
+
 
 ---
+
+### Superconducting Quantum Limited Amplifier Shown In Navaho by Onri
+
+<img width="3759" height="auto" alt="image" src="https://github.com/user-attachments/assets/f5e9e6c3-48f9-485d-aa36-f58054b9e912" />
+
+---
+
+### Spin-Orbit Torque Magnetic Memory Cell Shown in Navaho by Onri
+
+<img width="3219" height="auto" alt="image" src="https://github.com/user-attachments/assets/338cde37-fe12-42ad-8630-3015a8a02643" />
+
+
+---
+
+
+
 
 ### Linguistic Idea Table Aimed Toward Translation Use
 
