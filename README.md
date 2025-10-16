@@ -29,7 +29,7 @@ Primary URL for the repository: [OJB-Quantum/Navaho-Linguistics](https://github.
 
 | English Term       | Navaho/ Navajo Term                            | Literal Meaning in English                              |
 |--------------------|------------------------------------------------|---------------------------------------------------------|
-| quantum computer   | béésh tʼáá 'aníí 'á'ádaatʼéhígíí nitsékeesí   | Metal or piece of metal that thinks at a truly fundamental level |
+| quantum <br> computer   | béésh t'áá 'aníí <br> 'á'ádaatʼéhígíí nitsékeesí | Metal or piece of metal that thinks at <br> a truly fundamental level |
 
 ---
 
