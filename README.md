@@ -144,7 +144,7 @@ Primary URL for the repository: [OJB-Quantum/Navaho-Linguistics](https://github.
 
 ### Schrodinger's Cat Saying a Greeting in Navaho by Onri
 
-<img width="2545" height="2300" alt="Screenshot 2025-10-16 083733" src="https://github.com/user-attachments/assets/5499285f-2914-48f8-a1b8-42435cb803f1" />
+<img width="2545" height="auto" alt="Screenshot 2025-10-16 083733" src="https://github.com/user-attachments/assets/5499285f-2914-48f8-a1b8-42435cb803f1" />
 
 
 ---
