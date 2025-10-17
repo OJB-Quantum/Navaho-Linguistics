@@ -977,6 +977,7 @@ legend:  *  superconducts at ≈ 0 GPa (ambient)          ^  superconducts only 
 
 
 ## Project Roles for Onri's Navaho Linguistics for QHW Education Team (July – October 2025)
+
 | #  | Project Deliverable                                                                              | Core Participants              | Current Status             |
 | -- | ------------------------------------------------------------------------------------------------- | ------------------------------ | -------------------------- |
 | 1  | Language-Tree Formation for the Team                                                              | **Onri**, Noah, Mural, Mohamad | **Completed**              |
