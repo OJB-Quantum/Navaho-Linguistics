@@ -142,13 +142,20 @@ Primary URL for the repository: [OJB-Quantum/Navaho-Linguistics](https://github.
 
 ---
 
+### Schrodinger's Cat Saying a Greeting in Navaho by Onri
+
+<img width="2545" height="2300" alt="Screenshot 2025-10-16 083733" src="https://github.com/user-attachments/assets/5499285f-2914-48f8-a1b8-42435cb803f1" />
+
+
+---
+
 ### Cryogenic Dilution Refrigerator Measurement System with Temperature Stages in Navaho by Onri
 
 <img width="3475" height="auto" alt="Navaho Dilution Refrigerator " src="https://github.com/user-attachments/assets/4df5f35b-29bd-4cf4-bc59-f5de6c909e55" />
 
 ---
 
-### Dilution Refrigerator Components for Quantum Computer Explained in Navaho
+### Dilution Refrigerator Components for Quantum Computer Explained in Navaho by Onri
 
 <img width="3705" height="auto" alt="Dilution Fridge in Navaho" src="https://github.com/user-attachments/assets/0ed91735-c481-4d94-8c3c-18cb6aeb5bbd" />
 
@@ -182,7 +189,7 @@ Primary URL for the repository: [OJB-Quantum/Navaho-Linguistics](https://github.
 
 ### Spin-Orbit Torque Magnetic Memory Cell Shown in Navaho by Onri
 
-<img width="3219" height="auto" alt="image" src="https://github.com/user-attachments/assets/338cde37-fe12-42ad-8630-3015a8a02643" />
+<img width="3202" height="auto" alt="SOT MTJ in Navaho" src="https://github.com/user-attachments/assets/3462ef62-6b45-4535-ac87-232a71a67c9a" />
 
 
 ---
