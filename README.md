@@ -927,7 +927,7 @@ legend:  *  superconducts at ≈ 0 GPa (ambient)          ^  superconducts only 
 
 | English Term                    | Navaho Term                          | Literal Meaning                              |
 | ------------------------------- | ------------------------------------ | -------------------------------------------- |
-| Radiation | Shá or hatsoo'algha k'aa | Radiation in general, whether ionizing or non-ionizing (depends on context). It uses its tongue or his tongue to produce extreme arrows |
+| Radiation | Shá or hatsoo'algha k'aa | Radiation in general, whether ionizing or non-ionizing (depends on context). It uses its tongue or his tongue to produce extreme arrows or poisonous effects |
 | Light | 'Adinídíín | Light | 
 | Visible rays | Shá dahoot'į́ígíí or shá eii dahoot'į́ígíí | Radiation by which there is visibility. (Could be used to explain visibility techniques beyond the detectibility of the human eye) |
 | Wave | Yilk'oołígíí | That particular ripple | 
