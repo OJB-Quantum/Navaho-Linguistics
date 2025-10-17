@@ -1281,9 +1281,10 @@ MXC: Mixing Chamber
 
 ### Below are some figures of O.J.B.'s Navaho/ Navajo two-part translation model:
 
-![312886653-c3bbb6cd-a1bb-480f-9fb0-40e771973f84](https://github.com/user-attachments/assets/180f416d-1140-4e62-98e5-00995d276a7a)
+<img width="3420" height="auto" alt="image" src="https://github.com/user-attachments/assets/13a8916d-4963-4aeb-a90a-374353d7d616" />
 
-![312886676-391e17b4-cc45-4662-958b-534af8f6aaba](https://github.com/user-attachments/assets/cfb75dba-4daf-4463-a720-2e2d54fed90d)
+<img width="2718" height="auto" alt="image" src="https://github.com/user-attachments/assets/171b8d3e-80af-44f8-a7c4-129f5cd4d2f9" />
+
 
 ![image](https://github.com/user-attachments/assets/4bb53477-5aff-4bbe-89be-d02e0109466f)
 
@@ -1302,23 +1303,23 @@ Borrowed from: Gao et al., *Practical Guide for Building Superconducting Quantum
 
 
 ## Bluefors XLDsl Dilution Refrigerator (Pulse Tube XL Floor Type)
-<img width="3840" height="3840" alt="Bluefors XLDsl_001" src="https://github.com/user-attachments/assets/6bcb914e-643e-4702-a3d5-92c2decaf7dc" />
+<img width="3840" height="auto" alt="Bluefors XLDsl_001" src="https://github.com/user-attachments/assets/6bcb914e-643e-4702-a3d5-92c2decaf7dc" />
 
 > Rendered in Blender.
 
 
 ## Jopesphson Junctions on a Chip Layout, Next to a Flux Line
-<img width="3840" height="2400" alt="SC Meta Material Chip 003" src="https://github.com/user-attachments/assets/c3c6ecfe-fff6-47a1-97cc-526e0b5ae4d8" />
+<img width="3840" height="auto" alt="SC Meta Material Chip 003" src="https://github.com/user-attachments/assets/c3c6ecfe-fff6-47a1-97cc-526e0b5ae4d8" />
 
 > Rendered in Blender.
 
 ## Simplified Quantum Computing Workflow
-<img width="2935" height="1669" alt="image" src="https://github.com/user-attachments/assets/0179180b-ca26-475a-b9c3-f4e1ce846abc" />
+<img width="2935" height="auto" alt="image" src="https://github.com/user-attachments/assets/0179180b-ca26-475a-b9c3-f4e1ce846abc" />
 
 > Image courtesy of Dr. Olivia Lanes via Qiskit on YouTube.
 
 ## Gate-Based Quantum Computing Workflow
-<img width="3050" height="1587" alt="image" src="https://github.com/user-attachments/assets/6a9878ae-e0c0-45bc-aeb9-133a7255d9a2" />
+<img width="3050" height="auto" alt="image" src="https://github.com/user-attachments/assets/6a9878ae-e0c0-45bc-aeb9-133a7255d9a2" />
 
 > Showing classical data inputs and classical data outputs, which should be paid close attention to if one desires to build a real quantum computer. Note that one of the main goals in the practical setup of quantum computers is the manipulation of “the quantum object”, which is a size-dependent device or atomic structure, with a natural or designed resonance frequency. This also means that it is typically placed under isolated physical conditions as well (e.g. refrigeration, vacuum sealing, radiation shielding, etc.). Courtesy of Olivier Ezratty’s Understanding Quantum Technologies 2024 book.
 
