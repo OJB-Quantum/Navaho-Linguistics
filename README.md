@@ -29,7 +29,7 @@ Primary URL for the repository: [OJB-Quantum/Navaho-Linguistics](https://github.
 
 | English Term       | Navaho/ Navajo Term                            | Literal Meaning in English                              |
 |--------------------|------------------------------------------------|---------------------------------------------------------|
-| quantum computer   | béésh tʼáá 'aníí 'á'ádaatʼéhígíí nitsékeesí   | Metal or piece of metal that thinks at a truly fundamental level |
+| quantum computer   | béésh t'áá 'aníí 'á'ádaatʼéhígíí nitsékeesí | Metal or piece of metal that thinks at a truly fundamental level |
 
 ---
 
@@ -45,11 +45,11 @@ Primary URL for the repository: [OJB-Quantum/Navaho-Linguistics](https://github.
 
 | **Navaho** | **English**  |
 |-|-|
-| Díí 'áʼádaatʼéhígíí náás góne'é t'áá kóníghánígo 'akwe'é 'ahóodziil doo bee 'atsiniltł'ish biyi' 'asdizígíí éídí 'í'neel'ąąh 'áádóó yidísin. T'áá bééhodoozįįł yił 'ałhii'níná’iidzóóh nida'ałkáá'ii' Schrödinger doo Pauli doo Dirac bits’ą́ą́dę́ę́ nihinááł. | In fundamental or elemental objects such as an atom, further within it, all at short intervals here, is energy that one can observe, and from there, measure it, as well as its electron spin [depending on which measurement tool is used]. It must be explained with [the language of] mathematics that we can see, derived by Professors Schrodinger, Pauli, and Dirac. | 
+| Díí 'áʼádaatʼéhígíí náás góne'é t'áá kóníghánígo 'akwe'é 'ahóodziil doo bee 'atsiniltł'ish biyi' 'asdizígíí éídí 'í'neel'ąąh 'áádóó yidísin. T'áá bééhodoozįįł yił 'ałhii'níná’iidzóóh nida'ałkáá'ii' Schrödinger dóó Pauli dóó Dirac bits’ą́ą́dę́ę́ nihinááł 'áádóó bee béédahodoozįįł. | In fundamental or elemental objects such as an atom, further within it, at short intervals here, is energy that one can observe, and from there, measure it, as well as its electron spin [depending on which measurement tool is used]. It must be explained with [the language of] mathematics that we can watch or observe and of which can be studied to learn more, introduced by Professors Schrodinger, Pauli, and Dirac. | 
 
 ### Navajo Braille Transcription of Quantum Mechanics Introduction (Unicode Braille Cells)
 
-⠠⠙⠌⠌ ⠄⠷⠄⠷⠙⠁⠁⠞⠄⠮⠓⠌⠛⠌⠌ ⠝⠷⠷⠎ ⠛⠬⠝⠑⠄⠮ ⠞⠄⠷⠷ ⠅⠬⠝⠌⠛⠓⠷⠝⠌⠛⠕ ⠄⠁⠅⠺⠑⠄⠮ ⠄⠁⠓⠬⠕⠕⠙⠵⠊⠊⠇ ⠙⠕⠕ ⠃⠑⠑ ⠄⠁⠞⠎⠊⠝⠊⠇⠞⠹⠄⠊⠎⠓ ⠃⠊⠽⠊⠄ ⠄⠁⠎⠙⠊⠦⠛⠌⠌ ⠮⠌⠙⠌ ⠄⠌⠄⠝⠑⠑⠇⠄⠨⠁⠨⠁⠓ ⠄⠷⠷⠙⠬⠬ ⠽⠊⠙⠌⠎⠊⠝⠲ ⠠⠞⠄⠷⠷ ⠃⠮⠮⠓⠕⠙⠕⠕⠵⠔⠌⠌⠹ ⠽⠊⠹ ⠁⠹⠓⠊⠊⠄⠝⠌⠝⠷⠄⠊⠊⠙⠵⠬⠬⠓ ⠝⠊⠙⠁⠄⠁⠹⠅⠷⠷⠄⠊⠊⠄ ⠠⠎⠉⠓⠗⠘⠒⠕⠙⠊⠝⠛⠑⠗ ⠙⠕⠕ ⠠⠏⠁⠥⠇⠊ ⠙⠕⠕ ⠠⠙⠊⠗⠁⠉ ⠃⠊⠞⠎⠄⠨⠁⠨⠁⠙⠨⠑⠨⠑ ⠝⠊⠓⠊⠝⠷⠷⠹⠲
+⠠⠙⠌⠌ ⠄⠷⠄⠷⠙⠁⠁⠞⠄⠮⠓⠌⠛⠌⠌ ⠝⠷⠷⠎ ⠛⠬⠝⠑⠄⠮ ⠞⠄⠷⠷ ⠅⠬⠝⠌⠛⠓⠷⠝⠌⠛⠕ ⠄⠁⠅⠺⠑⠄⠮ ⠄⠁⠓⠬⠕⠙⠵⠊⠊⠇ ⠙⠕⠕ ⠃⠑⠑ ⠄⠁⠞⠎⠊⠝⠊⠇⠞⠹⠄⠊⠎⠓ ⠃⠊⠽⠊⠄ ⠄⠁⠎⠙⠊⠵⠌⠛⠌⠌ ⠮⠌⠙⠌ ⠄⠌⠄⠝⠑⠑⠇⠄⠨⠁⠨⠁⠓ ⠄⠷⠷⠙⠬⠬ ⠽⠊⠙⠌⠎⠊⠝⠲ ⠠⠞⠄⠷⠷ ⠃⠮⠮⠓⠕⠙⠕⠕⠵⠨⠊⠨⠊⠹ ⠽⠊⠹ ⠄⠁⠹⠓⠊⠊⠄⠝⠌⠝⠷⠄⠊⠊⠙⠵⠬⠬⠓ ⠝⠊⠙⠁⠄⠁⠹⠅⠷⠷⠄⠊⠊⠄ ⠠⠎⠉⠓⠗⠘⠒⠕⠙⠊⠝⠛⠑⠗ ⠙⠬⠬ ⠠⠏⠁⠥⠇⠊ ⠙⠬⠬ ⠠⠙⠊⠗⠁⠉ ⠃⠊⠞⠎⠄⠨⠷⠨⠷⠙⠨⠮⠨⠮ ⠝⠊⠓⠊⠝⠷⠷⠹ ⠄⠷⠷⠙⠬⠬ ⠃⠑⠑ ⠃⠮⠮⠙⠁⠓⠕⠙⠕⠕⠵⠨⠊⠨⠊⠹⠲
 
 ---
 
@@ -142,12 +142,60 @@ Primary URL for the repository: [OJB-Quantum/Navaho-Linguistics](https://github.
 
 ---
 
-### Cryogenic Dilution Refrigerator Measurement System in Navaho by Onri
+### Schrodinger's Cat Saying a Greeting in Navaho by Onri
 
-<img width="3530" height="auto" alt="image" src="https://github.com/user-attachments/assets/b55ca66d-3f77-49ff-b32c-ae140700f0c0" />
+<img width="2545" height="auto" alt="Screenshot 2025-10-16 083733" src="https://github.com/user-attachments/assets/5499285f-2914-48f8-a1b8-42435cb803f1" />
 
 
 ---
+
+### Cryogenic Dilution Refrigerator Measurement System with Temperature Stages in Navaho by Onri
+
+<img width="3475" height="auto" alt="Navaho Dilution Refrigerator " src="https://github.com/user-attachments/assets/4df5f35b-29bd-4cf4-bc59-f5de6c909e55" />
+
+---
+
+### Dilution Refrigerator Components for Quantum Computer Explained in Navaho by Onri
+
+<img width="3705" height="auto" alt="Dilution Fridge in Navaho" src="https://github.com/user-attachments/assets/0ed91735-c481-4d94-8c3c-18cb6aeb5bbd" />
+
+---
+
+### Cryogenic Vessels and Cryostats Explained in Navaho by Onri 
+
+<img width="3297" height="auto" alt="Cryogenic Vessels and Cryostats in Navaho" src="https://github.com/user-attachments/assets/5c52155c-c828-4a49-bcab-97c647c2952c" />
+
+
+---
+
+### Cryogenic Cable Examples in Navaho by Onri and Team
+
+<img width="3210" height="auto" alt="Cryogenic Cables in Navaho" src="https://github.com/user-attachments/assets/7cdcbec8-31ab-4cf0-be5b-79ba5f4c98a2" />
+
+---
+
+### Superconducting Transmon Trilayers Shown in Navaho by Onri 
+
+<img width="3759" height="auto" alt="image" src="https://github.com/user-attachments/assets/c92573c9-1b43-4935-b71b-52df24d3cdd4" />
+
+
+---
+
+### Superconducting Quantum Limited Amplifier Shown In Navaho by Onri
+
+<img width="3759" height="auto" alt="image" src="https://github.com/user-attachments/assets/f5e9e6c3-48f9-485d-aa36-f58054b9e912" />
+
+---
+
+### Spin-Orbit Torque Magnetic Memory Cell Shown in Navaho by Onri
+
+<img width="3202" height="auto" alt="SOT MTJ in Navaho" src="https://github.com/user-attachments/assets/3462ef62-6b45-4535-ac87-232a71a67c9a" />
+
+
+---
+
+
+
 
 ### Linguistic Idea Table Aimed Toward Translation Use
 
@@ -359,7 +407,7 @@ Primary URL for the repository: [OJB-Quantum/Navaho-Linguistics](https://github.
 | Ná' | Again |
 | -go | Since, because, when, during, while, being, -ly |
 | -góó | To, towards, or extension of |
-| -di | Times (scaled up/ down by) or at |
+| -di | At or times (scaled up/ down by) |
 | -gi | At |
 | -ígíí | A particular one that is |
 | -ii | Similar to -er in English. A person or thing that does an action indicated by the root verb. Similar to -er in English. A person or thing that does an action indicated by the root verb. That which is of <adjective> quality. That which <verb(s)>. Of which |
@@ -371,14 +419,18 @@ Primary URL for the repository: [OJB-Quantum/Navaho-Linguistics](https://github.
 | Eii | That one there. That one. That (nearby) |
 | Eidí | That one near you |
 | Eidíígíí | That very one |
+| Eíyá | Only. Exclusively. Specifically |
 | Díí | This. These |
 | Díidí | This one. These |
 | Díidíígíí | Particularly this one |
+| Łeh | Usually or customarily |
 | T'áá | Just, quite, only, kind of, or sort of |
 | T'óó | Quite, just, merely, just for fun |
+| Dó' | Too. Also |
 | Dóó | And |
 | Bii' | In. Within. Inside of it (same as biyi') |
 | Bíí' | Theirs. His |
+| Biih | Within or within it. Its interior |
 | Bíí'oh | What is left. What remains |
 | 'ádzaa | It happened. He did | 
 | Yik'ee | Because. On account of |
@@ -395,7 +447,6 @@ Primary URL for the repository: [OJB-Quantum/Navaho-Linguistics](https://github.
 | Bichą́ąhji' hazlį́į́' | It replaced it |
 | Bideiijígo | Above it or upper distant side of it |
 | Biyaiijígo | Below it or beneath it |
-| 'Ałnį́į'gi | At the middle. In the center |
 | Bi'oh | Less than it |
 | Bi'oh neel'ą́ | Insufficient for them or too little for it  |
 | Ditą́ | It is deep (as water). It is thick | 
@@ -410,7 +461,9 @@ Primary URL for the repository: [OJB-Quantum/Navaho-Linguistics](https://github.
 | Bee 'a'nizhi | Tweezers | 
 | Bee 'áté | Due to it. Because of it |
 | Digiz | It is crooked |
+| Shá | For me. Sun. Radiation (in general) |
 | Shá bitł'óól | Sun beam or sun rays |
+| Shą́ą'ji' | In the sunshine |
 | Nahalin | Looks like or seems |
 | Nahalingo | Resembles. While looking alike |
 | Bee na'anishí | By means of the one is used to work. Tool or instrument or apparatus |
@@ -432,7 +485,6 @@ Primary URL for the repository: [OJB-Quantum/Navaho-Linguistics](https://github.
 | Na'ólní | Expectation |
 | Bą́ą́h da'ílį́ | Cost or value |
 | 'í'níłdzil | Resistance or endurance | 
-| Hodéezyéél | Noiseless |
 | Wóyah | Low |
 | Wóyahgo na''alkid | Low temperature |
 | 'Anáhoolzhishgo | Time having completed a cycle back to a point |
@@ -454,12 +506,13 @@ Primary URL for the repository: [OJB-Quantum/Navaho-Linguistics](https://github.
 | T'áá 'ákwíí | Every or each one in the same amount |
 | T'áá 'áhą́ą́ | Simultaneously. Frequently. Often. At the same time |
 | T'áá 'áhą́ą́dígo | Close together |
+| T'ah kodą́ą́' | Beforehand |
 | 'áháádzogo | It is divided |
-| 'aha'ádzaago | Since or when. They come together | 
+| 'Aha'ádzaago | Since or when. They come together | 
 | T'áá kóníghánígo | At every interval |
 | T'áá 'áłts'íísígo | Small piece |
 | T'áá 'áłch'į́į́dígo | Just a little bit. Just a few |
-| T'áá bíyó | A little bit. Mildly. Slightly. Kind of |
+| T'áá bíyó | A little bit. Mildly. Slightly. Kind of. Somewhat. Rather |
 | Yidísin | He/ she/ one observes |
 | Nánísh'įįh | To look at it. I am watching it |
 | Haalzííd | It is being watched |
@@ -488,24 +541,38 @@ Primary URL for the repository: [OJB-Quantum/Navaho-Linguistics](https://github.
 | T’áádoole’é nabíhonitaah bee ‘azk’azi tsoh | Large refrigerator for experiment. Large experimental measurement refrigerator |
 | T’áádoole’é nabíhonitaah t'óshjeehtso bee ‘azk’azi ni'góó sizínígíí or t’áádoole’é nabíhonitaah bee ‘azk’azi ni'góó sizínígíí t'áadoo bitoo' | Refrigerator for experiment, the one standing on the floor. Floor standing experimental measurement fridge. |
 | T’áádoole’é nabíhonitaah bee t'óshjeehtso góne' honeezk'az or t'óshjeehtso góne' honeezk'az Dewar bijoosye' | A big barrel where something is kept cold for experiment(s). Experimental measurement cold keeping barrel. Dewar (large Thermos) |
-| T'óshjeeh góne' honeezk'az | Barrel where it [something] is kept cold |
+| T'óshjeeh góne' honeezk'az | Barrel where it [something] is kept cold | 
 | Ni'góó sizínígíí | The one who is standing on the floor | 
-| Sizínígíí | The one who is standing |
-| T'óshjeeh | Water barrel. Can be used to describe barrel-shaped objects in general |
-| T'óshjeehtso | Big water barrel. Large water barrel. Can be used to describe large barrel-shaped objects in general |
+| Sizínígíí | The one who is standing | 
+| T'óshjeeh | Water barrel. Can be used to describe barrel-shaped objects in general | 
+| T'óshjeehtso | Big water barrel. Large water barrel. Can be used to describe large barrel-shaped objects in general | 
 | Bá haz'ání góne' | A space for it. A place for it | 
 | Honeezk'az | To keep cool or to keep cold | 
-| Honeezk'ází | It (an area) is cool or cold |
-| 'Ayóo/ 'Ayóó | Very. Extremely |
-| 'Ayóogo | Really |
-| 'Agháadi | Extreme |
+| Honeezk'ází | It (an area) is cool or cold | 
+| 'Ayóo/ 'Ayóó | Very. Extremely | 
+| 'Ayóogo | Really | 
+| 'Agháadi | Extreme | 
 | 'Agháadi yá'át'ééh | Excellent | 
-| 'Agháadi yá'át'ééhígíí | Best |
-| 'Aghá | Best, utmost |
-| Yilááh/ Bilááh/ Alááh | Beyond |
-| 'Ayóí | Very. Exceedingly. Remarkably (can be used at the end of a term) |
-| 'Ayóígo | Very. Exceedingly. Remarkably |
+| 'Agháadi yá'át'ééhígíí | Best | 
+| 'Aghá | Best, utmost | 
+| Yilááh/ Bilááh/ Alááh | Beyond | 
+| 'Ayóí | Very. Exceedingly. Remarkably (can be used at the end of a term) | 
+| 'Ayóígo | Very. Exceedingly. Remarkably | 
+| Ndaaz | It is heavy |
+| Ndaaznil | They (inanimate objects) lie about in groups |
+| T'áádoole'é ndaaznil | Things or anything (inanimate) that lies about in groups |
+| 'Ałąą | Separate. Individual. Each. Different. Distinct. Apart. Divide. Varies |
+| 'Ałąą 'át'é | Distinct |
+| 'Ałąą 'ádaat'éii | Different kinds. Different colors |
+| 'Ałąą 'áníłdíilgo | Since they (inanimate objects) are of different sizes |
+| T'áá 'ałąą | Each. Separately. Different. Distinct |
 | 'á'ádaatʼéhígíí | Fundamental. Elements |
+| 'á'ádaatʼéhígíí bitsiniltł'ish shá bik'ehgo siláii | Proton | 
+| 'á'ádaatʼéhígíí bináhaazléí or 'á'ádaatʼéhígíí bináhaazléí bitsiniltł'ish| Electron |
+| 'á'ádaatʼéhígíí ahii'sinilgo bitsiniltł'ish hólǫ́ | Ion |
+| Nishigizh | Diffusion (of materials at the atomic or molecular level) |
+| T'áádoole'é łahgo áániił | Chemical reaction |
+| Bik'ehgo na'alkaahii | Theory |
 | 'áhóót'įįdii | Occurence |
 | Neestł'ah | Interfere with. Mitigated. Arrested |
 | Bizaad | His language. His words |
@@ -527,7 +594,7 @@ Primary URL for the repository: [OJB-Quantum/Navaho-Linguistics](https://github.
 | Yilk'oołígíí | Wave | 
 | Yilk'ooł | Wave ripples | 
 | Yilk'oołígíí nahalingo bee neestł'ah | Wave-like interference |
-| 'Adinídíín | Light |
+| 'Adinídíín | Light | 
 | Dínéest'ą́ | It started to grow |
 | Jiłąąh | to increase | 
 | Naas konadazaa | It increased again |
@@ -554,6 +621,11 @@ Primary URL for the repository: [OJB-Quantum/Navaho-Linguistics](https://github.
 | T'áá 'ałch'ishjí | On both sides |
 | T'áá boholniihgi | Anytime. Any place. Any day |
 | T'áá 'áłts'íísígo | Just a small piece | 
+| T'áá 'ákogi na'alkid | It is normal. He has a temperature |
+| Hadaałt'é | It is in a proper state. Normal as it should be | 
+| Hahinidééh | They fall out one after another |
+| 'Ahąąh naaznilígíí | Those that are lying side by side |
+| T'áá ‘ádíjį' | At its termination. The end |
 | Béésh 'áłtsózí | Wire |
 | Lashdóón | Ribbon |
 | Béésh lashdóón | Metal ribbon |
@@ -577,7 +649,7 @@ Primary URL for the repository: [OJB-Quantum/Navaho-Linguistics](https://github.
 | Bee ídaʼneelʼąąhí | Tape measure. Ruler. Yardstick. Something to measure by (in general) |
 | Bee 'í'diiljeehí | Adhesive tape |
 | Bee 'ahída'diiljeehí | Glue or solder. Something by which things can stick together |
-| íʼneelʼąąh | Measurement or magnitude determined by measuring |
+| 'íʼneelʼąąh | Measurement or magnitude determined by measuring |
 | 'áníłtso | Size of or as big as |
 | 'á'ádaatʼéhígíí bi bee 'ahída'diiljeehí | Glue by which elements can stick together |
 | Bits'áda'deezdíín | Gleaming. Shining. Throwing off light |
@@ -594,15 +666,56 @@ Primary URL for the repository: [OJB-Quantum/Navaho-Linguistics](https://github.
 | Bee bits'áníłdoi 'ałhaaígíí | By which heat is exchanged |
 | Yił nááhodoolnih | He will tell him again. He will relay the information to him | 
 | Doo beehaz'ą́ąda | It is forbidden | 
-| 'Adéest'į́į́' | Lookout or observation point |
-| Bee 'adéest'į́į́' | By which [one] can look out. Binocular or telescope |
 | Nihídadéét'i' | We have interest in it |
 | Bighan | His house |
 | Ni'góó | On the ground. On the floor |
 | Ni'góó sitį́įgo | While he lay on the ground |
 | Shá | Radiation (in general, whether ionizing or non-ionizing depends on context) |
-| Tóshjeehtso biih ho’dilzho’ dóó béésh ná’iiláahii bee hats'íís naalkaah dóó yida'ale' | Big barrel, while inside it, sliding, and magnetic, with it, body, study done and pictures are taken . Magnetic resonance imaging |
-| 'ál'į́įgi | The technique of making. The making of. How to make | 
+| Tóshjeehtso biih ho’dilzho’ dóó béésh ná’iiláahii bee hats'íís naalkaah dóó yida'ale' | Big barrel, while inside it, sliding, and magnetic, with it, body, study done and pictures are taken. Magnetic resonance imaging |
+| Niłch'i łikoní | Inflammable gas |
+| Niłch'i łikoní Hiiliiyos bijoosye' | Inflammable gas named after Helios. Helium |
+| Niłch'i łikoní Hiiliiyos bijoosye' éí 'ayóo bił sikaz dóó siil bitoo' nahalingo | Inflammable gas named after Helios, which is extremely cold and resembles distilled water |
+| Bił ‘ahidadii’nilę́ę | Those that were mixed. Those that were put with them | 
+| Bee ha'al'eełí | Strainer | 
+| 'ábidiilyaa | He was made to be |
+| 'ádaalyaa | They were made |
+| 'Atsoos | Blood vessel(s) or nerve(s) |
+| 'Atsoos yita' | Pulse |
+| 'Atsoos yita'gi | Pulsation of <insert term> |
+| 'Atsóóz | Nerves |
+| 'Atsoos łichí'ígíí | Artery (that which is red) |
+| 'Atsoos dootł'izhígíí | Vein (that which is blue) |
+| 'Atsoostsoh dootł'izhígíí | Vein (that which is blue) |
+| 'Atsoos dahiyiiye' | Varicose veins |
+| Łe' oogeed | Storage pit or cellar |
+| T'áá 'ííshjání | Visible. Plainly. Unmistakeable. Evidently. Conspicious | 
+| Yisk'is | To crack or be cracked. Very fine, barely visible crack | 
+| K'asdą́ą́ | Almost. Nearly. About to | 
+| K'adí | That is all. That is enough. Quit it |
+| Ho’dilzho’ | To slide (on something, like a guide or rail) | 
+| Beda'alyaa | The images of it. Copies of (like photographs, statues, duplicates) |
+| Dili' | It usually burns | 
+| Ditłi' | It is burning. It is afire |
+| 'ádił | To oneself. In company with oneself |
+| Hináanii | The living things | 
+| Hinání | The one that lives | 
+| Wolyéii | It is called |
+| Wolyéego | Since it is called |
+| Saad | Word. Language. Speech |
+| Tózis | Bottle. Jar (usually glass). Tumbler(s) |
+| Tózis bee da'déest'į́į́'ígíí | Telescope. Bottle or glass jar in particular of which can be used for looking out |
+| 'Adéest'į́į́' | Lookout or observation point |
+| Bee 'adéest'į́į́' | By which [one] can look out. Binocular or telescope |
+| Hasht'e' | In order. Settled |
+| Hasht'e dahoolyaa | They were prepared |
+| Hasht'e danile' | You prepare them. You make them ready |
+| Hashtedeiilyaa | We made it ready. We prepared it. We prepared them |
+| Hanáá' bee | With one's eyes |
+| Hastóí | Elders. Menfolk |
+| Hastóí dahóyáanii | Scientists. Wise men. Savants |
+| ‘Ahidiníłnáago | They pass each other going in different directions |
+| 'ééhéestł'inígíí | Parts |
+
 
 ---
 
@@ -809,8 +922,38 @@ legend:  *  superconducts at ≈ 0 GPa (ambient)          ^  superconducts only 
 
 | English Term                    | Navaho Term                          | Literal Meaning                              |
 | ------------------------------- | ------------------------------------ | -------------------------------------------- |
-| Sun beam or sun rays            | shá bitł'óól                      |  | | 
+| Radiation | Shá or hatsoo'algha k'aa | Radiation in general, whether ionizing or non-ionizing (depends on context). It uses its tongue or his tongue to produce extreme arrows or poisonous effects |
+| Light | 'Adinídíín | Light | 
+| Visible rays | Shá dahoot'į́ígíí or shá eii dahoot'į́ígíí | Radiation by which there is visibility. (Could be used to explain visibility techniques beyond the detectibility of the human eye) |
+| Wave | Yilk'oołígíí | That particular ripple | 
+| X-rays | 'Aghá'deeldlaad or shá 'aghá'deeldlaad | An extreme projection |
+| Gamma rays | 'Aghá'deeldlaad t'áá 'íiyisíí dabidziil or shá 'aghá'deeldlaad t'áá 'íiyisíí dabidziil | An extreme projection that is truly strong | 
+| Extreme ultraviolet [light] rays | 'Aghá'deeldlaad t'áá bíyó tsídídééh nahalingo or shá 'aghá'deeldlaad t'áá bíyó tsídídééh nahalingo | Extreme projection that is barely purple-like | 
+| Ultraviolet [light] rays | Shá t'áá bíyó tsídídééh nahalingo  | Radiation that is barely purple-like | 
 
+---
+
+### Brief Medical/ Biological Research vs. Quantum Hardware Terminology
+
+| Navaho Term | English Term |
+| :--- | :--- |
+| Bee níl'íní | By means of the one that is used to see by you. Viewing instrument or tool. |
+| Ch'osh doo yit'íinii bee níl'íní | By means of the one that is used to see by you on insects that cannot be seen. Viewing instrument for invisible bugs. **Biological microscope**. |
+| 'á'ádaatʼéhígíí doo yit'íinii bee níl'íní | By means of the one that is used to see by you on fundamental or elemental objects [such as an atom] that cannot be seen. Viewing instrument for atoms, which are invisible to the naked eye. **Electron microscope, scanning probe microscope, ion microscope, X-ray microscope, super-resolution microscope**, and others with nanoscale, atomic, or near-atomic scale resolution. |
+| Tóshjeehtso biih ho’dilzho’ dóó béésh ná’iiláahii bee hats'íís naalkaah dóó yida'ale' | Big barrel, while inside it, [there is a] sliding [mechanism], and magnets with it, by which a study is done and pictures are taken of one's body. [Biological] magnetic resonance imaging (MRI) [technique]. |
+| Tóshjeehtso biih ho’dilzho’ dóó béésh ná’iiláahii bee hináanii dóó t'áádoole'é ndaaznilí t'áá 'áłah naalkaah dóó yida'ale' | Big barrel, while inside it, [there is a] sliding [mechanism], and magnets with it, by which a study is done, and pictures are taken of living things or anything that is an inanimate grouped object. [General] **magnetic resonance imaging (MRI)** [technique]. |
+| Bee na'anishí hináanii dóó t'áádoole'é ndaaznilí yida'ale' kindę́ę́' bááh neheeshgizh nahalingo hahinidééh | Apparatus by which pictures are taken of living things or anything that is an inanimate grouped object, similar to sliced bread from the store or shop, that falls out after one another. **Computed Tomography (CT)** [technique]. |
+| 'Agháda' dildlaadí | Examine with an X-ray tool. |
+| Naʼalkid | Temperature or time (depending on context) |
+| Dįį' bich'į'go naʼalkid Kelvin da'azjah | 4 degrees Kelvin |
+| Bee 'azk'azi | Refrigerator. By which [something] is made or kept cold |
+| T'áádoole'é 'ádaal'į́įgi | A factory [of things] | 
+| T'áádoole'é nabíhonitaah bee 'azk'azi | Refrigerator for experiment. Measurement refrigerator or experimental measurement refrigerator |
+| T’áádoole’é nabíhonitaah bee ‘azk’azi ni'góó sizínígíí | Refrigerator for experiment, the one standing on the floor. Floor standing experimental measurement fridge |
+| T’áádoole’é nabíhonitaah bee ‘azk’azi tsoh | Large refrigerator for experiment. Large experimental measurement refrigerator |
+| T’áádoole’é nabíhonitaah t'óshjeehtso bee ‘azk’azi ni'góó sizínígíí or t’áádoole’é nabíhonitaah bee ‘azk’azi ni'góó sizínígíí t'áadoo bitoo' | Refrigerator for experiment, the one standing on the floor. Floor standing experimental measurement fridge. |
+| T’áádoole’é nabíhonitaah bee t'óshjeehtso góne' honeezk'az or t'óshjeehtso góne' honeezk'az Dewar bijoosye' | A big barrel where something is kept cold for experiment(s). Experimental measurement cold keeping barrel. Dewar (large Thermos) |
+| T'óshjeeh góne' honeezk'az | Barrel where it [something] is kept cold | 
 
 ---
 
@@ -827,6 +970,8 @@ legend:  *  superconducts at ≈ 0 GPa (ambient)          ^  superconducts only 
 | 🔳 Incorporation of hybrid qubit terms, able to future support quantum hardware publication. |
 | 🔳 Potential descriptions of fractals & recursion. |
 | 🔳 Potential contributions to Qiskit/ Qiskit Metal documentation in Navaho (from paper to GitHub pull requests). |
+| 🔳 QPU-Based Linguistics/ Semantic-Shift Simulation (Google Colab)                                  |
+| ✅ GPU-Accelerated Linguistics/ Semantic-Shift Simulation (Google Colab)                            |
 
 > The next table is more formal and organized to allow for team member contribution from the funded version of the the project.
 
@@ -837,17 +982,15 @@ legend:  *  superconducts at ≈ 0 GPa (ambient)          ^  superconducts only 
 | 1  | Language-Tree Formation for the Team                                                              | **Onri**, Noah, Mural, Mohamad | **Completed**              |
 | 2  | Category-Based Cryostat/ Dilution-Fridge Image Collection                                        | **Onri**, Noah, Mural, Mohamad |  **Completed**           |
 | 3  | General Geometry (2-D/ 3-D) Terminology Table                                                    | **Onri**, Mohamad, Mural       | **Completed**        |
-| 4  | Electromagnetic-Spectrum Terminology Table                                                        | **Onri**, Mohamad              | Partially Completed |
-| 5  | English-Braille → Navaho-Braille Conversion for Linguistics & Quantum-Ed. <br> (3-D-printing involved) | **Onri**, Noah                 | Partially Completed        |
-| 6  | Medical-Hardware vs Quantum-Hardware Terminology Table                                            | **Onri**, Mural, Mohamad       | Partially Completed |
-| 7  | Blender 3-D Model of Basic Quantum Devices/ Cryogenic Chambers                                   | **Onri**, Mohamad, Mural        | Partially Completed        |
-| 8  | GPU-Accelerated Linguistics/ Semantic-Shift Simulation (Google Colab)                            | **Onri**, Noah, Mural          | **Completed**        |
-| 9  | QPU-Based Linguistics/ Semantic-Shift Simulation (Google Colab)                                  | **Onri**                       | Not Started Yet |
-| 10 | Pseudo-Device: Basic SEM/ High-Res LASER 3-D Imaging                                             | **Onri**                       | Not Started Yet |
-| 11 | LaTeX Documentation of the Project (Overleaf + TikZ)                                             | **Onri**                       | Partially Completed |
-| 12 | Non-Superconducting Metals Terminology Table                                                     | **Onri**                       | **Completed** |
-| 13 | Superconducting Metals Terminology Table | **Onri** | Not Started Yet |
-| 14 | Poster of Normal and Superconducting Metals in Navaho | **Onri** | Not Started Yet |
+| 4  | Brief Electromagnetic-Spectrum Terminology Table                                                        | **Onri**, Mohamad              | **Completed** |
+| 5  | English-Braille → Navaho-Braille Conversion for Linguistics & Quantum-Ed. <br> (3-D-printing involved) | **Onri**, Noah                 | **Completed**        |
+| 6  | Brief Medical-Hardware vs Quantum-Hardware Terminology Table                                            | **Onri**, Mural, Mohamad       | **Completed** |
+| 7  | Blender 3-D Model of Basic Quantum Devices/ Cryogenic Chambers                                   | **Onri**, Mohamad, Mural        | **Completed**        |
+| 8 | Pseudo-Device + Layouts: Basic SEM/ High-Res LASER 3-D Imaging Shrinkwrapping in Blender                   | **Onri**                       | Partially Completed |
+| 9 | LaTeX Documentation of the Project (Overleaf + TikZ)                                             | **Onri**                       | **Completed** |
+| 10 | Non-Superconducting Metals Terminology Table                                                     | **Onri**                       | **Completed** |
+| 11 | Superconducting Metals Terminology Table                                                         | **Onri** | **Completed** |
+| 12 | Poster of Normal and Superconducting Metals in Navaho                                            | **Onri** | **Completed** |
 
 > A reasonable goal is to be able to complete 3 to 4 deliverables per month.
 > Employ the leap frog approach, by working on at least 2 deliverables simulataneously, but at a different paces each. 
@@ -875,8 +1018,6 @@ Notes:
   - Other Germanic Languages
     - **West Germanic**
       - **German** *(Intermediate Receptive)*
-      - **Dutch** *(Intermediate Receptive)*
-      - **Afrikaans** *(Rudimentary Comprehension)*
     - **North Germanic**
       - **Swedish** *(Intermediate Receptive)*
 - **Russian** *(High Comprehension)*
@@ -886,7 +1027,6 @@ Notes:
       - **Belarusian** *(Intermediate Receptive)*
     - **West Slavic**
       - **Polish** *(Intermediate Receptive)*
-      - **Czech** *(Rudimentary Comprehension)*
     - **South Slavic**
       - **Serbian** *(Intermediate Receptive)*
 
@@ -1144,10 +1284,6 @@ MXC: Mixing Chamber
 
 ![312886676-391e17b4-cc45-4662-958b-534af8f6aaba](https://github.com/user-attachments/assets/cfb75dba-4daf-4463-a720-2e2d54fed90d)
 
-![312886767-5cfa8427-06e3-4b69-8cc4-8d8335ce2d46](https://github.com/user-attachments/assets/50488b8c-9b3c-4a21-b334-47dc2f3d3e61)
-
-![312886795-5ca2e26d-fac3-42fd-be0b-e5a638c8ec6d](https://github.com/user-attachments/assets/b2a58b44-3c93-4bb7-bc3f-e6d8db9323ee)
-
 ![image](https://github.com/user-attachments/assets/4bb53477-5aff-4bbe-89be-d02e0109466f)
 
 ---
@@ -1279,6 +1415,14 @@ Borrowed from: Gao et al., *Practical Guide for Building Superconducting Quantum
 | y                | U+0079                 | \u0079                 |
 | Z                | U+005A                 | \u005A                 |
 | z                | U+007A                 | \u007A                 |
+...
+| Á                | U+00C1                | \u00C1                |
+| Ą                | U+0104                | \u0104                |
+| É                | U+00C9                | \u00C9                |
+| Í                | U+00CD                | \u00CD                |
+| Ó                | U+00D3                | \u00D3                |
+...
+| Ń                | U+0143                | \u0143                |
 ...
 | aa        | U+0061 U+0061                  | \u0061\u0061            |
 | á         | U+00E1                         | \u00E1                  |
