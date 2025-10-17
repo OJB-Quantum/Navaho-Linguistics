@@ -167,12 +167,6 @@ Primary URL for the repository: [OJB-Quantum/Navaho-Linguistics](https://github.
 
 ---
 
-### Some Processor Components (Superconducting Qubits) in Navaho by Onri
-
-<img width="3755" height="auto" alt="Screenshot 2025-10-16 072452" src="https://github.com/user-attachments/assets/268112f1-7273-4525-af5d-e35bf80abb0d" />
-
----
-
 ### Superconducting Transmon Trilayers Shown in Navaho by Onri 
 
 <img width="3759" height="auto" alt="image" src="https://github.com/user-attachments/assets/c92573c9-1b43-4935-b71b-52df24d3cdd4" />
