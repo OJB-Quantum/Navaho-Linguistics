@@ -142,28 +142,28 @@ Primary URL for the repository: [OJB-Quantum/Navaho-Linguistics](https://github.
 
 ---
 
-### Cryogenic Dilution Refrigerator Measurement System in Navaho by Onri
+### Cryogenic Dilution Refrigerator Measurement System with Temperature Stages in Navaho by Onri
 
-<img width="3493" height="auto" alt="image" src="https://github.com/user-attachments/assets/734451a3-3a22-415a-86b0-c7b382f2dd3c" />
+<img width="3475" height="auto" alt="Navaho Dilution Refrigerator " src="https://github.com/user-attachments/assets/4df5f35b-29bd-4cf4-bc59-f5de6c909e55" />
 
 ---
 
 ### Dilution Refrigerator Components for Quantum Computer Explained in Navaho
 
-<img width="3348" height="auto" alt="image" src="https://github.com/user-attachments/assets/f1881ef9-c067-4a54-bdaf-db37c8520127" />
+<img width="3705" height="auto" alt="Dilution Fridge in Navaho" src="https://github.com/user-attachments/assets/0ed91735-c481-4d94-8c3c-18cb6aeb5bbd" />
 
 ---
 
 ### Cryogenic Vessels and Cryostats Explained in Navaho by Onri 
 
-<img width="3287" height="auto" alt="image" src="https://github.com/user-attachments/assets/7faa7486-d5ad-48b0-acab-9f9234b4fc4a" />
+<img width="3297" height="auto" alt="Cryogenic Vessels and Cryostats in Navaho" src="https://github.com/user-attachments/assets/5c52155c-c828-4a49-bcab-97c647c2952c" />
 
 
 ---
 
 ### Cryogenic Cable Examples in Navaho by Onri and Team
 
-<img width="2230" height="auto" alt="image" src="https://github.com/user-attachments/assets/a8785233-4bfa-404f-b3b5-551f95ced4a2" />
+<img width="3210" height="auto" alt="Cryogenic Cables in Navaho" src="https://github.com/user-attachments/assets/7cdcbec8-31ab-4cf0-be5b-79ba5f4c98a2" />
 
 ---
 
@@ -175,7 +175,7 @@ Primary URL for the repository: [OJB-Quantum/Navaho-Linguistics](https://github.
 
 ### Some Processor Components (Superconducting Qubits) in Navaho by Onri
 
-<img width="2512" height="auto" alt="image" src="https://github.com/user-attachments/assets/ff6ab061-7983-49a3-b7a7-0bdb9e11fa9a" />
+<img width="3755" height="auto" alt="Screenshot 2025-10-16 072452" src="https://github.com/user-attachments/assets/268112f1-7273-4525-af5d-e35bf80abb0d" />
 
 ---
 
