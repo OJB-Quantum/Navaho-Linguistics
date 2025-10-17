@@ -167,12 +167,6 @@ Primary URL for the repository: [OJB-Quantum/Navaho-Linguistics](https://github.
 
 ---
 
-### Common Cryostat and Cryogenic Vessel Formfactors in Navaho by Onri
-
-<img width="2124" height="auto" alt="image" src="https://github.com/user-attachments/assets/d13b792d-6467-45e2-923d-6430f4a952d2" />
-
----
-
 ### Some Processor Components (Superconducting Qubits) in Navaho by Onri
 
 <img width="3755" height="auto" alt="Screenshot 2025-10-16 072452" src="https://github.com/user-attachments/assets/268112f1-7273-4525-af5d-e35bf80abb0d" />
