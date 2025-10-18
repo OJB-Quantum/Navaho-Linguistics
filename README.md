@@ -416,10 +416,10 @@ Primary URL for the repository: [OJB-Quantum/Navaho-Linguistics](https://github.
 | -jígo | In the direction or on the side of it |
 | -jigo | Toward |
 | éí | That one. That (remotely) |
-| Eii | That one there. That one. That (nearby) |
-| Eidí | That one near you |
-| Eidíígíí | That very one |
-| Eíyá | Only. Exclusively. Specifically |
+| 'Eii | That one there. That one. That (nearby) |
+| 'Eidí | That one near you |
+| 'éidíígíí | That very one |
+| 'Eíyá | Only. Exclusively. Specifically |
 | Díí | This. These |
 | Díidí | This one. These |
 | Díidíígíí | Particularly this one |
@@ -631,7 +631,7 @@ Primary URL for the repository: [OJB-Quantum/Navaho-Linguistics](https://github.
 | Béésh lashdóón | Metal ribbon |
 | Béésh náhineests'ee'ígíí | Metal coil |
 | Béésh sitán'ígíí | Metal plate |
-| Béésh łichíí sitán'ígíí eidíígíí sik'az | Red metal that which lies [and] is cold. Copper cold plate(s) |
+| Béésh łichíí sitán'ígíí éidíígíí sik'az | Red metal that which lies [and] is cold. Copper cold plate(s) |
 | Béésh ná'iiláahii | Magnet. Magnetic | 
 | Sitán'ígíí | That which lies (stiff, slender object) |
 | Dibahí | Powder | 
