@@ -1327,6 +1327,8 @@ Borrowed from: Gao et al., *Practical Guide for Building Superconducting Quantum
 
 To be represented in 3D using a digital microscope. Total lithography exposure time for chip: 6 minutes. 
 
+![PXL_20251124_123441619](https://github.com/user-attachments/assets/127ab92a-ba76-423e-927b-ec146989fe71)
+
 ![PXL_20251124_125718059~4](https://github.com/user-attachments/assets/af766107-8d6d-4302-83f1-e8e8431a646b)
 
 ![PXL_20251124_123916587](https://github.com/user-attachments/assets/89f6a0ce-ff81-4222-ae4e-60a131c5f5db)
@@ -1338,9 +1340,6 @@ To be represented in 3D using a digital microscope. Total lithography exposure t
 ![PXL_20251124_114021048](https://github.com/user-attachments/assets/e6e1b0d2-e1f1-47a2-b778-212755efa1fc)
 
 ![PXL_20251124_123807946](https://github.com/user-attachments/assets/353170c2-83ec-4575-a9cc-c42742b1a7b0)
-
-![PXL_20251124_123441619](https://github.com/user-attachments/assets/ad7f4cfe-c906-471c-80e3-773aedfa9d03)
-
 
 ---
 
