@@ -987,7 +987,7 @@ legend:  *  superconducts at ≈ 0 GPa (ambient)          ^  superconducts only 
 | 5  | English-Braille → Navaho-Braille Conversion for Linguistics & Quantum-Ed. <br> (3-D-printing involved) | **Onri**, Noah                 | **Completed**        |
 | 6  | Brief Medical-Hardware vs Quantum-Hardware Terminology Table                                            | **Onri**, Mural, Mohamad       | **Completed** |
 | 7  | Blender 3-D Model of Basic Quantum Devices/ Cryogenic Chambers                                   | **Onri**, Mohamad, Mural        | **Completed**        |
-| 8 | Pseudo-Device + Layouts: Basic SEM/ High-Res LASER 3-D Imaging Shrinkwrapping in Blender                   | **Onri**                       | Partially Completed |
+| 8 | Pseudo-Device + Layouts: Basic SEM or High-Res 3-D Imaging Shrinkwrapping in Blender                   | **Onri**                       | **Completed** |
 | 9 | LaTeX Documentation of the Project (Overleaf + TikZ)                                             | **Onri**                       | **Completed** |
 | 10 | Non-Superconducting Metals Terminology Table                                                     | **Onri**                       | **Completed** |
 | 11 | Superconducting Metals Terminology Table                                                         | **Onri** | **Completed** |
@@ -1322,6 +1322,23 @@ Borrowed from: Gao et al., *Practical Guide for Building Superconducting Quantum
 <img width="3050" height="auto" alt="image" src="https://github.com/user-attachments/assets/6a9878ae-e0c0-45bc-aeb9-133a7255d9a2" />
 
 > Showing classical data inputs and classical data outputs, which should be paid close attention to if one desires to build a real quantum computer. Note that one of the main goals in the practical setup of quantum computers is the manipulation of “the quantum object”, which is a size-dependent device or atomic structure, with a natural or designed resonance frequency. This also means that it is typically placed under isolated physical conditions as well (e.g. refrigeration, vacuum sealing, radiation shielding, etc.). Courtesy of Olivier Ezratty’s Understanding Quantum Technologies 2024 book.
+
+## Fabricated Supeconducting Coplanar Waveguides and Qubits Using a Resource-Lean Process (Low-Cost LASER Lithography & Imaging)
+
+To be represented in 3D using a digital microscope.
+
+![PXL_20251124_125718059~4](https://github.com/user-attachments/assets/af766107-8d6d-4302-83f1-e8e8431a646b)
+
+![PXL_20251124_123916587](https://github.com/user-attachments/assets/89f6a0ce-ff81-4222-ae4e-60a131c5f5db)
+
+![PXL_20251124_124052851](https://github.com/user-attachments/assets/1f7fc746-cab8-4f75-a46d-9fd57fa24753)
+
+![PXL_20251124_123657690](https://github.com/user-attachments/assets/caa68bb0-4b74-4dd1-9d6d-41c9818bf6f1)
+
+![PXL_20251124_114021048](https://github.com/user-attachments/assets/e6e1b0d2-e1f1-47a2-b778-212755efa1fc)
+
+![PXL_20251124_123441619](https://github.com/user-attachments/assets/ad7f4cfe-c906-471c-80e3-773aedfa9d03)
+
 
 ---
 
