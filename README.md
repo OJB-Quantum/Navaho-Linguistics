@@ -337,7 +337,7 @@ Primary URL for the repository: [OJB-Quantum/Navaho-Linguistics](https://github.
 | English shape or object                  | Navaho (as provided)                    | Notes      |
 | ---------------------------------------- | --------------------------------------- | ---------- |
 | Cylinder or tube                         | Niyiz                                   |            |
-| Cone                                     | Heetsʼóóz                               |            |
+| Cone                                     | Heets'óóz                               |            |
 | Conical                                  | Dah 'ats'os                             | |
 | Cube (usually wooden box)                | Tsits'aa'                               |            |
 | Sphere or spherical                      | Nimaz                                   |            |
@@ -348,7 +348,7 @@ Primary URL for the repository: [OJB-Quantum/Navaho-Linguistics](https://github.
 | Capsule                                  | Dijool                                  |            |
 | Wire                                     | Béésh 'áłtsózí                          | relatively |
 | Curved object                            | Haabas                                  |            |
-| Box or wooden box                        | Tsitsʼaaʼ                               |            |
+| Box or wooden box                        | Tsits'aa'                               |            |
 | Sharp pointed                            | Hááhaashchii'                           | |
 | Spikey or points in different directions | Dah deeshzhah                           |            |
 | Elbow                                    | 'Ach'oozhlaa'                           |            |
