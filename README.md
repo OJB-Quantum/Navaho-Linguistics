@@ -719,6 +719,7 @@ Primary URL for the repository: [OJB-Quantum/Navaho-Linguistics](https://github.
 | 'ééhéestł'inígíí | Parts |
 | 'Ałná'ádaat'į́įgo | They move back and forth |
 | Ńdeeshgizh | Gap. Pass |
+| Bá dahoo'į́įgo | They guide them | 
 
 
 ---
