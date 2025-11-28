@@ -718,6 +718,7 @@ Primary URL for the repository: [OJB-Quantum/Navaho-Linguistics](https://github.
 | ‘Ahidiníłnáago | They pass each other going in different directions |
 | 'ééhéestł'inígíí | Parts |
 | 'Ałná'ádaat'į́įgo | They move back and forth |
+| Ńdeeshgizh | Gap. Pass |
 
 
 ---
