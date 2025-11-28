@@ -434,6 +434,8 @@ Primary URL for the repository: [OJB-Quantum/Navaho-Linguistics](https://github.
 | Bíí'oh | What is left. What remains |
 | 'ádzaa | It happened. He did | 
 | Yik'ee | Because. On account of |
+| Biniinaa | Because of it. On account of it. Since. For the reason that. |
+| T'áadoo biniinaanígóó | For no reason at all |
 | Bilááhgóó | Over or beyond it |
 | Biláahgo | Because there was an excess of it |
 | Bilááh | Beyond it |
