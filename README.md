@@ -365,6 +365,7 @@ Primary URL for the repository: [OJB-Quantum/Navaho-Linguistics](https://github.
 | Circular                      | Nazbas                                                              |                      |
 | Semi-circle or partial circle | 'Ałníí do nazbas                                                    |                      |
 | Ellipse                       | Haahideeneez                                                        |                      |
+| Oval                          | Hideeneezgo názbąs                                                 | elongated circle     |
 | Triangle                      | Táaʼgóó adeezʼá                                                     |                      |
 | Right Triangle                | Nishʼnáajigo heetsʼóóz                                              | tapered on the right |
 | Equilateral Triangle          |                                                                     |                      |
