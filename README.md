@@ -717,6 +717,7 @@ Primary URL for the repository: [OJB-Quantum/Navaho-Linguistics](https://github.
 | Hastóí dahóyáanii | Scientists. Wise men. Savants |
 | ‘Ahidiníłnáago | They pass each other going in different directions |
 | 'ééhéestł'inígíí | Parts |
+| 'Ałná'ádaat'į́įgo | They move back and forth |
 
 
 ---
