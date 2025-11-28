@@ -194,7 +194,25 @@ Primary URL for the repository: [OJB-Quantum/Navaho-Linguistics](https://github.
 
 ---
 
+## Fabricated Supeconducting Coplanar Waveguides and Qubits Using a Resource-Lean Process (Low-Cost LASER Lithography & Imaging)
 
+Scanned using a digital microscope with LASER scanning capabilities. Total lithography exposure time for chip: 6 minutes. 
+
+![PXL_20251124_123441619](https://github.com/user-attachments/assets/127ab92a-ba76-423e-927b-ec146989fe71)
+
+![PXL_20251124_125718059~4](https://github.com/user-attachments/assets/af766107-8d6d-4302-83f1-e8e8431a646b)
+
+![PXL_20251124_123916587](https://github.com/user-attachments/assets/89f6a0ce-ff81-4222-ae4e-60a131c5f5db)
+
+![PXL_20251124_124052851](https://github.com/user-attachments/assets/1f7fc746-cab8-4f75-a46d-9fd57fa24753)
+
+![PXL_20251124_123657690](https://github.com/user-attachments/assets/caa68bb0-4b74-4dd1-9d6d-41c9818bf6f1)
+
+![PXL_20251124_114021048](https://github.com/user-attachments/assets/e6e1b0d2-e1f1-47a2-b778-212755efa1fc)
+
+![PXL_20251124_123807946](https://github.com/user-attachments/assets/353170c2-83ec-4575-a9cc-c42742b1a7b0)
+
+---
 
 
 ### Linguistic Idea Table Aimed Toward Translation Use
@@ -1330,23 +1348,6 @@ Borrowed from: Gao et al., *Practical Guide for Building Superconducting Quantum
 
 > Showing classical data inputs and classical data outputs, which should be paid close attention to if one desires to build a real quantum computer. Note that one of the main goals in the practical setup of quantum computers is the manipulation of “the quantum object”, which is a size-dependent device or atomic structure, with a natural or designed resonance frequency. This also means that it is typically placed under isolated physical conditions as well (e.g. refrigeration, vacuum sealing, radiation shielding, etc.). Courtesy of Olivier Ezratty’s Understanding Quantum Technologies 2024 book.
 
-## Fabricated Supeconducting Coplanar Waveguides and Qubits Using a Resource-Lean Process (Low-Cost LASER Lithography & Imaging)
-
-To be represented in 3D using a digital microscope. Total lithography exposure time for chip: 6 minutes. 
-
-![PXL_20251124_123441619](https://github.com/user-attachments/assets/127ab92a-ba76-423e-927b-ec146989fe71)
-
-![PXL_20251124_125718059~4](https://github.com/user-attachments/assets/af766107-8d6d-4302-83f1-e8e8431a646b)
-
-![PXL_20251124_123916587](https://github.com/user-attachments/assets/89f6a0ce-ff81-4222-ae4e-60a131c5f5db)
-
-![PXL_20251124_124052851](https://github.com/user-attachments/assets/1f7fc746-cab8-4f75-a46d-9fd57fa24753)
-
-![PXL_20251124_123657690](https://github.com/user-attachments/assets/caa68bb0-4b74-4dd1-9d6d-41c9818bf6f1)
-
-![PXL_20251124_114021048](https://github.com/user-attachments/assets/e6e1b0d2-e1f1-47a2-b778-212755efa1fc)
-
-![PXL_20251124_123807946](https://github.com/user-attachments/assets/353170c2-83ec-4575-a9cc-c42742b1a7b0)
 
 ---
 
