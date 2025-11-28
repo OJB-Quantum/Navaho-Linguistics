@@ -494,7 +494,7 @@ Primary URL for the repository: [OJB-Quantum/Navaho-Linguistics](https://github.
 | 'áłtsíísí | Is little |
 | 'áłch'į́dí | Insufficient |
 | T'áá 'áłch'ídígo | Just a little. Just a few |
-| T'áá 'átʼé | The whole thing. All of it |
+| T'áá 'át'é | The whole thing. All of it |
 | Tʼóó 'ahayói | Quite a lot. Very many |
 | 'áłch'į́į́dí | It is a small amount |
 | 'áłch'į́į́dígo | A small amount. Just a little bit |
