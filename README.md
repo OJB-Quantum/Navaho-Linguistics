@@ -213,20 +213,8 @@ Scanned using a digital microscope with LASER scanning capabilities. Total litho
 <img width="3839" height="auto" alt="image" src="https://github.com/user-attachments/assets/ff9a8395-3fc6-4d9a-9deb-97790e519ade" />
 
 
-
-![PXL_20251124_123441619](https://github.com/user-attachments/assets/127ab92a-ba76-423e-927b-ec146989fe71)
-
-![PXL_20251124_125718059~4](https://github.com/user-attachments/assets/af766107-8d6d-4302-83f1-e8e8431a646b)
-
-![PXL_20251124_123916587](https://github.com/user-attachments/assets/89f6a0ce-ff81-4222-ae4e-60a131c5f5db)
-
-![PXL_20251124_124052851](https://github.com/user-attachments/assets/1f7fc746-cab8-4f75-a46d-9fd57fa24753)
-
-![PXL_20251124_123657690](https://github.com/user-attachments/assets/caa68bb0-4b74-4dd1-9d6d-41c9818bf6f1)
-
 ![PXL_20251124_114021048](https://github.com/user-attachments/assets/e6e1b0d2-e1f1-47a2-b778-212755efa1fc)
 
-![PXL_20251124_123807946](https://github.com/user-attachments/assets/353170c2-83ec-4575-a9cc-c42742b1a7b0)
 
 ---
 
