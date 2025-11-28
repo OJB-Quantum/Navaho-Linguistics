@@ -720,6 +720,7 @@ Primary URL for the repository: [OJB-Quantum/Navaho-Linguistics](https://github.
 | 'Ałná'ádaat'į́įgo | They move back and forth |
 | Ńdeeshgizh | Gap. Pass |
 | Bá dahoo'į́įgo | They guide them | 
+| 'Ałts'ą́ą́jí | On either side. On both sides. On each side. Bilaterally |
 
 
 ---
