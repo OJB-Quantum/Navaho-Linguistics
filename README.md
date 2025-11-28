@@ -198,6 +198,22 @@ Primary URL for the repository: [OJB-Quantum/Navaho-Linguistics](https://github.
 
 Scanned using a digital microscope with LASER scanning capabilities. Total lithography exposure time for chip: 6 minutes. 
 
+<img width="3312" height="auto" alt="image" src="https://github.com/user-attachments/assets/6df4535e-91de-4ac1-88f5-3f30a6f874c3" />
+
+<img width="3839" height="auto" alt="image" src="https://github.com/user-attachments/assets/d7294cbe-d05e-4555-bf17-aa90907d5e1d" />
+
+<img width="3839" height="auto" alt="image" src="https://github.com/user-attachments/assets/4af50a65-f272-4a1f-a653-89bf33b4bcd9" />
+
+<img width="3839" height="auto" alt="image" src="https://github.com/user-attachments/assets/578b5136-555c-453a-b7c0-05d599a02af4" />
+
+<img width="3839" height="auto" alt="image" src="https://github.com/user-attachments/assets/2d6308a3-182d-49a5-b82a-f7e60782208f" />
+
+<img width="3839" height="auto" alt="image" src="https://github.com/user-attachments/assets/bc338e0e-f089-4593-9dfc-1c8984b9b044" />
+
+<img width="3839" height="auto" alt="image" src="https://github.com/user-attachments/assets/ff9a8395-3fc6-4d9a-9deb-97790e519ade" />
+
+
+
 ![PXL_20251124_123441619](https://github.com/user-attachments/assets/127ab92a-ba76-423e-927b-ec146989fe71)
 
 ![PXL_20251124_125718059~4](https://github.com/user-attachments/assets/af766107-8d6d-4302-83f1-e8e8431a646b)
