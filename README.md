@@ -45,7 +45,7 @@ Primary URL for the repository: [OJB-Quantum/Navaho-Linguistics](https://github.
 
 | **Navaho** | **English**  |
 |-|-|
-| Díí 'áʼádaatʼéhígíí náás góne'é t'áá kóníghánígo 'akwe'é 'ahóodziil doo bee 'atsiniltł'ish biyi' 'asdizígíí éídí 'í'neel'ąąh 'áádóó yidísin. T'áá bééhodoozįįł yił 'ałhii'níná’iidzóóh nida'ałkáá'ii' Schrödinger dóó Pauli dóó Dirac bits’ą́ą́dę́ę́ nihinááł 'áádóó bee béédahodoozįįł. | In fundamental or elemental objects such as an atom, further within it, at short intervals here, is energy that one can observe, and from there, measure it, as well as its electron spin [depending on which measurement tool is used]. It must be explained with [the language of] mathematics that we can watch or observe and of which can be studied to learn more, introduced by Professors Schrodinger, Pauli, and Dirac. | 
+| Díí 'áʼádaatʼéhígíí náás góne'é t'áá kóníghánígo 'akwe'é 'ahóodziil dóó bee 'atsiniltł'ish biyi' 'asdizígíí éídí 'í'neel'ąąh 'áádóó yidísin. T'áá bééhodoozįįł yił 'ałhii'níná’iidzóóh nida'ałkáá'ii' Schrödinger dóó Pauli dóó Dirac bits’ą́ą́dę́ę́ nihinááł 'áádóó bee béédahodoozįįł. | In fundamental or elemental objects such as an atom, further within it, at short intervals here, is energy that one can observe, and from there, measure it, as well as its electron spin [depending on which measurement tool is used]. It must be explained with [the language of] mathematics that we can watch or observe and of which can be studied to learn more, introduced by Professors Schrodinger, Pauli, and Dirac. | 
 
 ### Navajo Braille Transcription of Quantum Mechanics Introduction (Unicode Braille Cells)
 
@@ -194,7 +194,29 @@ Primary URL for the repository: [OJB-Quantum/Navaho-Linguistics](https://github.
 
 ---
 
+## Fabricated Supeconducting Coplanar Waveguides and Qubits Using a Resource-Lean Process (Low-Cost LASER Lithography & Imaging)
 
+Scanned using a digital microscope with LASER scanning capabilities. Total lithography exposure time for chip: 6 minutes. 
+
+<img width="3312" height="auto" alt="image" src="https://github.com/user-attachments/assets/6df4535e-91de-4ac1-88f5-3f30a6f874c3" />
+
+<img width="3839" height="auto" alt="image" src="https://github.com/user-attachments/assets/d7294cbe-d05e-4555-bf17-aa90907d5e1d" />
+
+<img width="3839" height="auto" alt="image" src="https://github.com/user-attachments/assets/4af50a65-f272-4a1f-a653-89bf33b4bcd9" />
+
+<img width="3839" height="auto" alt="image" src="https://github.com/user-attachments/assets/578b5136-555c-453a-b7c0-05d599a02af4" />
+
+<img width="3839" height="auto" alt="image" src="https://github.com/user-attachments/assets/2d6308a3-182d-49a5-b82a-f7e60782208f" />
+
+<img width="3839" height="auto" alt="image" src="https://github.com/user-attachments/assets/bc338e0e-f089-4593-9dfc-1c8984b9b044" />
+
+<img width="3839" height="auto" alt="image" src="https://github.com/user-attachments/assets/ff9a8395-3fc6-4d9a-9deb-97790e519ade" />
+
+
+![PXL_20251124_114021048](https://github.com/user-attachments/assets/e6e1b0d2-e1f1-47a2-b778-212755efa1fc)
+
+
+---
 
 
 ### Linguistic Idea Table Aimed Toward Translation Use
@@ -337,7 +359,7 @@ Primary URL for the repository: [OJB-Quantum/Navaho-Linguistics](https://github.
 | English shape or object                  | Navaho (as provided)                    | Notes      |
 | ---------------------------------------- | --------------------------------------- | ---------- |
 | Cylinder or tube                         | Niyiz                                   |            |
-| Cone                                     | Heetsʼóóz                               |            |
+| Cone                                     | Heets'óóz                               |            |
 | Conical                                  | Dah 'ats'os                             | |
 | Cube (usually wooden box)                | Tsits'aa'                               |            |
 | Sphere or spherical                      | Nimaz                                   |            |
@@ -348,7 +370,7 @@ Primary URL for the repository: [OJB-Quantum/Navaho-Linguistics](https://github.
 | Capsule                                  | Dijool                                  |            |
 | Wire                                     | Béésh 'áłtsózí                          | relatively |
 | Curved object                            | Haabas                                  |            |
-| Box or wooden box                        | Tsitsʼaaʼ                               |            |
+| Box or wooden box                        | Tsits'aa'                               |            |
 | Sharp pointed                            | Hááhaashchii'                           | |
 | Spikey or points in different directions | Dah deeshzhah                           |            |
 | Elbow                                    | 'Ach'oozhlaa'                           |            |
@@ -365,6 +387,7 @@ Primary URL for the repository: [OJB-Quantum/Navaho-Linguistics](https://github.
 | Circular                      | Nazbas                                                              |                      |
 | Semi-circle or partial circle | 'Ałníí do nazbas                                                    |                      |
 | Ellipse                       | Haahideeneez                                                        |                      |
+| Oval                          | Hideeneezgo názbąs                                                 | elongated circle     |
 | Triangle                      | Táaʼgóó adeezʼá                                                     |                      |
 | Right Triangle                | Nishʼnáajigo heetsʼóóz                                              | tapered on the right |
 | Equilateral Triangle          |                                                                     |                      |
@@ -416,10 +439,10 @@ Primary URL for the repository: [OJB-Quantum/Navaho-Linguistics](https://github.
 | -jígo | In the direction or on the side of it |
 | -jigo | Toward |
 | éí | That one. That (remotely) |
-| Eii | That one there. That one. That (nearby) |
-| Eidí | That one near you |
-| Eidíígíí | That very one |
-| Eíyá | Only. Exclusively. Specifically |
+| 'Eii | That one there. That one. That (nearby) |
+| 'Eidí | That one near you |
+| 'éidíígíí | That very one |
+| 'Eíyá | Only. Exclusively. Specifically |
 | Díí | This. These |
 | Díidí | This one. These |
 | Díidíígíí | Particularly this one |
@@ -434,6 +457,8 @@ Primary URL for the repository: [OJB-Quantum/Navaho-Linguistics](https://github.
 | Bíí'oh | What is left. What remains |
 | 'ádzaa | It happened. He did | 
 | Yik'ee | Because. On account of |
+| Biniinaa | Because of it. On account of it. Since. For the reason that. |
+| T'áadoo biniinaanígóó | For no reason at all |
 | Bilááhgóó | Over or beyond it |
 | Biláahgo | Because there was an excess of it |
 | Bilááh | Beyond it |
@@ -494,7 +519,7 @@ Primary URL for the repository: [OJB-Quantum/Navaho-Linguistics](https://github.
 | 'áłtsíísí | Is little |
 | 'áłch'į́dí | Insufficient |
 | T'áá 'áłch'ídígo | Just a little. Just a few |
-| T'áá 'átʼé | The whole thing. All of it |
+| T'áá 'át'é | The whole thing. All of it |
 | Tʼóó 'ahayói | Quite a lot. Very many |
 | 'áłch'į́į́dí | It is a small amount |
 | 'áłch'į́į́dígo | A small amount. Just a little bit |
@@ -631,7 +656,7 @@ Primary URL for the repository: [OJB-Quantum/Navaho-Linguistics](https://github.
 | Béésh lashdóón | Metal ribbon |
 | Béésh náhineests'ee'ígíí | Metal coil |
 | Béésh sitán'ígíí | Metal plate |
-| Béésh łichíí sitán'ígíí eidíígíí sik'az | Red metal that which lies [and] is cold. Copper cold plate(s) |
+| Béésh łichíí sitán'ígíí éidíígíí sik'az | Red metal that which lies [and] is cold. Copper cold plate(s) |
 | Béésh ná'iiláahii | Magnet. Magnetic | 
 | Sitán'ígíí | That which lies (stiff, slender object) |
 | Dibahí | Powder | 
@@ -715,6 +740,10 @@ Primary URL for the repository: [OJB-Quantum/Navaho-Linguistics](https://github.
 | Hastóí dahóyáanii | Scientists. Wise men. Savants |
 | ‘Ahidiníłnáago | They pass each other going in different directions |
 | 'ééhéestł'inígíí | Parts |
+| 'Ałná'ádaat'į́įgo | They move back and forth |
+| Ńdeeshgizh | Gap. Pass |
+| Bá dahoo'į́įgo | They guide them | 
+| 'Ałts'ą́ą́jí | On either side. On both sides. On each side. Bilaterally |
 
 
 ---
@@ -987,7 +1016,7 @@ legend:  *  superconducts at ≈ 0 GPa (ambient)          ^  superconducts only 
 | 5  | English-Braille → Navaho-Braille Conversion for Linguistics & Quantum-Ed. <br> (3-D-printing involved) | **Onri**, Noah                 | **Completed**        |
 | 6  | Brief Medical-Hardware vs Quantum-Hardware Terminology Table                                            | **Onri**, Mural, Mohamad       | **Completed** |
 | 7  | Blender 3-D Model of Basic Quantum Devices/ Cryogenic Chambers                                   | **Onri**, Mohamad, Mural        | **Completed**        |
-| 8 | Pseudo-Device + Layouts: Basic SEM/ High-Res LASER 3-D Imaging Shrinkwrapping in Blender                   | **Onri**                       | Partially Completed |
+| 8 | Pseudo-Device + Layouts: Basic SEM or High-Res 3-D Imaging Shrinkwrapping in Blender                   | **Onri**                       | **Completed** |
 | 9 | LaTeX Documentation of the Project (Overleaf + TikZ)                                             | **Onri**                       | **Completed** |
 | 10 | Non-Superconducting Metals Terminology Table                                                     | **Onri**                       | **Completed** |
 | 11 | Superconducting Metals Terminology Table                                                         | **Onri** | **Completed** |
@@ -1323,6 +1352,7 @@ Borrowed from: Gao et al., *Practical Guide for Building Superconducting Quantum
 
 > Showing classical data inputs and classical data outputs, which should be paid close attention to if one desires to build a real quantum computer. Note that one of the main goals in the practical setup of quantum computers is the manipulation of “the quantum object”, which is a size-dependent device or atomic structure, with a natural or designed resonance frequency. This also means that it is typically placed under isolated physical conditions as well (e.g. refrigeration, vacuum sealing, radiation shielding, etc.). Courtesy of Olivier Ezratty’s Understanding Quantum Technologies 2024 book.
 
+
 ---
 
 ### To access the full PDF booklet, [click here.](https://github.com/OJB-Quantum/Navaho-Linguistics/blob/main/Navaho_Linguistics_for_Quantum_Hardware_Education_v2.pdf)
@@ -1417,12 +1447,15 @@ Borrowed from: Gao et al., *Practical Guide for Building Superconducting Quantum
 | y                | U+0079                 | \u0079                 |
 | Z                | U+005A                 | \u005A                 |
 | z                | U+007A                 | \u007A                 |
+...
 | Á                | U+00C1                | \u00C1                |
 | Ą                | U+0104                | \u0104                |
 | É                | U+00C9                | \u00C9                |
 | Í                | U+00CD                | \u00CD                |
 | Ó                | U+00D3                | \u00D3                |
+...
 | Ń                | U+0143                | \u0143                |
+...
 | aa        | U+0061 U+0061                  | \u0061\u0061            |
 | á         | U+00E1                         | \u00E1                  |
 | áá        | U+00E1 U+00E1                  | \u00E1\u00E1            |
@@ -1430,18 +1463,23 @@ Borrowed from: Gao et al., *Practical Guide for Building Superconducting Quantum
 | ąą        | U+0105 U+0105                  | \u0105\u0105            |
 | ą́         | U+0105 U+0301                   | \u0105\u0301            |
 | ą́ą́       | U+0105 U+0301 U+0105 U+0301     | \u0105\u0301\u0105\u0301 |
+...
 | aá        | U+0061 U+00E1                  | \u0061\u00E1            |
 | aą        | U+0061 U+0105                  | \u0061\u0105            |
 | aą́       | U+0061 U+0105 U+0301            | \u0061\u0105\u0301      |
+...
 | áa        | U+00E1 U+0061                  | \u00E1\u0061            |
 | áą        | U+00E1 U+0105                  | \u00E1\u0105            |
 | áą́       | U+00E1 U+0105 U+0301            | \u00E1\u0105\u0301      |
+...
 | ąa        | U+0105 U+0061                  | \u0105\u0061            |
 | ąá        | U+0105 U+00E1                  | \u0105\u00E1            |
 | ąą́       | U+0105 U+0105 U+0301            | \u0105\u0105\u0301      |
+...
 | ą́a       | U+0105 U+0301 U+0061            | \u0105\u0301\u0061      |
 | ą́á       | U+0105 U+0301 U+00E1            | \u0105\u0301\u00E1      |
 | ą́ą       | U+0105 U+0301 U+0105            | \u0105\u0301\u0105      |
+...
 | ee        | U+0065 U+0065                  | \u0065\u0065            |
 | é         | U+00E9                         | \u00E9                  |
 | éé        | U+00E9 U+00E9                  | \u00E9\u00E9            |
@@ -1449,18 +1487,23 @@ Borrowed from: Gao et al., *Practical Guide for Building Superconducting Quantum
 | ęę        | U+0119 U+0119                  | \u0119\u0119            |
 | ę́         | U+0119 U+0301                   | \u0119\u0301            |
 | ę́ę́       | U+0119 U+0301 U+0119 U+0301     | \u0119\u0301\u0119\u0301 |
+...
 | eé        | U+0065 U+00E9                  | \u0065\u00E9            |
 | eę        | U+0065 U+0119                  | \u0065\u0119            |
 | eę́       | U+0065 U+0119 U+0301            | \u0065\u0119\u0301      |
+...
 | ée        | U+00E9 U+0065                  | \u00E9\u0065            |
 | éę        | U+00E9 U+0119                  | \u00E9\u0119            |
 | éę́       | U+00E9 U+0119 U+0301            | \u00E9\u0119\u0301      |
+...
 | ęe        | U+0119 U+0065                  | \u0119\u0065            |
 | ęé        | U+0119 U+00E9                  | \u0119\u00E9            |
 | ęę́       | U+0119 U+0119 U+0301            | \u0119\u0119\u0301      |
+...
 | ę́e       | U+0119 U+0301 U+0065            | \u0119\u0301\u0065      |
 | ę́ę       | U+0119 U+0301 U+0119            | \u0119\u0301\u0119      |
 | ę́é       | U+0119 U+0301 U+00E9            | \u0119\u0301\u00E9      |
+...
 | ii        | U+0069 U+0069                  | \u0069\u0069            |
 | í         | U+00ED                         | \u00ED                  |
 | íí        | U+00ED U+00ED                  | \u00ED\u00ED            |
@@ -1468,18 +1511,23 @@ Borrowed from: Gao et al., *Practical Guide for Building Superconducting Quantum
 | įį        | U+012F U+012F                  | \u012F\u012F            |
 | į́         | U+012F U+0301                   | \u012F\u0301            |
 | į́į́       | U+012F U+0301 U+012F U+0301     | \u012F\u0301\u012F\u0301 |
+...
 | ií        | U+0069 U+00ED                  | \u0069\u00ED            |
 | iį        | U+0069 U+012F                  | \u0069\u012F            |
 | iį́       | U+0069 U+012F U+0301            | \u0069\u012F\u0301      |
+...
 | íi        | U+00ED U+0069                  | \u00ED\u0069            |
 | íį        | U+00ED U+012F                  | \u00ED\u012F            |
 | íį́       | U+00ED U+012F U+0301            | \u00ED\u012F\u0301      |
+...
 | įi        | U+012F U+0069                  | \u012F\u0069            |
 | įí        | U+012F U+00ED                  | \u012F\u00ED            |
 | įį́       | U+012F U+012F U+0301            | \u012F\u012F\u0301      |
+...
 | į́i       | U+012F U+0301 U+0069            | \u012F\u0301\u0069      |
 | į́í       | U+012F U+0301 U+00ED            | \u012F\u0301\u00ED      |
 | į́į       | U+012F U+0301 U+012F            | \u012F\u0301\u012F      |
+...
 | oo        | U+006F U+006F                    | \u006F\u006F              |
 | ó         | U+00F3                           | \u00F3                    |
 | óó        | U+00F3 U+00F3                    | \u00F3\u00F3              |
@@ -1487,18 +1535,23 @@ Borrowed from: Gao et al., *Practical Guide for Building Superconducting Quantum
 | ǫǫ        | U+01EB U+01EB                    | \u01EB\u01EB              |
 | ǫ́         | U+01EB U+0301                     | \u01EB\u0301              |
 | ǫ́ǫ́       | U+01EB U+0301 U+01EB U+0301       | \u01EB\u0301\u01EB\u0301   |
+...
 | oó        | U+006F U+00F3                    | \u006F\u00F3              |
 | oǫ        | U+006F U+01EB                    | \u006F\u00EB              |
 | oǫ́       | U+006F U+01EB U+0301              | \u006F\u01EB\u0301        |
+...
 | óo        | U+00F3 U+006F                    | \u00F3\u006F              |
 | óǫ        | U+00F3 U+01EB                    | \u00F3\u01EB              |
 | óǫ́       | U+00F3 U+01EB U+0301              | \u00F3\u01EB\u0301        |
+...
 | ǫo        | U+01EB U+006F                    | \u01EB\u006F              |
 | ǫó        | U+01EB U+00F3                    | \u01EB\u00F3              |
 | ǫǫ́       | U+01EB U+01EB U+0301              | \u01EB\u01EB\u0301        |
+...
 | ǫ́o       | U+01EB U+0301 U+006F              | \u01EB\u0301\u006F        |
 | ǫ́ǫ       | U+01EB U+0301 U+01EB              | \u01EB\u0301\u01EB        |
 | ǫ́ó       | U+01EB U+0301 U+00F3              | \u01EB\u0301\u00F3        |
+...
 | ń         | U+0144                           | \u0144                    |
 
 ---
