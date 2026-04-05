@@ -1,7 +1,7 @@
 # Navaho-Linguistics
 [![License](https://img.shields.io/badge/Creative_Commons-License-green)](https://choosealicense.com/licenses/cc-by-4.0) [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/OJB-Quantum/Navaho-Linguistics/main)
 
-A repository for Indigenous American language material for quantum engineering topics from the Diné/Navaho/Navajo tribe. Collected and written by Onri Jay Benally, an Indigenous American quantum hardware engineer born and raised on the Navaho tribe (Diné Bikeyah). This is a life-long project. 
+A repository for Indigenous American language material for quantum engineering topics from the Diné/Navaho/Navajo tribe. Collected and written by Onri Jay Benally, an Indigenous American quantum hardware engineer born and raised on the Navaho tribe (Diné Bikeyah), on Jun 8, 2023. This is a life-long project.
 
 In January of 2024, this open-access repository became part of an approved proposal funded by the [Arizona State University (ASU) Quantum Collaborative](https://quantumcollaborative.org) network. 
 
@@ -10,6 +10,18 @@ The official funding start date is: June 2nd of 2025.
 The official funded project name is: Quantum Hardware Engineering Education Augmented Through Navaho Linguistics.
 
 Primary URL for the repository: [OJB-Quantum/Navaho-Linguistics](https://github.com/OJB-Quantum/Navaho-Linguistics)
+
+---
+
+Free downloadable educational posters have been made available online for the translation of quantum computing hardware and metals of the periodic table:
+
+Normal Metals & Superconducting Metals in Navaho/ Navajo (Diné Bizaad) (Béésh hadaałt'é dóó béésh bee 'atsiniltł'ish bidziil ńlínígíí t'áá 'íiyisíí dabidziil) 
+
+<https://doi.org/10.13140/RG.2.2.31947.66082>
+
+Quantum Computing Hardware in Navaho/ Navajo (Diné Bizaad) 
+
+<https://doi.org/10.13140/RG.2.2.29881.63847>
 
 ---
 
@@ -1562,3 +1574,31 @@ Note: I made sources available in this repository to be generally open access, w
 Onri's bio in Navaho: 'Aoo', yá'át'ééh. T'aa iyisi baa 'axhééhnisin. Hastiin Biłééhóziní Binalí 'akót'áó shi zhi', kótʼéego. 'Ako shik'a'i dii shi zhi' łaʼ sheiníʼą́ dikwii naahai yęę dą́ą́. T'aadoo shi ei Táchii'nii nishłį, Naakaii Dine'é 'báshíshchíín, Bit'ahnii dashicheii, Kinłichíi'nii dashináli, Ta'neeszahnii dashicheii 'alááhgo, dóó 'Áshįįhí dashinaakidi nácheii. 'Áádóó, Tsé Chʼil Yaa Tó go ei naashá. 'Akót'áó Diné nishłį. 'Axhéhee'.
 
 (Bik'idadi'diitį́į́ł = We will understand it) - Onri
+
+## Citation
+
+This repository and its contents are openly available under the Creative Commons Attribution 4.0 International (CC BY 4.0) license. If you use, adapt, or share this material for educational, academic, or professional purposes, please provide appropriate attribution to the original author.
+
+**Primary Author:** Onri Jay Benally
+
+**Repository:** [OJB-Quantum/Navaho-Linguistics](https://github.com/OJB-Quantum/Navaho-Linguistics)
+
+### American Psychological Association (APA) Format
+Benally, O. J. (2026). *Navaho-Linguistics: Indigenous American language material for quantum engineering topics*. GitHub. https://github.com/OJB-Quantum/Navaho-Linguistics
+
+### Chicago Manual of Style
+Benally, Onri Jay. "Navaho-Linguistics: Indigenous American Language Material for Quantum Engineering Topics." GitHub, 2026. https://github.com/OJB-Quantum/Navaho-Linguistics.
+
+### BibTeX (For LaTeX/ Overleaf)
+If you are citing this repository in an academic paper or LaTeX document, please use the following BibTeX entry:
+
+```bibtex
+@misc{benally_navaho_linguistics,
+  author       = {Benally, Onri Jay},
+  title        = {Navaho-Linguistics: Indigenous American Language Material for Quantum Engineering Topics},
+  year         = {2026},
+  publisher    = {GitHub},
+  journal      = {GitHub repository},
+  howpublished = {\url{[https://github.com/OJB-Quantum/Navaho-Linguistics](https://github.com/OJB-Quantum/Navaho-Linguistics)}},
+  note         = {Licensed under CC BY 4.0}
+}
