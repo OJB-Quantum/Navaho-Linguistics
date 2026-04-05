@@ -1580,6 +1580,7 @@ Onri's bio in Navaho: 'Aoo', yá'át'ééh. T'aa iyisi baa 'axhééhnisin. Hasti
 This repository and its contents are openly available under the Creative Commons Attribution 4.0 International (CC BY 4.0) license. If you use, adapt, or share this material for educational, academic, or professional purposes, please provide appropriate attribution to the original author.
 
 **Primary Author:** Onri Jay Benally
+
 **Repository:** [OJB-Quantum/Navaho-Linguistics](https://github.com/OJB-Quantum/Navaho-Linguistics)
 
 ### American Psychological Association (APA) Format
