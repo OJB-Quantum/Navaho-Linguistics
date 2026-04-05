@@ -13,6 +13,16 @@ Primary URL for the repository: [OJB-Quantum/Navaho-Linguistics](https://github.
 
 ---
 
+Free downloadable educational posters have been made available online for the translation of quantum computing hardware and metals of the periodic table:
+
+Normal Metals & Superconducting Metals in Navaho/ Navajo (Diné Bizaad) (Béésh hadaałt'é dóó béésh bee 'atsiniltł'ish bidziil ńlínígíí t'áá 'íiyisíí dabidziil) 
+<https://doi.org/10.13140/RG.2.2.31947.66082>
+
+Quantum Computing Hardware in Navaho/ Navajo (Diné Bizaad) 
+<https://doi.org/10.13140/RG.2.2.29881.63847>
+
+---
+
 ![IMG_20230518_192210_00_018_PureShot](https://github.com/OJB-Quantum/Navaho-Linguistics/assets/88035770/f976afb5-128a-47a8-bb3e-996de87b51a6)
 
 ---
