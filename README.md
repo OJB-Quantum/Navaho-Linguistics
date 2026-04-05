@@ -1574,3 +1574,30 @@ Note: I made sources available in this repository to be generally open access, w
 Onri's bio in Navaho: 'Aoo', yá'át'ééh. T'aa iyisi baa 'axhééhnisin. Hastiin Biłééhóziní Binalí 'akót'áó shi zhi', kótʼéego. 'Ako shik'a'i dii shi zhi' łaʼ sheiníʼą́ dikwii naahai yęę dą́ą́. T'aadoo shi ei Táchii'nii nishłį, Naakaii Dine'é 'báshíshchíín, Bit'ahnii dashicheii, Kinłichíi'nii dashináli, Ta'neeszahnii dashicheii 'alááhgo, dóó 'Áshįįhí dashinaakidi nácheii. 'Áádóó, Tsé Chʼil Yaa Tó go ei naashá. 'Akót'áó Diné nishłį. 'Axhéhee'.
 
 (Bik'idadi'diitį́į́ł = We will understand it) - Onri
+
+## Citation
+
+This repository and its contents are openly available under the Creative Commons Attribution 4.0 International (CC BY 4.0) license. If you use, adapt, or share this material for educational, academic, or professional purposes, please provide appropriate attribution to the original author.
+
+**Primary Author:** Onri Jay Benally
+**Repository:** [OJB-Quantum/Navaho-Linguistics](https://github.com/OJB-Quantum/Navaho-Linguistics)
+
+### American Psychological Association (APA) Format
+Benally, O. J. (2026). *Navaho-Linguistics: Indigenous American language material for quantum engineering topics*. GitHub. https://github.com/OJB-Quantum/Navaho-Linguistics
+
+### Chicago Manual of Style
+Benally, Onri Jay. "Navaho-Linguistics: Indigenous American Language Material for Quantum Engineering Topics." GitHub, 2026. https://github.com/OJB-Quantum/Navaho-Linguistics.
+
+### BibTeX (For LaTeX / Overleaf)
+If you are citing this repository in an academic paper or LaTeX document, please use the following BibTeX entry:
+
+```bibtex
+@misc{benally_navaho_linguistics,
+  author       = {Benally, Onri Jay},
+  title        = {Navaho-Linguistics: Indigenous American Language Material for Quantum Engineering Topics},
+  year         = {2026},
+  publisher    = {GitHub},
+  journal      = {GitHub repository},
+  howpublished = {\url{[https://github.com/OJB-Quantum/Navaho-Linguistics](https://github.com/OJB-Quantum/Navaho-Linguistics)}},
+  note         = {Licensed under CC BY 4.0}
+}
