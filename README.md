@@ -1588,7 +1588,7 @@ Benally, O. J. (2026). *Navaho-Linguistics: Indigenous American language materia
 ### Chicago Manual of Style
 Benally, Onri Jay. "Navaho-Linguistics: Indigenous American Language Material for Quantum Engineering Topics." GitHub, 2026. https://github.com/OJB-Quantum/Navaho-Linguistics.
 
-### BibTeX (For LaTeX / Overleaf)
+### BibTeX (For LaTeX/ Overleaf)
 If you are citing this repository in an academic paper or LaTeX document, please use the following BibTeX entry:
 
 ```bibtex
